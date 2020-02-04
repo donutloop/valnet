@@ -2,6 +2,7 @@ from tensorflow.keras.models import model_from_json
 from valnet.settings import BASE_DIR
 import tensorflow_hub as hub
 import numpy as np
+from core.models import AddressValidationHistory
 
 class Predictor(object):
     def __init__(self):
@@ -17,4 +18,18 @@ class Predictor(object):
 
     def validateAddress(self, address: str):
         values = self.model.predict(np.array([address]))
-        return values[0][0]
+        if not values:
+            Exception("predcitor could not predict value")
+
+        accuracy = values[0][0]
+        valid = False
+        if accuracy >= 0.8:
+            valid = True
+
+        addressValidationHistory = AddressValidationHistory()
+        addressValidationHistory.valid = valid
+        addressValidationHistory.address = address
+        addressValidationHistory.accuracy = accuracy
+        addressValidationHistory.save()
+
+        return valid
