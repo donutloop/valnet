@@ -22,13 +22,14 @@ Valnet is a microservice to validate any kind of address. It's using internally 
 ``` 
 python3 -m venv env 
 source env/bin/activate 
-pip install -r requirements.txt
+pip3 install --upgrade pip
+pip3 install -r requirements.txt
 ```
 
 ## Run locally 
 
 ``` 
 docker compose up 
-python manage.py runserver 
+python3 manage.py runserver 
 ```
 

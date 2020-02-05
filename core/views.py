@@ -16,5 +16,7 @@ class ValidateView(APIView):
         address_serializer = AddressSerializer(data=request.data)
         address_serializer.is_valid(raise_exception=True)
         address = address_serializer.data
-
-        return Response(self.predictor.validateAddress(address.get("address")))
+        data = {
+            "valid": self.predictor.validateAddress(address.get("address"))
+        }
+        return Response(data)

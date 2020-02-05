@@ -5,3 +5,4 @@ tensorflow-hub==0.7.0
 django==3.0.3
 djangorestframework==3.10.3
 psycopg2==2.8.4
+keras-tuner==1.0.1
