@@ -8,6 +8,7 @@ from kerastuner.tuners import RandomSearch
 from tensorflow.keras.layers import Dense, Dropout, Input
 from tensorflow.keras.models import model_from_json
 
+
 print("Version: ", tf.__version__)
 print("Eager mode: ", tf.executing_eagerly())
 print("Hub version: ", hub.__version__)
