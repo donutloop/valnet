@@ -20,10 +20,10 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # See https://docs.djangoproject.com/en/1.11/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = '56gm4+ffyr@tl__9_rl5$d&)n)3g@g3m-d-2_t8sw%_og1r6j@'
+SECRET_KEY = os.environ.get("VALNET_DJANGO_SECRET_KEY", '56gm4+ffyr@tl__9_rl5$d&)n)3g@g3m-d-2_t8sw%_og1r6j@')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = os.environ.get('VALNET_DJANGO_DEBUG', 'True') != 'False'
 
 ALLOWED_HOSTS = []
 
@@ -75,14 +75,19 @@ WSGI_APPLICATION = 'valnet.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/1.11/ref/settings/#databases
 
+DATABASE_USER = os.environ.get('VALNET_DATABASE_USER', 'postgres')
+DATABASE_PASSWORD = os.environ.get('VALNET_DATABASE_PASSWORD', 'postgres')
+DATABASE_HOST = os.environ.get('VALNET_DATABASE_HOST', 'localhost')
+DATABASE_PORT = os.environ.get('VALNET_DATABASE_PORT', '5432')
+
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'valnet',
-        'USER': 'postgres',
-        'PASSWORD': 'postgres',
-        'HOST': 'localhost',
-        'PORT': '5432',
+        'USER': DATABASE_USER,
+        'PASSWORD': DATABASE_USER,
+        'HOST': DATABASE_HOST,
+        'PORT': DATABASE_PORT,
     }
 }
 
