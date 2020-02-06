@@ -33,3 +33,19 @@ docker compose up
 python3 manage.py runserver 
 ```
 
+## Train model & run tensorboard
+
+```bash
+source env/bin/activate 
+python3 train_model.py
+tensorboard --logdir logs/search
+```
+
+## Format of data
+All files for training this model are located in the data directory.
+Each line in such a file contains 2 values separated by a comma.
+
+![data_format](./images/data_format.png)
+
+
+

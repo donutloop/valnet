@@ -7,6 +7,7 @@ import tensorflow_hub as hub
 from kerastuner.tuners import RandomSearch
 from tensorflow.keras.layers import Dense, Dropout, Input
 from tensorflow.keras.models import model_from_json
+import datetime
 
 print("Version: ", tf.__version__)
 print("Eager mode: ", tf.executing_eagerly())
@@ -54,17 +55,18 @@ def build_model(hp):
     return model
 
 
-def search_and_pick_one_model(train_dataset, build_model):
+def search_and_pick_one_model(train_dataset, build_model, tensorboard_cb):
     tuner = RandomSearch(
         build_model,
         objective='accuracy',
         max_trials=5,
         executions_per_trial=3,
-        directory='temp')
+        directory='temp',
+    )
 
     tuner.search_space_summary()
 
-    tuner.search(train_dataset, epochs=10)
+    tuner.search(train_dataset, epochs=10, callbacks=[tensorboard_cb])
 
     models = tuner.get_best_models(num_models=1)
 
@@ -91,10 +93,12 @@ def save_and_verify_model_data(model):
     # verify model data
     print(loaded_model.predict(np.array(["test"])))
 
+log_dir="logs/search/" + datetime.datetime.now().strftime("%Y%m%d-%H%M%S")
+tensorboard_callback = tf.keras.callbacks.TensorBoard(log_dir=log_dir, histogram_freq=1)
 
 train_dataset, test_dataset, predict_dataset = load_datasets(64)
 
-model = search_and_pick_one_model(train_dataset, build_model)
+model = search_and_pick_one_model(train_dataset, build_model, tensorboard_callback)
 
 model.summary()
 
