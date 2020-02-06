@@ -32,4 +32,4 @@ class Predictor(object):
         addressValidationHistory.accuracy = accuracy
         addressValidationHistory.save()
 
-        return valid
+        return (valid, accuracy)

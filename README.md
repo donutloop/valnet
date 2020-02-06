@@ -25,7 +25,7 @@ curl -X POST http://localhost:8000/core/validate -H 'Content-Type: application/j
 Example response payload
 
 ```bash 
-{"valid":true}
+{"valid":true,"accuracy":0.8476698994636536}
 ```
 
 ## Setup locally

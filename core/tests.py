@@ -8,7 +8,6 @@ client = Client()
 
 
 class ValidateAddressTest(TestCase):
-    """ Test module for inserting a new puppy """
 
     def setUp(self):
         self.valid_payload = {

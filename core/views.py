@@ -21,15 +21,16 @@ class ValidateView(APIView):
         address_serializer.is_valid(raise_exception=True)
         address = address_serializer.data
 
-        valid = False
+        values = (False, 0.0)
         try:
-            valid = predictor.validateAddress(address.get("address"))
+            values = predictor.validateAddress(address.get("address"))
         except Exception:
             logger.error("could not validate address, value:{}".format(address), exc_info=True)
             return HttpResponseServerError()
 
         data = {
-            "valid": valid,
+            "valid": values[0],
+            "accuracy": values[1],
         }
 
         return Response(data)
