@@ -6,3 +6,4 @@ django==3.0.3
 djangorestframework==3.10.3
 psycopg2==2.8.4
 keras-tuner==1.0.1
+gunicorn==20.0.4
