@@ -1,0 +1,9 @@
+.git
+temp
+logs
+env
+images
+data
+README.md
+docker-compose.yml
+.gitignore
