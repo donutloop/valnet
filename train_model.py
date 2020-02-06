@@ -5,7 +5,7 @@ import numpy as np
 import tensorflow as tf
 import tensorflow_hub as hub
 from kerastuner.tuners import RandomSearch
-from tensorflow.keras.layers import Dense, Dropout, Input
+from tensorflow.keras.layers import Dense, Dropout, Input, Activation
 from tensorflow.keras.models import model_from_json
 import datetime
 
@@ -30,26 +30,27 @@ def load_datasets(batch_size):
 
 
 def build_model(hp):
+
     # Ref: https://www.tensorflow.org/tutorials/keras/text_classification_with_hub
+    EMBEDDING_URL = "https://tfhub.dev/google/tf2-preview/gnews-swivel-20dim/1"
 
-    embedding = "https://tfhub.dev/google/tf2-preview/gnews-swivel-20dim/1"
-
-    hub_layer = hub.KerasLayer(embedding, input_shape=[],
+    embed = hub.KerasLayer(EMBEDDING_URL, input_shape=[],
                                dtype=tf.string, trainable=True)
 
-    # Step 2: Define the hyper-parameters
+    # Step 1: Define the hyper-parameters
     LR = hp.Choice('learning_rate', [0.001, 0.0005, 0.0001])
     DROPOUT_RATE = hp.Float('dropout_rate', 0.0, 0.5, 5)
     NUM_DIMS = hp.Int('num_dims', 8, 32, 8)
     NUM_LAYERS = hp.Int('num_layers', 1, 3)
 
-    # Step 3: Replace static values with hyper-parameters
+    # Step 2: Replace static values with hyper-parameters
     model = tf.keras.models.Sequential()
     model.add(Input(shape=(), name="input", dtype=tf.string))
-    model.add(hub_layer)
+    model.add(embed)
     for _ in range(NUM_LAYERS):
         model.add(Dense(NUM_DIMS))
         model.add(Dropout(DROPOUT_RATE))
+        model.add(Activation('relu'))
     model.add(Dense(1, activation='sigmoid', name="output"))
     model.compile(loss='binary_crossentropy', optimizer=tf.keras.optimizers.Adam(0.001), metrics=['accuracy'])
     return model
