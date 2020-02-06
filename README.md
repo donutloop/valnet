@@ -68,5 +68,8 @@ sudo docker build -t=valnet .
 sudo docker run --network="host" valnet
 ```
 
+## Build model results 
 
-
+| Test Loss|      Test Accuracy      |
+|----------|:-------------:|
+|  0.18961983575718477 |   0.9250749349594116 |
