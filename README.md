@@ -1,6 +1,15 @@
 # valnet
 Valnet is a microservice to validate any kind of address. It's using internally a neural network with word embedding to validate a address and the service itself is exposed by a django rest api.
 
+## Neural arch & weights 
+
+this architecture and these weights are automatically constructed by keras tuner. 
+if the train process get's triggered then it will select out of certain hyper parameters and layers a new combination for the final architecture. 
+Basically each time get's trained it has a different set of hyper parameters and layers 
+
+![arch](./images/model.png)
+![arch](./images/weights.png)
+
 ## Backend requirements
 
 * [tensorflow](https://www.tensorflow.org/) - An open source machine learning framework for everyone
@@ -8,6 +17,7 @@ Valnet is a microservice to validate any kind of address. It's using internally 
 * [docker-compose](https://docs.docker.com/compose/) - Compose is a tool for defining and running multi-container Docker applications. 
 * [python](https://www.python.org/) - Python is a programming language that lets you work quickly and integrate systems more effectively.
 * [tensorflow keras](https://www.tensorflow.org/guide/keras) - Keras is a high-level API to build and train deep learning models. It's used for fast prototyping, advanced research, and production
+* [Netron](https://github.com/lutzroeder/netron) - Netron is a viewer for neural network, deep learning and machine learning models.
 
 ### Versions requirements
 
