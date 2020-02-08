@@ -54,7 +54,7 @@ def build_model(hp):
     model.add(Input(shape=(), name="input", dtype=tf.string))
     model.add(embed)
     model.add(Reshape((1, 20)))
-    model.add(Bidirectional(LSTM(64)))
+    model.add(Bidirectional(LSTM(128)))
     for _ in range(NUM_LAYERS):
         model.add(Dense(NUM_DIMS))
         model.add(Dropout(DROPOUT_RATE))
