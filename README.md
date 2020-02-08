@@ -82,6 +82,7 @@ sudo docker run --network="host" valnet
 
 ## Build model results 
 
-| Test Loss|      Test Accuracy      |
-|----------|:-------------:|
-|  0.18961983575718477 |   0.9250749349594116 |
+| Test Loss|      Test Accuracy      | version |
+|----------|:-------------:|:-------------:|
+|  0.18961983575718477 |   0.9250749349594116 | 0.1 (embedding + dense layer)|
+|  0.18565583880990744 |   0.9070929288864136 | 0.2 (embedding + lstm + dense layer) |
