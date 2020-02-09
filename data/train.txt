@@ -5293,7 +5293,7 @@
 0,Some of these assurances are well recognized certification schemes like the EU - US Privacy Shield for the protection of Personal Data transferred from within the EU to the United States; or
 0,California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of Personal Data to third parties for their direct marketing purposes. To make such a request, please send an email to privacy@applicaster.com. Please note that we are only required to respond to one request per customer each year.
 1,10100 Santa Monica Blvd Los Angeles, CA 90067 USA
-1,Miami
+0,Miami
 0,When using our website, you may be directed to other websites for such activities as surveys, to make payment in currency other than U.S. dollars, or for job applications. These websites may use their own cookies. We do not have control over the placement of cookies by other websites you visit, even if you are directed to them from our website.
 0,: UK is a country that under the GDPR the transfers are not restricted, therefore, no additional mechanisms are required.
 0,Access from US is covered by the Privacy Shield Certification:
@@ -9371,3 +9371,142 @@
 1,1300 Montgomery Highway, Vestavia Hills AL 35216
 1,4538 Us Hwy 231, Wetumpka AL 36092
 1,2575 Us Hwy 43, Winfield AL 3559
+1,71 Broadwick Street London, W1F 9QY United Kingdom
+1,21405 – 56th Avenue Langley, BC V2Y 2N1
+1,L.A. Press Club – Investigative Reporting
+1,Building SW01-1170 3700 Willingdon Avenue Burnaby, British Columbia Canada, V5G 3H2
+1,Postal Address: Argyle House, 3 Lady Lawson Street, Edinburgh EH3 9DR..
+1,Lunedì-venerdì 8-18 EET
+1,Telegraph Media Group 111 Buckingham Palace Road London SW1W 0DT Registered in England No. 451593. VAT No 839586469
+1,2nd Place:  Patricia Nazario, “Questionable Pricing Practices at L.A. Dental Clinic”
+0,The jury has recommended the death penalty for gang member Pedro Espinoza for shooting and killing Los Angeles High School football player Jamiel Shaw Jr.
+1,F‑Secure Corporation Tammasaarenkatu 7 PL 24 00181 Helsinki Finnland
+1,1648 8th Ave. | Huntington, WV 25703 | 304-399-0210
+1,205 Hudson Street, 7th Fl. New York, NY
+0,DOJ sues North Carolina sheriff over Latino discrimination accusations - TPM The federal Justice Department has sued North Carolina's Alamance County Sheriff Terry S. Johnson, alleging that his office discriminates against Latinos.
+1,555 Seymour Street Vancouver, BC V6B 3H6
+1,F‑Secure Corporation Unternehmens-ID 0705579-2 Tammasaarenkatu 7 PL 24, 00180 Helsinki, Finnland Tel. +358 9 2520 0700 Fax +358 9 2520 5001
+0,El Salvador
+1,268 Ly Thuong Kiet, Ward 14, Tan Binh Dist, HCM City, Viet Nam
+1,265 W. Esplanade, North Vancouver, BC V7M 1A5
+1,3700 Willingdon Ave.
+1,CrossBrowserTesting.com, LLC 3059 Forest Hill Irene Suite 103 Germantown, TN 38138
+1,(LA County's Mental Health Courthouse, 1150 N. San Fernando Road, Los Angeles. Credit: Jon Regardie)
+1,150 9 Avenue SW, Suite 2300 Calgary, Alberta T2P 0H9
+0,Dayton, OH
+1,690 Bibo Road Block 2 Suite 204, Zhangjiang Shanghai, China
+1,Boundary Devices 7 Orchard Road, Suite 102, Lake Forest, California 92630
+1,4470 Cox Road, Suite 250 Glen Allen, VA 23060 USA
+1,RStudio, PBC, 250 Northern Ave, Boston, MA 02210, USA
+1,116th Menachem Begin Rd., Tel-Aviv, Israel
+1,Bergstrom, T. C., Courant, P. N., McAfee, R. P., & Williams, M. A. (2014). . Proceedings of the National Academy of Sciences of the United States of America, 111(26): 9425-9430. doi: 10.1073/pnas.1403006111
+1,Quinn Benders Gifts Assistant 5-25 Cameron Library University of Alberta Edmonton, AB T6G 2J8 Email: Tel: 780-492-7057
+0,Fastly, Inc.
+1,10445 – 245 Street Maple Ridge, BC V2W 1G5
+1,303 Spring Street New York, NY 10013
+1,Capital Tower 168 Robinson Road Level 12-01 Singapore 068912
+1,7 Orchard Road, Suite 102, Lake Forest, California 92630
+0,Kathy Kinloch, BSc, MA
+1,Contact Thycotic. 1101 17th Street NW Suite 1102 Washington DC 20036
+1,Level 12 1 Pacific Highway North Sydney NSW 2060
+1,P.O. Box 262 Yagoona NSW 2199 Australia
+1,Downtown Campus and Headquarters 151 W. Ohio St. Suite 170 Indianapolis, IN 46204
+1,T9C 1T4  :780.632.8356  :780.632.8379
+1,PO Box 119, Beaconsfield VIC 3807, Australia
+0,São Paulo
+1,690 Bibo Road Block 2 Suite 204, Zhangjiang Shanghai
+1,endios GmbH Steckelhörn 11 20457 Hamburg
+1,1150 Connecticut Ave, NW, Suite 710, Washington, DC 20036
+0,Candidates must be U.S. citizens or non-citizen nationals, or individuals lawfully admitted for permanent residence, and who have earned a clinical or research doctorate, including, but not limited to: Ph.D., Sc.D., Dr.P.H., M.D., D.O., D.C., N.D., D.D.S., D.M.D., D.N.S., D.V.M., O.D., D.P.M., Eng.D., D.P.T., O.T.D., Pharm.D., D.S.W., Psy.D., or equivalent doctoral degree, at the time of appointment.
+1,11 N. Ellsworth Avenue Suite 103 San Mateo CA 94401 United States of America
+1,Amplience Ltd, Sixth Floor, Tower House, 10 Southampton Street, WC2E 7HA, London, United Kingdom
+1,602, 6F, Tak Woo House , 17 D'Aguilar Street, Central, Hong Kong.
+1,3301 Buckeye Road, Suite 209 Atlanta, GA 30341
+1,Main Mountwest Campus
+1,32 Hardenbergstraße,
+1,Unit 3.19, Fred Roeskestraat 115 1076 EE Amsterdam, Netherlands
+0,ADM Bobby R. Inman, USN
+1,400 North 1st Ave, Suite 236 Minneapolis, MN
+1,110 Fifth Avenue 7th Floor New York, NY 10011
+0,Jose Renteria has pleaded not-guilty to murder charges for allegedly providing the weapon used in L.A. County sheriff's deputy Juan Escalante's death.
+1,1099 Stewart St, Suite 810
+0,T9C 1T4
+1,Friedrich-Ebert-Straße 8 14467 Potsdam Germany
+1,Homestead Place Cnr 12th Ave & Homestead Lane Rivonia Gauteng 2128 South Africa
+1,70 N 2nd Street San Jose, CA 95113
+1,Tulsa County, Oklahoma
+1,The Los Angeles Dodgers' Yasiel Puig was arrested Saturday morning for reckless driving. Puig was allegedly driving 110 miles per hour down "Alligator Alley."
+1,International Credential Evaluation Service (ICES) 3700 Willingdon Avenue Burnaby, British Columbia CANADA V5G 3H2   International Credential Evaluation Service (ICES) c/o ECA 3700 Willingdon Avenue Burnaby, British Columbia CANADA V5G 3H2      604-435-7033 1-866-434-9197      blank.shtml
+1,Belpstrasse 37 CH-3007 Bern
+1,Float, LLC Attn: Privacy Officer 620 West Jackson Street Morton, Illinois 61550 Phone: (309) 263-2492 Toll Free: (877) 903-5628
+1,571 Somerset Street West
+1,Office of the Regents Smithsonian Institution 1000 Jefferson Drive SW #113 Washington, D.C. 20560
+0,Alabama
+1,Building SW1, First Floor 3700 Willingdon Avenue Burnaby, BC, V5G 3H2
+1,27 floor, Trade Tower, 159-1 Samsung Dong, Gangnam-gu, Seoul
+0,George Russell Weller, who three years ago drove his car through the Santa Monica Farmer's Market, was convicted today on ten counts of vehicular manslaughter with gross negligence.
+1,Calle Electrónica 19, 8D, 08915, Badalona Barcelona
+1,4200 Ohio River Road | Huntington, WV 25702 | 304-697-5616
+1,Marine Campus, North Vancouver
+1,An der Wachsfabrik 13 DE-50996 Köln Tel: +49 (0)2236 3826-0 Fax: +49 (0)2236 3826-20 Registergericht: Amtsgericht Köln, HRA 32185 USt-IdNr.: DE259882372 Vertreten durch: Alkacon Verwaltungs GmbH Geschäftsführer: Alexander Kandzior Registergericht: Amtsgericht Köln, HRB 88218
+1,30 Ha'Arbaa Street Floor 11 Tel Aviv, 6473926 Israel
+1,158 Cecil Street #04-01 Singapore 069545
+0,Lunedì-venerdì 9-19
+1,6630 West Arby Ave, Suite 112
+1,24789 Dewdney Trunk Rd. Maple Ridge, BC V4R 1X2
+1,130 King St W #1800 Toronto, ON M5X 1K6 Canada
+1,23752 – 52 Avenue Langley, BC V2Z 2P3
+1,30 Crown Place London EC2A 4EB United Kingdom
+1,A jury found former South Gate Treasurer Albert Robles guilty on 30 counts of federal corruption charges including bribery, money laundering and wire fraud.
+1,PO Box 78266 San Francisco, CA 94107
+1,Commission on Accreditation of Allied Health Education Programs 25400 U.S. Highway 19 North, Suite 158 Clearwater, FL 33763 727-210-2350
+1,Level 10, 191 Clarence St, Sydney NSW 2000 Australia
+1,Building SW1 – First Floor 3700 Willingdon Avenue Burnaby BC V5G 3H2
+1,104 West 40 Street Suite 1800 New York, NY 10018
+1,RM 2912, 29/F Shanghai Tower No. 501 Middle Yincheng Road Pudong Shanghai, 200120
+1,151 W. Ohio St. Suite 170, Indianapolis, IN 46204 12175 Visionary Way, Fishers, IN 46038
+1,KPCC and Los Angeles Times to Co-Host Debate with Candidates for L.A. County District Attorney | 89.3 KPCC
+1,Telegraph Media Group 111 Buckingham Palace Road London SW1W 0DT
+1,757 3 Ave., Suite 1502
+1,2405 Woodlake Drive Okemos, Michigan 48864-5910 United States
+1,T5J 0G2  :780.453.9100
+1,Washington, D.C. Area
+1,311 W. Superior St., Suite 504 Chicago, IL 60654, USA
+1,20905 Wicklund Avenue Maple Ridge, B.C. V2X 8E8
+0,Our Data Centers are hosted by: OVH Roubaix Address: 2 rue Kellermann, 59100 Roubaix, France Phone: +33 (0)9 72 10 10 07 OVH Strasbourg Address: 9 rue du Bassin de l’Industrie, 67000 Strasbourg, France OVH Gravelines Address: Route de la Ferme Masson, 59820 Gravelines, France OVH Beauharnois Address: 50 Rue de l'Aluminerie, Beauharnois, QC J6N 0C2, Canada
+1,TriOptima AB. Registered Address: Mäster Samuelsgatan 17, 111 44 Stockholm, Sweden. Org no.: 556584-9758.
+1,#101, Block 2, 690 Bibo Road, Zhangjiang High-Tech Park, Pudong, Shanghai, China 201203
+0,Lemelson Center
+1,68 3rd St, Brooklyn NY, 11231
+1,Ensody GmbH Mettlerkampsweg 40 20535 Hamburg Germany
+1,Level 6, Champion Tower 3 Garden Road Central, Hong Kong +852 3978 5188
+1,Institut Universitaire de Technologie de Rodez 50, avenue de Bordeaux - 12000 Rodez - France Tél. 05 65 77 10 80
+1,Wrike, Inc. Attention: Legal and Compliance 70 North Second Street San Jose, CA 95113 +1 877-779-7453 or +1 650-318-3551
+1,ProPublica 155 Avenue of the Americas 13th Floor New York, NY 10013
+1,Amplience Inc, 234 Fifth Avenue, New York, NY 10001, United States
+1,705 Rutland Road North Kelowna, BC V1X 3B6
+1,Platz der Luftbrücke 4-6 12101 Berlin
+1,4551 Wayburne Drive Building SE40, Room 230, Burnaby Campus Burnaby, BC
+1,Av. Paulista 2028, CJ 101 01310-200 São Paulo, SP, Brazil
+1,Vendredi 31 janvier, les étudiants de première année ont visité l'entreprise de leur parrain : Coloplast Manufacturing à Sarlat
+1,Wrike, Inc. Attention: Legal and Compliance 1 Grand Parade Ranelagh, Dublin, D06 R9X8 Ireland
+1,MakinaRocks, Inc. 310 De Guigne Dr, Sunnyvale, CA 94085, United States
+1,Level 19, 180 Lonsdale Street Melbourne VIC 3000
+1,: 130 Sutter Street, 4th Floor, San Francisco, CA 94104
+0,T6G 2E9
+0,blank.shtml
+1,3700 Willingdon Avenue Burnaby, British Columbia V5G 3H2
+1,Cybersecurity Classroom (Pearson Vue Testing Center) 151 W. Ohio St. Suite 170 Indianapolis, IN 46204
+1,Lindengasse 56 1070 Wien
+1,Jurastrasse 27/1 DE-72072 Tübingen
+1,Thomas Köhler TeamSec GmbH Batschkastraße 18 67117 Limburgerhof Germany
+1,Juicy Media 59 Charterhouse Street Farringdon London EC1M 6HA
+1,Av. Prof. Francisco Morato, 2.068 – Butantã / São Paulo
+1,8301 Lakeview Parkway, Suite 111-312 Rowlett, TX 75088 (214) 703-8445 FAX (214) 703-8992
+1,Creative Commons Corporation P. O. Box 741107 Los Angeles, CA 90074-1107
+1,privacy@cultureamp.com Legal Department – Level 2, 29 Stewart Street, Richmond VIC 3121, Australia
+1,yWorks GmbH Vor dem Kreuzberg 28 72070 Tübingen Germany
+1,AppsFlyer Attn: Legal Dept. (Leor Hurwitz, General Counsel) 100 1st Street, 25th floor San Francisco, California 94105
+1,Pruneyard Towers 1999 South Bascom Ave Suite 1000 Campbell, CA 95008
+1,Tammasaarenkatu 7 P.O. Box 24 00181 Helsinki Finland
+1,Financial Services British Columbia Institute of Technology 3700 Willingdon Ave Burnaby, BC V5G 3H2
