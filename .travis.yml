@@ -1,0 +1,25 @@
+language: python
+
+sudo: required
+
+python:
+  - "3.7.6"
+
+env:
+  global:
+    - DB_NAME=valnet
+    - DB_USER=postgres
+    - DB_PASS=postgres
+    - DB_HOST=localhost
+    - DB_PORT=5432
+
+services:
+  - postgresql
+
+install:
+  - pip install -r requirements.txt
+
+before_script:
+  - psql -c 'create database valnet;' -U postgres
+
+script: python manage.py test core.tests.ValidateAddressTest
