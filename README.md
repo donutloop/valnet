@@ -82,9 +82,11 @@ sudo docker run --network="host" valnet
 
 ## Build model results 
 
-| Test Loss|      Test Accuracy      |
-|----------|:-------------:|
-|  0.18961983575718477 |   0.9250749349594116 |
+| Test Loss|      Test Accuracy      | version |
+|----------|:-------------:|:-------------:|
+|  0.18961983575718477 |   0.9250749349594116 | 0.1 (embedding + dense layer)|
+|  0.18565583880990744 |   0.9070929288864136 | 0.2 (embedding + lstm + dense layer) |
+|  0.2583603085233615, |   0.9096692204475403 | 0.2 (embedding + lstm + dense layer + new dataset) |
 
 
 ## Troubleshooting
@@ -95,5 +97,3 @@ sudo docker run --network="host" valnet
 export PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION=cpp
 sudo pip install --upgrade --force-reinstall protobuf
 ```
-
-

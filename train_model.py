@@ -5,7 +5,7 @@ import numpy as np
 import tensorflow as tf
 import tensorflow_hub as hub
 from kerastuner.tuners import RandomSearch
-from tensorflow.keras.layers import Dense, Dropout, Input, Activation
+from tensorflow.keras.layers import Dense, Dropout, Input, Activation, Bidirectional, LSTM, Reshape
 from tensorflow.keras.models import model_from_json
 import datetime
 
@@ -49,11 +49,12 @@ def build_model(hp):
     DROPOUT_RATE = hp.Float('dropout_rate', 0.0, 0.5, 5)
     NUM_DIMS = hp.Int('num_dims', 8, 32, 8)
     NUM_LAYERS = hp.Int('num_layers', 1, 3)
-
     # Step 2: Replace static values with hyper-parameters
     model = tf.keras.models.Sequential()
     model.add(Input(shape=(), name="input", dtype=tf.string))
     model.add(embed)
+    model.add(Reshape((1, 20)))
+    model.add(Bidirectional(LSTM(128)))
     for _ in range(NUM_LAYERS):
         model.add(Dense(NUM_DIMS))
         model.add(Dropout(DROPOUT_RATE))
