@@ -88,3 +88,12 @@ sudo docker run --network="host" valnet
 |  0.18565583880990744 |   0.9070929288864136 | 0.2 (embedding + lstm + dense layer) |
 |  0.2583603085233615, |   0.9096692204475403 | 0.2 (embedding + lstm + dense layer + new dataset) |
 
+
+## Troubleshooting
+
+* ImportError: /usr/lib/python3/dist-packages/google/protobuf/pyext/_message.cpython-37m-x86_64-linux-gnu.so: undefined symbol: _ZN6google8protobuf8internal24proto3_preserve_unknown_E
+    
+```bash
+export PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION=cpp
+sudo pip install --upgrade --force-reinstall protobuf
+```
