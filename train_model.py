@@ -4,7 +4,8 @@ import functools
 import numpy as np
 import tensorflow as tf
 import tensorflow_hub as hub
-from kerastuner.tuners import RandomSearch
+from kerastuner.tuners import Hyperband
+from kerastuner import HyperModel
 from tensorflow.keras.layers import Dense, Dropout, Input, Activation, Bidirectional, LSTM, Reshape
 from tensorflow.keras.models import model_from_json
 import datetime
@@ -40,42 +41,46 @@ def load_datasets(batch_size):
     return train_dataset, test_dataset, predict_dataset
 
 
-def build_model(hp):
-    embed = hub.KerasLayer(EMBEDDING_URL, input_shape=[],
-                           dtype=tf.string, trainable=True)
+class MyHyperValnetModel(HyperModel):
 
-    # Step 1: Define the hyper-parameters
-    LR = hp.Choice('learning_rate', [0.001, 0.0005, 0.0001])
-    DROPOUT_RATE = hp.Float('dropout_rate', 0.0, 0.5, 5)
-    NUM_DIMS = hp.Int('num_dims', 8, 32, 8)
-    NUM_LAYERS = hp.Int('num_layers', 1, 3)
-    # Step 2: Replace static values with hyper-parameters
-    model = tf.keras.models.Sequential()
-    model.add(Input(shape=(), name="input", dtype=tf.string))
-    model.add(embed)
-    model.add(Reshape((1, 20)))
-    model.add(Bidirectional(LSTM(128)))
-    for _ in range(NUM_LAYERS):
-        model.add(Dense(NUM_DIMS))
-        model.add(Dropout(DROPOUT_RATE))
-        model.add(Activation('relu'))
-    model.add(Dense(1, activation='sigmoid', name="output"))
-    model.compile(loss='binary_crossentropy', optimizer=tf.keras.optimizers.Adam(0.001), metrics=['accuracy'])
-    return model
+    def build(self, hp):
+        embed = hub.KerasLayer(EMBEDDING_URL, input_shape=[],
+                               dtype=tf.string, trainable=True)
+
+        # Step 1: Define the hyper-parameters
+        LR = hp.Choice('learning_rate', [0.001, 0.0005, 0.0001])
+        DROPOUT_RATE = hp.Float('dropout_rate', 0.0, 0.5, 5)
+        NUM_DIMS = hp.Int('num_dims', 8, 32, 8)
+        NUM_LAYERS = hp.Int('num_layers', 1, 3)
+        # Step 2: Replace static values with hyper-parameters
+        model = tf.keras.models.Sequential()
+        model.add(Input(shape=(), name="input", dtype=tf.string))
+        model.add(embed)
+        model.add(Reshape((1, 20)))
+        model.add(Bidirectional(LSTM(128)))
+        for _ in range(NUM_LAYERS):
+            model.add(Dense(NUM_DIMS))
+            model.add(Dropout(DROPOUT_RATE))
+            model.add(Activation('relu'))
+        model.add(Dense(1, activation='sigmoid', name="output"))
+        model.compile(loss='binary_crossentropy', optimizer=tf.keras.optimizers.Adam(0.001), metrics=['accuracy'])
+
+        return model
 
 
-def search_and_pick_one_model(train_dataset, build_model, tensorboard_cb):
-    tuner = RandomSearch(
-        build_model,
+def search_and_pick_one_model(train_dataset, tensorboard_cb):
+    tuner = Hyperband(
+        MyHyperValnetModel(),
         objective='accuracy',
-        max_trials=5,
-        executions_per_trial=3,
+        max_epochs=EPOCHS,
+        hyperband_iterations=2,
         directory=TEMP_DIR_PATH,
+        project_name='valnet'
     )
 
     tuner.search_space_summary()
 
-    tuner.search(train_dataset, epochs=EPOCHS, callbacks=[tensorboard_cb])
+    tuner.search(train_dataset, callbacks=[tensorboard_cb])
 
     models = tuner.get_best_models(num_models=1)
 
@@ -108,7 +113,7 @@ tensorboard_callback = tf.keras.callbacks.TensorBoard(log_dir=log_dir, histogram
 
 train_dataset, test_dataset, predict_dataset = load_datasets(64)
 
-model = search_and_pick_one_model(train_dataset, build_model, tensorboard_callback)
+model = search_and_pick_one_model(train_dataset, tensorboard_callback)
 
 model.summary()
 
