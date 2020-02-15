@@ -87,7 +87,7 @@ sudo docker run --network="host" valnet
 |  0.18961983575718477 |   0.9250749349594116 | 0.1 (embedding + dense layer)|
 |  0.18565583880990744 |   0.9070929288864136 | 0.2 (embedding + lstm + dense layer + RandomSearch tuner) |
 |  0.2583603085233615, |   0.9096692204475403 | 0.2 (embedding + lstm + dense layer + new dataset + RandomSearch tuner) |
-|  0.25556125377233213, |   0.9160305261611938 | 0.3 (embedding + lstm + dense layer + Hyperband tuner) |
+|  0.29285761599357313, |   0.9096692204475403 | 0.3 (embedding + lstm + dense layer + Hyperband tuner) |
 
 ## Troubleshooting
 

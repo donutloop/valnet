@@ -49,8 +49,8 @@ class MyHyperValnetModel(HyperModel):
 
         # Step 1: Define the hyper-parameters
         LR = hp.Choice('learning_rate', [0.001, 0.0005, 0.0001])
-        DROPOUT_RATE = hp.Float('dropout_rate', 0.0, 0.5, 5)
-        NUM_DIMS = hp.Int('num_dims', 8, 32, 8)
+        DROPOUT_RATE = hp.Float('dropout_rate', 0.0, 0.4)
+        NUM_DIMS = hp.Int('num_dims', 8, 256, 8)
         NUM_LAYERS = hp.Int('num_layers', 1, 3)
         # Step 2: Replace static values with hyper-parameters
         model = tf.keras.models.Sequential()
@@ -63,7 +63,7 @@ class MyHyperValnetModel(HyperModel):
             model.add(Dropout(DROPOUT_RATE))
             model.add(Activation('relu'))
         model.add(Dense(1, activation='sigmoid', name="output"))
-        model.compile(loss='binary_crossentropy', optimizer=tf.keras.optimizers.Adam(0.001), metrics=['accuracy'])
+        model.compile(loss='binary_crossentropy', optimizer=tf.keras.optimizers.Adam(LR), metrics=['accuracy'])
 
         return model
 
