@@ -41,7 +41,7 @@ def load_datasets(batch_size):
     return train_dataset, test_dataset, predict_dataset
 
 
-class MyHyperValnetModel(HyperModel):
+class HyperValnetModel(HyperModel):
 
     def build(self, hp):
         embed = hub.KerasLayer(EMBEDDING_URL, input_shape=[],
@@ -70,7 +70,7 @@ class MyHyperValnetModel(HyperModel):
 
 def search_and_pick_one_model(train_dataset, tensorboard_cb):
     tuner = Hyperband(
-        MyHyperValnetModel(),
+        HyperValnetModel(),
         objective='accuracy',
         max_epochs=EPOCHS,
         hyperband_iterations=2,
