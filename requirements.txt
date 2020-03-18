@@ -1,6 +1,6 @@
 tensorflow==2.0.1
 setuptools==41.0.0
-numpy==1.18.1
+numpy==1.18.2
 tensorflow-hub==0.7.0
 django==3.0.3
 djangorestframework==3.10.3
