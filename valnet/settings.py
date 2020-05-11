@@ -83,12 +83,15 @@ DATABASE_PORT = os.environ.get('VALNET_DATABASE_PORT', '5432')
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'valnet',
         'USER': DATABASE_USER,
-        'PASSWORD': DATABASE_USER,
+        'PASSWORD': DATABASE_PASSWORD,
         'HOST': DATABASE_HOST,
         'PORT': DATABASE_PORT,
+        'OPTIONS': {
+            'connect_timeout': 600,
+        }
     }
 }
 
