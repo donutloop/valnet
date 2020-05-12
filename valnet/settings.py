@@ -26,7 +26,7 @@ SECRET_KEY = os.environ.get("VALNET_DJANGO_SECRET_KEY", '56gm4+ffyr@tl__9_rl5$d&
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = os.environ.get('VALNET_DJANGO_DEBUG', 'True') != 'False'
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = os.environ.get('ALLOWED_HOSTS', 'localhost').split(',')
 
 
 # Application definition
