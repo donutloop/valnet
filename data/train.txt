@@ -9957,3 +9957,99 @@
 1,Gary Meyer,  Pesticide & Fertilizer Program Manager Pesticide & Fertilizer Program Kansas Department of Agriculture 1320 Research Park Drive Manhattan, KS 66502 Phone: (785) 564-6488 / Fax: (785) 564-6779
 1,47 Durham Street, London, SE11 5JA, UK
 0,2. Shetland Islands
+0,Single-Digit Millisecond Latency
+0,Build blazing fast cloud applications by serving queries directly from the DB.
+0,Massive Scale
+0,Achieve millions of transactions per second and store multiple TB’s of data per node.
+0,svg
+0,Geo-Distribution
+0,Deploy across regions and clouds with synchronous or multi-master replication.
+0,Driven by developers
+0,The fastest growing distributed SQL database project.
+0,25+
+0,4K+
+0,1.1K+
+0,Adopted by enterprises
+0,Powers business-critical apps at scale.
+0,27B+
+0,10B+
+0,3B+
+0,1B+
+0,Develop, deploy and operationalize modern applications faster than ever before with YugabyteDB.
+0,Gain Developer Agility
+0,Leverage full power of PostgreSQL-compatible SQL and distributed ACID transactions.
+0,Operate Resilient Services
+0,Ensure continuous availability even when underlying compute, storage or network fails.
+0,Scale On-Demand
+0,Add and remove nodes at will. Say no to over-provisioned clusters forever.
+0,Lower User Latency
+0,Wow users and drive business growth with geo-distribution and global consistency.
+0,Exploit Multi-Cloud
+0,Manage your data alongside your Kubernetes applications across public and private clouds.
+0,Accelerate with Open Source
+0,No hidden traps to slow you down. Fully open source even for enterprise features.
+0,Success Story
+0,"YugabyteDB helped Narvar avoid cloud lock-in, stay GDPR compliant and save money in the process. Our systems can now keep pace with our rapidly growing business."
+0,CTO, Narvar
+0,"With YugabyteDB and Yugabyte Platform, we are able to scale rapidly. Our partnership means onboarding new customers and maintaining GDPR compliance becomes a competitive advantage."
+0,Co-Founder & Head of Eng, Plume
+0,"YugabyteDB gave us a highly available and transactional database that is capable of near-infinite scaling with low latencies. It has enabled our developers to roll-out new features a lot quicker."
+0,CTO & Co-Founder, Turvo
+0,Home | YugabyteDB
+0,The Leading High-Performance Distributed SQL Database
+0,Open Source DNA
+0,For Large Organizations
+0,Built for Cloud Native Architectures
+0,Take a test drive
+0,Get started in any cloud, container or data center
+0,Open source, cloud native relational DB for powering global, internet-scale apps.
+0,Leadership
+0,Board
+0,Bill Cook
+0,CEO
+0,Kannan Muthukkaruppan
+0,Co-Founder & President, Product Development
+0,Karthik Ranganathan
+0,Co-Founder & CTO
+0,Mikhail Bautin
+0,Co-Founder & Software Architect
+0,Sid Choudhury
+0,SVP, Product
+0,Jimmy Guerrero
+0,VP, Marketing & Community
+0,Prasad Radhakrishnan
+0,VP, Data Engineering
+0,Ravi Mhatre
+0,Lightspeed Venture Partners
+0,Deepak Jeevankumar
+0,Dell Tech Capital
+0,Bhaskar Ghosh
+0,8VC
+0,Scott Yara
+0,Co-Founder, Greenplum
+0,More About Us
+0,Careers
+0,News
+0,Blog
+0,Contact Us
+0,About | YugabyteDB
+0,Our Story
+0,Yugabyte is headquartered in Sunnyvale, CA, and backed by , , , and .
+0,Thanks for your interest in YugabyteDB. How can we help you?
+0,Request a FREE demo and technical consultation
+1,771 Vaqueros Ave Sunnyvale, CA 94085
+0,Learn more
+0,Datasheets
+0,Demo
+0,Documentation
+0,Compare Editions
+0,Compare Databases
+0,Pricing
+0,Contact Us | YugabyteDB
+0,Drop us a line!
+0,Contact Sales | YugabyteDB
+0,Contact Sales
+0,Got a question about pricing, services or want to schedule a demo?
+0,Interests *
+0,Privacy Policy
+0,Privacy Policy | YugabyteDB
