@@ -10244,3 +10244,419 @@
 0,You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 0,If you have any questions about this Privacy Policy, please contact us:
 0,If you have any questions regarding this privacy policy or the ways in which we collect, use and store your personal information, please email, at help@witdelivers, or call us, at 720-463-1452.
+0,container
+0,brand  menu-container  mobile-container
+0,lightbox-cmp   end mobile-nav  report-text-cmp  web-report
+0,end.video-bg
+0,video added here with js
+0,svg
+0,fcw-info
+0,<iframe src="https://www.youtube.com/embed/Mg_e_mIhcjY?enablejsapi=1&version=3&playerapiid=ytplayer" style="position:absolute;width:100%;height:100%;left:0" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+0,Get it answered in a . No catch, no pressure.
+0,Got a burning question?
+0,*We respect your privacy. Your email is safe with us.
+0,*We respect your privacy. We’ll never send you spam. For more information check out our Privacy Policy.
+0,<div class="animation-holder">  <div class="animated infinite bounce"><a href="#better"><img src=" /images/carot.png" width="64" height="35"/></a></div>  </div><!-- end animation-holder  testimonials  promo  service-columns
+0,testimonial-cmp
+0,title-cmp  image-cmp"  conversion-cmp
+0,initial-state  hover-state
+0,initial-wrap
+0,Organic
+0,feat-subservice  hs-button
+0,check for rows (sub repeater)
+0,Paid
+0,Web Development
+0,row  end copyright-cmp
+0,End of .witcall  social-cmp
+0,Start of .witcall
+0,Let's Talk
+0,col-md-6
+0,END ROW
+0,Wit Digital | Plumbing, HVAC, & Local Marketing
+0,THANK YOU
+0,HOME SERVICE & ESSENTIAL WORKERS
+0,Better is possible.
+0,I have nothing but praise for the SEO and Internet Marketing teams at Wit Digital. because Wit Digital truly understands how today’s search algorithms and they helped us execute an integrated marketing strategy. Their web design skills and social media experience also transformed..."
+0,Stephen and his team at Wit Digital are brilliant and the solutions he offered I’ve used other marketing companies and got lost in their technical jargon. He explained things to me in a clear and precise manner and gave us precise timelines for scope of work.
+0,My SEO and PPC has never been so good. Their customer service is second to none.
+0,, keep you updated every step of the way, the response time on any concerns and questions is and they even offer their own personal ideas and suggestions to help improve your overall efficiency. They are by far one of the best, most professional partners we have..."
+0,Privacy Policy
+0,Terms & Conditions
+0,© 2020 Wit Digital
+0,end mobile-nav  report-text-cmp  web-report
+0,HEADER SPECIFIC TO PAGE  <div class="page-header-mmm" style="background-image: url(/wp-content/themes/witdigital2018/images/page-header-back.jpg);background-size: contain;">   end.interior-content
+0,end.container
+0,end.section-title
+0,end container
+0,end row
+0,end col-md-8  end col-md-4
+0,end the-content  team-port-serv-links
+0,end.sidebar
+0,<div class="privacy">*We respect your privacy. We’ll never send you spam. For more information check out our Privacy Policy.</div>
+0,<div class="fcwt-title">Got a burning question? </div>  Request a . No catch, no pressure.
+0,About Wit Digital | Digital Marketing
+0,About Us
+0,OUR SERVICES
+0,We are a results-obsessed digital marketing agency, specializing in home service businesses. Our strategy is built on the foundation of driving top results so your home service business sees true, massive growth.
+0,Our tribe of innovators and creators thrive in the trenches, solving problems with cutting-edge solutions. We are equal parts passion and fearless action. When you hire us, you are hiring the best. With Wit, better is possible.
+0,end the-content
+0,Careers | SEO Jobs in Denver | Denver SEO Jobs
+0,Careers
+0,Are You Ready to Kickstart Your Career?
+0,Denver SEO Jobs
+0,SEO Specialist
+0,If so, you’ve come to the right place! Wit Digital is growing, and we’re looking to build our team with dedicated and talented people who are ready and willing to help us meet our goals and uphold our core values:
+0,Does this sound like something you’d like to be a part of? Keep reading!
+0,Wit Digital is always looking for dedicated, energetic and sharp Account Specialists.
+0,The ideal applicant should have…
+0,Not quite sure if you quite fit our “ideal” applicant? Feel free to apply anyway! We have an awesome team, and we are more than willing to train the right candidate. If you have a slight foundation in Internet marketing and a desire to kick ass in everything you do, you’re perfect!
+0,We know that the Internet can be an impersonal workplace, and we strive to provide a personal touch and develop relationships with our clients. Communication and culture are incredibly important to us. We have a close-knit , and we’re always looking for new team members who are fun and easy to get along with.
+0,If you think Wit is right for you, check out our current open positions and apply!
+0,end mobile-nav  end content-wrapper
+0,<h3 style="text-align: center;"><span style="font-family: tahoma, arial, helvetica, sans-serif;"><strong><br>Meet the Seequs team! </strong></span></h3>    <h3 style="text-align: center;"><strong><span style="font-family: tahoma, arial, helvetica, sans-serif;">Click on our pictures to learn more about us.</span></strong></h3>  Display Custom Post Entries with Set Number of  BootstrpColumns        CLose Last Row
+0,Open First Row
+0,Stephen
+0,Founder
+0,Andrea
+0,CEO
+0,Kelsey
+0,Creative Manager
+0,Cameron
+0,Lead SEO Specialist
+0,Shayna
+0,Website Designer
+0,Ryan
+0,Lead Software Engineer
+0,Ryan C
+0,Client Strategist
+0,Luke
+0,Sydney
+0,Operations & Account Coordinator
+0,Matt
+0,PPC Manager
+0,Rachel
+0,MacKenzie
+0,Project Manager
+0,Sarah
+0,Taylor
+0,Account Manager
+0,Erin
+0,Support Developer
+0,Our Tribe - WIT Digital
+0,Our Tribe
+0,HEADER SPECIFIC TO PAGE  <div class="page-header-mmm" style="background-image: url(/wp-content/themes/witdigital2018/images/page-header-back.jpg);background-size: contain;">     end.interior-content
+0,testimonials
+0,Online Marketing Testimonials | Reviews
+0,Testimonials
+0,I have nothing but praise for the SEO and Internet Marketing teams at Wit Digital. because Wit Digital truly understands how today’s search algorithms and they helped us execute an integrated marketing strategy. Their web design skills and social media experience also transformed our web site business results. But what I like most about Wit Digital is their dependable customer service and the on-going reports we get with real-world marketing metrics. They feel like a partner as committed to our success as we are.
+0,, keep you updated every step of the way, the response time on any concerns and questions is and they even offer their own personal ideas and suggestions to help improve your overall efficiency. They are by far one of the best, most professional partners we have ever worked with.
+0,Wit Digital has been , they are . I would recommend them to anyone. Fast, proficient and knowledgeable.
+0,The staff at Wit Digital are all . They are very experienced and work really hard to . They manage all my marketing online (SEO, online marketing, internet marketing, etc) and I am very happy. I highly recommend them.
+0,We have all had vendor that promise to be different and help our business get to the next level but . I partnered up with Stephen about 2 year or so to remodel our web site and grow our site traffic. So his team totally revamped the site with 70-80% traffic increase. Great news right….but the best part is his team, the attention and followup on projects is exactly what I and most of us need. A big thank you to Stephen, Josh and the whole Wit Digital team for a huge bump in traffic and doing what you said your were going to do, when you said your were going to do it.
+0,“I would recommend them to anyone serious about – in any category.”
+0,Contact Us | Wit Digital
+0,Contact
+0,Contact Us!
+0,Phone:
+0,Send us a message!
+0,Director of Engineering at Autodesk
+0,Wit Digital 11925 W I-70 Frontage Rd N Ste 800 Wheat Ridge, CO 80033
+0,Contact us today to learn more about digital marketing services including , , , and more!
+0,Privacy Policy - WIT Digital
+0,Definitions
+0,Information Collection and Use
+0,Use of Data
+0,Legal Basis for Processing Personal Data Under General Data Protection Regulation (GDPR)
+0,Retention of Data
+0,Transfer of Data
+0,Disclosure of Data
+0,Security of Data
+0,“Do Not Track” Signals
+0,Your Data Protection Rights Under General Data Protection Regulation (GDPR)
+0,Service Providers
+0,Links To Other Sites
+0,Children’s Privacy
+0,Changes To This Privacy Policy
+0,Contact Us
+0,Disclosure for Law Enforcement
+0,Legal Requirements
+0,Analytics
+0,Behavioral Remarketing
+0,At Wit Digital, your privacy is important to us. We have developed this privacy policy to help you understand the ways in which we collect, use and disclose your personal information. If you have any questions regarding our privacy policy, please feel free to contact us.
+0,Effective date: May 23, 2018
+0,Wit Digital (“us”, “we”, or “our”) operates the https://witdelivers.com website (the “Service”).
+0,This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
+0,We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from https://witdelivers.com
+0,Service is the https://witdelivers.com website operated by Wit Digital
+0,Personal Data means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession).
+0,Usage Data is data collected automatically either generated by the use of the Service or from the Service infrastructure itself (for example, the duration of a page visit).
+0,Cookies are small pieces of data stored on your device (computer or mobile device).
+0,Data Controller means the natural or legal person who (either alone or jointly or in common with other persons) determines the purposes for which and the manner in which any personal information are, or are to be, processed.
+0,For the purpose of this Privacy Policy, we are a Data Controller of your Personal Data.
+0,Data Processor (or Service Provider) means any natural or legal person who processes the data on behalf of the Data Controller.
+0,We may use the services of various Service Providers in order to process your data more effectively.
+0,Data Subject is any living individual who is using our Service and is the subject of Personal Data.
+0,We collect several different types of information for various purposes to provide and improve our Service to you.
+0,While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (“Personal Data”). Personally identifiable information may include, but is not limited to:
+0,We may use your Personal Data to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.
+0,We may also collect information about how the Service is accessed and used (“Usage Data”). This Usage Data may include information such as your computer’s Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
+0,We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
+0,Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.
+0,You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
+0,Examples of Cookies we use:
+0,Wit Digital uses the collected data for various purposes:
+0,If you are from the European Economic Area (EEA), Wit Digital legal basis for collecting and using the personal information described in this Privacy Policy depends on the Personal Data we collect and the specific context in which we collect it.
+0,Wit Digital may process your Personal Data because:
+0,Wit Digital will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+0,Wit Digital will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer time periods.
+0,Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+0,If you are located outside United States and choose to provide information to us, please note that we transfer the data, including Personal Data, to United States and process it there.
+0,Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+0,Wit Digital will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+0,Under certain circumstances, Wit Digital may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
+0,Wit Digital may disclose your Personal Data in the good faith belief that such action is necessary to:
+0,The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
+0,We do not support Do Not Track (“DNT”). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.
+0,You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
+0,If you are a resident of the European Economic Area (EEA), you have certain data protection rights. Wit Digital aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
+0,If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please contact us.
+0,In certain circumstances, you have the following data protection rights:
+0,Please note that we may ask you to verify your identity before responding to such requests.
+0,You have the right to complain to a Data Protection Authority about our collection and use of your Personal Data. For more information, please contact your local data protection authority in the European Economic Area (EEA).
+0,We may employ third party companies and individuals to facilitate our Service (“Service Providers”), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
+0,These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+0,We may use third-party Service Providers to monitor and analyze the use of our Service.
+0,Wit Digital uses remarketing services to advertise on third party websites to you after you visited our Service. We and our third-party vendors use cookies to inform, optimize and serve ads based on your past visits to our Service.
+0,Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
+0,We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+0,Our Service does not address anyone under the age of 18 (“Children”).
+0,We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
+0,We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+0,We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the “effective date” at the top of this Privacy Policy.
+0,You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+0,If you have any questions about this Privacy Policy, please contact us:
+0,If you have any questions regarding this privacy policy or the ways in which we collect, use and store your personal information, please email, at help@witdelivers, or call us, at 720-463-1452.
+0,/container
+0,/span_3  /span_9
+0,/row
+0,/search
+0,/search-box
+0,/inner-wrap
+0,/span_12
+0,/container-wrap  /footer-outer
+0,inner-wrap  inner-wrap  inner-wrap  inner-wrap  inner-wrap  inner-wrap  inner-wrap
+0,end .wpls-logo-showcase-slider-wrp
+0,end .wpls-logo-slider
+0,Senior Vice President, Chief Architect, & CTO – Engineering at Cisco
+0,Pro Workflow Architect, Systems Architecture & Design at Apple
+0,Director of Post Production Engineering at Netflix
+0,end .wpls-logo-cnt  end .wpls-logo-cnt  end .wpls-logo-cnt  end .wpls-logo-cnt  end .wpls-logo-cnt  end .wpls-logo-cnt  end .wpls-logo-cnt  end .wpls-logo-cnt  end .wpls-logo-cnt  end .wpls-logo-cnt  end .wpls-logo-cnt  end .wpls-logo-cnt  end .wpls-logo-cnt  end .wpls-logo-cnt  end .wpls-logo-cnt  end .wpls-logo-cnt  end .wpls-logo-cnt  end .wpls-logo-cnt  end .wpls-logo-cnt  end .wpls-logo-cnt  end .wpls-logo-cnt  end .wpls-logo-cnt  end .wpls-logo-cnt  end .wpls-logo-cnt  end .wpls-logo-cnt  end .wpls-logo-cnt  end .wpls-logo-cnt  end .wpls-logo-cnt
+0,end .wpls-fix-box
+0,{"slides_column":"7","slides_scroll":"1","dots":"false","arrows":"false","autoplay":"true","autoplay_interval":"3000","ticker":"false","speed":"600","center_mode":"false","loop":"true","rtl":"false"}
+0,End Single post Header
+0,By submitting this form, I acknowledge that my information is subject to
+0,/span_5  /span_7
+0,/bottom-meta-wrap
+0,Academy Software Foundation - ASWF
+0,/* ACADEMY SOFTWARE FOUNDATION
+0,/* OUR MISSION
+0,/* PARTICIPATE AS A DEVELOPER
+0,/* OUR PROJECTS
+0,/* JOIN AS A MEMBER
+0,/* LATEST NEWS & MEDIA COVERAGE
+0,/* STAY INFORMED ABOUT ASWF
+0,Code. Collaboration. Creativity.
+0,The mission of the Academy Software Foundation (ASWF) is to increase the quality and quantity of contributions to the content creation industry’s open source software base; to provide a neutral forum to coordinate cross-project efforts; to provide a common build and test infrastructure; and to provide individuals and organizations a clear path to participation in advancing our open source ecosystem.
+0,OUR PARTNERS
+0,We are always looking for developers to join our existing group of technical open source contributors. If you are interested in helping support the industry’s open source community, and want to join a diverse and inclusive community, we encourage you to get involved.
+0,Developing the open source software, coordinating cross-project efforts, and providing a common infrastructure is only possible with the generous support of our members. Learn more about how your organization can help support these efforts.
+0,Sign up for our Newsletter
+0,Supported by the Academy of Motion Picture Arts and Sciences
+0,June 12, 2020
+0,May 29, 2020
+0,May 20, 2020
+0,May 13, 2020
+0,Copyright © 2018 The Linux Foundation® . All rights reserved. The Linux Foundation has registered trademarks and uses trademarks. For a list of trademarks of The Linux Foundation, please see our page. Linux is a registered trademark of Linus Torvalds. and .
+0,The mission of the ASWF is to increase the quality and quantity of open source contributions by developing a governance model, legal framework and community infrastructure that lowers the barrier to entry for developing and using open source software.
+0,About
+0,The Academy Software Foundation (ASWF) was founded in August 2018 by the Academy of Motion Picture Arts & Sciences (AMPAS) as a result of a two-year survey by the Science and Technology Council into the use of Open Source Software (OSS) across the motion picture industry. The survey found that almost 84% of the industry uses open source software, particularly for animation and visual effects, but challenges including siloed development, managing multiple versions of OSS libraries (versionitis) and varying governance and licensing models need to be addressed in order to ensure a healthy open source community.
+0,About - ASWF
+0,Dr. Michael B. Johnson is a member of the Pro Workflow team at Apple. Before that, he was at Pixar for over 20 years, where he led R&D teams in Pixar Studio Tools for Story, Art, Editorial and Production Management. Over his career at Pixar, he directly contributed to every Pixar feature film, as well as many short films.
+0,End Single person Header
+0,He received his PhD from MIT in Computer Graphics & Animation in 1995, a Master of Visual Studies in 1991, and a BS in CS from the College of Engineering at the University of IL, U-C. He also worked at NCSA and Thinking Machines.
+0,Governing Board - ASWF
+0,Governing Board
+0,Andrew Pearce
+0,Andy Maltz
+0,Daniel Heckenberg
+0,Darin Grant
+0,Dave Ward
+0,Dr. Eric Bourque
+0,Dr. Michael B. Johnson
+0,Erik Strauss
+0,Gerald Tiu
+0,Graham Jack
+0,Hank Driskill
+0,Jim Jeffers
+0,John Ison
+0,Jordan Soles
+0,Julie Truong
+0,Luca Fascione
+0,Michael Ford
+0,Rob Bredow
+0,Todd Prives
+0,Will McDonald
+0,VP of Global Technology at DreamWorks
+0,Managing Director, Academy of Motion Picture Arts and Sciences’ Science Technology Council
+0,R&D Supervisor - Graphics at Animal Logic, ASWF TAC chair
+0,CTO, Animal Logic
+0,Director of Media and Entertainment for Microsoft Azure at Microsoft
+0,Chief Technology Officer at DNEG
+0,Chief Technology Officer at Blue Sky Studios
+0,Sr. Principal Engineer and Sr. Director, Advanced Rendering and Visualization at Intel
+0,Director, Media and Entertainment Partnerships of NVIDIA, Inc.
+0,VP Technology & Development at Rodeo FX
+0,Executive Producer - Technology at Epic Games
+0,Senior Head of Technology & Research at Weta Digital
+0,VP, Head of Software Development, Sony Pictures Imageworks
+0,SVP, Executive Creative Director and Head of ILM
+0,Head of Product Management – Studio Technology, AWS
+0,The ASWF Governing Board (GB) is responsible for marketing and other business oversight and budget decisions for the Foundation. The GB does not make technical decisions, other than working with the Technical Advisory Council (TAC) to set the overall scope for the ASWF. The GB currently consists of these representatives:
+0,Andrew Pearce is VP of Global Technology at DreamWorks, where his projects have included establishing an analytics infrastructure at the studio, establishing technology platforms for DreamWorks TV, and spearheading Open Source initiatives such as ASWF, and OpenVDB which won a Sci/Tech Academy Award for its inventors.
+0,Andrew Pearce is VP of Global Technology at DreamWorks, where his projects have included establishing an analytics infrastructure at the studio, establishing technology platforms for DreamWorks TV, and spearheading Open Source initiatives such as ASWF, and OpenVDB which won a Sci/Tech Academy Award for its inventors. Andrew has 26 film credits in Visual Effects R&D.
+0,Before joining DreamWorks 2004, Mr. Pearce spent 3 years as Head of Production Technology at ESC, the visual effects house behind the Matrix sequels. He started his career at Alias developing technologies such as Paint Effect, Maya, Alias Ray Tracer and delivering Maya for Mac OSX as Director of Maya Technologies. He shares a Sci/Tech Oscar for his part in the development of Maya, received 3 U.S. patents, and is equally proud of his 1999 CBC sketch comedy television special Fred’s Bicycle Repair Shop.
+0,Andrew received his M.Sc. from the University of Calgary where he studied Computer Science specializing in multiprocessor ray tracing.
+0,Andy Maltz is the founding Managing Director of the Academy of Motion Picture Arts and Sciences’ Science Technology Council.
+0,Andy Maltz is the founding Managing Director of the Academy of Motion Picture Arts and Sciences’ Science Technology Council. He developed and implemented the Council’s operational plan, oversees the Council’s day-to-day operations, leads several Council projects and represents the Academy on science and technology matters at industry, government and academic forums in the U.S. and abroad. Prior to joining the Academy, Andy worked in the commercial world for over 20 years developing and deploying digital cinema servers and mastering systems, professional media authoring systems, nonlinear editing systems as well as working in film, television and commercial production. Andy also serves as ISO TC 36 Cinematography chair and is a member of the Society of Motion Picture and Television Engineers (SMPTE) Journal Board of Editors.
+0,Daniel Heckenberg is R&D Supervisor - Graphics at Animal Logic, responsible for research and development in procedural geometry, rendering and animation engineering and tools.
+0,Daniel Heckenberg is R&D Supervisor – Graphics at Animal Logic, responsible for research and development in procedural geometry, rendering and animation engineering and tools. Working at Animal Logic since 2007, he has made significant contributions to the studio’s character tools for fur, hair and feathers and production renderer ‘Glimpse’. He is an enthusiastic participant in industry open source projects and is currently chair of the ASWF’s Technical Advisory Council.
+0,Darin Grant has over 20 years experience in the industry, holding a variety of senior positions as a technologist including Head of Production Technology at Dreamworks Animation and more recently as the Global CTO at Digital Domain and Method Studios where he drove innovation and operational excellence across engineering and operations.
+0,Dave is Chief Architect at Cisco Systems, responsible for architectural governance, defining strategy, development of new technology and leading use-inspired research.
+0,Dave is Chief Architect at Cisco Systems, responsible for architectural governance, defining strategy, development of new technology and leading use-inspired research. Working via tight partnerships with customers, partners, developers and academia he is also leading co-development and co-innovation initiatives. He has been the Routing Area Director at the IETF and chair of four Working Groups: IS-IS, HIP, BFD and Softwires and worked with the ITU-T, ONF and several Open Source consortia. David was also a Juniper Fellow and Chief Architect working on the operating system and next-generation routing systems. Dave has a small vineyard in the Santa Cruz Mountains, an heirloom tomato farm along the St. Croix River in Somerset, Wisconsin.
+0,Dr. Eric Bourque is a Director of Engineering for M&E products within the Entertainment Creation Group at Autodesk.
+0,Dr. Michael B. Johnson is a member of the Pro Workflow team at Apple.
+0,Erik Strauss is Director of Post Production Engineering at Netflix, leading a group of software engineering teams focused on media workflow.
+0,Erik Strauss is Director of Post Production Engineering at Netflix, where he leads a group of software engineering teams focused on media workflow across all of Netflix’s original content production. Erik’s teams strive to innovate the processes and technology supporting content creation with the goal of removing the logistics of digital workflows and maximizing the opportunity for collaborators to pour creativity into their content at Netflix.
+0,Gerald Tiu is Director of Media and Entertainment for Microsoft Azure focusing on Content Creation
+0,Michael Ford is VP, Head of Software Development at Sony Pictures Imageworks where he oversees the technology and software development of the award winning studio.
+0,At the Academy Software Foundation, David works for the Governing Board to develop the use of open source software in the motion picture industry.
+0,Gerald Tiu is Director of Media and Entertainment for Microsoft Azure focusing on Content Creation. He has spent most of his career working in the Visual Effects and Animation industry building production tools for companies such as Pixar, ILM and Disney’s ImageMovers Digital. His cloud journey began at Amazon Web Services as a Professional Services Consultant working in large fortune 500 companies to build out fully functioning application clusters with minimal code. Gerald has spent the last 5 years at Microsoft following his passion in working to enable the best content creation platform for Media and Entertainment customers and partners.
+0,Graham Jack is DNEG Chief Technical Officer. He is leading the company's technology team to ensure the smooth day-to-day running of its global pipeline and infrastructure, identifying and implementing measures to improve its efficiencies and help it reach its business objectives, and driving the on-going development of its technology strategy.
+0,Graham Jack is DNEG Chief Technical Officer. He is leading the company’s technology team to ensure the smooth day-to-day running of its global pipeline and infrastructure, identifying and implementing measures to improve its efficiencies and help it reach its business objectives, and driving the on-going development of its technology strategy. Prior to his current role, Graham was DNEG Head of 3D and played an instrumental role in both setting up the lighting and rendering pipeline at DNEG and influencing the development of technology in all areas of the company.
+0,Dr. Hank Driskill is the Chief Technology Officer at Blue Sky Studios, and is thrilled to be a part of Blue Sky’s team. Hank has encouraged a philosophy that innovation in our field should always be in service of making movies that matter; sharing technology across our industry through mechanisms like the ASWF will only help every studio tell stories that mean something.
+0,Dr. Hank Driskill is the Chief Technology Officer at Blue Sky Studios, and is thrilled to be a part of Blue Sky’s team. Hank has encouraged a philosophy that innovation in our field should always be in service of making movies that matter; sharing technology across our industry through mechanisms like the ASWF will only help every studio tell stories that mean something. Hank grew up in the small town of Gardner, Kansas. He received bachelor degrees in both Computer Science and Astronomy from the University of Kansas, going on to earn his PhD in Computer Science from the University of Utah. He embarked on his professional career at Digital Domain, where he helped bring films such as Apollo 13, Dante’s Peak, Fifth Element and Titanic to life. Hank then spent 20 years at Walt Disney Animation Studios as part of the studio’s leadership, most recently serving as Technical Supervisor on Big Hero 6 and Moana.
+0,Jim Jeffers leads Intel’s Advanced Rendering and Visualization team developing open source CPU based rendering libraries used for generating animated movies, special effects, automobile design and scientific visualization working with companies like Disney and DreamWorks plus scientists like Stephen Hawking’s team.
+0,Jim Jeffers, Sr. Principal Engineer and Sr. Director of Intel’s Advanced Rendering and Visualization team, leads the design and development of the open source rendering library family known as the Intel® oneAPI Rendering Toolkit. This toolkit is used for generating animated movies, visual special effects, product design and scientific visualization. Jim joined Intel in 2008 and has co-authored 4 books on Intel Architecture parallel programming. Jim’s experience includes software design and technical leadership in high performance computing, graphics rendering, digital television, and data communications. Jim’s notable work prior to Intel includes development for the Tech Emmy winning virtual ‘First Down Line’ technology seen on live American football TV broadcasts.
+0,John Ison serves as Director, Media and Entertainment Partnerships of NVIDIA, Inc. He joined NVIDIA in 2012 after successful tenures at Omneon, Inc., where he was VP Marketing and Avid Technology, where he was VP, Product Management.
+0,John Ison serves as Director, Media and Entertainment Partnerships of NVIDIA, Inc. He joined NVIDIA in 2012 after successful tenures at Omneon, Inc., where he was VP Marketing and Avid Technology, where he was VP, Product Management. Mr. Ison is responsible for managing most of NVIDIA’s relationships with software developers of applications used by the media and entertainment industry. He also served as VP, Product Management at Brooktrout Technology, CEO at Newfire, as well has holding senior management positions at Autodesk, Silicon Graphics and NeXT earlier in his career. He holds engineering and graduate business degrees from Dartmouth College and MIT.
+0,As the VP Technology & Development of Rodeo FX, Jordan oversees all technological aspects of the company, from IT infrastructure decisions, to software and pipeline design, through production management.
+0,As the VP Technology & Development of Rodeo FX, Jordan oversees all technological aspects of the company, from IT infrastructure decisions, to software and pipeline design, through production management. With a degree in Artificial Intelligence and Cognitive Science from the University of Toronto, Jordan brings a creative and innovative approach to solving technological problems.
+0,Julie Truong joined Epic Games in 2016, where she is the Executive Producer in charge of Technology, overseeing product management for the Unreal Engine.
+0,Julie Truong joined Epic Games in 2016, where she is the Executive Producer in charge of Technology, overseeing product management for the Unreal Engine. Prior to Epic, Julie was at Ubisoft for 6 years, leading the Central Technology teams and working on games like Far Cry. Beforehand she was a product manager at Autodesk on several products such as Motionbuilder and games middleware. Julie holds a bachelor in Electrical Engineering and an MBA.
+0,Luca Fascione is Senior Head of Technology & Research at Weta Digital, where he oversees Weta’s core R&D efforts including Simulation and Rendering Research, Software Engineering and Production Engineering.
+0,Luca is the lead architect of Weta Digital’s next-generation proprietary renderer, Manuka. This renderer is the culmination of a three-year research endeavour involving over 40 researchers and continues to allow Weta Digital to produce highly complex images with unprecedented fidelity. Luca joined Weta Digital in 2004 and has also worked for Pixar Animation Studios. Through a partnership with NVIDIA, Luca co-developed the GPU-based PantaRay that was instrumental in the making of the movie Avatar, and (since 2011’s The Adventures of Tintin) also became the foundation of volumetric shadow support within the Weta pipeline. Luca was recently recognized with a Scientific and Engineering award from the Academy of Motion Pictures for his work on FACETS, Weta’s facial motion capture system.
+0,Michael Ford is VP, Head of Software Development at Sony Pictures Imageworks where he oversees the technology and software development of the award winning studio. Throughout his 20+ year career, Ford has fostered a close connection of the creative process to innovative technology in feature animation and VFX production. Ford was the VFX supervisor on the animated feature film Hotel Transylvania 3 and Smurfs: The Lost Village for Sony Pictures Animation. While at Imageworks, Ford also served as a supervisor on Concussion, Storks, Hotel Transylvania, Cloudy with a Chance of Meatballs 1 & 2 and the Academy Award® nominated film Surf’s Up.
+0,Rob Bredow runs Industrial Light & Magic (ILM) with a particular focus on the creative strategy for the storied visual effects company. He brings an innovative focus to the role, with a background in technology and hands-on experience both as a visual effects supervisor, technology executive, and production partner.
+0,Rob Bredow runs Industrial Light & Magic (ILM) with a particular focus on the creative strategy for the storied visual effects company. He brings an innovative focus to the role, with a background in technology and hands-on experience both as a visual effects supervisor, technology executive, and production partner. As SVP, Executive Creative Director and Head of ILM, Bredow is responsible for the company’s overall creative strategy and global operations. Bredow recently served as the Visual Effects Supervisor and Co-Producer on Solo: A Star Wars Story. He served as a creative partner to the filmmakers throughout the production, from the earliest story meetings to the final frames of visual effects. He leveraged his background in innovative technology to help tell the story of the film, creating grounded images with a unique shooting style designed for the movie. Bredow joined Lucasfilm in 2014 as Vice President of New Media and Head of Lucasfilm’s Advanced Development Group. He helped launch ILMxLAB in 2015 and co-wrote and directed Trials on Tatooine, a story-based virtual reality experiment created in collaboration with Lucasfilm’s Story Group, ILMxLAB and Skywalker Sound. In his former role as Lucasfilm Chief Technology Officer, Bredow oversaw all technology development for Lucasfilm and ILM. Previously, Bredow was CTO and Visual Effects Supervisor at Sony Pictures Imageworks. He has contributed as a supervisor on films such as Independence Day, Godzilla, Stuart Little, Cast Away, Surf’s Up, Cloudy With A Chance of Meatballs, and others. Bredow is a member of the VFX Branch of Academy of Motion Pictures Arts & Sciences and the AMPAS Science and Technology Council.
+0,Will McDonald is Head of Product Management – Studio Technology for Amazon Web Services, where he is responsible for the roadmap and strategy for products and services relating to content creation.
+0,Will McDonald is Head of Product Management – Studio Technology for Amazon Web Services (AWS), where he is responsible for the roadmap and strategy for products and services relating to content creation. Prior to joining AWS in 2018, Will held a variety of both creative and engineering leadership roles at Autodesk, Electronic Arts, Industrial Light & Magic, and was most recently VP of Product & Engineering at Conductor Technologies. Will holds a M.S. in Software Engineering from Carnegie Mellon University and a B.F.A. in Visual Effects from the Savannah College of Art + Design.
+0,Technical Advisory Council - ASWF
+0,Bill Ballew
+0,Technical Advisory Council
+0,Brian Cipriano
+0,Cary Phillips
+0,Christopher Kulla
+0,Cory Omand
+0,Dave Fellows
+0,Dr. Larry Gritz
+0,Eric Enderton
+0,Gordon Bradley
+0,Henry Vera
+0,Jean-François Panisset
+0,Joshua Minor
+0,Ken Museth
+0,Kimball Thurston
+0,Matt Kuhlenschmidt
+0,Michael Dolan
+0,Michael Min
+0,Mike O’Gorman
+0,Pilar Molina Lopez
+0,Sean Looper
+0,Sean McDuffee
+0,Sean O’Connell
+0,VP of Research and Development, DreamWorks
+0,R&D Supervisor, Industrial Light & Magic
+0,Principal Software Engineer, Sony Picture Imageworks
+0,Supervising Lead Software Engineer, Pixar Animation Studios
+0,Principal Software Engineering Manager, Microsoft
+0,Software Engineering Architect, Sony Pictures Imageworks
+0,Director of Film Rendering Technology at NVIDIA
+0,Senior Software Architect, Autodesk Inc
+0,Head of Production Technology, DNEG
+0,Pixar Studio Tools Story/Editorial/VR Previs Tech Lead, Pixar
+0,Senior Director in Simulation Technology, NVIDIA
+0,Senior Researcher, Weta Digital Ltd.
+0,Tools Team Lead, Epic Games
+0,Senior Pipeline Developer, Epic Games
+0,Manager, VFX Workflows, Creative Technologies at Netflix
+0,Distinguished Engineer, Cisco
+0,Senior Software Engineer, Blue Sky Studios
+0,Senior Solutions Architect, AWS
+0,Graphics Software Engineer at Intel
+0,Member of Technical Staff Software Engineer, Advanced Micro Devices
+0,The Technical Advisory Council (TAC) provides technical leadership for the Foundation. Its functions include:
+0,You can review the TAC or join the mailing to participate.
+0,Bill Ballew has a passion for computer science, graphics, animation, and working with artists to provide them with tools that inspire creativity.
+0,Bill Ballew has a passion for computer science, graphics, animation, and working with artists to provide them with tools that inspire creativity. After receiving his degree in Computer Science in the early 90’s, he worked in the Aerospace industry in Southern California for 5 years. From there Bill followed his passion toward computer animation and joined a then startup studio, DreamWorks Animation. After over 22 years and more than 30 credits on feature animation films, Bill now serves as the VP of Research and Development, overseeing a number of key technology initiatives for the studio. In his tenure at DreamWorks, he has worked on and managed projects that have contributed to the creative ambition and scale of the studio that tells amazing stories through beloved characters and state-of-the-art computer graphics imagery.
+0,Cary Phillips is R&D Supervisor at Industrial Light & Magic in San Francisco, where he has worked since 1994. He holds a PhD in computer graphics from the University of Pennsylvania.
+0,Cary Phillips is R&D Supervisor at Industrial Light & Magic in San Francisco, where he has worked since 1994. He holds a PhD in computer graphics from the University of Pennsylvania. Cary is a member of the VFX Branch the Academy of Motion Picture Arts and Sciences, and he serves on the Academy’s Science and Technology Council as well as the Academy’s Scientific and Technical Awards Main Committee. He has received three Technical Achievement Awards from the Academy for technology related to digital character animation. He has over 20 screen credits, and he’s worked on films from the Star Wars, Avengers, Pirates of the Caribbean, Harry Potter, and Transformers franchises.
+0,Christopher Kulla leads the Open Shading Language project and is a principal software engineer at Sony Picture Imageworks where he has worked on the in-house branch of the Arnold renderer since 2007.
+0,Christopher Kulla is a principal software engineer at Sony Picture Imageworks where he has worked on the in-house branch of the Arnold renderer since 2007. He focuses on ray-tracing kernels, sampling techniques and volume rendering. In 2017 he was recognized with a Scientific and Engineering Award from the Academy of Motion Picture Arts and Sciences for his work on the Arnold renderer.
+0,Cory Omand is a Supervising Lead Software Engineer at Pixar Animation studios, responsible for Pixar’s internal software development and deployment platform, used by R&D and production teams to produce high-quality film production pipelines.
+0,Dave is an engineering manager on the Azure cloud, responsible for the Azure Batch Rendering service and Azure Render Hub.
+0,Dr. Larry Gritz is the Software Engineering Architect for Sony Pictures Imageworks, developing rendering technology as well as managing SPI's open source efforts.
+0,Dr. Larry Gritz is the Software Engineering Architect for Sony Pictures Imageworks, developing rendering technology as well as managing SPI’s open source efforts. Larry has a BS in computer science from Cornell University, MS and DSc from the George Washington University, and has held engineering management positions at Pixar, Exluna, and NVIDIA prior to joining Imageworks in 2008. Larry is the administrator and lead author of two open source projects widely used in VFX: OpenImageIO, and Open Shading Language, for which he won an Academy Sci-Tech award in 2017. Larry is a member of the Academy of Motion Picture Arts and Sciences.
+0,Eric Enderton is Director of Film Rendering Technology at NVIDIA, developing and supporting the use of GPU ray tracing for visual effects and animation.  He is a founder of DigiPro, the Digital Production Symposium.
+0,Eric Enderton is Director of Film Rendering Technology at NVIDIA, developing and supporting the use of GPU ray tracing for visual effects and animation. He is a founder of DigiPro, the Digital Production Symposium.
+0,Gordon joined Alias Wavefront in 2002 to work on Maya, where he had an intense introduction to sub-zero temperatures, shovelling snow and hockey. He’s currently the architect for Autodesk’s entertainment products, including Maya.
+0,For over 25 years, Henry Vera has focused on providing innovative technologies to artists at companies such as Sony Pictures Imageworks, Dreamworks Animation, Digital Domain, Autodesk and now DNEG.
+0,For over 25 years, Henry Vera has focused on providing innovative technologies to artists at companies such as Sony Pictures Imageworks, Dreamworks Animation, Digital Domain, Autodesk and now DNEG. He combines a deep understanding of visual effects and feature animation, with a passion to improve the creative process for artists.
+0,He is currently the Head of Production Technology at DNEG, where he oversees the global Pipeline and R&D teams, supporting thousands of artists on three continents.
+0,Jean-François Panisset has been a member of the Visual Effects Society Technology Committee since 2013. The VES Technology Committee was involved in the process leading to the creation of the ASWF and has been responsible for the closely related VFX Reference Platform project.
+0,Jean-François Panisset has been a member of the Visual Effects Society Technology Committee since 2013. The VES Technology Committee was involved in the process leading to the creation of the ASWF and has been responsible for the closely related VFX Reference Platform project. Jean-François was previously Chief Technology Officer at Psyop, an animation and visual effects studio in the commercials market, and has previously worked at Moving Picture Company, A52 / Rock Paper Scissors, Sony Pictures Imageworks, and Autodesk / Discreet Logic where he worked as a developer on the Flame compositing system. He is currently on hiatus which is allowing him to spend time on open source projects. His main interests lie in the intersection of application software, operating systems and hardware.
+0,Joshua is the Pixar Studio Tools Story/Editorial/VR Previs Tech Lead and OpenTimelineIO TSC chairperson
+0,Ken Museth is the Senior Director in Simulation Technology at NVIDIA, and he is the founding developer of OpenVDB.
+0,David Morin is Executive Director of the Academy Software Foundation. He is also Head of the Epic Games Los Angeles Lab.
+0,At Epic Games, David works with the Enterprise team to develop the use of the Unreal engine in the Film and Television industries,
+0,Previously David was president of David Morin, LLC, a diversified consultancy specializing in immersive production with clients such as the Academy of Motion Picture Arts and Sciences, Arri Inc., Autodesk, Epic Games, Shotgun Software and others.
+0,Ken Museth is the Senior Director in Simulation Technology at NVIDIA. He was previously Head of Research & Development in Simulations at Weta Digital, focusing on developing state-of-the-art VFX for the Avatar sequels. He is the founding developer of OpenVDB, the first open source project to be adopted by the ASWF, and the chair of its Technical Steering Committee. Additionally, Ken works part-time for SpaceX on large scale fluid dynamics simulations of the new Raptor rocket engine powering the main stage of the BFR for human settlements on Mars. Before to joining Weta in 2017 he worked for a decade at DreamWorks Animation and Digital Domain, and prior to that for a decade as a researcher and full professor at Caltech and Linkoping University. He holds a PhD in quantum dynamics from Copenhagen University and has been awarded a Technical Achievement Award from The Academy of Motion Picture Arts and Sciences . Ken is on the SIGGRAPH 2019 Technical Paper Committee.
+0,Kimball Thurston is a senior researcher at Weta Digital Ltd. in New Zealand, focused on rendering and related imaging areas.
+0,Kimball Thurston is a senior researcher at Weta Digital Ltd. in New Zealand, focused on rendering and related imaging areas. For more than 20 years, he has provided software for the visual effects and general film industry. In 2012, he and his colleagues were awarded a scientific and engineering award by the Academy of Motion Pictures, Arts and Sciences for image processing software used for film restoration and image reparation.
+0,Matt Kuhlenschmidt leads the tools team at Epic Games. The tools team is responsible for the UE4 Editor, Epics VFX tools, and cinematic tools.
+0,Matt Kuhlenschmidt leads the tools team at Epic Games. The tools team is responsible for the UE4 Editor, Epics VFX tools, and cinematic tools. Matt has been with Epic for 8 years and currently, is directly working on design and implementation of data pipelines to and from UE4, Epics UI system (Unreal Motion Graphics), and a new suite of geometry editing tools. He is also responsible for user experience across all of Epic’s tools.
+0,Michael Dolan is a Senior Pipeline Developer at Epic Games, focused on surfacing, baking, and color tools for Epic's art pipeline.
+0,Michael Dolan is a Senior Pipeline Developer at Epic Games, focused on surfacing, baking, and color tools for Epic’s art pipeline. Before joining Epic, Michael was a Color Scientist and Senior Software Engineer at Sony Pictures Imageworks.
+0,Michael is Manager, VFX Workflows, Creative Technologies at Netflix
+0,Mike O’Gorman is a Distinguished Engineer in Cisco Systems, leading a team of 30+ software developers in the Chief Technology and Architecture Office.
+0,Mike O’Gorman is a Distinguished Engineer in Cisco Systems, leading a team of 30+ software developers in the Chief Technology and Architecture Office. In this role, Mike leads a team to design, prototype and build the next generation of network and data center orchestration, automation solutions leveraging the latest advances in cloud and virtualization technologies. This team is responsible for working closely with the industry, customers, and internally with product management and engineering leaders to identify technologies beyond the tip of the spear that can be leveraged into Cisco products and solutions. Most recently this team has been focused on working with the media and broadcast industry to apply some of the virtualization and orchestration technologies developed for the Network Function Virtualization and Software Defined Networking industry evolutions to the transition from SDI to IP that is going on in the broadcast world today.
+0,Pilar Molina Lopez is a Senior Software Engineer at Blue Sky Studios, where she works mostly on research and development in animation and rigging tools. Before joining Blue Sky she worked as an Assistant Technical Director at Walt Disney Animation Studios. She holds a Masters in Computer Science from Columbia University.
+0,Pilar Molina Lopez is a Senior Software Engineer at Blue Sky Studios, where she works mostly on research and development in animation and rigging tools. Before joining Blue Sky she worked as an Assistant Technical Director at Walt Disney Animation Studios. She holds a Masters in Computer Science from Columbia University.
+0,Sean Looper is a Senior Solutions Architect at AWS, focused exclusively on content creation industries. Over nearly 20 years in VFX and Animation, Sean has held software engineering positions within studios such as DreamWorks Animation, Sony Pictures Imageworks, Method, and R!OT where he has driven initiatives including global production pipelines to high-performance distributed lighting and rendering systems.
+0,Sean Looper is a Senior Solutions Architect as AWS, focused exclusively on content creation industries. Over nearly 20 years in VFX and Animation, Sean has held software engineering positions within studios such as DreamWorks Animation, Sony Pictures Imageworks, Method, and R!OT where he has driven initiatives including global production pipelines to high-performance distributed lighting and rendering systems.
+0,Sean McDuffee is a Graphics Software Engineer at Intel with the Advanced Rendering and Graphics Architecture Group.
+0,Sean McDuffee is a Graphics Software Engineer at Intel with the Advanced Rendering and Graphics Architecture Group. His interests and work cover all things rendering and simulation. Prior to Intel he spent 10 years in the R&D department at Blue Sky Studios where he worked on many films and the industry’s first production ray tracer, which won an Academy Sci Tech Award in 2017. He has an MS in Computer Science from Columbia University and a BS in physics. Before getting into the film industry, he worked for a number of years in the High Energy Density Physics Group working on the Inertial Confinement Fusion research arm at MIT.
+0,Sean O'Connell is a Member of Technical Staff at Advanced Micro Devices with the Software Performance Engineering team, responsible for improving performance across AMD's line of client processors.
+0,Sean O’Connell is a Member of Technical Staff at Advanced Micro Devices with the Software Performance Engineering team, responsible for improving performance across AMD’s line of client processors.
+0,John Mertic
+0,Staff
+0,David Morin
+0,Staff - ASWF
+0,Emily Olin
+0,Executive Director, Academy Software Foundation
+0,Director of Marketing Communications, The Linux Foundation
+0,Director of Program Management, The Linux Foundation
+0,David is also chairman of the Joint Technology Committee on Virtual Production, the Joint Technology Committee on Virtual Reality, and a past co-chair of the Joint Technology Subcommittee on Previsualization. David earned a B.Sc.A. in computer science from Laval University (Quebec City, Canada) and has participated in the development of motion capture and 3D software since “Jurassic Park” at companies such as Softimage, Microsoft, Avid Technology, Autodesk and Epic Games. He believes that motion pictures will soon become pure software, and that developing a strong software engineering community is critical to the future of the industry.
+0,Emily Olin is the Director of Marketing Communications for the Linux Foundation and leads PR & Marketing efforts for Academy Software Foundation and Automotive Grade Linux (AGL)
+0,Emily Olin is the Director of Marketing Communications at The Linux Foundation and leads marketing communications for Academy Software Foundation and Automotive Grade Linux.  Prior to joining The Linux Foundation, Emily led the technology account for Ford Motor Company at Hill+Knowlton Strategies. She has a Bachelor of Science in Communications from the University of Miami.
+0,John Mertic is the Director of Program Management for The Linux Foundation. Under his leadership, he has helped ASWF, ODPi, Open Mainframe Project, and R Consortium accelerate open source innovation and transform industries.
+0,John Mertic is the Director of Program Management for The Linux Foundation. Under his leadership, he has helped ASWF, ODPi, Open Mainframe Project, and R Consortium accelerate open source innovation and transform industries. John has an open source career spanning two decades, both as a contributor to projects such as SugarCRM and PHP, and in open source leadership roles at SugarCRM, OW2, and OpenSocial. With an extensive open source background, he is a regular speaker at various Linux Foundation and other industry trade shows each year. John is also an avid writer and has authored two books “The Definitive Guide to SugarCRM: Better Business Applications” and “Building on SugarCRM” as well as published articles on IBM Developerworks, Apple Developer Connection, and PHP Architect.
