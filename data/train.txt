@@ -9957,3 +9957,472 @@
 1,Gary Meyer,  Pesticide & Fertilizer Program Manager Pesticide & Fertilizer Program Kansas Department of Agriculture 1320 Research Park Drive Manhattan, KS 66502 Phone: (785) 564-6488 / Fax: (785) 564-6779
 1,47 Durham Street, London, SE11 5JA, UK
 0,2. Shetland Islands
+0,Achieve millions of transactions per second and store multiple TB’s of data per node.
+0,Single-Digit Millisecond Latency
+0,Massive Scale
+0,Build blazing fast cloud applications by serving queries directly from the DB.
+0,svg
+0,Geo-Distribution
+0,Deploy across regions and clouds with synchronous or multi-master replication.
+0,Driven by developers
+0,The fastest growing distributed SQL database project.
+0,25+
+0,4K+
+0,1.1K+
+0,Adopted by enterprises
+0,Powers business-critical apps at scale.
+0,27B+
+0,10B+
+0,3B+
+0,1B+
+0,Develop, deploy and operationalize modern applications faster than ever before with YugabyteDB.
+0,Gain Developer Agility
+0,Leverage full power of PostgreSQL-compatible SQL and distributed ACID transactions.
+0,Operate Resilient Services
+0,Ensure continuous availability even when underlying compute, storage or network fails.
+0,Scale On-Demand
+0,Add and remove nodes at will. Say no to over-provisioned clusters forever.
+0,Lower User Latency
+0,Wow users and drive business growth with geo-distribution and global consistency.
+0,Exploit Multi-Cloud
+0,Manage your data alongside your Kubernetes applications across public and private clouds.
+0,Accelerate with Open Source
+0,No hidden traps to slow you down. Fully open source even for enterprise features.
+0,Success Story
+0,"YugabyteDB helped Narvar avoid cloud lock-in, stay GDPR compliant and save money in the process. Our systems can now keep pace with our rapidly growing business."
+0,CTO, Narvar
+0,"With YugabyteDB and Yugabyte Platform, we are able to scale rapidly. Our partnership means onboarding new customers and maintaining GDPR compliance becomes a competitive advantage."
+0,Co-Founder & Head of Eng, Plume
+0,"YugabyteDB gave us a highly available and transactional database that is capable of near-infinite scaling with low latencies. It has enabled our developers to roll-out new features a lot quicker."
+0,CTO & Co-Founder, Turvo
+0,Home | YugabyteDB
+0,The Leading High-Performance Distributed SQL Database
+0,Open Source DNA
+0,For Large Organizations
+0,Built for Cloud Native Architectures
+0,Take a test drive
+0,Get started in any cloud, container or data center
+0,Open source, cloud native relational DB for powering global, internet-scale apps.
+0,Leadership
+0,Board
+0,Bill Cook
+0,CEO
+0,Kannan Muthukkaruppan
+0,Co-Founder & President, Product Development
+0,Karthik Ranganathan
+0,Co-Founder & CTO
+0,Mikhail Bautin
+0,Co-Founder & Software Architect
+0,Sid Choudhury
+0,SVP, Product
+0,Jimmy Guerrero
+0,VP, Marketing & Community
+0,Prasad Radhakrishnan
+0,VP, Data Engineering
+0,Ravi Mhatre
+0,Lightspeed Venture Partners
+0,Deepak Jeevankumar
+0,Dell Tech Capital
+0,Bhaskar Ghosh
+0,8VC
+0,Scott Yara
+0,Co-Founder, Greenplum
+0,More About Us
+0,Careers
+0,News
+0,Blog
+0,Contact Us
+0,About | YugabyteDB
+0,Our Story
+0,Yugabyte is headquartered in Sunnyvale, CA, and backed by , , , and .
+0,Thanks for your interest in YugabyteDB. How can we help you?
+0,Request a FREE demo and technical consultation
+1,771 Vaqueros Ave Sunnyvale, CA 94085
+0,Learn more
+0,Datasheets
+0,Demo
+0,Documentation
+0,Compare Editions
+0,Compare Databases
+0,Pricing
+0,Contact Us | YugabyteDB
+0,Drop us a line!
+0,Contact Sales | YugabyteDB
+0,Contact Sales
+0,Got a question about pricing, services or want to schedule a demo?
+0,Interests *
+0,Privacy Policy
+0,Privacy Policy | YugabyteDB
+0,svg
+0,Supported by
+0,About
+0,Help
+0,More
+0,Social
+0,Frictionless Data | Frictionless Data
+0,For anyone who works with data
+0,Data Integration and Management
+0,Why Frictionless Data?
+0,Some of our Tooling
+0,The progressive data toolkit
+0,Approachable
+0,Incrementally Adoptable
+0,Progressive
+0,Researchers
+0,Data Scientists
+0,Data Engineers
+0,Sourcing Data
+0,Transforming Data
+0,Pushing and Storing Data
+0,Frictionless Data is a progressive, incrementally adoptable open-source toolkit that brings simplicity and gracefulness to the data experience - whether you're wrangling a CSV or engineering complex pipelines with gigabytes.
+0,Lean and minimal core. Quick to understand, quick to use.
+0,Start with just what you need, scale as you grow.
+0,We enhance rather than replace your existing tools and workflows.
+0,Easily create reproducible research
+0,Create pipelines without effort
+0,Standardize data platforms
+0,Data integration work will require a way to reliably discover internal and external data assets.
+0,Data often requires some cleaning (integration) and conversions from one format to another.
+0,With the data explosion it has become a job in itself to manage data - to push and store data.
+0,explains the problem Frictionless Data addresses through simple specifications and software.
+0,Simple container format used to describe and package data.
+0,Publish and find data on the next generation data platform.
+0,Validate data on every change so you catch errors before your users.
+0,A light intuitive framework for building data processing flows.
+0,About | Frictionless Data
+0,Why we’re here
+0,What we do
+0,Who we are here for
+0,What’s different about us?
+0,Design Principles
+0,Focused
+0,Web Oriented
+0,Distributed
+0,Open
+0,Existing Tooling
+0,Simple and Lightweight
+0,Data integration is essential –- but currently painful and confusing. We want to bring simplicity and gracefulness to the messy world of data.
+0,We want building data pipelines is as easy as playing with LEGO. We want a frictionless data ecosystem built on the unix philosophy where data flows with simplicity and grace across diverse tools and teams, enabled by the specs and patterns we have shared. We want everyone working with data to have access to these core patterns and tools.
+0,We imagine a data ecosystem that is effortless, pure and clear. Where data flows everywhere, effortlessly and easily – like water.
+0,We offer vision, patterns, specifications and tools that bring simplicity & ease to transform the data experience. We help you generate clean data efficiently and reliably gain ongoing insights. We help you standardize, package, validate, share, and publish your data.
+0,We are here for the data wranglers and the data geeks. The people who work with data day to day – and those who design solutions for them. People who have moved beyond the quick hack in a notebook. People looking for the power of the command line but without the bulk and inelegance of big data tooling. They are data engineers and data scientists, researchers and technologists.
+0,We work with, add to and enhance your existing tooling (progressive enhancement). We’re lightweight and coherent. We have a big vision and small tools. We cover the whole data journey to and from the end user – our patterns and tools can apply to Excel as well as Hadoop.
+0,Each tool or pattern is focused on one part of the data chain, one specific feature – packaging – and a few specific types of data (e.g. tabular).
+0,Build for the web using formats that are web “native” such as JSON, work naturally with HTTP such as plain text CSVs (which stream).
+0,We design for a distributed ecosystem with no centralized, single point of failure or dependence.
+0,Anyone should be able to freely and openly use and reuse what we build. Our community is open to everyone.
+0,Integrate as easily as possible with existing tools both by building integrations and designing for direct use – for example we like CSV because everyone has a tool that can access CSV.
+0,Add the minimum, do the least required, keep it simple. For example, use the most basic formats, require only the most essential metadata, data should have nothing extraneous.
+0,Help Center
+0,Über unu
+0,unu Scooter
+0,Für Unternehmen
+0,Shop
+0,Testfahrt
+0,Jobs
+0,Press Room
+0,svg
+0,+
+0,Trusted Shops Bewertung
+0,Monatlich zahlen. Schon ab 69€.
+0,Lieferung zur Haustür Fahrbereit
+0,Wir haben unu gegründet, um Menschen vollen Zugang zum Stadtleben zu eröffnen. Finde mehr über unsere Vision der Zukunft unserer Städte heraus und lerne die Menschen kennen, die daran arbeiten.
+0,Egal welches Problem – sowohl unser Team in unserem Headquarter als auch unser Servicepartnernetzwerk sind für Dich da, um alle Probleme zu lösen, die Du mit Deinem Roller haben könntest.
+0,Besuche den unu Blog und erfahre mehr über unsere Mission und Produkte – und lerne die Menschen kennen, die diese zum Leben erwecken.
+0,Er ist seit Jahrzehnten einer der Kuratoren des Nachtlebens der Hauptstadt.
+0,"Ich mache jeden Schritt in meinem Leben so bewusst wie möglich."
+0,Mogli und unu teilen die gleichen Werte und eine Liebe zur Stadt.
+0,Monatlich zahlen. Schon ab 69€/Monat.
+0,Lieferung bis zur Haustür. Fahrbereit.
+0,1. Details zum Leasing: Es handelt sich bei dem Angebot um einen Kilometerleasingvertrag. Finanzierungsbeispiel (alle Preisangaben inkl. USt.): unu Scooter 2kW (Model 2019), Nettodarlehensbetrag: 2.799,00 € (Anschaffungspreis inkl. Überführungskosten), Monatliche Leasingrate: 69 €, Vertragslaufzeit: 36 Monate, Laufleistung pro Jahr: 5.000 km, Gesamtbetrag: 2.484,00 €, Effektiver Jahreszins: 3,55%, Fester Sollzinssatz p.a.: 3,49% Repräsentatives Beispiel: Vorstehende Angaben stellen zugleich das 2/3­ Beispiel gem. § 6a Abs. 4 PAngV dar. Ein Privat-­Leasing­ Angebot der Santander Consumer Leasing GmbH (Leasinggeber), Santander-­Platz 1, 41061 Mönchengladbach. Bonität vorausgesetzt.
+0,Abonniere unseren Newsletter und bleibe auf dem Laufenden. Keine Sorge, wir mögen Werbung auch nicht.
+0,Produkt
+0,Unternehmen
+0,Förderung
+0,Lieferant & Servicenetz
+0,Deutschland
+0,Elektroroller von unu einfach online konfigurieren | unu Scooter Deutschland
+0,Mach das meiste aus Deiner Stadt.
+0,Designed in Berlin. Engineered in Germany.
+0,Wir sind da.
+0,Ein Tag mit unu.
+0,Nimm an unserer Reise teil.
+0,Werde Teil der #unuriders.
+0,Jetzt vorbestellen. 328€ sparen.
+0,Als erster Testfahren
+0,Berliner Türsteher Smiley Baldwin
+0,Move Forward mit Caro Cult
+0,Move Forward mit Mogli
+0,Wir sind eine Community.
+0,Der neue unu Scooter. Elektrischer Motor, tragbare Akkus, integrierte Navigation, teilbarer, digitaler Schlüssel und genug Platz für Deine Sachen. Ab 69€/Monat.
+0,Begleite Sängerin Mogli durch ihren Alltag in Berlin und entdecke, wie unu sie befähigt.
+0,viertschnellst wachsendes Startup '15-'17
+0,Interbrand Global Breakthrough Brand 2017
+0,Forbes 30 under 30 2017
+0,Sieh, wie unu unsere Nutzer bei ihrer Reise durch die Stadt begleitet.
+0,Wir haben unu Leasing so konzipiert, dass unsere Produkte so zugänglich wie möglich sind. Wähle zwischen 24 und 36 Monaten.
+0,Wir liefern Deinen unu Scooter direkt bis zu Deiner Haustür. Wir können uns sogar um Deine Versicherung und das Nummernschild kümmern. Damit Du direkt losfahren kannst.
+0,Trage Dich jetzt auf die Warteliste ein für den neuen unu Scooter und sei einer der ersten, die den neuen unu Scooter testfahren. Einfach Name, Email und Telefonnummer eingeben und wir melden uns bei dir sobald wir in einer Stadt in deiner Nähe sind!
+0,Lasst uns in Kontakt bleiben
+0,Zahlen mit
+0,Sicheres Einkaufen
+0,Folge uns auf
+0,Partner
+0,Bitte auswählen
+0,Die Herausforderung
+0,Die Lösung
+0,Produktstrategie
+0,svg svg svg
+0,Unser Team
+0,Lerne die fantastischen Menschen hinter unu kennen. Sie arbeiten jeden Tag daran, unsere Vision zur Realität zu machen und Dich mit Deiner Stadt zu verbinden.
+0,Collective courage
+0,Curious connection
+0,Simple perfection
+0,Radical authenticity
+0,Creative challengers
+0,Andrea Mallard
+0,Andrea is unser persönlicher Markenguru. Sie ist momentan CMO von Pinterest und arbeitete zuvor als Design Director von IDEO und Chief Brand Officer von Omada Health. Andrea hat uns von Anfang an bei der Gestaltung des Fundaments unserer Markenidentität unterstützt.
+0,Franz Blach
+0,Als langjähriger Design Director bei IDEO und mit über 20 Jahren Erfahrung in den Bereichen Marke und Design hilft uns Franz, die Marke über alle Berührungspunkte des Unternehmens hinweg in ein starkes Design-Fundament umzusetzen.
+0,LG
+0,Wir verwenden für unsere Akkupacks hochwertige, langlebige LG-Akkuzellen, um sicherzustellen, dass sie Zehntausende von Fahrten durch Deine Stadt überstehen.
+0,Vodafone
+0,Vodafone ist unser Partner für die Connectivity-Technologie unserer kommenden Produkte.
+0,BOSCH
+0,BOSCH liefert die elektrische Antriebstechnik unserer Produkte.
+0,BOSCH Service
+0,Unser unu Specialist Partner BOSCH Service bietet eine groß angelegte globale Werkstattinfrastruktur für den Fall, dass Dein unu Scooter in Schwierigkeiten gerät.
+0,PEM Motion
+0,In Zusammenarbeit mit der PEM Motion, einem Spin-Off der führenden Technologie-Universität RWTH Aachen, entwickeln wir unsere nächste Fahrzeuggeneration.
+0,CDTM
+0,Das CDTM war einer unserer ersten Unterstützer der Anfangsphase. Sie halfen uns beim Start, unter anderem durch das Vernetzen mit unseren ersten Investoren.
+0,Europäische Union
+0,Die Europäische Union hat uns durch die Organisation EIT Digital geholfen, unu zu gründen und unsere ersten Gehälter bezahlt. So konnten wir in unser erstes Produkt, den unu Scooter Classic, investieren.
+0,Stadt Berlin
+0,Die Stadt Berlin, die Regierung unseres Heimatstandortes, unterstützt uns durch Investitionen in unser Team und unser Büro – so können wir unsere verfügbaren Ressourcen in die ständige Verbesserung unserer Produkte und Dienstleistungen investieren.
+0,Bundesverkehrs-ministerium
+0,Die Bundesregierung finanziert unsere Software- und IoT-Entwicklung für unsere kommenden Produkte mit großem Engagement.
+0,Universität München
+0,Die Ludwig-Maximilians-Universität München glaubte an uns, als wir klein waren, und sponserte unsere ersten Büroflächen, bis unu anfing zu wachsen.
+0,Unsere Produktionsstätte
+0,Über unu | unu Scooter Deutschland
+0,Die Probleme urbaner Mobilität
+0,Mobilität für den Anschluss
+0,Drei Schritte zu einem besseren Stadtleben
+0,Schön, Dich kennenzulernen
+0,Unsere Werte
+0,Gemeinsam ans Ziel
+0,Partner für das perfekte Produkt
+0,Elektrisch
+0,Mobilität als Service
+0,Autonom
+0,Möchtest Du Teil unserer Bewegung werden?
+0,Wir sind David.
+0,Wir sind tiefgängig und vielfältig.
+0,Wir streben danach, mit weniger mehr zu erreichen.
+0,Wir sind offenherzig, aufgeschlossen und aufrichtig.
+0,Wir hinterfragen alles. Einschließlich uns selbst.
+0,Advisors
+0,Förderer
+0,Hohe Qualität
+0,Faire Bedingungen
+0,Nachhaltig
+0,Wir haben unu mit einer einfachen Mission gegründet: Die besten Mobilitätslösungen zu kreieren, die Dich mit Deiner Stadt verbinden und es Dir ermöglichen, das volle Potenzial des Stadtlebens auszuschöpfen. Finde mehr darüber heraus und lerne die Menschen und Partner hinter unu kennen.
+0,Unsere drei Gründer Mathieu, Elias und Pascal haben in Großstädten auf der ganzen Welt gelebt und das erstaunliche Potenzial unserer Städte erlebt. Sie mussten jedoch auch schmerzhaft lernen, wie limitiert Städter daran sind, dieses Potential zu nutzen - da urbane Mobilität heute immer noch langsam, kompliziert, teuer und schmutzig ist.
+0,Wir haben unu mit der Vision gegründet, allen Menschen den Zugang zum vollen Potenzial unserer Städte zu ermöglichen. Deshalb haben wir uns verschrieben, die besten Mobilitätslösungen zu entwickeln, die Dich mit Deiner Stadt verbinden. Unsere Mobilitätslösungen sollen bezahlbar, schnell, mühelos, sauber und ansprechend sein.
+0,Drei große Mobilitätstrends ermöglichen unsere finale Vision des idealen Stadtfahrzeugs: ein elektrisches, vernetztes und autonomes Auto. Diese Vision werden wir durch drei Produktgenerationen verwirklichen, wobei wir einen Trend pro Generation meistern werden.
+0,Du möchtest über uns schreiben?
+0,1.0
+0,Mit unserer ersten Produktgeneration, dem unu Scooter Classic, haben wir das erste Elektrofahrzeug geschaffen, das für jeden zugänglich ist: Es ist bezahlbar, einfach zu nutzen und ansprechend.
+0,2.0
+0,Mit der zweiten Produktgeneration vernetzen wir unsere Fahrzeuge. So wandeln wir sie in Plattformen für Mobilitätsdienste - wie z.B. Sharing - um und expandieren gleichzeitig in weitere Fahrzeugkategorien.
+0,3.0
+0,Sobald autonome Fahrtechnologie reif ist, werden wir sie in unser unu Car integrieren und unsere finale Produktvision, das ideale Stadtfahrzeug, realisieren.
+0,Unsere Werte stehen im Mittelpunkt unserer Organisation: Sie begleiten uns bei jeder einzelnen Entscheidung - von der Produktentwicklung bis zum Gespräch mit unseren Kunden.
+0,In einer Branche voller Riesen müssen wir uns einen schlanken und agilen Ansatz beibehalten – einen bedingungslosen Antrieb und Menschen, die als Team zusammenhalten und kämpfen, um jeden Goliath da draußen zu überlisten und zu überwältigen.
+0,Wir sind stets bestrebt, die vielfältigen Möglichkeiten der Stadt zu erforschen und zu nutzen. Wir lieben es, eine tiefe Verbindung zu Menschen und Orten aufzubauen und zu pflegen. Alles, was wir bei unu tun, zielt darauf ab, diese Verbindungen zu ermöglichen und zu verbessern.
+0,Wir sehen Raum für Verbesserungen in allem, was wir sehen und berühren. Wir lehnen nachlässige, komplexe und unintuitive Lösungen ab. Wir sind immer bestrebt Dinge besser zu machen, indem wir sie einfacher machen.
+0,Wir glauben, dass das städtische Leben zu wichtig und zu groß ist, um es mit einer verschlossenen Denkweise anzugehen. Deshalb wollen wir radikal transparent und authentisch in dem sein was wir tun – und wie wir es tun. Wir geben immer unser ganzes Selbst, unsere Leidenschaft und unsere Persönlichkeit in das, was wir tun.
+0,Unsere Kreativität ist das Ergebnis des unermüdlichen Hinterfragens davon, wie Dinge vor uns gemacht wurden und dem Ausprobieren von Neuem. Mit kindlichem Verstand müssen die ersten Fragen bei der Bewältigung jeder Herausforderung immer lauten: "Warum nicht?" und "Was wäre wenn?".
+0,Unsere Unterstützer
+0,Lerne die Menschen und Organisationen kennen, die uns unterstützen und uns auf unserer Reise begleiten.
+0,Erfahre mehr über unseren Fertigungspartner Flex und warum wir mit ihm zusammenarbeiten.
+0,Bei unserer Entscheidung für Flex haben wir großen Wert auf faire Arbeitsbedingungen gelegt. Flex begrenzt und kontrolliert Arbeitszeiten streng, achtet stark auf ein gesundes Arbeitsumfeld und engagiert sich mit z.B. einer eigenen Universität und Freizeitaktivitäten für das Wohl seiner Mitarbeiter.
+0,Der Schutz der Umwelt steht im Mittelpunkt unseres Handelns bei unu und wir glauben, dass Sauberkeit in der Fabrik beginnt. So wird beispielsweise die Anlage zur Herstellung des unu Scooter mit Solarenergie betrieben.
+0,Datenschutzerklärung
+0,Allgemeine Geschäftsbedingungen
+0,Information über die Erhebung personenbezogener Daten und Kontaktdaten des Verantwortlichen
+0,Datenerfassung beim Besuch unserer Website
+0,Cookies
+0,Kontaktaufnahme
+0,Anmeldung zu unserem E-Mail-Newsletter
+0,Online-Marketing
+0,Webanalysedienste
+0,Retargeting/ Remarketing/ Empfehlungswerbung
+0,Verwendung eines Live-Chat-Systems
+0,Rechte des Betroffenen
+0,Widerspruchsrecht
+0,Dauer der Speicherung personenbezogener Daten
+0,Bei der bloß informatorischen Nutzung unserer Website, also wenn Sie sich nicht registrieren oder uns anderweitig Informationen übermitteln, erheben wir nur solche Daten, die Ihr Browser an unseren Server übermittelt (sog. „Server-Logfiles“). Wenn Sie unsere Website aufrufen, erheben wir die folgenden Daten, die für uns technisch erforderlich sind, um Ihnen die Website anzuzeigen:
+0,Die Verarbeitung erfolgt gemäß Art. 6 Abs. 1 lit. f DSGVO auf Basis unseres berechtigten Interesses an der Verbesserung der Stabilität und Funktionalität unserer Website. Eine Weitergabe oder anderweitige Verwendung der Daten findet nicht statt. Wir behalten uns allerdings vor, die Server-Logfiles nachträglich zu überprüfen, sollten konkrete Anhaltspunkte auf eine rechtswidrige Nutzung hinweisen.
+0,Bitte beachten Sie, dass bei Nichtannahme von Cookies die Funktionalität unserer Website eingeschränkt sein kann.
+0,Im Rahmen der Kontaktaufnahme mit uns (z.B. per Kontaktformular oder E-Mail) werden personenbezogene Daten erhoben. Welche Daten im Falle eines Kontaktformulars erhoben werden, ist aus dem jeweiligen Kontaktformular ersichtlich. Diese Daten werden ausschließlich zum Zweck der Beantwortung Ihres Anliegens bzw. für die Kontaktaufnahme und die damit verbundene technische Administration gespeichert und verwendet. Rechtsgrundlage für die Verarbeitung der Daten ist unser berechtigtes Interesse an der Beantwortung Ihres Anliegens gemäß Art. 6 Abs. 1 lit. f DSGVO. Zielt Ihre Kontaktierung auf den Abschluss eines Vertrages ab, so ist zusätzliche Rechtsgrundlage für die Verarbeitung Art. 6 Abs. 1 lit. b DSGVO. Ihre Daten werden nach abschließender Bearbeitung Ihrer Anfrage gelöscht, dies ist der Fall, wenn sich aus den Umständen entnehmen lässt, dass der betroffene Sachverhalt abschließend geklärt ist und sofern keine gesetzlichen Aufbewahrungspflichten entgegenstehen.
+0,Das geltende Datenschutzrecht gewährt Ihnen gegenüber dem Verantwortlichen hinsichtlich der Verarbeitung Ihrer personenbezogenen Daten umfassende Betroffenenrechte (Auskunfts- und Interventionsrechte), über die wir Sie nachstehend informieren:
+0,Die Dauer der Speicherung von personenbezogenen Daten bemisst sich anhand der jeweiligen gesetzlichen Aufbewahrungsfrist (z.B. handels- und steuerrechtliche Aufbewahrungsfristen). Nach Ablauf der Frist werden die entsprechenden Daten routinemäßig gelöscht, sofern sie nicht mehr zur Vertragserfüllung oder Vertragsanbahnung erforderlich sind und/oder unsererseits kein berechtigtes Interesse an der Weiterspeicherung fortbesteht.
+0,Über unu
+0,Help Center
+0,unu Scooter
+0,Für Unternehmen
+0,Shop
+0,Testfahrt
+0,Jobs
+0,Press Room
+0,svg
+0,+
+0,Trusted Shops Bewertung
+0,Monatlich zahlen. Schon ab 69€.
+0,Lieferung zur Haustür Fahrbereit
+0,Wir haben unu gegründet, um Menschen vollen Zugang zum Stadtleben zu eröffnen. Finde mehr über unsere Vision der Zukunft unserer Städte heraus und lerne die Menschen kennen, die daran arbeiten.
+0,Egal welches Problem – sowohl unser Team in unserem Headquarter als auch unser Servicepartnernetzwerk sind für Dich da, um alle Probleme zu lösen, die Du mit Deinem Roller haben könntest.
+0,Besuche den unu Blog und erfahre mehr über unsere Mission und Produkte – und lerne die Menschen kennen, die diese zum Leben erwecken.
+0,Er ist seit Jahrzehnten einer der Kuratoren des Nachtlebens der Hauptstadt.
+0,"Ich mache jeden Schritt in meinem Leben so bewusst wie möglich."
+0,Mogli und unu teilen die gleichen Werte und eine Liebe zur Stadt.
+0,Monatlich zahlen. Schon ab 69€/Monat.
+0,Lieferung bis zur Haustür. Fahrbereit.
+0,1. Details zum Leasing: Es handelt sich bei dem Angebot um einen Kilometerleasingvertrag. Finanzierungsbeispiel (alle Preisangaben inkl. USt.): unu Scooter 2kW (Model 2019), Nettodarlehensbetrag: 2.799,00 € (Anschaffungspreis inkl. Überführungskosten), Monatliche Leasingrate: 69 €, Vertragslaufzeit: 36 Monate, Laufleistung pro Jahr: 5.000 km, Gesamtbetrag: 2.484,00 €, Effektiver Jahreszins: 3,55%, Fester Sollzinssatz p.a.: 3,49% Repräsentatives Beispiel: Vorstehende Angaben stellen zugleich das 2/3­ Beispiel gem. § 6a Abs. 4 PAngV dar. Ein Privat-­Leasing­ Angebot der Santander Consumer Leasing GmbH (Leasinggeber), Santander-­Platz 1, 41061 Mönchengladbach. Bonität vorausgesetzt.
+0,Abonniere unseren Newsletter und bleibe auf dem Laufenden. Keine Sorge, wir mögen Werbung auch nicht.
+0,Produkt
+0,Unternehmen
+0,Förderung
+0,Lieferant & Servicenetz
+0,Deutschland
+0,Elektroroller von unu einfach online konfigurieren | unu Scooter Deutschland
+0,Mach das meiste aus Deiner Stadt.
+0,Designed in Berlin. Engineered in Germany.
+0,Wir sind da.
+0,Ein Tag mit unu.
+0,Nimm an unserer Reise teil.
+0,Werde Teil der #unuriders.
+0,Jetzt vorbestellen. 328€ sparen.
+0,Als erster Testfahren
+0,Berliner Türsteher Smiley Baldwin
+0,Move Forward mit Caro Cult
+0,Move Forward mit Mogli
+0,Wir sind eine Community.
+0,Der neue unu Scooter. Elektrischer Motor, tragbare Akkus, integrierte Navigation, teilbarer, digitaler Schlüssel und genug Platz für Deine Sachen. Ab 69€/Monat.
+0,Begleite Sängerin Mogli durch ihren Alltag in Berlin und entdecke, wie unu sie befähigt.
+0,viertschnellst wachsendes Startup '15-'17
+0,Interbrand Global Breakthrough Brand 2017
+0,Forbes 30 under 30 2017
+0,Sieh, wie unu unsere Nutzer bei ihrer Reise durch die Stadt begleitet.
+0,Wir haben unu Leasing so konzipiert, dass unsere Produkte so zugänglich wie möglich sind. Wähle zwischen 24 und 36 Monaten.
+0,Wir liefern Deinen unu Scooter direkt bis zu Deiner Haustür. Wir können uns sogar um Deine Versicherung und das Nummernschild kümmern. Damit Du direkt losfahren kannst.
+0,Trage Dich jetzt auf die Warteliste ein für den neuen unu Scooter und sei einer der ersten, die den neuen unu Scooter testfahren. Einfach Name, Email und Telefonnummer eingeben und wir melden uns bei dir sobald wir in einer Stadt in deiner Nähe sind!
+0,Lasst uns in Kontakt bleiben
+0,Zahlen mit
+0,Sicheres Einkaufen
+0,Folge uns auf
+0,Partner
+0,Bitte auswählen
+0,Die Herausforderung
+0,Die Lösung
+0,Produktstrategie
+0,svg svg svg
+0,Unser Team
+0,Lerne die fantastischen Menschen hinter unu kennen. Sie arbeiten jeden Tag daran, unsere Vision zur Realität zu machen und Dich mit Deiner Stadt zu verbinden.
+0,Collective courage
+0,Curious connection
+0,Simple perfection
+0,Radical authenticity
+0,Creative challengers
+0,Andrea Mallard
+0,Andrea is unser persönlicher Markenguru. Sie ist momentan CMO von Pinterest und arbeitete zuvor als Design Director von IDEO und Chief Brand Officer von Omada Health. Andrea hat uns von Anfang an bei der Gestaltung des Fundaments unserer Markenidentität unterstützt.
+0,Franz Blach
+0,Als langjähriger Design Director bei IDEO und mit über 20 Jahren Erfahrung in den Bereichen Marke und Design hilft uns Franz, die Marke über alle Berührungspunkte des Unternehmens hinweg in ein starkes Design-Fundament umzusetzen.
+0,LG
+0,Wir verwenden für unsere Akkupacks hochwertige, langlebige LG-Akkuzellen, um sicherzustellen, dass sie Zehntausende von Fahrten durch Deine Stadt überstehen.
+0,Vodafone
+0,Vodafone ist unser Partner für die Connectivity-Technologie unserer kommenden Produkte.
+0,BOSCH
+0,BOSCH liefert die elektrische Antriebstechnik unserer Produkte.
+0,BOSCH Service
+0,Unser unu Specialist Partner BOSCH Service bietet eine groß angelegte globale Werkstattinfrastruktur für den Fall, dass Dein unu Scooter in Schwierigkeiten gerät.
+0,PEM Motion
+0,In Zusammenarbeit mit der PEM Motion, einem Spin-Off der führenden Technologie-Universität RWTH Aachen, entwickeln wir unsere nächste Fahrzeuggeneration.
+0,CDTM
+0,Das CDTM war einer unserer ersten Unterstützer der Anfangsphase. Sie halfen uns beim Start, unter anderem durch das Vernetzen mit unseren ersten Investoren.
+0,Europäische Union
+0,Die Europäische Union hat uns durch die Organisation EIT Digital geholfen, unu zu gründen und unsere ersten Gehälter bezahlt. So konnten wir in unser erstes Produkt, den unu Scooter Classic, investieren.
+0,Stadt Berlin
+0,Die Stadt Berlin, die Regierung unseres Heimatstandortes, unterstützt uns durch Investitionen in unser Team und unser Büro – so können wir unsere verfügbaren Ressourcen in die ständige Verbesserung unserer Produkte und Dienstleistungen investieren.
+0,Bundesverkehrs-ministerium
+0,Die Bundesregierung finanziert unsere Software- und IoT-Entwicklung für unsere kommenden Produkte mit großem Engagement.
+0,Universität München
+0,Die Ludwig-Maximilians-Universität München glaubte an uns, als wir klein waren, und sponserte unsere ersten Büroflächen, bis unu anfing zu wachsen.
+0,Unsere Produktionsstätte
+0,Über unu | unu Scooter Deutschland
+0,Die Probleme urbaner Mobilität
+0,Mobilität für den Anschluss
+0,Drei Schritte zu einem besseren Stadtleben
+0,Schön, Dich kennenzulernen
+0,Unsere Werte
+0,Gemeinsam ans Ziel
+0,Partner für das perfekte Produkt
+0,Elektrisch
+0,Mobilität als Service
+0,Autonom
+0,Möchtest Du Teil unserer Bewegung werden?
+0,Wir sind David.
+0,Wir sind tiefgängig und vielfältig.
+0,Wir streben danach, mit weniger mehr zu erreichen.
+0,Wir sind offenherzig, aufgeschlossen und aufrichtig.
+0,Wir hinterfragen alles. Einschließlich uns selbst.
+0,Advisors
+0,Förderer
+0,Hohe Qualität
+0,Faire Bedingungen
+0,Nachhaltig
+0,Wir haben unu mit einer einfachen Mission gegründet: Die besten Mobilitätslösungen zu kreieren, die Dich mit Deiner Stadt verbinden und es Dir ermöglichen, das volle Potenzial des Stadtlebens auszuschöpfen. Finde mehr darüber heraus und lerne die Menschen und Partner hinter unu kennen.
+0,Unsere drei Gründer Mathieu, Elias und Pascal haben in Großstädten auf der ganzen Welt gelebt und das erstaunliche Potenzial unserer Städte erlebt. Sie mussten jedoch auch schmerzhaft lernen, wie limitiert Städter daran sind, dieses Potential zu nutzen - da urbane Mobilität heute immer noch langsam, kompliziert, teuer und schmutzig ist.
+0,Wir haben unu mit der Vision gegründet, allen Menschen den Zugang zum vollen Potenzial unserer Städte zu ermöglichen. Deshalb haben wir uns verschrieben, die besten Mobilitätslösungen zu entwickeln, die Dich mit Deiner Stadt verbinden. Unsere Mobilitätslösungen sollen bezahlbar, schnell, mühelos, sauber und ansprechend sein.
+0,Drei große Mobilitätstrends ermöglichen unsere finale Vision des idealen Stadtfahrzeugs: ein elektrisches, vernetztes und autonomes Auto. Diese Vision werden wir durch drei Produktgenerationen verwirklichen, wobei wir einen Trend pro Generation meistern werden.
+0,Du möchtest über uns schreiben?
+0,1.0
+0,Mit unserer ersten Produktgeneration, dem unu Scooter Classic, haben wir das erste Elektrofahrzeug geschaffen, das für jeden zugänglich ist: Es ist bezahlbar, einfach zu nutzen und ansprechend.
+0,2.0
+0,Mit der zweiten Produktgeneration vernetzen wir unsere Fahrzeuge. So wandeln wir sie in Plattformen für Mobilitätsdienste - wie z.B. Sharing - um und expandieren gleichzeitig in weitere Fahrzeugkategorien.
+0,3.0
+0,Sobald autonome Fahrtechnologie reif ist, werden wir sie in unser unu Car integrieren und unsere finale Produktvision, das ideale Stadtfahrzeug, realisieren.
+0,Unsere Werte stehen im Mittelpunkt unserer Organisation: Sie begleiten uns bei jeder einzelnen Entscheidung - von der Produktentwicklung bis zum Gespräch mit unseren Kunden.
+0,In einer Branche voller Riesen müssen wir uns einen schlanken und agilen Ansatz beibehalten – einen bedingungslosen Antrieb und Menschen, die als Team zusammenhalten und kämpfen, um jeden Goliath da draußen zu überlisten und zu überwältigen.
+0,Wir sind stets bestrebt, die vielfältigen Möglichkeiten der Stadt zu erforschen und zu nutzen. Wir lieben es, eine tiefe Verbindung zu Menschen und Orten aufzubauen und zu pflegen. Alles, was wir bei unu tun, zielt darauf ab, diese Verbindungen zu ermöglichen und zu verbessern.
+0,Wir sehen Raum für Verbesserungen in allem, was wir sehen und berühren. Wir lehnen nachlässige, komplexe und unintuitive Lösungen ab. Wir sind immer bestrebt Dinge besser zu machen, indem wir sie einfacher machen.
+0,Wir glauben, dass das städtische Leben zu wichtig und zu groß ist, um es mit einer verschlossenen Denkweise anzugehen. Deshalb wollen wir radikal transparent und authentisch in dem sein was wir tun – und wie wir es tun. Wir geben immer unser ganzes Selbst, unsere Leidenschaft und unsere Persönlichkeit in das, was wir tun.
+0,Unsere Kreativität ist das Ergebnis des unermüdlichen Hinterfragens davon, wie Dinge vor uns gemacht wurden und dem Ausprobieren von Neuem. Mit kindlichem Verstand müssen die ersten Fragen bei der Bewältigung jeder Herausforderung immer lauten: "Warum nicht?" und "Was wäre wenn?".
+0,Unsere Unterstützer
+0,Lerne die Menschen und Organisationen kennen, die uns unterstützen und uns auf unserer Reise begleiten.
+0,Erfahre mehr über unseren Fertigungspartner Flex und warum wir mit ihm zusammenarbeiten.
+0,Bei unserer Entscheidung für Flex haben wir großen Wert auf faire Arbeitsbedingungen gelegt. Flex begrenzt und kontrolliert Arbeitszeiten streng, achtet stark auf ein gesundes Arbeitsumfeld und engagiert sich mit z.B. einer eigenen Universität und Freizeitaktivitäten für das Wohl seiner Mitarbeiter.
+0,Der Schutz der Umwelt steht im Mittelpunkt unseres Handelns bei unu und wir glauben, dass Sauberkeit in der Fabrik beginnt. So wird beispielsweise die Anlage zur Herstellung des unu Scooter mit Solarenergie betrieben.
+0,Datenschutzerklärung
+0,Allgemeine Geschäftsbedingungen
+0,Information über die Erhebung personenbezogener Daten und Kontaktdaten des Verantwortlichen
+0,Datenerfassung beim Besuch unserer Website
+0,Cookies
+0,Kontaktaufnahme
+0,Anmeldung zu unserem E-Mail-Newsletter
+0,Online-Marketing
+0,Webanalysedienste
+0,Retargeting/ Remarketing/ Empfehlungswerbung
+0,Verwendung eines Live-Chat-Systems
+0,Rechte des Betroffenen
+0,Widerspruchsrecht
+0,Dauer der Speicherung personenbezogener Daten
+0,Bei der bloß informatorischen Nutzung unserer Website, also wenn Sie sich nicht registrieren oder uns anderweitig Informationen übermitteln, erheben wir nur solche Daten, die Ihr Browser an unseren Server übermittelt (sog. „Server-Logfiles“). Wenn Sie unsere Website aufrufen, erheben wir die folgenden Daten, die für uns technisch erforderlich sind, um Ihnen die Website anzuzeigen:
+0,Die Verarbeitung erfolgt gemäß Art. 6 Abs. 1 lit. f DSGVO auf Basis unseres berechtigten Interesses an der Verbesserung der Stabilität und Funktionalität unserer Website. Eine Weitergabe oder anderweitige Verwendung der Daten findet nicht statt. Wir behalten uns allerdings vor, die Server-Logfiles nachträglich zu überprüfen, sollten konkrete Anhaltspunkte auf eine rechtswidrige Nutzung hinweisen.
+0,Bitte beachten Sie, dass bei Nichtannahme von Cookies die Funktionalität unserer Website eingeschränkt sein kann.
+0,Im Rahmen der Kontaktaufnahme mit uns (z.B. per Kontaktformular oder E-Mail) werden personenbezogene Daten erhoben. Welche Daten im Falle eines Kontaktformulars erhoben werden, ist aus dem jeweiligen Kontaktformular ersichtlich. Diese Daten werden ausschließlich zum Zweck der Beantwortung Ihres Anliegens bzw. für die Kontaktaufnahme und die damit verbundene technische Administration gespeichert und verwendet. Rechtsgrundlage für die Verarbeitung der Daten ist unser berechtigtes Interesse an der Beantwortung Ihres Anliegens gemäß Art. 6 Abs. 1 lit. f DSGVO. Zielt Ihre Kontaktierung auf den Abschluss eines Vertrages ab, so ist zusätzliche Rechtsgrundlage für die Verarbeitung Art. 6 Abs. 1 lit. b DSGVO. Ihre Daten werden nach abschließender Bearbeitung Ihrer Anfrage gelöscht, dies ist der Fall, wenn sich aus den Umständen entnehmen lässt, dass der betroffene Sachverhalt abschließend geklärt ist und sofern keine gesetzlichen Aufbewahrungspflichten entgegenstehen.
+0,Das geltende Datenschutzrecht gewährt Ihnen gegenüber dem Verantwortlichen hinsichtlich der Verarbeitung Ihrer personenbezogenen Daten umfassende Betroffenenrechte (Auskunfts- und Interventionsrechte), über die wir Sie nachstehend informieren:
+0,Die Dauer der Speicherung von personenbezogenen Daten bemisst sich anhand der jeweiligen gesetzlichen Aufbewahrungsfrist (z.B. handels- und steuerrechtliche Aufbewahrungsfristen). Nach Ablauf der Frist werden die entsprechenden Daten routinemäßig gelöscht, sofern sie nicht mehr zur Vertragserfüllung oder Vertragsanbahnung erforderlich sind und/oder unsererseits kein berechtigtes Interesse an der Weiterspeicherung fortbesteht.
+1,Tempelhofer Ufer 17 10963 Berlin Deutschland  Tel.: +49 (0) 30 220 1212 98 (Wenn Du eine Kundenanfrage hast, wende Dich bitte nicht an diese Telefonnummer,
