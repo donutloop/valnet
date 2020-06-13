@@ -10426,3 +10426,143 @@
 0,Das geltende Datenschutzrecht gewährt Ihnen gegenüber dem Verantwortlichen hinsichtlich der Verarbeitung Ihrer personenbezogenen Daten umfassende Betroffenenrechte (Auskunfts- und Interventionsrechte), über die wir Sie nachstehend informieren:
 0,Die Dauer der Speicherung von personenbezogenen Daten bemisst sich anhand der jeweiligen gesetzlichen Aufbewahrungsfrist (z.B. handels- und steuerrechtliche Aufbewahrungsfristen). Nach Ablauf der Frist werden die entsprechenden Daten routinemäßig gelöscht, sofern sie nicht mehr zur Vertragserfüllung oder Vertragsanbahnung erforderlich sind und/oder unsererseits kein berechtigtes Interesse an der Weiterspeicherung fortbesteht.
 1,Tempelhofer Ufer 17 10963 Berlin Deutschland  Tel.: +49 (0) 30 220 1212 98 (Wenn Du eine Kundenanfrage hast, wende Dich bitte nicht an diese Telefonnummer,
+0,mdb-icon
+0,mdb-navbar-brand
+0,links
+0,sm-feature-item sm-feature-item
+0,mdb-slide mdb-slide mdb-slide
+0,mdb-image-modal
+0,© 2020 Copyright:
+0,Home
+0,We help transit media vendors
+0,Advertisers Demand ROI
+0,StreetMetrics is the next generation of Audience Intelligence Software for moving OOH.
+0,Testimonials
+0,Blog
+0,Plan
+0,Track
+0,Prove
+0,Grow
+0,In Store Visitation + Online Ad Re-Targeting
+0,StreetMetrics leverages traffic + mobile location data to provide accurate media measurement, audience intelligence, and location-optimized media placement for ads on moving vehicles.
+0,Dave Reed
+0,Ben Turner
+0,Shawn Fitzwater
+0,Full customer support. Easy to integrate.
+0,StreetMetrics leverages the industry’s largest supply of high-quality traffic + mobile location data as a foundation for its robust and intelligent tools to help you increase your ad revenue.
+0,Leverage our industry leading technology to take the mobility data (real-time or historical) from your advertising vehicle to give you the insights and reports that media buyers need when buying advertising on your assets.
+0,Give them actionable insights with ease
+0,Measurement
+0,Support
+0,Audiences
+0,Manage + Reporting
+0,Find out why people love StreetMetrics
+0,Read the latest and greatest StreetMetrics news. Click to view more
+0,StreetMetrics
+0,Services
+0,Legal
+0,Sales Director - Zagster
+0,Executive Director - B-Cycle
+0,CEO - Spokesman Cycle Ads
+0,Use real-world data to target your next advertising campaign.
+0,Know who is seeing your ad with up to date measurement tools and audience profiles.
+0,Provide your advertisers the end-of-campaign ROI they demand.
+0,Leverage a world of insights that will take your advertising business to new heights!
+0,StreetMetrics proprietary technology leverages traffic + mobile
+0,We understand data can be overwhelming, that’s why StreetMetrics turns ‘big data’ in
+0,StreetMetrics uses contextualized mobile location data to develop an extensive profile
+0,Generate and deliver actionable reports for your clients. Advertisers demand ROI
+0,Take moving OOH to the next level! Learn who came in contact with your moving advertisement and re-target them with advertising social + our In App ad network. Plus, determine if the exposed audience took action and showed up in your specific place of business.
+0,In today’s digital age, we must answer the questions of who, what, where, and why
+0,We feel that StreetMetrics is one of those strategic partners that will help us grow. Their
+0,The StreetMetrics platform has allowed us to expand our vision for Spokesman Cycle Ads
+0,by , 5/1/20, 8:24 PM
+0,StreetMetrics Provides Real Time Audience Intelligence for Moving Signage. We measure your traffic so you can focus on optimizing and performance.
+0,svg
+0,EEOC   EEOC
+0,<p class="mtna-learn-more"><a href="/project-ccaoa.html">Learn More</a></p>
+0,Partners --
+0,Partners
+0,<p class="mtna-learn-more"><a href="/project-collegeboard.html">Learn More</a></p>
+1,Metadata Technology North America Inc. 3915 Papermill Dr., Knoxville, TN 37909, USA
+0,Key Partners
+0,© 2019 Metadata Technology North America Inc. All Rights Reserved.
+0,Metadata Technology North America
+0,Your data is So should your be.
+0,The Science of
+0,What We Do
+0,Our Approach
+0,Our Work
+0,Our Customers
+0,Effectively Unifying Data & Metadata
+0,Selected ongoing or completed projects
+0,Selected organizations we've been privileged to collaborate with
+0,Work with a team passionate about data.
+0,Data Collection
+0,Data Repositories
+0,Data Discovery & Delivery
+0,Data Management Infrastructure
+0,Enterprise Metadata Management
+0,Subject Matter Expertise
+0,Data Management Platform
+0,Metadata Management Platform
+0,A Custom-Tailored Solution
+0,Infrastructure
+0,Strategy
+0,MTNA COVID-19 Rich Data Services Project
+0,Statistics Canada Ariā Classification Management System
+0,Child Care Data Center
+0,Continuous Capture of Metadata
+0,College Board Admitted Class Evaluation Service™ (ACES)
+0,Concept & Classification Management System
+0,We combine traditional and innovative data management tools, databases, and related technologies to
+0,Our Rich Data Services (RDS) framework is a powerful platform, developed over two decades, to capture
+0,We understand eveyone has different needs and operating environments. We weave together data
+0,Whether you seek to strengthen your existing infrastructure or starting from the ground up, we work
+0,From initial assessment to final execution, we offer our expertise at bringing all the pieces
+0,Establishment of a , powered by our platform,
+0,Integrate and deploy our Aria platform in the government cloud environment to support the development and maintenance of classifications and concordances driving
+0,Following a successful prototyping phase, help advance their Child Care Data Center by streamlining annual survey data collection processes and develop story telling data visualzaitions and digital reports for advocates and policy makers.
+0,Withdrawing Consent
+0,Changes to our Privacy Policy
+0,Company
+0,Supported by a US National Science Foundation Data Infrastructure Building Blocks (DIBBs) program grant, this collaborative research project aims to elaborate and implement innovative tools and techniques to automate the capture and understanding of data transformations applied by scripts and programs to datasets.
+0,Deliver the next generation portal for the for College Board to produce ACCUPLACER, AP, CLEP, and SAT admission and/or
+0,About Us
+0,Who We Are
+0,Company Overview
+0,Leadership Team
+0,Will is a Senior Front End Engineer who gets excited about creating elegant, scalable, robust, and maintainable solutions to complex problems. He is passionate about incorporating design principles to create intuitive user interactions and feature-rich user experiences. Wearing many hats, you might call him a product designer, user interface designer, button creator, web developer, user experience designer, or by any other market defined function-title. He is proud to develop and give users the tools to unleash the power of MTNA’s metadata management solutions.
+1,3915 Papermill Drive Knoxville, TN 37909 USA
+0,+ 1 (865) 245-4542
+0,+ 1 (877) DDI-SDMX
+0,mtna@mtna.us
+0,Metadata Technology North America Inc.
+0,MTNA - Privacy Policy
+0,Data Protection and Privacy Policy
+0,Last Updated: May 29, 2020
+0,Your Consent
+0,Definitions
+0,Principles for Processing Personal Data
+0,What Information do we collect?
+0,Where do we store your information?
+0,How do we use your information?
+0,Legal Basis for Collecting and Processing Personal Data
+0,Do we use cookies or Tracking Pixels?
+0,Do We use Hotjar?
+0,Do we transfer your data to other countries?
+0,How Do We Respond to "Do Not Track" Signals?
+0,How long do we store your information?
+0,What about links to other websites?
+0,How do we protect your information?
+0,How can you protect your information?
+0,Do we disclose any information to outside parties?
+0,Not Intended for Children
+0,Notice for Minors
+0,Data Protection Rights
+0,Contact Us
+0,GDPR
+0,Data Controller
+0,Data Processor
+0,Data Subject
+0,Welcome to this website operated by Metadata Technology North America Inc. (the “Company”).
