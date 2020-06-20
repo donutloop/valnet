@@ -10566,3 +10566,49 @@
 0,Data Processor
 0,Data Subject
 0,Welcome to this website operated by Metadata Technology North America Inc. (the “Company”).
+0,svg  svg
+0,Supportanfragen erfordern eine Verifizierung des Produktkaufs.
+0,svg
+0,Sie finden hier Antworten auf die häufigsten Fragen zu unseren Leistungen und Produkten.
+0,Sie erhalten in unserem Forum Hilfe zu Problemen oder speziellen Fragen.
+0,All unsere Hilfsangebote konnten dir nicht weiterhelfen?
+0,Jedes Projekte ist individuell. In Funktion, Design und Technik. Gerne erstellen wir Ihnen ein konkretes Angebot für Ihre Anfrage.
+0,€
+0,Vom Newsletter-System bis hin zu Trophäen für Ihre Community – entdecken Sie unsere vielfältigen Produkte im WoltLab Plugin-Store.
+0,Praktikas bei uns sind sehr begehrt und nachgefragt. Bewirb dich jetzt direkt über unsere Website. Egal ob für die Schule, Studium oder in der Freizeit.
+0,DevLabor - Konzeption, Beratung, Webentwicklung, Appentwicklung
+0,Websites, Apps Software
+0,Code is what we’re living for
+0,Coder aus Leidenschaft
+0,Schreiben Sie uns!
+0,Ausgesuchte Projekte
+0,Wie können wir helfen?
+0,Wie teuer wird Ihr Projekt?
+0,Unsere Produkte
+0,Praktikum bei DevLabor
+0,Persönliche Daten
+0,Bewerbung
+0,Sonstiges
+0,Oder rufen Sie uns einfach an:
+0,Wir leben digital. Jeden Tag verwandeln wir Ideen in makellosen Code. Und schaffen perfekte Nutzererlebnisse online wie offline. Erfahren Sie mehr!
+0,Wir programmieren. Punkt. Denn das können wir richtig gut. Für Agenturen, Unternehmen, Institutionen und Start-ups. Für Desktop, Web und Mobile. Ohne Länder- Branchen- oder sonstige Grenzen. Fordern Sie uns heraus und lassen Sie sich begeistern.
+0,Ja, wir sind Programmierer. Ein bisschen so, wie man sich Programmierer eben vorstellt. Und auch ein bisschen ganz anders. Worauf Sie sich verlassen können: Wir reden jederzeit ehrlich und verbindlich mit Ihnen. Und wir legen uns für Ihr Projekt maximal ins Zeug.
+0,Wir springen mit einem kurzen Rückblick in das letzte Jahr: Im November wurden wir mit dem Wirtschaftspreis Altmark 2019 als…
+0,Digital werden war noch nie einfacher - mit einer Förderung des Bundes eröffnen sich für Sie neue Chancen. Jetzt bis zu 16.000 EUR…
+0,Nach ein paar Wochen im Homeoffice ist es gar nicht mehr so einfach die privaten Angelegenheiten von der Arbeitswelt zu trennen. Verlockt doch…
+0,DevLabor
+0,Rechtliches
+0,Salzwedel
+1,Neuperverstr. 30 29410 Hansestadt Salzwedel
+0,(Eingang über Lohteich 5)
+0,E-Mail: Telefon:
+0,Sachsen Anhalt Digital Creativity
+0,CrossInnovation
+0,DevLabor. Websites & Apps.
+0,Diese Website verwendet Cookies, um dir das beste Surferlebnis zu bieten.
+0,Erfahre mehr oder passe deine an.
+0,Diese Website verwendet Cookies, damit wir dir die bestmögliche Benutzererfahrung bieten können. Cookie-Informationen werden in deinem Browser gespeichert und führen Funktionen aus, wie das Wiedererkennen von dir, wenn du auf unsere Website zurückkehrst, und hilft unserem Team zu verstehen, welche Abschnitte der Website für dich am interessantesten und nützlichsten sind.
+0,Unbedingt notwendige Cookies sollten jederzeit aktiviert sein, damit wir deine Einstellungen für die Cookie-Einstellungen speichern können.
+0,Wenn du diesen Cookie deaktivierst, können wir die Einstellungen nicht speichern. Dies bedeutet, dass du jedes Mal, wenn du diese Website besuchst, die Cookies erneut aktivieren oder deaktivieren musst.
+0,Diesen Cookie aktiviert zu lassen, hilft uns, unsere Website zu verbessern.
+0,Bitte aktiviere zuerst die unbedingt notwendigen Cookies, damit wir deine Einstellungen speichern können!
