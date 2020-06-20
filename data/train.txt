@@ -10612,3 +10612,92 @@
 0,Wenn du diesen Cookie deaktivierst, können wir die Einstellungen nicht speichern. Dies bedeutet, dass du jedes Mal, wenn du diese Website besuchst, die Cookies erneut aktivieren oder deaktivieren musst.
 0,Diesen Cookie aktiviert zu lassen, hilft uns, unsere Website zu verbessern.
 0,Bitte aktiviere zuerst die unbedingt notwendigen Cookies, damit wir deine Einstellungen speichern können!
+0,info@fractory.com
+0,Login to system
+0,or
+0,+447935756056
+0,t
+0,e
+0,LinkedIn
+0,Cutting area up to 3200 x 20000 mm. Maximum material thickness: carbon steel <25 mm, stainless steel <30 mm, aluminium <30 mm.
+0,Find out more
+0,Cutting area up to 5000 x 25000 mm. Plasma cutting maximum thickness: carbon steel 50 mm, stainless steel 50 mm.
+0,Cutting area up to 3000 x 12000 mm. Flame cutting maximum thickness: carbon steel 150 mm.
+0,Cutting area up to 3000 x 6000 mm. Waterjet cutting maximum thickness: Any metal up to 300 mm.
+0,Laser sources up to 4 kW. Maximum tube length up to 6 m with automatic loading. Diagonal of profile up to 200 mm. Wall thickness up to 12 mm.
+0,CNC milling: Maximum dimensions: 11500 x 1500 x 2500 mm. CNC turning: Max diameter: 950 mm. Max length: 3845 mm.
+0,Up to 1000 tons bending capacity. Maximum bending length: up to 7200 mm.
+0,Metal surface treatment allows to give a desired appearance to the product. Additional surface treatment also lengthens the lifetime of metal.
+0,Upload your drawings to our online metal fabrication platform and insert parameters for instant pricing and lead time. This isn’t an estimate, but a guaranteed price.
+0,At Fractory, our passion is to help our customers finish their projects on time or ahead of schedule. This is why we are dedicated to providing the fastest sheet metal fabrication service on the market. We deliver your laser cut parts right to your selected address all over the UK
+0,We offer metal work services for bespoke solutions. Our sales engineers have years of experience in providing metal structures and products to a range of industries, including forestry, agricultural, machine and ship building, etc. Orders from 1 part to series production are welcome.
+0,Fractory’s smart algorithm ensures a fast lead time and low cost by utilising a network of high-quality manufacturers across the UK.
+0,We guarantee your custom sheet metal parts will be built to your specifications. We are constantly monitoring our manufacturing partners' finished products to ensure the highest quality parts at low prices and competitive lead times.
+0,Fractory Ltd offers all the services listed above, including laser cutting, plasma cutting, press braking, powder coating, etc. CNC machining and punching is available upon manual request. We do not, however, provide welding services at this moment.
+0,We do not limit ourselves to steel fabrication only. Rather, we provide a wide range of materials to choose from. Mild steel, stainless teel, aluminium, copper alloys and various types of special steels are all available.
+0,Very happy with the service we've received! Ordering couldn't be simpler and the turnaround and prices are excellent too.
+0,Fractory has been invaluable for us in speeding up the process of quoting and delivery. We can provide clients with fast and accurate prices. The quality of the finished items is great!
+0,The website is intuitive and easy to use, enabling informed design changes based on price. Also, it's great for estimating the costs of scaling up production.
+0,We have minimised the need for back and forth e-mails. Ordering is quick and saves us time. The whole process is dynamic and effective. In business terms, time is money.
+0,We use the online sheet metal fabrication service mostly because of short lead times. In addition, you have managed to manufacture parts that others couldn't.
+1,Fractory Ltd, Barclays Eagle Lab, Union, Albert Square, Manchester M2 6LW
+0,Sheet Metal Fabrication in UK | Custom Metal Parts | Fractory
+0,Sheet Metal Fabrication
+0,Sheet Metal Forming
+0,Instant Pricing & Lead Time
+0,UK Delivery in 9 Days
+0,Custom Metal Fabrication
+0,Manufacturing Partners
+0,Quality Assurance
+0,Range of Fabrication Methods
+0,Sheet Metal Fabrication Materials
+0,Read
+0,Stop wasting time on admin! Order your sheet metal fabrication online. Immediate pricing and short lead times all over the UK.
+0,Capabilities
+0,Knowledge base
+0,About
+0,Save time and order sheet metal fabrication in seconds. No more back-and-forth emails or phone calls. Guaranteed quality and UK-wide shipping in 9 working days.
+0,Immediate access. Sign in.
+0,/08
+0,Fractory's platform offers sheet metal fabrication services online. Our wide range of manufacturing partners all over the UK provide high quality laser cutting and metal folding services. After uploading your CAD files to the platform, our algorithm chooses a partnering supplier to suit your needs according to their availability, location, capabilities and materials. Fractory provides a full service - from quoting to manufacturing and delivery, taking full responsibility for every step. All manufacturing according to ISO 9001 and ISO 9013. All raw materials certified with EN 10204.
+0,Custom Parts
+0,An engineering drawing is a subcategory of technical drawings. The purpose is to convey all the information necessary for manufacturing a product or a part. Engineering drawings use standardised language […]
+0,This field is for validation purposes and should be left unchanged.
+0,Contact Us
+0,Hardness is a material’s quality to withstand localised deformation. It may be especially important when looking for a suitable material for an environment that includes little particles that can induce […]
+0,Engineering a great product comprises of many steps. From idea generation to actual production, you have to look for the best solution at every stage. In this article, we will […]
+0,Contact
+0,Social
+0,Privacy Policy | Fractory
+0,Privacy Policy
+0,Cookies
+0,Communications
+0,Security of your data
+0,Links to other sites
+0,Children’s privacy
+0,International transfer
+0,Changes to this privacy policy
+0,Below is a description of how the data we gather from you as a visitor (hereinafter “the Visitor”, “you”, “visitor” or “Customer”, “User”) to our publicly-accessible website www.fractory.com (hereinafter known as “Fractory”, “Site”, “the Site”, “We” or “Us”) and other websites where this privacy policy (hereinafter “Policy” or “the Policy”) is posted, is used and how it is kept safe.
+0,Please review this Policy before using any part of the Site as by using any part of the Site you hereby agree to the collection, use, and disclosure of your information as outlined below. The lawful basis for processing and storing data subjects personal data and data retention periods are based on the explicit consent given by the user creating the account. Covered in more detail in the Data Handling Policy.
+0,We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions of Service, accessible at www.fractory.com. While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally, identifiable information may include but is not limited to, your email address, name, phone number, postal address, other information (“Personal Information”).
+0,What kind of data is collected:
+0,How is the data collected used:
+0,We will not use the data from the Visitor for no other purposes than to provide and personalize services. We will not sell any information to any third parties.
+0,Who We may share your data with:
+0,No personal information that is collected from the Visitors is disclosed unless the explicit content is granted for such purposes. The exception done to this rule is when such information is required under a legal obligation as stated in the following section.
+0,In order to ensure the quality of the service and assess the service in regards to the site,
+0,Fractory is using the following third-party services:
+0,Fractory Solutions may also be able to access the device information.
+0,Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive. We use “cookies” to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
+0,We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.
+0,The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, in compliance with GDPR, we cannot guarantee its absolute security.
+0,Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit. We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+0,Our Service does not address anyone under the age of 13 (“Children”). We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your Children has provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from children under age 13 without verification of parental consent, we take steps to remove that information from our servers.
+0,Your information, including Personal Information, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction. If you are located outside Estonia and choose to provide information to us, please note that we transfer the information, including Personal Information, to Estonia and process it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+0,The Policy is revised over time. Any changes made to the Policy will be updated and the version of the Policy with the effective date shall be written at the bottom of the document. The customer is encouraged to check the effective dates of the Policy. The continued use of the Fractory service shall be considered as an acceptance to all revisions of the Policy. If the customer shall not agree to any changes made, then the customer must cease to use the service and Fractory shall not be obliged to offer any services to the customer.
+0,IBAN: 68603594
+0,Reg nr: 11896927
+0,VAT nr: GB325288201
+0,Contacts | Fractory
+0,FRACTORY SOLUTIONS
+0,Drop us a line
