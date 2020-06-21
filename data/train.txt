@@ -10701,3 +10701,165 @@
 0,Contacts | Fractory
 0,FRACTORY SOLUTIONS
 0,Drop us a line
+0,Holli - Seattle, WA | EquityMultiple Investor
+0,An accredited investor is someone with a net worth of at least $1 million, excluding the value of their primary residence, OR income of at least $200,000 each year for the last two years (or $300,000 combined income if married).
+0,Watch a Brief Intro Video
+0,Download Exclusive Whitepaper
+0,Tacoma, Washington
+0,Total Capitalization
+0,$46,700,000
+0,Offering Type
+0,Equity
+0,Asset Type
+0,Office
+0,Amount Raised
+0,$1,500,000
+0,Strategy
+0,Core
+0,Brooklyn, New York
+0,$97,974,000
+0,Mezzanine Debt
+0,Condo
+0,$4,000,000
+0,Term
+0,26 Months
+0,Lombard, Illinois
+0,$16,900,000
+0,Senior Debt
+0,Data Center
+0,$3,000,000
+0,12 Months
+0,San Francisco, CA
+0,$4,265,405
+0,Multifamily
+0,$1,815,000
+0,Delray Beach, Florida
+0,$16,400,000
+0,Preferred Equity
+0,Townhomes
+0,$1,750,000
+0,20 Months
+0,Boston, Massachusetts
+0,$26,350,000
+0,$900,000
+0,18 Months
+0,Columbia, Maryland
+0,$51,740,000
+0,$700,000
+0,Class B
+0,Medley, Florida
+0,$6,030,000
+0,Industrial
+0,$1,240,000
+0,Queens, New York
+0,$6,530,000
+0,$1,775,000
+0,36 Months
+0,Oakbrook Terrace, Illinois
+1,$25,900,000
+0,3,775,000
+0,24 Months
+0,Goodyear, Arizona
+0,$27,400,000
+0,$7,140,000
+0,Opportunity Zone
+0,Atlantic Beach, Florida
+0,$13,746,347
+0,$1,300,000
+0,McKinney, Texas
+0,$25,070,000
+0,Hotel
+0,$2,000,000
+0,Core Plus
+0,$16,100,000
+0,$1,770,000
+0,9 Months
+0,Altoona, Florida
+0,$4,740,000
+0,Health Care
+1,$1,170,000
+0,$11,050,000
+0,B-Note
+0,Senior Housing
+0,Detroit, MI
+0,$20,000,000
+0,4 Months
+0,All investments involve risk including the potential for loss of capital and illiquidity. Please review any offering documents for a full disclosure of potential risks.
+0,Interested in raising capital with EquityMultiple?
+0,9am - 6pm EST
+0,General:
+0,Support:
+0,EQUITYMULTIPLE | Welcome to Modern Real Estate Investing
+0,Welcome to Modern Real Estate Investing
+0,EquityMultiple.com is not compatible with Internet Explorer.
+0,A Real Estate Investing Platform Built for Your Portfolio
+0,A Different Kind of Investing Experience
+0,Past Investments
+0,Meet Our Investors
+0,Featured In
+0,Connect with Us
+0,invests with MULTIPLE, and has invited you to join our investor network and build a stronger portfolio.
+0,Diligence
+0,Stewardship
+0,Technology
+0,Holli and Jim
+0,The Rajagopalan Family
+0,Peter and Diane
+0,We make real estate investing simple, transparent, and accessible for investors like you.
+0,Achieve a higher level of diversification.
+0,Access Efficiency
+0,Access Alpha
+0,Access Experience
+0,Simplicity. Transparency. Access. Here's how EquityMultiple works for you.
+0,Create an account in under 5 minutes to unlock details of past investments.
+0,Learn how people across the country are building better portfolios with EquityMultiple.
+0,Our dedicated Investor Relations Team is standing by to help simplify your real estate investing process.
+0,Company
+0,Connect
+0,Education
+0,Legal
+0,Sign up and earn a return boost on your first investment.
+0,Please log in or create an account in order to view our track record.
+0,Learn how private real estate can help you build a stronger, more diversified portfolio
+0,Create an account in a matter of minutes, browse & invest in a diverse set of opportunities through a secure, intuitive platform.
+0,Gain exposure to an asset class that may offer protection against systemic risk & low correlation to the stock market. Start with as little as $10k.
+0,Invest passively in private, expertly managed real estate. Enjoy dedicated underwriting, investor services, and asset management.
+0,"It's an incredible opportunity to be able to invest in cities across the country without leaving our home, which is the most beautiful place on earth as far as I'm concerned."
+0,"EquityMultiple fits my investing strategy perfectly... offering solid returns and the necessary diversification in terms of the capital stack."
+0,"I've been managing my portfolio for a long time. EquityMultiple takes my alternative asset exposure to the next level."
+0,This site uses cookies to ensure that you get the best experience.
+0,We’re updating our terms. By continuing to use the website on or after February 6, 2020, you agree to our updated and . Before you do, please read them and check out our changes. Thanks for using EQUITYMULTIPLE!
+0,© 2020 Equity Multiple, Inc. All Rights Reserved.
+0,Marious Sjulsen
+0,Chief Investment Officer
+0,Charles Clinton
+0,Chief Executive Officer
+0,13.7%
+0,Total Historical Returns
+0,$2.5B+
+0,Asset Value
+0,$24M
+0,Amount Returned to Investors
+0,All investments involve risk including the potential for loss of capital and illiquidity. Past performance is not a guarantee of future results. Please review any offering documents for a full disclosure of potential risks.
+0,Brett Klein
+0,Chief Financial Officer
+0,Soren Godbersen
+0,VP Marketing & Communications
+0,Peter Shankar
+0,Chief Technology Officer
+0,Henry Kwong
+0,Senior Director of Asset Management
+0,About Us | EQUITYMULTIPLE
+0,About Us
+0,Raise Capital With Us
+0,Meet Our Founders
+0,Our Track Record
+0,Our Leadership Team
+0,Our Values
+0,Help Build the Future of Real Estate & Technology
+0,Innovation Built on Real Estate Experience.
+0,EquityMultiple's founders were brought together by a common vision: to make real estate investing simple, accessible, and transparent.
+0,Innovative solutions for qualified developers, sponsors, and lenders.
+0,Empathy
+0,Tenacity
+0,Transparency
