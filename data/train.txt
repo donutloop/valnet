@@ -1,3 +1,365 @@
+0,end widget
+0,Replatform with Experienced Advisory and Implementation
+0,Our Solutions
+0,Customer Success Stories
+0,We help enterprises design, architect and implement business technology platforms that support digital transformation and business optimization.
+0,Flux7 In the News
+0,Join the Flux7 Team and Begin Your Career
+0,Copyright Bar   Copyright Bar
+0,Footer Widgets   Footer Widgets
+0,Flux7
+0,Services
+0,Resources
+0,About Flux7
+0,Flux7, an | All Rights Reserved |
+0,Cloud Automation, DevOps Consulting & AWS Migration - Flux7
+0,Realize the Benefits of Cloud
+0,Enable Software Innovation
+0,Our landing zones on AWS emphasizes training, documentation, and resources to help teams new to AWS get the skills they need for long-term business agility.
+0,Read our industry success stories and the benefits our customers saw
+0,Rapidly adopt technology to achieve Infrastructure as Code and continuous delivery and support of applications and workloads.
+0,Read about what we do, how we do it and how our customer's benefit from our solutions.
+0,Welcome to Flux7! Get to know us a bit better and discover what makes us different than other DevOps Consultants.
+0,Hanor Main Wrap Inner  Main Wrap Inner  Footer   Footer
+0,Header
+0,Content Area
+0,Upcoming Events - AWS & DevOps Consulting Flux7 Events
+0,Flux7 Events Calendar
+0,Upcoming Events
+0,Past Events
+0,Meet up with Flux7 in Boston!
+0,Meet up with Flux7 in Columbus!
+0,Meet with Flux7 in Toronto
+0,At this event we’ll explore ways the Financial Services industry is working with AWS to become more nimble, efficient, secure, and responsive to changing customer needs.
+0,Flux7 News on Latest IT Technologies - Flux7
+0,In the News
+0,Flux7 Industry News
+0,written by Aater Suleman, CEO and Co-Founder at Flux7, an NTT DATA Company.  Aater is a
+0,Read the entire blog .
+0,We are proud to be recognized by Aspioneer as one of their 10 Innovators of Cloud Computing 2019.
+0,Matthias Buchner, lead DevOps solutions architect, contributes to this article discussing how to prepare for a cloud migration and optimize DevOps practices.
+0,Read the latest article written by Aater Suleman, CEO and Co-Founder at Flux7.  Aater is a
+0,The cutting-edge AWS partner analyzed data from past customers to understand where DevOps journeys stumble and how to help enterprises avoid common pitfalls.
+0,Flux7 Renovate solutions simplify and accelerate common business application provisioning on AWS Cloud
+0,Flux7 Ranks 906 on the 2018 Inc. 5000 List With Three-Year Revenue Growth of 547 Percent
+0,The decision process for selecting the right cloud options for various applications starts with an assessment of each individual application.
+0,Annual List Features 50 startups to watch, local companies founded in the last five years that are poised to make an impression.
+0,Flux7 CEO, Aater Suleman, weighs in on three migration approaches, lift and shift, replatforming and refactoring.
+0,Annual List Features Trailblazing IT Solution Providers Transforming Business with Emerging Technologies
+0,Flux7 weighs in on this chicken or egg question by sharing why approaching DevOps and Cloud in tandem is a preferable approach for most organizations.
+0,“The ability to push DevOps into the mainstream of the organization through a best-practice approach is key to success,” Suleman says.
+0,Using its Enterprise DevOps Framework as a guide, Flux7 shares how automation paves the way to a successful DevOps Model
+0,Flux7 best practices for Amazon CloudFront help improve user experiences with fast, stable and secure content delivery
+0,“Orchestration opened up the floodgates,” Aater Suleman [Flux7 CEO] said. “And now the management layer is solving new problems.”
+0,“That’s the real game-changer. The front end is where containers really shine with IoT.” Aater Suleman, Flux7 CEO
+0,Aater Suleman, CEO of Austin, Tex.-based Flux7, said that these services make AWS IoT a particularly strong platform – especially the integration with AWS Lambda
+0,Aater Sulemen, co-founder and CEO of Flux7 discusses hyper-automation or “self-driving IT.”
+0,The new Web Application Firewall (WAF) for CloudFront was a very welcome step, according to Aater Suleman, CEO of Flux7, an Amazon consulting partner based in Austin, Texas.
+0,CEO Aater Suleman told CRN the partner summit was one of the best days ever for his company.
+0,IoT is a niche today, but the uses so far are just the tip of the iceberg, said Aater Suleman, CEO of Flux7, an Amazon consulting partner based in Austin, Texas.
+0,Aater Suleman, CEO of Flux7 Labs, an AWS partner that’s investing in its IoT practice, told CRN the technology is winning over customers rapidly.
+0,“DevOps is everything that provides business advantage through improved collaboration and automation,” said Aater Suleman, Flux7 CEO
+0,“You can easily degrade the cloud to the same level as on-premise infrastructure by applying the same old principals,” said Aater Suleman, Flux7 CEO
+0,“The top myth we come across about security is that security in the cloud is more difficult to maintain than on-premise,” said Aater Suleman, Flux7 CEO
+0,Amazon Web Services now wants to host your business email in the cloud.
+0,Flux7 often has to setup multiple storage volumes for customers in a RAID configuration, which increases the complexity of the system as well as setup and maintenance costs.
+0,May 5, 2020
+0,March 16, 2020
+0,January 8, 2020
+0,December 30, 2019
+0,November 26, 2019
+0,November 12, 2019
+0,October 3, 2019
+0,August 19, 2019
+0,July 18, 2019
+0,June 18, 2019
+0,April 16, 2019
+0,November 6, 2018
+0,November 2, 2018
+0,November 1, 2018
+0,August 21, 2018
+0,August 19, 2018
+0,February 22, 2018
+0,December 18, 2017
+0,December 10, 2017
+0,November 8, 2017
+0,Press Releases | Flux7 - AWS Partner & DevOps Consultants - Flux7
+0,Press Releases
+0,Enterprises gain cloud-native SaaS implementation and development support from Flux7 amid evolving business needs    Austin,...
+0,Austin, TX–March 13, 2020 – Inc. magazine today revealed that Flux7, an NTT DATA Company,...
+0,NTT DATA Services Closes Acquisition of Flux7 PLANO, Texas – Jan. 7, 2020 – NTT...
+0,PLANO, Texas – Dec. 3, 2019 – NTT DATA Services, a recognized leader in global technology...
+0,Flux7 expands portfolio of IT services to help enterprises architect adaptive, secure digital business technology...
+0,Austin, TX, November 12, 2019 –Flux7, Inc. announced today that CRN ®, a brand of The...
+0,Austin, TX —  October 3, 2019 — Cloud-centered HPC practice helps enterprises innovate at scale and...
+0,Austin, TX —  August 19, 2019 —  For the second year, Flux7, an IT services provider...
+0,Austin, TX —  July 18, 2019 — Flux7, a professional services, and technology company that...
+0,Flux7 Named a 2019 Gartner Cool Vendor in Business and IT Services Report recognizes Flux7...
+0,Investment to fuel company growth in delivering a practical experience for building and scaling IT...
+0,Annual List Recognizes Solution Providers Transforming Business with Emerging Technologies Austin, TX, November 6,...
+0,Highly automated solutions for migrating essential services and production accounts help enterprises start right,...
+0,Flux7 Wins 2018 Stratus Award for Cloud Integrator AUSTIN, Texas—August 29, 2018— Flux7, a...
+0,Flux7 Renovate Solutions Simplify and Accelerate Common Business Application Provisioning on AWS Cloud Austin,...
+0,Flux7 Ranks 906 on the 2018 Inc. 5000 List With Three-Year Revenue Growth of...
+0,Flux7 Named a 2018 Modern Infrastructure Impact Awards Best AWS Consultant Winner For four...
+0,7th Annual Talkin’ Cloud 100 Report Identifies Top Cloud Services Providers December 18, 2017:...
+0,Press Release (more…)
+0,DevOps and IT consulting firm recognized among the fastest growing companies in Central Texas...
+0,About Flux7 | DevOps Experts and AWS Premier Partners - Flux7
+0,We Teach You to Fish
+0,The Agile Mindset
+0,Our Knowledge
+0,Our Services
+0,Welcome to Flux7, an NTT DATA Company
+0,About Us
+0,Join Us In Our Mission to Accelerate Innovation
+0,We simplify complexity, reduce your risks and help you focus on ROI.  Join hundreds of enterprises on their journey to transform IT. Accelerate with Flux7.
+0,Industry Awards, AWS Certifications and AWS Competencies | Flux7 - Flux7
+0,Awards and Recognitions
+0,We are humbled to be recognized by some of the industry's most prominent publications and organizations.
+0,Flux7 is recognized for its ability to and consistently meeting customers’ ever-changing IT needs to drive adoption of transformational technologies.
+0,Meet the Flux7 Team. We are humble, transparent and innovative. - Flux7
+0,Meet the Team Behind Flux7
+0,Humble. Transparent. Innovative.
+0,CEO & Co-Founder
+0,Texas
+0,CTO & Co-Founder
+0,Vishnu Priya
+0,Business Operations Lead
+0,India
+0,Tamarie Ellis
+0,Marketing Lead
+0,New Zealand
+0,Tina L. Straw
+0,Alliances & Strategic Partnerships Lead
+0,Ohio
+0,Lance Rifenburg
+0,Product Lead
+0,Washington
+0,Matt Buchner
+0,Solutions Architect Lead
+0,Germany
+0,Ted St. Clair
+0,Agilist Lead
+0,David Potter
+0,Agilist Team
+0,Michigan
+0,Robyn Butler
+0,Eric McNairy
+0,Jennifer Suarez
+0,Sales Team
+0,Massachusetts
+0,Anthony Santos
+0,North Carolina
+0,Ryne Harrell
+0,Melinda McGrath
+0,Florida
+0,Kim Blomgren
+0,Marketing Team
+0,Jill Wohlever
+0,Heather Racicot
+0,Heather Nadeau
+0,PeopleOps Team
+0,New Hampshire
+0,Jana Tulloch
+0,Canada
+0,Abigail Caldwell
+0,South Carolina
+0,Vlad Magdu
+0,BizOps Team
+0,Romania
+0,Melissa Rose
+0,Aman Gaur
+0,Delivery Team
+0,Artem Kobrin
+0,Ukraine
+0,Arthur Mandel
+0,Arun Mathew
+0,Benjamin Draper
+0,Colorado
+0,Nealabh Bhatia
+0,Kritika Agarwal
+0,Mukesh Sharma
+0,Akash Philip
+0,Deepak Choudhary
+0,Vyshnavi Bandaru
+0,Levi Blaney
+0,Nikhil Araga
+0,Onur Özkaynak
+0,Estonia
+0,Samprita Hegde
+0,Praveen Kumar
+0,Kumar Mayank
+0,Ron Bremer
+0,Krishna Choudhary
+0,Pramodh Ayyappan
+0,Lakshmi Vasanth
+0,Kishor Shelke
+0,Dawson Mortenson
+0,Hanumantha MVL
+0,Maurice Williams
+0,Sarath Pillai
+0,Mohit Kumar Sharma
+0,Prashant Tiwari
+0,Vikas Sharma
+0,Neha Singh
+0,Roshan C. Rahim
+0,Atul Patil
+0,Christopher Grau
+0,California
+0,Gaurav Rastogi
+0,Solutions Team
+0,Georgia
+0,Elysia Lock
+0,Illinois
+0,Obinna Obi
+0,Derek Magill
+0,vc_grid start  vc_grid end
+0,Contact Us - Flux7
+0,Contact Our Team
+0,Questions? We're happy to help.
+0,Questions about our Solutions? Our Specialists are here to help.
+0,For Cloud Security, Application Modernization, and DevOps news, subscribe to the Flux7 Blog:
+0,Flux7 Blogs and News
+0,A Research-Based Approach to Measuring DevOps Metrics That Matter
+0,A Cloud Cost Optimization Checklist
+0,IT Modernization and DevOps News Week in Review 6.15.2020
+0,401 Congress Avenue, Suite 1540
+0,Austin, Texas 78701
+0,P.  844.FLUX700
+0,F. 512.687.3499
+0,Samson Towers
+0,8th Floor at Pantheon Rd & Casa Major Rd
+0,Block No.31, Egmore Village
+0,Chennai, India
+0,Portfolio Start   Portfolio End
+0,FORM: Contact Us - Flux7
+0,Thank you so much for your interest in Flux7. Our Specialists will be in touch right away.
+0,[if lte IE 8]><br />  <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script><br /><![endif]
+0,Flux7 Privacy Policy - Flux7
+0,•  “Visitor” or “you” means any individual or entity who visits Flux7’s Website, whether they are a customer or not.
+0,•  “Customer” means an individual who is a client of Flux7.
+0,•  “We”, “us” or “the company” refers to Flux7.
+0,•  “Website” means Flux7’s Website at
+0,•   individual names;
+0,•   company names;
+0,•   reasons for contacting us;
+0,•   information regarding Visitors, Customers, and their companies;
+0,•   addresses, phone numbers, and email addresses;
+0,•   product and service preferences;
+0,•    service orders and maintenance requests;
+0,•    billing and transaction information; and
+0,•   other information relevant to conducting business with us or becoming a customer of ours.
+0,•  If Flux7 or substantially all of its assets are acquired, customer information will be one of the transferred assets.
+0,Attn: Marketing Department
+0,Flux7, an NTT DATA Company
+1,401 Congress Avenue, Suite 1540 Austin, Texas 78701
+0,Flux7 does not knowingly collect information from or about children under 13 years of age.
+0,Meet the Flux7 Team. Aater Suleman, Co-Founder and CEO - Flux7
+0,Aater Suleman
+0,CEO & Co-Founder | Austin, Texas
+0,Meet the Flux7 Team. Ali Hussain, Co-Founder and CTO - Flux7
+0,Ali Hussain
+0,CTO & Co-Founder | Austin, Texas
+0,September 3, 2017
+0,August 22, 2017
+0,August 15, 2017
+0,April 26, 2017
+0,April 20, 2017
+0,March 9, 2017
+0,January 24, 2017
+0,November 29, 2016
+0,November 3, 2016
+0,August 16, 2016
+0,June 16, 2016
+0,June 6, 2016
+0,May 17, 2016
+0,May 5, 2016
+0,January 22, 2016
+0,December 15, 2015
+0,October 21, 2015
+0,October 7, 2015
+0,September 28, 2015
+0,June 20, 2015
+0,June 25, 2014—Austin, TX | Flux7, an IT consultancy focused on delivering cloud migration,...
+0,DevOps experts address business drivers with advanced AWS technology solutions Austin, TX — August...
+0,Flux7 Achieves AWS Service Delivery Partner Status for Amazon CloudFront August 15, 2017 —...
+0,Business momentum based on growing market demand for DevOps experts who address business drivers...
+0,AWS Service Delivery Partner Status for AWS Service Catalog   April 20, 2017 —...
+0,Flux7 has achieved AWS Service Delivery Partner status for Amazon Aurora, based on its...
+0,Flux7 Wins 2017 Modern Infrastructure Impact Awards in Best AWS Partner/Consultant Category   Flux7...
+0,Flux7 Achieves AWS Service Delivery Partner Status for AWS Web Application Firewall November 29,...
+0,Flux7 CEO, Aater Suleman, to Present at DevOps East Half-Day Tutorial Introduces Docker, Develops...
+0,Flux7 Announces Custom AWS Microservices Architecture Service Award-winning consultancy grows business benefit with increased...
+0,Flux7 Named AWS Migration Competency Program Partner Selected for its AWS migration best practices that...
+0,Jay Blanchard of Fugro and Flux7 CEO Aater Suleman to Present at DockerCon 16. June...
+0,Flux7 DevOps Expertise Featured at DevOps West CEO, Aater Suleman, featured speaker sharing best practices...
+0,Flux7 Named to 2016 Modern Infrastructure Impact Awards  | Takes Honorable Mention in AWS Consultant/Integration...
+0,‘Engage’ helps IT teams gain hands-on experience for long-term agility while building cloud infrastructure  ...
+0,Partnership validates Flux7’s knowledge and leadership with Docker technology and implementations   October 20, 2015...
+0,New APN Competency launched at AWS re:Invent Global Partner Summit   October 07, 2015 – Austin,...
+0,June 4, 2014—Austin, TX |Flux7, an IT consultancy focused on delivering cloud migration, development...
+0,Collaboration adds data and analytics for cloud migration assessment, planning, and optimization   June 16, 2015...
+0,April 6, 2015
+0,April 1, 2015
+0,January 20, 2015
+0,June 28, 2014
+0,June 18, 2014
+0,January 30, 2014
+0,January 24, 2014
+0,Flux7 Achieves Amazon Web Services Partner Network Healthcare Competency   April 6, 2015 –...
+0,Flux7 Becomes an Amazon Web Services Competency Partner   April 1, 2015 – Austin, TX...
+0,Customers cite knowledge and responsiveness as key factors in deployments Austin, TX (PRWEB) January 20,...
+0,June 25, 2014—Austin, TX | Flux7, an IT consultancy focused on delivering cloud migration, application...
+0,Flux7 and Auto.com to Co-Present at First Annual DockerCon   June 4, 2014—Austin, TX |Flux7,...
+0,June 4, 2014—Austin, TX |Flux7, an IT consultancy focused on delivering cloud migration, development and...
+0,Flux7’s VyScale Application Earns Honorable Mention at re:Invent 2013 January 24, 2014—Austin, TX—Flux7, a...
+0,#nav-menu-container
+0,Get more from your investment in Data Science -
+0,Get more from your investment in Data Science
+0,Get more from your investment in Analytics
+0,Observability for Analytics Workloads
+0,Get started with ESM today!
+0,Conquer the Last Mile of Analytics
+0,Building apps is easy. Let us show you!
+0,Latest from our Blog
+0,The new version of ESM is here!
+0,My favourite Administration papers from SAS Global Forum 2020
+0,Excellence in Innovation Award finalist
+0,About Us
+0,Follow Us
+0,Resources
+0,optimal platform performance. total cost of ownership. your data scientists to build the future of your business.
+0,Nik on May 21, 2020
+0,Chris on May 4, 2020
+0,Chris on Apr 30, 2020
+0,We are a SAS Global Technology Partner specializing in analytic workload management and Data Science applications for the SAS Platform.
+0,Boemska - Request an ESM Demo
+0,Boemska - Request an ESM Demo -
+0,Privacy Policy
+0,Privacy Policy -
+0,General Provisions
+0,Which categories of personal data do we process?
+0,For which purposes do we process this personal data?
+0,What lawful reasons do we have for processing personal data?
+0,Do we share personal data with third parties?
+0,Do we transfer your personal data outside the European Economic Area?
+0,Third Parties
+0,How long do we retain personal data?
+0,How do we protect your personal data?
+0,What are your data protection rights?
+0,Who can you contact for privacy questions or concerns?
+0,Your Consent
+0,Changes to Privacy Policy
+0,You should not use this website if you do not agree to this privacy policy.
+0,We use personal information we collect for the following purposes:
+0,We may rely on the following lawful reasons, as applicable, when we collect and use personal data to operate our business and provide our products and services:
+0,Contract – where we have contractual relations with you, we may process your personal data in order to perform our contractual obligations based on such contract.
+0,Your data protection rights are highlighted here. To submit a data request please email at legal@boemskats.com
+0,You can ask us to verify whether we are processing personal data about you, and if so, to provide more specific information.
+0,You can ask us to correct our records if you believe they contain incorrect or incomplete information about you.
+0,You can ask us to erase (delete) your personal data after you withdraw your consent to processing or when we no longer need it for the purpose it was originally collected.
+0,You may contact UK Information’s Commissioner’s Office to report concerns you may have about our data handling practices.
 1,71 Broadwick Street London, W1F 9QY United Kingdom
 1,21405 – 56th Avenue Langley, BC V2Y 2N1
 1,L.A. Press Club – Investigative Reporting
