@@ -1,3 +1,1367 @@
+0,[if lt IE 9]>    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script><![endif]
+0,var PAGE_LOCALE = 'en_US';
+0,Bankable solar data for better decisions | Solargis
+0,Weather data and software for solar power investments
+0,Products and services
+0,Customers
+0,Pricing
+0,Documentation
+0,Resources
+0,About us
+0,Get Started
+0,Why Solargis?
+0,Our solutions
+0,Our customers
+0,Events
+0,News & updates
+0,Online data and apps
+0,Consultancy services
+0,Most reliable
+0,Most detailed
+0,Historical, recent and forecast data
+0,Global coverage
+0,Lightsource Renewable Energy
+0,Sunco
+0,RTR
+0,Sustainable Power Solutions
+0,Intersolar North America
+0,PVPMC Workshop
+0,EnerGaia
+0,Greenbyte Forum
+0,Solargis supporting Helioscope
+0,Further European solar records to follow in 2020
+0,Letter from Marcel Suri
+0,3-year North American irradiance shortfall underscores need for accurate solar data
+0,Reduce risks and maximise profitability of your solar energy assets
+0,Trusted by thousands of companies worldwide. We are a team of top experts and scientists. Our mission is to help solar companies succeed.
+0,Multiple independent studies have found Solargis to be the most reliable solar database
+0,Spatial resolution of 250 m and sub-hourly temporal resolution better represent typical and extreme weather and improve accuracy
+0,Solutions available for all solar energy assessment needs: from prospecting to effective operation
+0,Solargis data and services are available for any location between latitudes 60N and 50S
+0,Solargis has been optimised to cover each use case, from prospecting to forecasting
+0,Screen and benchmark project opportunities
+0,Make detailed assessment of power production for planned and operational solar power plants
+0,Monitor performance of operational projects on a regular basis
+0,Forecast solar power production for optimized asset management
+0,Trusted by 1000+ organisations in 100+ countries
+0,Apps
+0,Prospect
+0,Imaps
+0,PvPlanner
+0,ClimData
+0,PVSpot
+0,English
+0,Español
+0,简体中文
+0,Products
+0,Overview
+0,Evaluate (Time Series / TMY)
+0,Monitor
+0,Forecast
+0,API
+0,Solar resource assessment study
+0,PV energy yield assessment study
+0,PV performance assessment study
+0,Quality control of solar radiation measurements
+0,Site-adaptation of Solargis data
+0,Regional solar energy potential study
+0,PV variability and grid integration study
+0,Government and energy strategy
+0,Project developer
+0,Technical consultant
+0,EPC and O&M
+0,Asset manager
+0,Grid manager
+0,Software developer
+0,Academia & research
+0,Products & Plans
+0,Bundle plans
+0,Getting started
+0,Methodology
+0,Accuracy and comparisons
+0,Orders and payments
+0,Product guides
+0,Integrations
+0,Free maps and GIS data
+0,Project References
+0,Publications
+0,Blog
+0,Product roadmap
+0,About
+0,Why Solargis
+0,Partners
+0,Quality policy
+0,Jobs
+0,Media Assets
+0,Contact us
+0,Close
+0,See more reasons for choosing Solargis
+0,Read more
+0,Case Study
+0,Show all Events
+0,Show all News
+0,Call us at +421 243 191 708
+0,Legal information
+0,Newsletter
+0,Toggle navigation
+0,×
+0,Evaluate
+0,Feb 04 - Feb 06, 2020
+0,San Diego, USA
+0,Dec 08 - Dec 13, 2019
+0,Kunshan, China
+0,Dec 11 - Dec 12, 2019
+0,Montpellier, France
+0,Nov 26 - Nov 27, 2019
+0,Gothenburg, Sweden
+0,Jun 25, 2020
+0,May 12, 2020
+0,Apr 02, 2020
+0,Mar 02, 2020
+0,© 2020 Solargis. All rights reserved
+0,About us | Solargis
+0,About Solargis
+0,Data and software architects for bankable solar investments
+0,Founders
+0,Sales
+0,We are a member of
+0,Marcel Suri
+0,Tomas Cebecauer
+0,Harsh Goenka
+0,Daniel Ranusa
+0,Michal Strba
+0,Ismet Veziroglu
+0,Branislav Erdelyi
+0,Shihying Lin
+0,Peter Hanustiak
+0,Managing Director
+0,Chief Technical Officer
+0,Business Development
+0,Marketing
+0,Join our team
+0,Visit webpage
+0,fast access to historical, recent, and forecast data for almost any location on the Earth.
+0,uncertainties.
+0,Hundreds of customers worldwide use our photovoltaic software applications and web-based solutions to optimise construction, evaluation and management of solar power assets.
+0,Supply the most accurate and reliable solar data in the market
+0,Simplify the process of energy assessment
+0,Enable solar investors to maximise profitability
+0,Create transparency and reduce risk throughout the project lifecycle
+0,Our mission is to:
+0,var PAGE_LOCALE = 'es_ES';
+0,Sobre nosotros | Solargis
+0,Sobre Solargis
+0,Productos y servicios
+0,Clientes
+0,Precios ES
+0,Documentación
+0,Precios
+0,Recursos
+0,Sobre nosotros
+0,Nuestra misión
+0,Nuestro equipo
+0,Aprenda más acerca de nosotros
+0,Datos y aplicaciones online
+0,Servicios de consultoría
+0,Próximos eventos
+0,Conózcanos en eventos de energía solar en todo el mundo, concierte una cita con nosotros
+0,Productos
+0,Resumen
+0,Datos de series históricas y TMY
+0,pvSpot
+0,Estudio de evaluación de recurso solar
+0,Estudio de evaluación de la producción de energía fotovoltaica
+0,Estudio de evaluación del rendimiento fotovoltaico
+0,Control de calidad de las mediciones de radiación solar
+0,Adaptación al sitio de los datos de Solargis
+0,Estudio regional del potencial de energía solar
+0,Estudio de variabilidad e integración de energía fotovoltaica en la red eléctrica
+0,Gobiernos y estrategia energética
+0,Desarrolladores de proyectos
+0,Asesores técnicos
+0,EPC y O&M
+0,Gestores de activos
+0,Operadores de red
+0,Proveedores de software
+0,Universidades e investigación
+0,Purchase & account
+0,Mapas gratis y datos GIS
+0,Referencias de proyectos
+0,Notas sobre actualizaciones
+0,Publicaciones
+0,¿Por qué Solargis?
+0,Política de calidad
+0,Carreras
+0,Eventos
+0,Materiales para medios
+0,Contacto
+0,Únete a nuestro equipo
+0,Leer más
+0,Llámenos +421 243 191 708
+0,© 2020 Solargis. Todos los derechos reservados
+0,var PAGE_LOCALE = 'zh_CN';
+0,关于我们 | Solargis
+0,关于我们
+0,产品和服务
+0,解决方案
+0,价格
+0,文档
+0,资源
+0,我们帮助太阳能行业更好地管理相关气象风险
+0,我们的使命
+0,我们的团队
+0,更多关于我们的信息
+0,在线数据和应用程序
+0,咨询服务
+0,未来活动
+0,在世界各地的太阳能展会中与我们会面
+0,产品
+0,概观
+0,历史时间序列和TMY数据
+0,预报
+0,太阳能资源评估研究
+0,光伏电站建造前评估研究
+0,光伏电站的性能评估研究
+0,太阳辐射量监测值的质量管理
+0,Solargis数据的地面校准
+0,政府及能源战略机构
+0,项目开发者
+0,技术咨询公司
+0,系统工程和运维商
+0,资产管理师
+0,电网管理
+0,软件开发
+0,数据产品
+0,产品组合
+0,方法
+0,准确性和比较
+0,产品指南
+0,集成
+0,免费地图和GIS数据
+0,参与项目
+0,博客
+0,为什么选择Solargis
+0,合作伙伴
+0,质量政策
+0,展会活动
+0,联系我们
+0,阅读更多
+0,法律信息
+0,通讯
+0,目前，全球数以百计的用户都在使用我们的光伏软件应用和网络解决方案，以便优化电站建设、评估和太阳能资产管理。
+0,我们致力于建立简单化、可靠化、标准化、透明化的太阳能评估体系，帮助太阳能产业在能源市场上更高效、更具竞争力。
+0,© 2020 Solargis 版权所有
+0,Why Solargis | Solargis
+0,The key benefits of choosing Solargis are increased efficiency and productivity in solar energy assessment while significantly reducing the weather-related risks.
+0,Why choose us?
+0,Need more reasons?
+0,Accurate solar resource data
+0,Ready to get started with Solargis?
+0,Some companies that trust our work
+0,Support from planning to operation
+0,High level of detail for improved energy modelling
+0,Extensively validated
+0,Longterm experience
+0,Independent and transparent
+0,We integrate
+0,Gap-free data
+0,Solargis data has the best accuracy and reliability amongst available solar databases. This has been confirmed by several independent studies.
+0,Our team has 16 years of experience in solar resource assessment and PV energy modeling
+0,No matter where your project is located, you can rely on Solargis
+0,Our data is independent and can be varified by anyone anywhere. Our methodologies are published
+0,Leading simulation software providers not only support Solargis data but also recommend use of Solargis
+0,The occasional gaps in the satellite data flow we fill by intelligent algorithms. These data values are flagged.
+0,See comparison
+0,See validation details
+0,Try Solargis
+0,Partners | Solargis
+0,India
+0,To provide added value to our customers, we partner with various companies that complement our products and services
+0,Regional partners
+0,Integration partners
+0,Meteorological measurements service providers
+0,Become a Solargis partner
+0,Partner for Southern Africa
+0,Partner for China
+0,Partner for Guatemala and Colombia
+0,Partner for South Korea
+0,Solargis satellite-based data can be seamlessly integrated with following leading monitoring and performance modeling systems.
+0,Office: South Africa;  Operations: Africa, Oceania
+0,Offices: Germany (HQ) and Spain;Operations: Global
+0,Offices: USA and Mexico; Operations: Americas
+0,Offices: Germany (HQ), Spain and South Africa; Operations: Global
+0,Visit website
+0,Quality policy | Solargis
+0,The company provides professional services that meet individual customer needs, while its parameters satisfy the market demands and standards
+0,Great emphasis is placed on communication with customers to build a reliable and stable long-term partnership
+0,Management is committed to create conditions for implementation and continuous improvement of quality management
+0,We create conditions that promote quality performance of the functions and activities in the company by the appropriate choice of personnel
+0,The aim of the company is to create a highly motivational environment
+0,Provision of good working environment and conditions for all staff to achieve the best performance
+0,To achieve long-term strategy of the company we have established the following principles of quality policy:
+0,View full-text certificate
+0,Official document on Quality Management System
+0,pdf, 1.2 MB
+0,pdf, 534 KB
+0,Jobs | Solargis
+0,Join the Solargis team
+0,Life at Solargis
+0,Open positions
+0,Get in touch with us
+0,Work-life balance
+0,Competitive pay
+0,Opportunities for personal development
+0,Team events
+0,International work environment
+0,Feel-good about your work
+0,Full Stack Developer
+0,Frontend Developer with focus on 3D graphics
+0,Full-time, Bratislava
+0,We offer flexible working hours and possibility for occasional home-office.
+0,We offer competitive salaries and performance based bonuses
+0,We offer personal growth opportunities by enabling participation at conferences, workshops, projects and courses.
+0,We enjoy a wide variety of team activities with our colleagues.
+0,Our team comprises of 6 nationalities who speak several languages. We have customers from all over the world.
+0,Our services contribute the move towards a cleaner and sustainable world
+0,Learn more
+0,Job Application Policy
+0,Send Email
+0,Consent:
+0,Events | Solargis
+0,Upcoming Events
+0,If you would like to , . Please, shortly introduce the topic and preferred date and time of an appointment.
+0,Past Events
+0,arrange a personal meeting
+0,contact us
+0,Media Assets | Solargis
+0,Company brochure
+0,Company Logo
+0,Map Leaflets
+0,Project Leaflets
+0,Solargis logo is provided to download in a few formats and sizes. If you have other special requirement, please, contact us.
+0,The first global map showing the potential electricity generation from a typical utility-scale PV power plant
+0,Published for various events with a focus on concentrated solar power
+0,Published for SNEC 2019 in Shanghai, China
+0,Published for: CSP Focus 2019 in Beijing
+0,Published for: Korea Energy Show, 03 - 05 Sep 2019, Seoul, South Korea
+0,Published for: EU Gateway Japan, 23 - 27 Sep 2019, Osaka, Japan
+0,Published for MIREC Week 2019 in Mexico City
+0,Published for Intersolar South America 2019, Sao Paulo, Brazil
+0,Published for Intersolar Europe 2019 in Munich
+0,Published for: Solar Future France 2019 in Paris
+0,Published for Renwex 2019 event in Moscow.
+0,Published for: Renpower Kazakhstan 2018 in Astana
+0,Published for: Solar Ukraine 2019 in Kiev
+0,Published for: MENA New Energy 2019 in Dubai and  Solarex 2019 in Istanbul
+0,Published for: Solar Power Expo Vietnam, 25 - 26 Sep 2019, Hanoi, Vietnam
+0,Published for: All-Energy Australia 2019, Melbourne
+0,Published for: Solar Power International 2018 in Anaheim, USA
+0,Published for El Futuro Solar Argentina 2018 in Buenos Aires, Argentina.
+0,Published for: REI Expo, 18 - 20 Sep 2019, Greater Noida, India
+0,We contribute with our data, services and consultancy in many initiatives and projects. The scope of selected public works is described in the project leaflets.
+0,Informative leaflet about the Solar resource mapping project in Zambia, methods and results of regional adaptation. Released in 2019.
+0,Informative leaflet about the Solar resource mapping project in Malawi, methods and results of regional adaptation. Released in 2019.
+0,Informative leaflet about the Solar resource mapping project in Maldives, methods and results of regional adaptation. Released in 2018.
+0,Informative leaflet at the launch of Global Solar Atlas (in 2016), provided by the World Bank, funded by ESMAP and prepared by Solargis.
+0,Solargis Brochure English
+0,Solargis Brochure Chinese
+0,Vector RGB
+0,Vector CMYK
+0,Small image RGB (raster 256x64 pixels)
+0,Medium-size image RGB (raster 1000x250 pixels)
+0,Large image RGB (raster 3000x750 pixels)
+0,Photovoltaic Power Potential, World
+0,Direct Normal Irradiation, World
+0,水平面总辐射量， 中国   /  Global Horizontal Irradiation, China
+0,法向直接辐射量，中国 / Direct Normal Irradiation, China
+0,수평면 전 일사량.  동아시아와 동남아시아  /  Global Horizontal Irradiation, East and Southeast Asia
+0,全天日射量, 日本  /  Global Horizontal Irradiation, Japan
+0,Radiación global horizontal,  América Central y del Norte  /  Global Horizontal Irradiation, Central and North America
+0,Irradiação Global Horizontal América do Sul / Global Horizontal Irradiation, South America
+0,Global Horizontal Irradiation, Europe
+0,Irradiation globale horizontale, Europe /  Global Horizontal Irradiation, Europe
+0,Глобальная горизонтальная радиация, Российская Федерация  /  Global Horizontal Irradiation, Russian Federation
+0,Глобальная горизонтальная радиация, Центральная Азия  /  Global Horizontal Irradiation, Central Asia
+0,Глобальне горизонтальне випромінювання, Україна  /  Global Horizontal Irradiation, Ukraine
+0,Global Horizontal Irradiation, Middle East and North Africa
+0,Global Horizontal Irradiation, Southeast Asia
+0,Global Horizontal Irradiation, Australia
+0,Global Horizontal Irradiation, North America
+0,Global Horizontal Irradiation, South America
+0,Global Horizontal Irradiation, Indian subcontinent
+0,Zambia: Solar Resource Mapping project
+0,Malawi: Solar Resource Mapping project
+0,Maldives: Solar Resource Mapping project
+0,Global Solar Atlas
+0,Atlas of Solar Resources, State of Palestine
+0,pdf, 2.3 MB
+0,pdf, 1.4 MB
+0,pdf, 14 KB
+0,pdf, 11 KB
+0,png, 10 KB
+0,png, 34 KB
+0,png, 107 KB
+0,pdf, 6.2 MB
+0,pdf, 6 MB
+0,pdf, 4 MB
+0,pdf, 4.2 MB
+0,pdf, 5 MB
+0,pdf, 3.2 MB
+0,pdf, 5.3 MB
+0,pdf, 5.9 MB
+0,pdf, 6.7 MB
+0,pdf, 6.3 MB
+0,pdf, 5.4 MB
+0,pdf, 6.4 MB
+0,pdf, 5.5 MB
+0,pdf, 4.3 MB
+0,pdf, 6.1 MB
+0,pdf, 2.9 MB
+0,pdf, 3 MB
+0,pdf, 157 KB
+0,pdf, 7.3 MB
+0,Contact us | Solargis
+0,Complete the form below or call us
+0,Head office
+0,Solargis partners
+0,Call us
+0,Visit us
+0,+421 2 431 91 708
+0,We are available Mon - Fri 9 AM to 6 PM Central European Time
+0,811 07 Bratislava Slovakia
+0,Privacy Policy
+0,Terms of Service
+0,List of partners
+0,Mýtna
+0,48
+0,Solargis s.r.o.
+0,Select subject
+0,Product/Sales Inquiry
+0,Technical Support
+0,Partnership Inquiry
+0,Other
+0,Select country
+0,Afghanistan
+0,Albania
+0,Algeria
+0,American Samoa (USA)
+0,Andorra
+0,Angola
+0,Anguilla (GBR)
+0,Antigua and Barbuda
+0,Argentina
+0,Armenia
+0,Aruba (NLD)
+0,Australia
+0,Austria
+0,Azerbaijan
+0,Bahrain
+0,Bangladesh
+0,Barbados
+0,Belarus
+0,Belgium
+0,Belize
+0,Benin
+0,Bermuda (GBR)
+0,Bhutan
+0,Bolivia
+0,Bonaire, Sint Eustatius and Saba (NLD)
+0,Bosnia and Herzegovina
+0,Botswana
+0,Bouvet Island (NOR)
+0,Brazil
+0,British Indian Ocean Territory (GBR)
+0,British Virgin Islands (GBR)
+0,Brunei Darussalam
+0,Bulgaria
+0,Burkina Faso
+0,Burundi
+0,Cabo Verde
+0,Cambodia
+0,Cameroon
+0,Canada
+0,Cayman Islands (GBR)
+0,Central African Republic
+0,Chad
+0,Chile
+0,China
+0,Christmas Island (AUS)
+0,Cocos (Keeling) Islands (AUS)
+0,Colombia
+0,Comoros
+0,Cook Islands
+0,Costa Rica
+0,Cote d'Ivoire
+0,Croatia
+0,Cuba
+0,Curaçao (NLD)
+0,Cyprus
+0,Czechia
+0,Democratic Peoples Republic of Korea
+0,Democratic Republic of the Congo
+0,Denmark
+0,Djibouti
+0,Dominica
+0,Dominican Republic
+0,Ecuador
+0,Egypt
+0,El Salvador
+0,Equatorial Guinea
+0,Eritrea
+0,Estonia
+0,Eswatini
+0,Ethiopia
+0,Falkland Islands (Malvinas)
+0,Faroe Islands (NOR)
+0,Federated States of Micronesia
+0,Fiji
+0,Finland
+0,France
+0,French Guiana (FRA)
+0,French Polynesia (FRA)
+0,French Southern Territories (FRA)
+0,Gabon
+0,Georgia
+0,Germany
+0,Ghana
+0,Gibraltar (GBR)
+0,Greece
+0,Greenland (DEN)
+0,Grenada
+0,Guadeloupe (FRA)
+0,Guam (FSM)
+0,Guatemala
+0,Guernsey (GBR)
+0,Guinea
+0,Guinea Bissau
+0,Guyana
+0,Haiti
+0,Heard Island and McDonald Islands (AUS)
+0,Holy See
+0,Honduras
+0,Hong Kong (Special administrative region of China)
+0,Hungary
+0,Iceland
+0,Indonesia
+0,Iran
+0,Iraq
+0,Ireland
+0,Isle of Man (GBR)
+0,Israel
+0,Italy
+0,Jamaica
+0,Japan
+0,Jersey (GBR)
+0,Jordan
+0,Kazakhstan
+0,Kenya
+0,Kiribati
+0,Kosovo
+0,Kuwait
+0,Kyrgyz Republic
+0,Laos
+0,Latvia
+0,Lebanon
+0,Lesotho
+0,Liberia
+0,Libya
+0,Liechtenstein
+0,Lithuania
+0,Luxemburg
+0,Macao (Special administrative region of China)
+0,Madagascar
+0,Malawi
+0,Malaysia
+0,Maldives
+0,Mali
+0,Malta
+0,Marshall Islands
+0,Martinique (FRA)
+0,Mauritania
+0,Mauritius
+0,Mayotte (FRA)
+0,Mexico
+0,Moldova
+0,Monaco
+0,Mongolia
+0,Montenegro
+0,Montserrat
+0,Morocco
+0,Mozambique
+0,Myanmar
+0,Namibia
+0,Nauru
+0,Nepal
+0,Netherlands
+0,New Caledonia
+0,New Zealand
+0,Nicaragua
+0,Niger
+0,Nigeria
+0,Niue
+0,Norfolk Island (AUS)
+0,North Macedonia
+0,Northern Mariana Islands (USA)
+0,Norway
+0,Oman
+0,Pakistan
+0,Palau
+0,Panama
+0,Papua New Guinea
+0,Paraguay
+0,Peru
+0,Philippines
+0,Pitcairn (GBR)
+0,Poland
+0,Portugal
+0,Puerto Rico
+0,Qatar
+0,Republic of Korea
+0,Republic of Yemen
+0,Republic of the Congo
+0,Romania
+0,Russian Federation
+0,Rwanda
+0,Réunion (FRA)
+0,Saint Barthélemy (FRA)
+0,Saint Helena, Ascension and Tristan da Cunha
+0,Saint Kitts and Nevis
+0,Saint Lucia
+0,Saint Martin (FRA)
+0,Saint Pierre and Miquelon (FRA)
+0,Saint Vincent and the Grenadines
+0,Samoa
+0,San Marino
+0,Sao Tome and Principe
+0,Saudi Arabia
+0,Senegal
+0,Serbia
+0,Seychelles
+0,Sierra Leone
+0,Singapore
+0,Sint Maarten (NLD)
+0,Slovakia
+0,Slovenia
+0,Solomon Islands
+0,Somalia
+0,South Africa
+0,South Georgia and the South Sandwich Islands (GBR)
+0,South Sudan
+0,Spain
+0,Sri Lanka
+0,Sudan
+0,Suriname
+0,Svalbard and Jan Mayen (NOR)
+0,Sweden
+0,Switzerland
+0,Syrian Arab Republic
+0,Taiwan, Province of China
+0,Tajikistan
+0,Tanzania
+0,Thailand
+0,The Bahamas
+0,The Gambia
+0,Timor Leste
+0,Togo
+0,Tokelau
+0,Tonga
+0,Trinidad and Tobago
+0,Tunisia
+0,Turkey
+0,Turkmenistan
+0,Turks and Caicos Islands (GBR)
+0,Tuvalu
+0,USA
+0,Uganda
+0,Ukraine
+0,United Arab Emirates
+0,United Kingdom
+0,United States Minor Outlying Islands (USA)
+0,Uruguay
+0,Uzbekistan
+0,Vanuatu
+0,Venezuela
+0,Vietnam
+0,Virgin Islands (USA)
+0,Wallis and Futuna
+0,West Bank and Gaza
+0,Western Sahara
+0,Zambia
+0,Zimbabwe
+0,Åland Islands (FIN)
+0,Subject*
+0,First Name*
+0,Last Name*
+0,Organization*
+0,Country*
+0,Email*
+0,Phone Number (optional)
+0,Message*
+0,window._hsq = window._hsq || [];
+0,Build Software the Better Way - Nrwl (Narwhal Technologies Inc)
+0,Explore Our Work
+0,Connect with us
+0,Consulting. Engineering. Training.
+0,Leverage Nx & Nx Cloud to Build Apps Faster
+0,Build Software the Better Way
+0,Get to Know Us
+0,Find True Partnership
+0,Discover our Open-Source Developer Products
+0,See What’s New
+0,Scale Up Your Development Capacity
+0,Jeff Cross
+0,Victor Savkin
+0,Nx 9.3
+0,Nx Courses
+0,Nx Cloud
+0,Our Team
+0,Our Work
+0,Our Platforms
+0,We have a distributed team:
+0,ui-image
+0,nrwl-floating-item nrwl-floating-item nrwl-floating-item
+0,svg
+0,Narwhal Technologies Inc.
+0,2200 E. Williams Field Rd
+0,Suite 200
+0,Gilbert, AZ, 85295 - USA
+0,See our page.
+0,Get improved Next.js support, auto-populated publishable library dependencies, and more in Nx 9.3!
+0,Our FREE starter course and Advanced Nx Workspaces course are now available online, so you can learn!
+0,Speed up your builds and tests! See CI performance improvements of 10X! Get a free 5-hour coupon today!
+0,Sign up for the Nrwl Newsletter
+0,© 2020 Narwhal Technologies Inc. All Rights Reserved
+0,View T-Mobile's Case Study
+0,Start using Nx cloud today!
+0,See Our Team
+0,products
+0,Read More
+0,Access Now
+0,Sign Up
+0,Contact Us
+0,About Us
+0,Careers
+0,Services
+0,Products
+0,Nx
+0,Nx Console
+0,Github
+0,LinkedIn
+0,Medium Blog
+0,Privacy Policy
+0,mat-icon
+0,Blog
+0,Online Course
+0,Product
+0,🇺🇸
+0,🇨🇦
+0,🇮🇹
+0,🇬🇧
+0,🇺🇦
+0,🏴󠁧󠁢󠁳󠁣󠁴󠁿
+0,*
+0,I agree to the
+0,Subscribe
+0,T-Mobile
+0,Angular and React experts
+0,Please enable JavaScript to continue using this application.
+0,mat-label
+0,mat-form-field mat-checkbox
+0,Get To Know Us
+0,Build Software the Better Way - Nrwl (Narwhal Technologies)
+0,Meet The Team
+0,We Look Forward To Meeting You!
+0,Meet Our Co-Founders
+0,We Are Global
+0,We Are Leaders
+0,We Build Community
+0,We Are Inclusive
+0,Co-Founder, Principal Architect
+0,Philip Fulcher
+0,Angular Engineer
+0,Kaitlyn Ekdahl
+0,Thomas Kuehne
+0,Controller
+0,Matthew Briggs
+0,JavaScript Architect, Angular & React
+0,Max Koretskyi
+0,Senior JavaScript Engineer
+0,Benjamin Cabanes
+0,Senior Angular Engineer
+1,Chelsea D'Urso
+0,Design Lead
+0,Karol Przybytek
+0,Operations Manager
+0,Wesley Grimes
+0,JavaScript Architect
+0,Zack DeRose
+0,Senior Engineer
+0,Amanda Connon-Unda
+0,VP of Marketing
+0,Isaac Mann
+0,Nicole Oliver
+0,Jack Hsu
+0,Brandon Roberts
+0,Jonathan Cammisuli
+0,Rares Matei
+0,Sr. JavaScript Engineer
+0,Jo Hanna
+0,Juri Strumpflohner
+0,Javascript Architect
+0,Adam Barrett
+0,Jason Jean
+0,Meet the Team
+0,@victorsavkin
+0,@jeffbcross
+0,{&q;nrwlio.state&q;:{}}
+0,Contact us for development help - Nrwl (Narwhal Technologies)
+0,Let's Connect...
+0,We look forward to helping your team through consulting, training and engineering, and making your next software project better than ever.
+0,Check the Nrwl services you're interested in:
+0,You can update your communication preferences any time, and review our .
+0,Submit
+0,Please Select
+0,Discuss Nrwl Services
+0,Access Nrwl Product Subscriptions
+0,Discuss Nrwl Speakers or Marketing
+0,Your first name
+0,Your last name
+0,Work Email
+0,Company name
+0,Job Title
+0,How can we help you?
+0,DevOps/ CI Improvement
+0,Effective Monorepo Development
+0,Bazelification
+0,AngularJS Upgrading
+0,Nxification
+0,Application Platform Development
+0,Application Performance Optimization
+0,Training (Workshops + more)
+0,Your Message to us
+0,Click to subscribe to Nrwl’s newsletter. (You'll start receiving our monthly newsletter.)
+0,I agree to receive communications from Nrwl.
+0,Explore what we can do for you
+0,See who we are
+0,Discover what it takes to be part of the adventure
+0,Visit our homepage
+0,svg mat-nav-list
+0,The page you're looking for is not accessible anymore (or maybe has never existed 😩)...
+0,Here are some helpful links instead:
+0,Visitor Information
+0,Data Collection
+0,Privacy Policy - Narwhal Technologies Inc.
+0,Narwhal Technologies Inc., Privacy Policy
+0,Introduction
+0,Consent
+0,Withdrawing Consent
+0,Limiting Use, Disclosure And Retention
+0,Hubspot Services
+0,Third-Party URLS
+0,Sharing and Disclosing Information
+0,Cookies
+0,Data Collection Purposes
+0,Email Subscription Preferences
+0,Information-Sharing
+0,Information Security
+0,Contact
+0,Data Usage
+0,Opting out
+0,UNSUBSCRIBE LINKS
+0,UNSUBSCRIBE SUPPORT
+0,WHAT TO DO IF YOU ARE EXPERIENCING PROBLEMS
+0,Data Transfer
+0,Compliance
+0,Policy Updates
+0,ctf-dynamic-layout
+0,Sign-up subscription lists which are circulated at events
+0,Sign-up forms at Narwhal Technologies Inc.’s office
+0,Subscribers' contact information (name, address, company, title, phone, fax, email, web, social media handles)
+0,A selection of interests for future communications
+0,The subscriber's choices as to why we may contact them
+0,The subscriber’s work title, company, and industry they work in
+0,The subscriber's IP address and geographic location
+0,To facilitate login or other site navigation procedures.
+0,To improve the functionality of the website by avoiding duplicate data entry, facilitating navigation, and increasing the relevance of content.
+0,Notifying users of information relevant to an particular event, webinar, blog post, news item or campaign is the primary purpose of our communication network.
+0,Sending segmented e-newsletters to different lists for users interested in a particular offering from Narwhal Technologies Inc.. This is another purpose of our sign-up forms.
+0,Providing information on related resources. We may provide users with information on educational events, career opportunities, training programs, or relevant online content.
+1,Narwhal Technologies Inc.’s main office is located at: Nrwl, 1 University Avenue, 3rd Floor. Toronto, ON, M5J 2P1. Canada.
+0,Narwhal Technologies Inc. collects data related to our users through the following methods:
+0,The data collected may include the following information:
+0,Your data is stored through Hubspot’s data storage, databases and the general Hubspot application. They store your data on a secure server behind a firewall.
+0,Cookies on the site, and the associated data, will be used only for the purposes stated in Section 3 (How We Use The Data We Collect), below.
+0,Narwhal Technologies Inc. collects data from users for the following purposes:
+0,Our website, hubspot and API servers are all located in the United States and data processing occurs primarily in the USA.
+0,www.nrwl.io
+0,hello@nrwl.io
+0,if (document.cookie.match(/^(.*;)?\s*username\s*=\s*[^;]+(.*)?$/))        document.getElementById('btn-header-sign-in').innerHTML = 'My Account';
+0,.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}
+0,('.alert').alert()
+0,Hosting Platform of Choice
+0,Create an exceptional hosting experience
+0,cPanel & WHM
+0,Who is cPanel for?
+0,Become a cPanel Partner
+0,Trusted world-wide by our technology partners
+0,Go the distance with cPanel & WHM
+0,Go Live
+0,Control and flexibility at your fingertips
+0,Fuel your business
+0,Create a premium hosting experience with these add-on solutions
+0,Developers & IT
+0,Small to Medium Businesses
+0,Business Leaders
+0,Business Partnerships
+0,Discounts
+0,Account Manager
+0,Support
+0,For all the latest cPanel news and updates
+0,Have an issue?
+0,Build for cPanel
+0,Exclusive
+0,Dedicated
+0,Enterprise
+0,Products & Pricing
+0,Company
+0,Partners
+0,Developers
+0,Extras
+0,<a class="navbar-brand pt-0" href="https://cpanel.net">
+0,Industry leading hosting platform with world-class support
+0,For over 20 years we’ve remained the leading hosting automation platform. Join the thousands of other global web hosting providers growing their business with us.
+0,Explore opportunities and grow your business with us no matter the stage of your online journey
+0,Manage hundreds of features baked into cPanel or allow your customers to take the wheel. You take the lead when it comes to what your customers need.
+0,Enjoy the premium cPanel experience
+0,We go above and beyond for you and your customers.
+0,Test and launch your custom cPanel & WHM plugin.
+0,©2020 cPanel, L.L.C.  / /
+0,COVID-19 response.
+0,Shop our Products
+0,Product Overview
+0,Features
+0,Customize cPanel
+0,Pricing
+0,Releases
+0,Version 88
+0,Free Trial
+0,Solutions
+0,Extensions
+0,Hyperscalers
+0,About
+0,Giving Back
+0,Brand Guide
+0,Jobs
+0,Up Next
+0,Account Login
+0,Get cPanel & WHM
+0,Explore Our Products
+0,Learn more about cPanel & WHM
+0,What else can cPanel & WHM do for you?
+0,Explore Add-on Solutions
+0,Learn more about our Partner Program
+0,Join Our Mailing List
+0,Explore our Support Center
+0,Explore Developer Center
+0,cPanel & WHM Overview
+0,cPanel & WHM Features
+0,Customize Products
+0,cPanel & WHM Trial
+0,cPanel & WHM Releases
+0,Store Sign in
+0,Need Help?
+0,Documentation
+0,Migrations Services
+0,Support Portal
+0,License Verification
+0,Security TSRs & CVEs
+0,About Us
+0,Non-Profit License
+0,EDU License
+0,Careers
+0,Contact
+0,Become a Partner
+0,Partner Perks
+0,Partner Directory
+0,Partner Sign in
+0,Developer Docs
+0,Application Catalog
+0,Developer License
+0,Knowledge Base
+0,Forums
+0,News
+0,Blog
+0,WebPros Summit
+0,cPU Certification
+0,Feature Request
+0,Do Not Sell My Info
+0,Legal Notices
+0,Privacy Policy
+0,Transparency Policy
+0,×
+0,®
+0,Champions for our customers, the industry, and our employees
+0,Over two decades of powering the internet
+0,Leading the charge
+0,Here for our customers
+0,Here for industry improvement
+0,Here for our employees
+0,1997
+0,J. Nick Koston
+0,Houston, TX US
+1,220
+0,70 million +
+0,73 +
+0,Get in touch
+0,Nick Koston
+0,Sascha Konzack
+0,Todd Mitchell
+0,Ken Power
+0,Aaron Stone
+0,Philip Jackson
+0,Jesse Asklund
+0,David Snead
+0,Debbie Vierra
+0,Careers and culture
+0,Share the cPanel brand
+0,cPanel at a glance
+0,Contact Information
+0,Founded
+0,CEO
+0,Headquarters
+0,Dedicated cPeeps, Who we call our amazing employees
+0,Domains Launched on Servers using cPanel & WHM
+0,Number of countries our partners represent
+0,Where it all began.
+0,Let's get this party started.
+0,Hello H-Town.
+0,Supersized.
+0,Over 200 Strong!
+0,Hooray!
+0,Customer Service Hours
+0,Observed Holidays
+0,Fanatical and passionate about serving our customers, and our customer’s customer.
+0,Always striving to be great citizens by nurturing and improving the hosting industry.
+0,Proud to serve and take care of our employees, whom we fondly call cPeeps.
+0,From birth to now 21 years old, cPanel has grown up a whole bunch, learned a few lessons, served the global hosting community, and so much more.
+0,Nick starts cPanel in his Wilmington, DE home (as a teenager!).
+0,Our first employee relocates to White Haven, PA.
+0,We moved to Houston to take advantage of the larger talent pool.
+0,We upgrade to a bigger office to accommodate our continued growth.
+0,Construction begins on our brand new digs.
+0,cPanel celebrates its 20th birthday.
+0,Introducing the executive leadership team who drive cPanel forward.
+0,Chief Executive Officer
+0,Chief Financial Officer
+0,Chief Operating Officer
+0,VP of Product Development
+0,Director of Internal Development
+0,VP of Development Operations
+0,Director of Technical Support
+0,General Counsel
+0,Employment Legal Counsel/ VP of Employee Relations
+0,cPanel hires people who do what they love and makes sure they love where they work. Ready to take your career to new places?
+0,Let your customers know that you’re part of the cPanel fam with our downloadable logos. Check the brand guide for best practices.
+1,cPanel, L.L.C 2550 North Loop W., Suite 4006 Houston, TX 77092 United States of America Tel: +1.713.529.0800 Tol: +1.844.427.2635
+0,Central Standard Time 6AM - 6PM / Monday - Friday 6AM - 4PM / Saturday - Sunday 8AM - 4PM / Holiday Hours
+0,Memorial Day Independence Day Labor Day Thanksgiving Day Christmas Day New Year Day
+0,View Career Opportunities
+0,See Resource Library
+0,Contact Customer Service
+0,Email Sales Representative
+0,2002
+0,2004
+0,2009
+0,2014
+0,2017
+0,cPanel Privacy Policy
+0,SCHEDULE 1 – PERSONAL INFORMATION WE COLLECT WHEN YOU USE THE CPANEL PRODUCT, THE STORE, OUR TICKETING SYSTEM OR FOR GENERAL INQUIRIES
+0,SCHEDULE 2 – PERSONAL INFORMATION COLLECTED AUTOMATICALLY
+0,SCHEDULE 3 – INFORMATION REGARDING COOKIES
+0,OUR APPROACH TO PRIVACY
+0,Contacting us about privacy related questions and issues:
+0,Requests to know the personal information we collect:
+0,Requests to delete personal information we have collected:
+0,To opt out of the sale of information:
+0,Our toll free number:
+0,If you are using an agent to make a request under our privacy policy:
+0,WHAT OUR PRIVACY POLICY COVERS
+0,This Privacy Policy applies to the cPanel Product, our Website, and all Corporate Sites .
+0,Before accessing our Website or using the cPanel Product, please ensure that you have read and understood this Privacy Policy.
+0,PERSONAL INFORMATION WE COLLECT ABOUT YOU AND HOW WE USE IT
+0,We process Personal Information about the following types of individuals:
+0,individuals who are our direct customers;
+0,where our customer is a business or similar entity, individuals who are our customer’s employees, agents and other representatives; and
+0,where the cPanel Product is licensed through an Authorized Distributor, individuals who are customers of our Authorized Distributors.
+0,Under the GDPR
+0,In accordance with applicable privacy law, you have the following rights regarding Personal Information covered by the GDPR that we hold:
+0,. The right to obtain access to your Personal Information.
+0,. The right to obtain rectification of your Personal Information without undue delay where that Personal Information is inaccurate or incomplete.
+0,If you wish to exercise one of these rights, please contact us using the contact details at the end of this Privacy Policy.
+0,Pursuant to Privacy Shield
+0,Notice: Schedules 1 and 2 describe the Personal Information we collect about you, how we use it, and the types of third parties with whom we share it.
+0,Privacy Shield Jurisdiction and Enforcement
+0,As part of our participation in the Privacy Shield, we are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
+0,COOKIES AND SIMILAR TECHNOLOGIES
+0,We use the following types of cookies:
+0,. These are cookies that are required for the essential operation of our Corporate Site and products such as to authenticate users and prevent fraudulent use.
+0,USING AN AGENT TO MAKE A REQUEST UNDER OUR PRIVACY POLICY
+0,CHANGES TO THIS POLICY
+0,NOTICE TO YOU
+0,CALIFORNIA RESIDENTS – YOUR CALIFORNIA PRIVACY RIGHTS
+0,SWEEPSTAKES, CONTESTS AND PROMOTIONS
+0,CONTACTING US
+0,Questions, comments and requests regarding this Privacy Policy are welcome and should be addressed to the General Counsel at privacy [at] cpanel.net.
+0,This Privacy Policy was last modified on April 20, 2020. It was last reviewed on April 20, 2020.
+0,Behavior information - This includes information about what features of your cPanel & WHM you use regularly and which paths through cPanel & WHM you took.
+0,Conversion information - This includes information about what goals you have achieved using cPanel & WHM.
+0,Corporate Sites
+0,Behavior information - This includes information about what features of the corporate sites you use regularly and which paths through the corporate sites you took.
+0,Conversion information - This includes information about what goals you have achieved using the corporate sites.
+0,communicate with you, sending statements and invoices, communications, news, alerts and marketing communications;
+0,deal with inquiries and complaints made by or about you relating to the cPanel Product;
+0,operate, maintain and provide to you the features and functionality of the cPanel Product and any third party products chosen by you;
+0,authenticate users to our products and systems;
+0,process applications where you have applied for a job with us;
+0,Enter you into sweepstakes, contests and promotions at your request.
+0,the performance of a contract and to take steps prior to entering into a contract; and
+0,authenticate users to our products and systems and those third party products and systems who authenticate using this information.
+0,the compliance with legal and regulatory obligations; and
+0,our legitimate interests, namely defending against employment related complaints
+0,present the cPanel Product to you on your device;
+0,determine news, alerts and other products and services that may be of interest to you for marketing purposes;
+0,monitor and improve the cPanel Product and our business, and to help us develop new products and services; and
+0,Validate our software and license status.
+0,enable the cPanel Product to be presented to you on your device;
+0,operate, maintain and provide to you the features and functionality of the cPanel Product;
+0,monitor and improve the cPanel Product and business, and to help us develop new products and services.
+0,Facilitate our customers interaction activities and customer forums.
+0,Determine the general location of direct orders for the cPanel Product; and
+0,Correlate it with purchases of the cPanel Product.
+0,Domain name, or related IP resource, may be shared with third parties to administer functions associated with those items.
+0,Email address will be shared with email delivery services to deliver both mandatory and opt-in email. Mandatory email is restricted to product operation.
+0,Contact information will be shared with third party vendors when a customer purchases third party products offered by cPanel.
+0,The processing is necessary for the performance of our contract with you; and administering our ticketing and abuse systems.
+0,Where we collect and use your Personal Information for the purposes of improving the cPanel Product, we will first obtain your consent.
+0,Domain name may be shared with third parties to administer domain functions.
+0,Domain name may be shared with customer’s server administrator.
+0,Additional information about this information is here:
+0,Legal Agreements
+0,Trademark
+0,Support Agreements
+0,Legal Store
+0,Law Enforcement
+0,Amendments
+0,Download
+0,General questions
+0,click here
+0,844-427-2635
+0,https://www.privacyshield.gov/
+0,https://www.privacyshield.gov/list
+0,https://cpanel.net
+0,[1]
+0,here
+0,Our Transparency Report
+0,https://www.bbb.org/EU-privacy-shield/for-eu-consumers
+0,cPanel Transparency Report
+0,https://go.cpanel.net/privacy-request
+0,cPanel Analytics - The Data We Use
+0,this link
+0,please click here
+0,1
+0,https://github.com/cakephp/cakephp/issues/2001
+0,https://help.hotjar.com/hc/en-us/articles/115011789248-Hotjar-Cookies
+0,https://store.cpanel.net
+0,https://jobs.cpanel.net
+0,https://job.listings.cpanel.net
+0,http://news.cpanel.net
+0,https://blog.cpanel.net
+0,https://applications.cpanel.net
+0,https://conference.cpanel.net
+0,https://cpanel.net/demo/
+0,https://documentation.cpanel.net
+0,https://features.cpanel.net
+0,https://forums.cpanel.net
+0,http://releases.cpanel.net
+0,https://university.cpanel.net
+0,http://verify.cpanel.net
+0,http://partnernoc.cpanel.net
+0,http://trycpanel.net
+0,As required in accordance with how we use it, we will share your Personal Information with the following:
+0,to better understand our users’ needs and to optimize our Corporate sites and user’s experience on them. In particular
+0,·
+0,how much time a user spends on which pages,
+0,which links they choose to click, and
+0,what users do and don’t like on a particular Corporate site.
+0,Version 04-20-2020
+0,MARKETING AND ADVERTISING
+0,APPLYING FOR A JOB THROUGH OUR SITE
+0,STORING AND TRANSFERRING YOUR PERSONAL INFORMATION
+0,Security
+0,International Transfers of your Personal Information
+0,Disclosure to Government Agencies and Law Enforcement
+0,CERTAIN RIGHTS THAT APPLY IF YOU ARE LOCATED IN THE EU
+0,Right of access
+0,Right to rectification
+0,Right to erasure
+0,Right to restriction
+0,Strictly necessary cookies
+0,Analytical/performance cookies
+0,Functionality cookies
+0,Targeting cookies
+0,SELF SERVICE PORTALS
+0,LINKS TO THIRD PARTY SITES
+0,OUR POLICY TOWARDS CHILDREN
+0,HOW TO REQUEST INFORMATION ABOUT THE PERSONAL INFORMATION WE COLLECT
+0,HOW TO REQUEST THAT WE DELETE PERSONAL INFORMATION
+0,HOW TO OPT OUT OF THE SALE OF INFORMATION
+0,Contact information and basic personal details.
+0,Service providers and advisors
+0,Purchasers and third parties in connection with a business transaction
+0,Other third parties using the Self Service Portal.
+0,Law enforcement, regulators and other parties for legal reasons
+0,Payment information.
+0,Technical and server information.
+0,Correspondence and comments.
+0,Self-identifying information.
+0,All Personal Information set out above.
+0,Category of Personal Information
+0,How we use it
+0,Legal basis for the processing
+0,Categories of recipients
+0,Retention period
+0,Categories shared with third parties
+0,Information about how you access and use the cPanel Product
+0,Information about your device
+0,Demographic Information
+0,Information collected by cookie
+0,Creator of the cookie
+0,Information about cookie
+0,Website and product uses
+0,We use this information to:
+0,The processing is necessary for:
+0,For no longer than necessary for the purposes set out and in accordance with our legal obligations and legitimate business interests.
+0,Details such as your bank account number or PayPal account and related information.
+0,We use this information to facilitate payment for use of the cPanel Product, any third party products chosen, and to detect and prevent fraud.
+0,The processing is necessary for our legitimate interests, namely communicating with users and for marketing purposes.
+0,Where you have applied for a job with us, you may voluntarily provide us with certain self-identifying information.
+0,Self-identifying information may be processed by third party HRIS systems.
+0,The processing is necessary for our legitimate interest, namely to administer and improve the cPanel Product, our Website, our business and develop new services.
+0,We use this information   ·
+0,The processing is necessary for our legitimate interests, namely: to tailor the Corporate Site to the user and to improve the Corporate site generally.
+0,Information is sent to third parties to assist with website analytics. It may also be sent to corporate affiliates and contracted data analytics firms for review.
+0,Information may be shared with Hotjar Ltd.
+0,Product and all Corporate sites.
+0,Product and all corporate sites.
+0,Page views
+0,Manages tags placed on data by cPanel.
+0,Conference16.cpanel.net;                                Cp1con.cpanel.net;                                Releases.cpanel.net
+0,CAKEPHP site counting cookie:                                Number of visits to site.
+0,cPanel
+0,Ascertain the number of times the site is visited.
+0,Persistent: cookie remains on visiting computer until deleted by visitor.
+0,Open source and cPanel
+0,Applications.cpanel.net
+0,cPanel and Hotjar
+0,Hotjar Ltd.
+0,All Corporate sites.
+0,( function ( body ) {			'use strict';			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );		} )( document.body );
+0,window._wca = window._wca || [];
+0,var c = document.body.className;		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');		document.body.className = c;
+0,/* <![CDATA[ */var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};/* ]]> */
+0,/* <![CDATA[ */var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};/* ]]> */
+0,jQuery( 'body' ).bind( 'wc_fragments_refreshed', function() {			jQuery( 'body' ).trigger( 'jetpack-lazy-images-load' );		} );
+0,.has-text-align-justify{text-align:justify;}
+0,#rs-demo-id {}
+0,.infinite-scroll .woocommerce-pagination {		display: none;	}
+0,.woocommerce form .form-row .required { visibility: visible; }
+0,img#wpstats{display:none}
+0,.mymenu {   color:black !important;}
+0,Babban Gona
+0,Our Vision
+0,Our Reach
+0,Success Stories
+0,Our Focus
+0,Our Blog
+0,We believe that everyone deserves a secure future, and to secure this future, we must END insecurity.
+0,The Babban Gona agriculture franchise overcomes a key underlying structural problem that keeps Nigerian smallholder farmer members poor – low economies of scale.
+0,We believe that to end insecurity, we must make smallholder farmer members more money.
+0,Breakdown of things we focus on.
+0,Featured In
+0,newslettter sign-up
+0,Close
+0,Revolutionizing Agriculture
+0,Our Approach
+0,Providing Cost effective end-to-end services
+0,Our Successes
+0,Rapid Growth within last 4 years
+0,To make 1 million smallholder farmer members more money by 2025.
+0,0
+0,Rural Access to Healthy Food
+0,Profitable Loans Disbursed
+0,Farmers Targeted by 2025
+0,What Our members Over the World Are Saying
+0,© 2020 All Rights Reserved.
+0,Purchase from BG Members
+0,Finance BG Members
+0,Join Us
+0,Read More
+0,Learn More
+0,Finance
+0,Invest
+0,Partner with us
+0,Financial Service
+0,Agricultural Input Services
+0,Training & Development
+0,Marketing Services
+0,How COVID-19 is impacting agricultural ecosystems in Africa
+0,23 days ago
+0,CNN Highlights how Babban Gona is helping Nigerian Farmers expand their business
+0,28 days ago
+0,Humans of BG: Nuhu Ishaya
+0,June 3, 2020
+0,I agree that my submitted data is being collected and stored.
+0,Home
+0,Our Company
+0,Leadership
+0,Mission, Vision and values
+0,Our Members
+0,Our Model
+0,Our Impact
+0,Members Stories
+0,Gallery
+0,Reports
+0,News
+0,Newsletters
+0,Videos
+0,Enquiries
+0,Contact Us
+0,Careers
+0,Ibrahim Mustapha
+0,Abdullahi Umar
+0,Sarah Solomon
+0,Rahlia Michael
+0,Na’omi Michael
+0,Jibrin Mohammad
+0,95
+0,93
+0,97
+0,92
+0,185
+0,2
+0,235
+0,254
+0,1
+0,[email protected]
+0,st
+0,<style>.woocommerce-product-gallery{ opacity: 1 !important; }</style>
+0,<style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style>
+0,Leave this field empty if you're human:
+0,Contact Us – Babban Gona
+0,Send us a message on any inquiry you have and our team would get back to you immediately.
+0,Privacy Policy
+0,Send Message
+0,I agree that my submitted data is being collected and stored. For further details on handling user data, see our
 0,site-aligner
 0,logo   site-nav
 0,Solutions for Growing Small Businesses & Entrepreneurs
