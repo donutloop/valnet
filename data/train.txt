@@ -1,3 +1,142 @@
+0,var BASE_URL = 'https://www.biomark.com/';    var require = {        "baseUrl": "https://www.biomark.com/pub/static/version1579284076/frontend/biomark/default/en_US"    };
+0,require.config({        map: {            '*': {                wysiwygAdapter: 'mage/adminhtml/wysiwyg/tiny_mce/tinymce4Adapter'            }        }    });
+0,Biomark -Specialists in Identification Solutions
+1,705 S. 8th Street Boise, Idaho 83702, USA +1 (208) 275-0011
+0,Biomark
+0,Specialists in Identification Solutions
+0,Delivering Statistically Robust Solutions
+0,Assuring Performance and Reliability to Every Customer
+0,What's New
+0,Assuring Performance for our Customers Who Rely on Real Results
+0,Contact
+0,Business Hours
+0,Social Media
+0,© 2020 Biomark, Inc. All rights reserved
+0,<div class="news-author ">By Julia Homaechevarria</div>      <div class="separator"> | </div>
+0,ko if: cookieMessages && cookieMessages.length > 0   /ko  ko if: messages().messages && messages().messages.length > 0   /ko
+0,ko template: getTemplate() /ko
+0,25.06.2020
+0,16.06.2020
+0,03.06.2020
+0,/
+0,|
+0,We are the world leader in fisheries and wildlife identification hardware, software and data services providing you with actionable animal intelligence.
+0,We apply quantitatively rigorous analyses to fisheries, wildlife, and aquatic ecosystems with a mission to positively impact conservation & restoration.
+0,We lead the way in innovation, installation and support in order to provide dependable data collection.
+0,Watch the recording of this webinar to learn about the Riverwatcher technology and how it is supporting conservation around the world.
+0,Monday - Friday 8 am to 5 pm MST
+0,Login
+0,Register
+0,Products
+0,Tags
+0,Readers
+0,Antennas
+0,Custom Systems
+0,Tissue Sampling
+0,Implanters & Needles
+0,Software & Drivers
+0,Accessories
+0,Scholarship Fund Apparel
+0,Technical Services
+0,Applied Biological Services
+0,What We Do
+0,Our Team
+0,Stories
+0,Featured Biomark Projects
+0,Featured Customer Projects
+0,News
+0,News Feed
+0,Events
+0,About Us
+0,Who we are
+0,Our History
+0,Careers
+0,Scholarship Fund
+0,Support
+0,Warranty | Returns | Repairs
+0,Reference Library
+0,Videos
+0,Technical Support
+0,FAQ
+0,Implanters
+0,Software
+0,Recording of High Speed Spillway PIT Tag Detection at Lower Granite Dam, Snake River Webinar
+0,Read more
+0,NEWS RELEASE: Biomark Launches Open-Access, Sea Turtle Tagging Database
+0,Recording of Riverwatcher: Reliable River Stock Management Webinar
+0,Contact Us
+0,Privacy & Terms Policy
+0,My Cart
+0,ko text: getCartParam('summary_count') /ko
+0,ko if: getCartParam('summary_count')  ko text: getCartParam('summary_count') /ko  ko i18n: 'items' /ko  /ko
+0,Search
+0,[email protected]
+0,fisheries, aquaculture and wildlife specific
+0,Contact Biomark, Specialists in Electronic Identification
+0,By completing and submitting this form you are agreeing to our
+0,Business Hours: Monday - Friday 8 am to 5 pm MST
+0,Home
+0,About Biomark, Who we are, why we love what we do
+0,Lead Staff
+0,Brian Beckley
+0,Heiden Bliss
+0,Scott Gary
+0,Steve Anglea
+0,Chris Beasley
+0,Dean Park
+0,Quentin Watson
+0,Elsa Macdonald
+0,President
+0,Director of Sales & Marketing
+0,Director of Operations
+0,Director of Technical Services
+0,Director of Applied Biological Services
+0,Special Projects Advisor
+0,Production Manager
+0,Marketing Manager
+0,Memorial Scholarship
+0,History
+0,Privacy Policy
+0,Terms of Use
+0,Collection of your Personal Information
+0,Use of your Personal Information
+0,Retention
+0,Use of Cookies
+0,Security of your Personal Information
+0,Changes to this Statement
+0,Contact Information
+0,Modification of These Terms of Use
+0,Links to Third Party Sites
+0,No Unlawful or Prohibited Use
+0,Use of Communication Services
+0,Materials Provided to Biomark or Posted at Any Biomark Website
+0,LIABILITY DISCLAIMER
+0,Termination/Access Restriction
+0,Copyright and Trademark Notices:
+0,Trademarks
+0,Notices and Procedure for Making Claims of Copyright Infringement
+0,Defame, abuse, harass, stalk, threaten or otherwise violate the legal rights (such as rights of privacy and publicity) of others.
+0,Publish, post, upload, distribute or disseminate any inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topic, name, material or information.
+0,Upload files that contain viruses, corrupted files, or any other similar software or programs that may damage the operation of another’s computer.
+0,Advertise or offer to sell or buy any goods or services for any business purpose, unless such Communication Service specifically allows such messages.
+0,Conduct or forward surveys, contests, pyramid schemes or chain letters.
+0,Download any file posted by another user of a Communication Service that you know, or reasonably should know, cannot be legally distributed in such manner.
+0,Restrict or inhibit any other user from using and enjoying the Communication Services.
+0,Violate any code of conduct or other guidelines which may be applicable for any particular Communication Service.
+0,Harvest or otherwise collect information about others, including e-mail addresses, without their consent.
+0,Violate any applicable laws or regulations.
+0,Biomark does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
+0,Biomark will retain your personal information for as long as is reasonably necessary for the purposes set out in this Statement of Privacy.
+0,EU Data Subjects
+0,This remaining section of this Statement of Privacy applies to data subjects based in the European Union.
+0,Biomark Inc is the controller for the purposes of this Statement of Privacy
+0,If you are aware of changes or inaccuracies in your personal information, you should inform us of such changes so that our records may be updated or corrected.
+0,You may lodge a complaint with your local supervisory authority if you consider that our processing of your personal information infringes applicable law.
+0,The Biomark Website is comprised of various Web pages operated by Biomark.
+0,SERVICE CONTACT :
+0,All contents of the Biomark Website are: Copyright © 2019 Biomark and/or its suppliers. All rights reserved.
+0,The names of actual companies and products mentioned herein may be the trademarks of their respective owners.
+0,Any rights not expressly granted herein are reserved.
 0,[if lt IE 9]>    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script><![endif]
 0,var PAGE_LOCALE = 'en_US';
 0,Bankable solar data for better decisions | Solargis
