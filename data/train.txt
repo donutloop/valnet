@@ -1,3 +1,196 @@
+0,YLD default logo
+0,/*<![CDATA[*/window.pagePath="/";/*]]>*/
+0,.gatsby-resp-image-image{width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;color:transparent;}
+0,Software engineering & design consultancy in London | YLD
+0,Creating digital capabilities for you, that last beyond us.
+0,Our Work
+0,We're a software engineering and design consultancy, helping your team succeed by fostering a progressive culture of learning.
+0,Events we run
+0,K8s Connect London
+0,Our event types
+0,From the blog
+0,Our engineers have made     contributions to     open source projects
+0,Hire us
+0,Join us
+0,Find us
+0,Consultancy services we offer
+0,DAZN: live sports at scale
+0,Migrating The Economist platform
+0,Future-proofing Trainline
+0,DoctorLink: Setting up a Design System
+0,Kingfisher: support, scale, adapt
+0,Central Working: Changing how you work
+0,Some of the companies we've worked with
+0,Conferences
+0,Meet ups
+0,Workshops
+0,Bradley Four Years at YLD
+0,🏳️‍🌈 Pride Month: A look inside inclusion and diversity in the workplace
+0,All You Have To Do Is Be, And You’re Doing It Brilliantly
+0,London - HQ
+0,Lisbon
+0,Porto
+0,svg
+0,•  June 29
+0,•  June 24
+0,•  June 15
+0,Software engineering
+0,Digital product design
+0,Training programs
+0,Certification
+0,Pair programming
+0,Engineering Skills
+0,Development Tools
+0,JavaScript
+0,Community Support
+0,Open Deliverables
+0,DAZN
+0,The Economist
+0,Trainline
+0,DoctorLink
+0,Kingfisher
+0,Central Working
+0,We modernise both practices and software. Applying expertise in a range of programming languages and an inherent culture of innovation.
+0,We create with you, not for you. Guiding your product teams and company towards customer-focused, functional and beautiful product longevity.
+0,We enable you to adopt emerging technologies and grow powerful engineering teams with a strong focus on open source development.
+0,We embrace open-source technologies and advocate knowledge sharing, both digitally and in person.
+0,We pride ourselves on offering informative, inclusive and fun get-togethers for our ever growing tech community.
+0,Featured event
+0,Tuesday, February 04
+0,K8s Connect gathers Kubernetes experts to share experiences as well as those keen to learn about why and how to implement Kubernetes. Join us!
+0,Knowledge-packed talks from some of the communities best and brightest.
+0,Regular gatherings for both beginners and advanced tech enthusiasts.
+0,Offering crash courses and technical seesions to expand your digital skills.
+0,Bradley Stott
+0,Bradley Stott is our CCO here at YLD and is this week celebrating his four year anniversary. Today he is sharing with us some insight into…
+0,Ana Silva
+0,June is the most colourful month of the year. Pride Month occurs every June to honour the 1969 riots at New York City’s Stonewall, that were…
+0,Joe Schofield
+0,Stop. Breathe. Reflect. Men’s Health Week is upon us, and this year it’s more important than ever. So many of us are confined to our homes…
+0,We pride ourselves of being avid open source contributors. Do you think you can improve our code? Just go ahead.
+0,Got a project you need help with? Have training requirements? Reach out, we're always open for a chat.
+0,We're always looking for talented minds to join our ranks. Take a look at what positions we're currently hiring for.
+0,124 Aldersgate Street
+0,London
+0,EC1A 4JQ
+0,+44(0) 203 514 4678
+0,R. Ramalho Ortigão 8
+0,(3rd floor left)
+0,1070-230
+0,Rua Sá da Bandeira 819
+0,2º Left
+0,4000-438
+0,Engineering
+0,Design
+0,Training
+0,Our work
+0,Open Source
+0,Blog
+0,Events
+0,About Us
+0,Contact
+0,Home
+0,More of our work
+0,Node.js
+0,React.js
+0,Kubernetes
+0,React Native
+0,DevOps Culture
+0,UX & UI Design
+0,User Research
+0,Design Systems
+0,Data Analysis
+0,GraphQL
+0,Sign up
+0,View our events
+0,Read More...
+0,Read more
+0,Read our blog
+0,View our GitHub
+0,Get in touch
+0,Learn more
+0,hello@yld.io
+0,Cookies
+0,Privacy policy
+0,Data-retention policy
+0,Services
+0,Community
+0,About
+0,0
+0,/*<![CDATA[*/window.pagePath="/contact/";/*]]>*/
+0,Contact Us | YLD
+0,Artboard
+0,Get in touch or drop by, we're always open for a chat
+0,Talk to us directly
+0,Business inquiries
+0,CCO
+0,Join our team
+0,Technical Recruiter
+0,Hannah Goldie
+0,Marketing Manager
+0,Bradley oversees commercial strategy and client relationships at YLD.
+0,Ana oversees our talent acquisition ensuring that YLD has excellent people onboard by bringing the right talent to our growing team of expert engineers and designers.
+0,Hannah heads up marketing at YLD, supporting the company's growth by aligning business goals with our marketing strategy and brand values.
+0,commercial@yld.io
+0,talent@yld.io
+0,marketing@yld.io
+0,/*<![CDATA[*/window.pagePath="/privacy-policy/";/*]]>*/
+0,Privacy policy | YLD
+0,1. Privacy Statement
+0,2. Data Processing
+0,3. What information do we collect and why?
+0,4. Links to other websites
+0,5. Your rights
+0,1.3. All data protection issues should be addressed to our HR Manager at hr@yld.io
+0,2.1. In this Policy we use certain terms from the relevant data protection legislation;
+0,(a) “data subject” i.e. anyone who can be identified from personal data;
+0,(b) “controller/data controller” i.e. a business which holds personal data and decides how it should be processed;
+0,(c) “processor/data processor” i.e. a business which holds personal data on behalf of a controller and processes it in accordance with the controller’s instructions;
+0,(f) “processing” i.e. doing anything with personal data including collecting, using, storing, accessing, disclosing and destroying it.
+0,2.2. We will process your person data in accordance with the following principles
+0,(a) all personal data must be processed lawfully, fairly and in a transparent manner;
+0,(i) all personal data must be collected for one or more specified, explicit and legitimate purposes and not processed in a manner incompatible with those purposes;
+0,(b) all personal data shall be restricted to what is adequate, relevant and limited for those purposes;
+0,(c) all personal data shall be kept accurate and up to date (and reasonable steps must be taken to erase or rectify inaccurate personal data);
+0,(d) all personal data must be kept for no longer than is necessary for those purposes;
+0,2.3. We may collect, use and store your personal data, as described in this Policy, where necessary in order to:
+0,(b) exercise our legitimate business interests e.g. providing services to your business, issuing invoices, sending you updates and promotional information;
+0,(c) carry out other functions with your specific consent;
+0,(d) comply with our legal obligations e.g. combating money-laundering, fraud, crime.
+0,2.7. We will never sell your personal data or make it available to any third parties without your prior consent (which you are free to withhold) except where:
+0,(a) we use a processor, in which case we will ensure that the processor complies with this Policy and all relevant data protection legislation;
+0,(b) we are required to do so by law;
+0,3.2. If you contact us, we will keep a record of that contact including your contact details and any relevant account information.
+0,3.3. In addition to your access details, we will log details of your interactions with us including transactions you carry out through the Site.
+0,3.6. We will hold your personal data on our systems for as long as:
+0,(a) your account remains valid; and/or
+0,(b) any contracts you make with us are live; and/or
+0,(c) is necessary to comply with our legitimate business interests; and/or
+0,(d) is necessary to comply with our legal obligations; and/or
+0,(e) you have indicated you are happy for us to do so
+0,3.8. We will hold your data in accordance with our Data Retention Policy published on the Site.
+0,3.9. We may use your personal data:
+0,(a) to carry out our obligations arising from any contracts entered into between you and us;
+0,(b) to provide you with information, products or services that you request from us or which we feel may interest you, including changes and updates;
+0,(c) to ensure that the Site is presented in the most effective manner for you and for your computer;
+0,(d) in accordance with our legitimate business interests and legal obligations.
+0,4.2. Where we use third party service providers (as discussed in paragraph 3.7 above), further information and opt-out details can be found at:
+0,Hotjar
+0,Further details at
+0,Opt-out details at
+0,5.1. You have the following rights in respect of your personal data held by us.  Please send all requests in respect of these rights to our HR Manager:
+0,(a) to access your personal data;
+0,(b) to be provided with information about how your personal data is processed (this information is set out in this Policy);
+0,(c) to have your personal data corrected where necessary (please contact our HR Manager promptly should you become aware of any incorrect or out-of-date information);
+0,(d) to have your personal data erased in certain circumstances (please refer to the appropriate data protection legislation or consult the ICO for details);
+0,(e) to object to or restrict how your personal data is processed;
+0,(f) to have your personal data transferred to yourself or to another business.
+0,5.3. You have the right to take any complaints about how we process your personal data to the Information Commissioner:
+0,Information Commissioner’s OfficeWycliffe HouseWater LaneWilmslowCheshire SK9 5AF
+0,0303 123 1113.
+0,https://www.hotjar.com/legal/policies/privacy
+0,https://www.hotjar.com/legal/compliance/opt-out
+0,https://ico.org.uk/make-a-complaint/
 0,Localize.initialize({ key: '5Y4vjR6zsfAAh', rememberLanguage: true, autodetectlLanguage: false });
 0,hsjQuery = window['jQuery'];
 0,The all in one hospitality platform | Mews
