@@ -1,3 +1,304 @@
+0,.anti-flicker-hide { opacity: 0 !important}
+0,figcaption {    display: block;    font-size: 0.85em;    line-height: 1.7;    font-weight: 300;    letter-spacing: 1;    color: #888;    margin-bottom: 2em;
+0,.w-slider-dot {  background: #e4faf5;}.w-slider-dot.w-active {  background: #9cdbcc;}
+0,Grantbook | Technology Consultants for Foundations & Grantmakers
+0,What We Do
+0,Strategic tech advisory and implementation for grantmaking organizations.
+0,Our Services
+0,Our Approach
+0,Explore our latest thinking from the intersection of philanthropy and tech...
+0,Let's talk!
+0,Charting a path to your digital future?
+0,Software Selection
+0,Implementation
+0,Support & Managed Services
+0,Strategic Partners to Daring Grantmakers
+0,Trusted by
+0,Sector-specific.
+0,Vendor-agnostic.
+0,Human-centred.
+0,Future-focussed.
+0,7 Fluxx Tips for Rapid Response Grantmaking
+0,Process Redesign: A Selection and Implementation Mini Case Study
+0,Salesforce Summer ‘20 Release: 7 Exciting Updates for Grantmakers
+0,Extending your GMS: Interacting with APIs using Middleware
+0,Success!
+0,Uh-oh.
+0,Helping foundations operationalize mission and vision by leveraging technology.
+0,Heading
+0,Min
+0,Consultants to daring grantmakers.
+0,About Grantbook
+0,COVID-19
+0,People
+0,Approach
+0,Culture & Careers
+0,About
+0,
+0,SERVICES
+0,Overview
+0,Support & Managed Services
+0,Clients
+0,BLOG
+0,Schedule a Chat
+0,Contact
+0,Home
+0,Services ▾
+0,Services Overview
+0,Tech Support
+0,About ▾
+0,Culture & Careers
+0,Blog
+0,CONTACt
+0,We help you choose, implement, and learn to use grants management systems so that you can do more good, .
+0,select →
+0,Implement →
+0,Optimize →
+0,30+
+0,grants management systems audited or implemented by our team
+0,125+
+0,SaaS software tools in our knowledge base
+0,80+
+0,foundation clients across North America, Oceania, and Europe
+0,50+
+0,years of combined experience in philanthropy
+0,Jonathan Goldberg
+0,Director of Learning & Grant Operations
+0,Surdna Foundation
+0,Janet Disla
+0,Sr. Grants Manager
+0,Nathan Cummings Foundation
+0,Zina Nelku
+0,Sr. Data Analyst
+0,Grand Challenges Canada
+0,Wendy Rinella
+0,CEO
+0,Oakville Community Foundation
+0,Karen Shea
+0,Chief Executive / Trustee
+0,The Southern Trust
+0,Ashley Clark
+0,Knowledge & Grants Manager
+0,The Libra Foundation
+0,Becky Benak
+0,Director of Grants & Operations
+0,Reach Health Foundation
+0,Required
+0,Your message has been launched! Someone will get back to you within two business days.
+0,Something went wrong while submitting the form. Please take another look at your entry before submitting again.
+0,Resources
+0,Subscribe
+0,Thank you for subscribing.
+0,Oops! Something went wrong while submitting the form. Please try again or contact .
+1,©2020 Grantbook, Inc. C/O Foundation House 2 St Clair Avenue East, Suite 300 Toronto, ON M4T 2T5
+0,As experts in grants management systems, we help you navigate tech tools grantmakers worldwide are embracing to increase efficiency, effectiveness, empathy, and impact.
+0,Ensure your chosen systems best activate your mission, capture your grantmaking practices, and unlock the highest potential for your people and processes.
+0,Unlock your technology’s full potential by better integrating your systems, upskilling your team, or accessing on-demand support to quickly crunch through tickets and bugs.
+0,In a recent webinar, we partnered with Fluxx to explore how funders can employ rapid-response grantmaking tactics, with a case study from The Surdna Foundation.
+0,Tips and best practices for using APIs and Middleware to connect to data from your Grants Management System, automate or improve processes, and improve reporting practices.
+0,Our Approach ⟶
+0,more Good ⟶
+0,hey@grantbook.org
+0,better
+0,We'll get you there.
+0,We are devoted to the philanthropic sector.
+0,Your needs come before brand names.
+0,We apply design thinking for better problem-solving.
+0,We're always learning and excited to share what we learn.
+0,First Name
+0,*
+0,Last Name
+0,Email
+0,Organization
+0,How did you hear about us?
+0,Message
+0,Email Address
+0,About Grantbook | Tech Consulting Devoted to Philanthropy
+0,Grantbook is a technology consulting firm for grantmaking organizations.
+0,about US
+0,Our "Why" is to catalyze your "Why"
+0,Social purpose is part of our DNA.
+0,Our People
+0,Meet Our People →
+0,.
+0,Our team of consultants bring a unique combination of technical savvy, passion for social impact, and deep knowledge of trends in the philanthropic sector to all their work.
+0,Grantbook approach
+0,Philanthropy tech
+0,exclusively
+0,Empowering changemakers like you to activate even more good in the world
+0,Here to impact your impact: allies in your digital transformation
+0,COVID 19
+0,COVID-19: Business as (Un)Usual ‍
+0,Let's get through this together!
+0,Pro Bono Coaching and Advisory
+0,Grantbook's Response Resources
+0,See you online...
+0,Response Framework
+0,Philanthropy in Timescales
+0,Grantbook Bytes — Podcast
+0,Collaborations and Convenings: How Philanthropy is Stepping Up
+0,Your message has been launched! Someone will get back to you as soon as possible.
+0,Almost any response in these unprecedented times has a short shelf life. So, we’re launching this page, and will be updating it frequently.
+0,We’re also actively tracking signals and trends in the sector, and will continue to curate and share responses and resources.
+0,Nikki Barrett, Managing Director, and the entire Grantbook team
+0,Reach Out ⟶
+0,a response framework
+0,philanthropy in timescales
+0,can listen online
+0,A COVID-19 Statement from CFC, PFC, EFC, and The Circle on supporting grantees
+0,A Call to Action: Philanthropy's Commitment During COVID-19
+0,In a Moment of Crisis, Philanthropy is Showing It's Unique Value
+0,Philanthropic Resources for COVID-19 Response
+0,Coronavirus heightens the importance of being a transparent and flexible foundation
+0,is
+0,Select one...
+0,1-10 Staff
+0,11-50 Staff
+0,51-100 Staff
+0,100+ Staff
+0,Role/Title
+0,Organization Size
+0,What can we help you with?
+0,Our People at Grantbook
+0,Meet our whipsmart, down-to-earth team of thinkers and tinker-ers.
+0,StrateGY TEAM
+0,Board of Directors
+0,Aisling Nolan
+0,Annie Xiong
+0,Anthony Maher
+0,Catherine You
+0,Jamie Fawcett
+0,Jennifer Toh
+0,Joshua Fang
+0,Justin Carter
+0,Kenny Li
+0,Mohamed Huque
+0,Mukunda Murali
+0,Parisa Farukh
+0,Rhea Vaz
+0,Sara Saddington
+0,Stephanie Sernoskie
+0,Tierney Smith
+0,James Law
+0,Melanie Wood
+0,Nikki Barrett
+0,Rob Fishbook
+0,Peter Deitz: Co-Founder & Board Chair
+0,Michelle Moore
+0,Rehana Nathoo
+0,Tim Hurson
+0,Heather Crosbie
+0,Celine Takatsuno
+0,Service Design Lead
+0,Systems Design & Fluxx
+0,SaaS & Systems Integration
+0,Business Analysis & M&E
+0,Data Architecture
+0,Business Analysis
+0,Requirements Analysis & Training
+0,Data Analysis & Salesforce
+0,Fluxx Expert, Support Lead
+0,Partnerships Lead
+0,Implementation Testing
+0,Implementation & Smartsimple Expert
+0,Content Lead
+0,Administration, Finance, Logistics
+0,Change Management
+0,Director, Business Development & Innovation
+0,Director, Client Services
+0,Managing Director
+0,Director, Operations & Finance
+0,UnWrapIt
+0,mindequity.ca
+0,digitalminimalism.ca
+0,Spectrum Impact
+0,ventureLAB
+0,Approach | Grantbook
+0,Don't believe us? Believe our work.
+0,Sector-Specific
+0,Vendor-Agnostic
+0,Human-Centred
+0,Future-Focussed
+0,HUMAN-CENTRED SOLUTIONS ARE:
+0,Learn more about our services and the clients we've worked with.
+0,Services
+0,Join Us at Grantbook
+0,We Believe
+0,Join Our Team
+0,Current Positions
+0,We strive to create an open, honest and caring environment that fosters creativity, experimentation, and success.
+0,Our Culture
+0,Core Values
+0,Benefits & Perks
+0,How We Hire
+0,Empathy
+0,Accountability
+0,Candour
+0,Daring
+0,Benefits
+0,4 Weeks' Vacation
+0,Profit Sharing
+0,PD Fund
+0,Active Living Credit
+0,Flexible Work
+0,Volunteer Time
+0,B. Y. O. D.
+0,ESOP
+0,Change & Risk Management
+0,LEARN MORE→
+0,VIEW OPENINGS →
+0,As a growing social enterprise, we're always on the lookout for fresh new faces.
+0,Each employee receives a comprehensive benefits package, which provides both stability and flexibility to meet you and your loved ones’ needs.
+0,For full-time employee, regardless of your position.
+0,Grantbook commits every year to an employee profit-sharing bonus pool that is split equally among all employees regardless of position.
+0,Never stop learning—build your own professional development plan, and draw from a dedicated fund to make it happen.
+0,Need to work from home from time to time? Required to be closer to home? Grantbook supports flexible work to meet the needs of the modern household.
+0,If you volunteer at least 50 hours of your time with charities or nonprofits, we'll give you an extra day off.
+0,We have a Bring Your Own Device policy, where Grantbookers use their own computers. We offer a stipend towards your preferred device.
+0,Employees can buy shares of Grantbook under the Employee Share Ownership Plan (ESOP) after one year of employment.
+0,Whole selves are welcome at work
+0,Emotional literacy to understand other perspectives
+0,Shared sense of ownership of our work
+0,Invest time for relationship-building
+0,Both trustworthy and trusting
+0,Proactive and adaptive to change
+0,Autonomous but accountable
+0,Anticipate long-term needs and trade-offs
+0,Open-door policy: anyone should be able to talk to anyone
+0,Be self-aware, because honesty starts with the self
+0,Have frank conversations when something isn't working
+0,Transparency empowers our work and cooperation
+0,Employ agile methodology and scrum to boost efficiency
+0,Choose experimentation and learning over obsolescence
+0,Innovate for long-term resiliency
+0,Take strategic risks when necessary
+0,We strive to create an environment where team members can thrive.
+0,As a fast-growing social enterprise, we're often on the look for fresh new faces.
+0,Here are some of the benefits and other perks that Grantbook provides our team, as part of our total compensation package.
+0,hiring@grantbook.org
+0,signing up for our newsletter
+0,Get the inside scoop on our hiring process over on our blog.
+0,every
+0,33% of net revenue
+0,.map img {      max-width: none;   }
+0,Contact Grantbook
+0,By Phone
+0,(647) 775-8150
+0,Prefer human voices?
+0,Questions? Curious?
+0,Get in touch at hey@grantbook.org (647) 775-8150
+0,Indicates a required field.
+0,Oops! Something went wrong while submitting the form.
+0,Feel free to give us a call Monday - Friday 9:30 am - 5:30 pm
+0,book a conversation
+0,Grantmaker
+0,Affiliate Group
+0,Software Vendor
+0,Advisory Service Firm
+0,Other
+0,Name
+0,Role / Job Title
+0,MY ORGANIZATION IS A(N)...
 0,document.documentElement.className = document.documentElement.className.replace('no-js', 'js');wNavidStandard='530803530803';wProjectPath='/sieda-de';
 0,/*<![CDATA[*//*]]>*/
 0,Software für Ihre Personaleinsatzplanung | SIEDA GmbH
