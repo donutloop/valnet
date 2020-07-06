@@ -1,3 +1,90 @@
+0,hljs.initHighlightingOnLoad();
+0,Brand New Box - Home Page
+0,Hi.
+0,you don't need to keep this, but it's cool for stats!
+0,You didn't set out to manage software.
+0,Work.
+0,The Team
+0,Notes
+0,A tool to prevent child abuse, now online.
+0,Ecommerce Platform for Artists
+0,County of Los Angeles
+0,Ashley Hutton
+0,Clay Beabout
+0,Isaac Janzen
+0,Joe Pickert
+0,Josh Fike
+0,Justin Schreiner
+0,Kai Widman
+0,Matt Kirkland
+0,Nathan Clark
+0,Will Carey
+0,BNB Mid Coast
+0,832 Pennsylvania Lawrence, KS 66044
+0,BNB West Coast
+1,501 W. Broadway, Suite 800 San Diego, CA 92101
+0,We're Brand New Box. We make for the web.
+0,But we did. We're a we work with clients like you to build new tech solutions. You've got unique business problems, and we can solve them.
+0,Need a big, powerful platform? Need a small, sharp tool?
+0,When our clients can't find an off-the-shelf tool that solves their problem, they call us. Odds are good we can help you, too.
+0,The proof's in the pudding. Here's a look at recent work, or you can see .
+0,A trusted tool to prevent child abuse, now online.
+0,Merchtable.com is an ecommerce and fulfillment platform for indie bands, artists, podcasters, and YouTube weirdos.
+0,How do you evaluate every square foot of County-owned real estate in Los Angeles?
+0,Need to see more? There's
+0,We're smart, friendly, and taller in person.
+0,Keep it light.
+0,Work
+0,Clients
+0,Get Started
+0,We're Hiring!
+0,digital products
+0,even more examples here
+0,PFS Online
+0,More merch. Less table.
+0,Strategic Asset Management
+0,more.
+0,Gregorian Chant Karaoke
+0,Discs and Disks
+0,Safe and Sound Calculator
+0,Analyzing Code at BNB
+0,Oh Canada
+0,OBS and Zoom on Mac
+0,BNB WFH
+0,Civil Software Engineering
+0,BNB Seattle Retreat
+0,2019 Final Fridays Recap
+0,Impact Report 2019
+0,Test Driven Development
+0,Data Frame of Mind
+0,Large Arrays in Rails
+0,Container Orchestration Choices
+0,Caching Docker volumes on macOS
+0,Remote Work from Switzerland
+0,Growing IRISes
+0,The Great Escape(s)
+0,Tech for Technical Assistance
+0,Enter Containers
+0,Our Parental Leave Pledge
+0,Welcome Clay!
+0,Early Tools of the Rails Developer
+0,Stacking those bricks
+0,Jazz Hands
+0,Brand New Box v. Jurassic Park
+0,Happy New Year
+0,2018
+0,Drawing Machines
+0,Hello Brock
+0,No place like dome
+0,Hardware Morning
+0,Do NOT Touch the Pipes
+0,From Dev to UX
+0,619 207 9476
+0,hello@brandnewbox.com
+0,@brandnewbox
+0,@brandnewboxHQ
+0,Company Info
+0,digital product studio:
 0,10Pines | Software Development Services - Argentina
 0,Services
 0,Clients
