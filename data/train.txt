@@ -1,3 +1,191 @@
+0,site-aligner
+0,logo   site-nav
+0,Solutions for Growing Small Businesses & Entrepreneurs
+0,feature-box  feature-box  feature-box  feature-box
+0,Bronze Hosting Plans
+0,Silver Hosting Plans
+0,Gold Hosting Plans
+0,Platinum Hosting Plans
+0,entry-content
+0,cols
+0,phone-icon phone-content
+0,855-942-4444
+0,© 1990-2020 , LLC. All rights reserved.
+0,| | |
+0,custom wrapper class
+0,Sipylus – IT Solutions for Businesses & Entrepreneurs
+0,Contact Sipylus
+0,Recent Tweets
+0,Recent Posts
+0,Follow Us
+0,IT Solutions for Businesses & Entrepreneurs
+0,Navigate with ease using any smartphone or tablet...
+0,Take your websites to the next level with our hosting plans...
+0,Paying for a new domain is expensive but it doesn't have to be...
+0,Keep in the loop with our press releases...
+0,Around-the-clock support for Sipylus customers by professionals...
+0,Dear Clients & Readers:
+0,Best regards,
+0,Office Hours: 08:00 am - 10:00 pm
+0,Single-Use Technology and Mixing Systems for the Pharma and Biotech Industry
+0,Our Businesses
+0,Filtration, Mixing Systems and Single-Use Solutions | DrM, Dr. Mueller AG
+0,Solid-Liquid Separation and Mixing Systems for the Chemical and Process Industry
+0,Subscribe to our Newsletter
+0,Filtration and mixing systems for the chemical and process industry
+0,Single-Use and mixing systems for the pharma and biotech industry
+0,Our designs and products are protected by worldwide patents.
+1,Alte Landstrasse 415 8708 Maennedorf Switzerland
+0,Phone: +41 44 921 2121 Fax: +41 44 921 2131
+0,html{visibility:hidden;opacity:0;font-family:sans-serif}
+0,We help small teams achieve big things | endjin - the Azure, data, AI and high performance software engineering consultancy.
+0,OceanMind: Using Microsoft Azure + AI to combat illegal fishing.
+0,We help small teams achieve big things.
+0,The Azure Synapse Analytics Experts
+0,Our Customers
+0,Powered by our people.
+0,Ian Griffiths is an Microsoft MVP (again).
+0,Programming C# 8.0 Book, published by O'Reilly Media, is now available to buy.
+0,Double win for Apprentices at Computing Rising Star Awards 2019.
+0,Thought Leaders.
+0,C# 8.0 nullable references: MaybeNull
+0,Quick tip – Updating the sort order of a column in Power BI (avoiding circular references)
+0,C# 8.0 nullable references: NotNull
+0,How to dynamically choose the correct font colour based on a background colour in Power BI tables.
+0,Talking about Azure Synapse on Microsoft Mechanics!
+0,Benchmarking Azure Synapse Analytics - SQL Serverless, using .NET Interactive
+0,Ian Griffiths, Technical Fellow, has been awarded a Microsoft Most Valuable Professional award for 2020 in the Developer Technologies category.
+0,Technical Fellow, Ian Griffiths, spent a large chunk of 2019 writing a significant update of his best selling Programming C# book series, published by O'Reilly.
+0,Carmel Eve won Engineering Apprentice of the Year, and Ed Freeman won Cloud Apprentice of the Year. We are immensely proud that their hard work has been recognised.
+0,The MaybeNull attribute enables C#8's nullable references feature to provide more useful warnings, by helping it infer information about a method output.
+0,Here's a quick tip on how to alter the sort order of a column in Power BI!
+0,The NotNull attribute enables C#8's nullable references feature to provide more useful warnings, by helping it infer information about a method argument.
+0,© Copyright endjin limited 2020
+0,Our Technical Fellow just became a Microsoft MVP!
+0,We run the Azure Weekly newsletter.
+0,We just won 2 awards.
+0,We just published Programming C# 8.0 book.
+0,We run the Power BI Weekly newsletter.
+0,Our NDC London 2020 is now available online!
+0,We are school STEM ambassadors.
+0,We created the data platform to monitor the world's oceans in near-realtime to prevent illegal fishing & human trafficking.
+0,We are a consultancy with deep expertise in Azure, Data, AI, & complex software engineering. We are Microsoft Gold Partners for , a , and .
+0,We help organizations of all sizes from start-ups to global enterprises across financial services, media & comms, retail & consumer goods, and professional services.
+0,Skip to content
+0,svg
+0,Who We Are
+0,What We Do
+0,Who We Help
+0,What We Think
+0,Contact Us
+0,Our People
+0,Our Processes
+0,Our IP
+0,Our Story
+0,Microsoft Partner
+0,Join Us
+0,News
+0,Tech Briefings
+0,Insight Discovery
+0,Modern Data Platform Blueprints
+0,Software Engineering
+0,Open Source
+0,Customers
+0,Case Studies
+0,Sectors
+0,Scale Ups
+0,Customer Quotes
+0,Blog
+0,Talks
+0,Azure Radar
+0,Azure Weekly
+0,Power BI Weekly
+0,Thought Leadership
+0,Digest
+0,Editions
+0,Read how we did it
+0,Cloud Platform, Data Platform, Data Analytics, DevOps
+0,Power BI Partner
+0,.NET Foundation Corporate Sponsors
+0,funded
+0,exited
+0,high-performance teams
+0,products
+0,solutions
+0,keynotes
+0,exemplars
+0,See our case studies
+0,See our Data Platform Blueprints
+0,Meet the Endjineers
+0,Read our blog
+0,Analytics
+0,Architecture
+0,Big Compute
+0,Big Data
+0,Business Insights
+0,Cloud
+0,Culture
+0,Development
+0,DevOps
+0,Engineering Practices
+0,Experience
+0,Innovation
+0,Internet of Things
+0,Machine Learning
+0,Power BI Embedded
+0,Security and Compliance
+0,Startups
+0,Strategy
+0,Technology
+0,Visualisation
+0,Let's Chat
+0,Book a Call
+0,Drop us a Line
+0,@endjin
+0,endjin
+0,endjinhq
+0,01/06/2020
+0,01/12/2019
+0,10/10/2019
+0,03/07/2020
+0,01/07/2020
+0,26/06/2020
+0,25/06/2020
+0,18/06/2020
+0,11/06/2020
+0,Show menu
+0,Show search form
+0,Howard van Rooijen
+0,Ian Griffiths
+0,Ed Freeman
+0,Carmel Eve
+0,Jess Panni
+0,any data at any scale
+0,Say hello!
+0,Talk to us
+0,Book a call
+0,Drop us a line
+0,994827749
+0,07351560
+1,Dalton House, 60 Windsor Avenue, London, SW19 2RR
+0,VAT Registration
+0,Company number
+0,Registered Address
+0,You can ask us a question using the message box in the lower right hand corner of this page, and we'll get back to you asap.
+0,Alternatively, if you'd rather talk on the phone at another time, you can schedule a call with one of us using our online calendar.
+0,Or, of course, you can use good old fashioned email to drop us a line anytime at
+0,Call us on or say
+0,If you would like to ask us a question, talk about your requirements, or arrange a chat, we would love to hear from you. Want to know more about how endjin could help you?
+0,Endjin metadata
+0,020 8720 7287
+0,hello@endjin.com
+0,Message us!
+0,Call us!
+0,Email us!
+0,Chat
+0,Phone
+0,Email
+0,right now
 0,end widget
 0,Replatform with Experienced Advisory and Implementation
 0,Our Solutions
