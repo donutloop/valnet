@@ -1,3 +1,359 @@
+0,10Pines | Software Development Services - Argentina
+0,Services
+0,Clients
+0,About
+0,Experience
+0,Our Process
+0,Meet the team
+0,Do you want to work with us?
+0,Contact
+0,Creative Software Development
+0,We have done projects all around the world
+0,Who We Are ?
+0,What We Do?
+0,Full Life-cycle
+0,Dedicated Team
+0,Consulting
+0,Web Applications
+0,Corporate Tools
+0,Mobile Applications
+0,Our Work
+0,Hernan Wilkinson
+0,Jorge Silva
+0,Emilio Gutter
+0,Alejandra Alfonso
+0,Federico Zuppa
+0,Dario Garcia
+0,Nicolas Perez Santoro
+0,Nicolas Papagna Maldonado
+0,Nahuel Garbezza
+0,Gisela Decuzzi
+0,Igal Frid
+0,Lucas Giudice
+0,Pablo Alegre
+0,Victoria Palazesi
+0,Federico Grosso
+0,Julian Calvento
+0,Pablo Belaustegui
+0,Matias Fernandez
+0,Santiago Nodar
+0,Matias Melendi
+0,Martin Tabak
+0,Gabriela Iztueta
+0,Ariel Umansky
+0,Victoria Cabrera
+0,Angeles Tella Arena
+0,David Correa
+0,Gaston Caruso
+0,Agustin Garcia Smith
+0,Cristian Boccia
+0,Juan Fernandes
+0,David Kotlirevsky
+0,Lucas Traverso
+0,Gian Franco Fioriello
+0,Ayelén Macarena Garcia
+0,Daniel Lovero
+0,Nicolas Derecho
+0,Gustavo Crespi
+0,Marcos Alvarenga
+0,Sonia Stedile
+0,Maria Magdalena Mileto
+0,Ezequiel Nicolás Seidler
+0,Federico Ariel Romero
+0,Ornella Mara Bordino
+0,Carlos Perez
+0,Martin Gonzalez
+0,Erwin Debusschere
+0,Micaela Alonso
+0,Daniel Fau
+0,Nico Rainhart
+0,Joel Cámera
+0,Sergio Minutoli
+0,Lautaro García
+0,Ailen Muñoz
+0,Erik Gervas
+0,Lucas Wojciechow
+0,Agustín De Cunto
+0,Leandro Gomez Vidal
+0,Jessica Saavedra
+0,Facundo Javier Gelatti
+0,Emmanuel Schönfeld
+0,Ezequiel Alvarez
+0,Fernando Dodino
+0,Lucas Trinidad
+0,Maria Belen Amat
+0,Gaston Testay
+0,Luca Hazuca
+0,Javier Zolotarchuk
+0,Angel Yan
+0,Santiago Paredes
+0,Damian Pereira
+0,Federico Gustavo Martínez Fonseca
+0,Ornella Mosca
+0,Carolina Destuet
+0,Melisa Melendi
+0,Federico Del Mazo
+0,Martin Adrian Loguancio
+0,Guillermo Perez
+0,Lautaro Alonso Urtiaga
+0,Mauro Bosetti
+0,Ignacio Leonel Pugliese
+0,Mariano Baffetti
+0,“ The best way to predict the future is to invent it - Alan Kay ”
+0,Employee Schedulling
+0,Health Plans Marketplace
+0,Prepaid Credit Cards Platform
+0,Console for Nanosatellites
+0,Send Money Application
+0,Direct Market Access Module
+0,Materials Management Tool
+0,Mobile Benefits Guide
+0,Community of Practitioners
+0,Legal Files Management Portal
+0,Daily Sales Posting
+0,Invoice Approval Workflow
+0,Software Craftsman
+0,Agilist, Rubist and brewer
+0,Agilist, Javist, accountant and everything else
+0,Android Architect & Geek
+0,Developer, Philosopher
+0,Object Oriented dude, Musician
+0,Developer, Minimalist
+0,Software developer & Learner
+0,Software Developer and Poker Player
+0,Developer, Musician & Learner
+0,Software Developer and Retro Gamer
+0,Caring about 10Pines
+0,Developer
+0,Developer & musician
+0,Developer and father apprentice
+0,Developer & Mountaineer
+0,Developer & Gamer
+0,Software Developer & Team Leader Apprentice
+0,Thoughts developer
+0,Graphic Designer
+0,Attempt
+0,Developer & Student
+0,Developer, Student & Gamer
+0,Developer & Learner
+0,Admin. & Bad Writer
+0,Developer, Learner
+0,Team Player
+0,Student and programmer
+0,Developer & Puzzle solver
+0,Developer & Amateur Chef
+0,Developer, Musician & Student
+0,Knowledge's admirer
+0,Developer, musician, dreamer
+0,Cloud sherpa
+0,Developer, dancer & student
+0,Student & friendly neighbor
+0,Student, Programmer, (Future) "Engineer"
+0,Developer & Musician
+0,renaissance frontend designer & deveLover
+0,Student & Programmer
+0,Student, Teacher & Programmer
+0,Competent student, competitive gamer
+0,Random citizen
+0,Never-ending puzzle
+0,Developer, Learner & Engineer
+0,Designer & Ilustrator
+0,Software prophet, Haskell enthusiast.
+0,Foo, bar & person
+0,A growing tree
+0,Developer, student
+0,Gamer, Developer & Student.
+0,Student & Developer
+0,Developer, Student & Artist
+0,Developer & Lifelong learner
+0,Developer, Learner & Musician
+0,Engineer & Musician
+0,Software Developer and art lover
+0,Admin & Free Spirit
+0,Code Monkey
+0,Sourcerer
+0,Developer, Student and Gamer
+0,Developer & Game Master
+0,Servicio de desarrollo de sistemas de software a medida
+0,Content
+0,Fixed  Navbar
+0,/.nav-collapse
+0,Text data-animation
+0,Headings
+0,Content  <p class="page-title">We do what we love. We love what we do. </p>
+0,Headings    Content   Medium and Large layout   Small devices layout
+0,<i class="client-icon client-mercap" data-toggle="tooltip" title="" data-original-title="Mercap Software"></i>
+0,Headings      ==== Portfolio Filters ====   End portfolio filters
+0,Project thumb
+0,Project caption
+0,Headings   Content
+0,venite@10pines.com
+0,Headings    Contact info
+0,contact-box Form
+0,<a href="#" target="_blank"><i class="fa fa-google-plus icon-circle-background"></i></a>
+0,by ( ) / Desaturated from original
+0,testimonial
+0,Using techniques, we translate the product's vision into a workable release roadmap
+0,Our continuous planning strategy keeps the project aligned with business goals
+0,Backend, Java + Fix protocol
+0,We use open estimates giving complete transparency to the process
+0,We work in small iterations to amplify the learning during the project
+0,The client can follow the progress of the team on a daily basis
+0,At the end of each iteration we demo the features built so far, running and tested, giving visibility of the real status of the project
+0,The features of the product are allowed to evolve during the project as a result of the client and users being involved in its construction
+0,Quality and technical excellence enable us to keep the cost of change low
+0,We don't just write code. We craft your ideas
+0,10Pines is a Latin American software development company, based in Argentina, specializing in creating top quality solutions with cutting edge technology.
+0,Every project is unique. We have several engagement models that we've used repeatedly with great results. Want to talk about a tailored service? to discuss it.
+0,We also provide and in Agile Methodologies, Object Oriented Design, Test Driven Development and all development practices and techniques we use in our daily work. .
+0,You know your business better than anyone. Your insights, combined with our skills and      creativity, will result in a product that truly stands out.
+0,We can help you leverage all the power of the cloud and social networks while dealing with Web's main              challenges: usability, scalability, security, stability.
+0,Our clients range from startups to big corporations. Here are a few clients we've worked with so far.
+0,— Paul Pagel - CEO of 8thlight
+0,Work done by 10Pines is very good and                highly recommended. They delivered within committed timeframe and they managed to include all feedback from key users.
+0,— Pablo Campo - Project Manager at BurgerKing & Starbucks
+0,— Sebastián Blaustein - CTO of Puente
+0,I’ve personally been working with 10Pines on my second venture now and both times they’ve been critical to delivering an outstanding technical platform.
+0,— Volker Breuer - CEO of Payfriendz
+0,We've been delighted working with 10 Pines! The close collaboration and dedication of the developers make them a truly integral part of the Teespring tech team.
+0,— Evan Stites-Clayton - CTO of Teespring
+0,10Pines helped us launch a sophisticated and stable MVP within 3 weeks. They understood our needs and had a profound sense of ownership over the development process.
+0,— Mags Chilaev - Founder of Unlease.io
+0,— Virginia Clark - Director of Research and Methodology, Jacob's Ladder Neurodevelopmental School and Therapy Center
+0,— Adam Scroggin - Product Owner of CardBoard
+0,Take a look to some of the works we are proud of.
+0,Starbucks / BurgerKing
+0,Online Provider
+0,Payango
+0,Satellogic
+0,Payfriendz
+0,Puente
+0,Tenaris
+0,Commercial Bank
+0,The Palladium Group
+0,We have and Agile mindset: collaboration, transparency and continuous improvement are embedded in our culture, at all levels of the organization
+0,"Smalltalking the world"
+0,"Building software as a handmade cigar"
+0,"Entspann, keine Sorgen, hab ein Zuhause Brauen"
+0,"Agilist of the first hour"
+0,"Trying to find the best way to develop software"
+0,"Passion is the engine, Reason is the road and Will is the driver"
+0,"Care, and everything will follow from that"
+0,"Real devs don't use IF statements"
+0,"The music is not in the piano"
+0,"Learn something new today!"
+0,"Programming is like a game, think before do"
+0,"Just tryin' to keep it simple"
+0,"Keep going!"
+0,"Non, Rien de rien, Je ne regrette rien"
+0,"Always trying to learn something"
+0,"Think before you act"
+0,"The good from bad and the bad from good is that it ends"
+0,"Leave this world a little better than you found it"
+0,"Enjoy the little things"
+0,"Quality is an emerging property."
+0,"There's nothing you can do that can't be done"
+0,"What do you want to do tonight? - try to take over the world!"
+0,"Play the music, not the instrument"
+0,"Everything for love, with joy"
+0,"Can't you see the sky is not the limit no more?"
+0,"The hard lessons make the difference, and the difference makes it worth it"
+0,"Stay free"
+0,"We must be silent before we can listen"
+0,"Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better"
+0,"Surrender your ego be free, be free, to yourself."
+0,"It's a long way to the top if you wanna rock&roll."
+0,"Give me six hours to chop down a tree and I will spend the first four sharpening the axe."
+0,"Jai Guru Dev"
+0,"Everything happens for a reason"
+0,"For where your treasure is, there your heart will be also."
+0,"There are no bugs, just bad-sold features"
+0,"Your code reflects your ideas, dream big but keep it simple!"
+0,"The harder it gets, the funnier it is!"
+0,"A journey of a thousand miles begins with a single step"
+0,"A reader lives a thousand lives before he dies. The man who never reads lives only one."
+0,"Programming is the art of naming"
+0,"What is your north?"
+0,"Many small people, in small places, doing small things, can change the world"
+0,"Dance with me, let's pretend living in a satellite fantasy, waiting for the night to end"
+0,"Learning never exhausts the mind"
+0,"The network is reliable."
+0,"Someday we're gonna get to that place we wanna go, and we'll walk in the sun"
+0,"I get by with a little help from my tests"
+0,"Learn and build, build and learn"
+0,"Do not let the world change you. You can change the world"
+0,"In some ways, programming is like painting."
+0,"I am because we are"
+0,"The only thing that is constant is change"
+0,"Craft your path, time will do the rest"
+0,"Say it like Woah-See-A-Show"
+0,"Pass on what you have learned"
+0,"Do not take life too seriously. You will never get out of it alive"
+0,"I am endlessly creating myself"
+0,"A 70 year lifespan has over two billion seconds. That’s not enough time to waste on work I’m not proud of."
+0,"An artisan among craftsmen"
+0,"Programs must be written for people to read, and only incidentally for machines to execute."
+0,"I could write a lot here, but as every compiler I also have reserved words"
+0,"Sometimes I believe in as many as six impossible things before breakfast"
+0,"Don't underestimate your destiny. You never know whats around the corner."
+0,"Be the teammate you want to have."
+0,"Don't sell the sun to buy a candle."
+0,"Code is like a joke, if you have to explain it is not good"
+0,"The more you know, the more you realize you don't know"
+0,"You can always learn something."
+0,"Absorb what is useful, Discard what is not, Add what is uniquely your own."
+0,"You miss 100% of the shots you don't take"
+0,"I'm a dreamer but I'm not the only one"
+0,"Computer Science is no more about computers than astronomy is about telescopes."
+0,"If you feel it do it!"
+0,"Talk is cheap. Show me the code. ~ Linus"
+0,"A person ignorant of the possibility of failure can be a half-brick in the path of the bicycle of history"
+0,"Imagination is the real story of the world"
+0,"Do a barrel roll!"
+0,"There's always another secret"
+0,"If the world is gonna burn everyone should get a turn to light it up"
+0,"It's all about people"
+1,Av. Leandro N. Alem 896 6th floor (C1001AAB) Buenos Aires, Argentina
+0,+54 11 6091 3125
+0,<li><a href="#about">About</a></li>
+0,Home
+0,Process
+0,Team
+0,Work with us
+0,Training
+0,Blog
+0,Scroll down to learn more
+0,Contact us
+0,Learn more
+0,All Industries
+0,Banking & Finance
+0,FOOD & BEVERAGE
+0,Healthcare
+0,Aerospace
+0,Manufacturing
+0,Legal
+0,Meet all members
+0,We explain it here
+0,hello@10pines.com
+0,Long Exposure Puerto madero BA
+0,Roger Schultz
+0,CC BY
+0,product discovery
+0,Web application, Java + Flex
+0,Web application, Ruby on Rails
+0,Web Application + Backend, Ruby on Rails
+0,Web application, Smalltalk + Seaside
+0,Mobile + Backend, iOS + Ruby on Rails
+0,Mobile, Android
+0,Web application, Java + Liferay
+0,Our passion is to craft software for great businesses.
+0,training
+0,coaching
+0,We are ready for the next big challenge. Yours!
+0,Our priority is to satisfy our customers through early and continuous delivery of valuable software
+0,JOIN US, WE’RE HIRING!
+0,Would you like to know how we work?
+0,Send
 0,var BASE_URL = 'https://www.biomark.com/';    var require = {        "baseUrl": "https://www.biomark.com/pub/static/version1579284076/frontend/biomark/default/en_US"    };
 0,require.config({        map: {            '*': {                wysiwygAdapter: 'mage/adminhtml/wysiwyg/tiny_mce/tinymce4Adapter'            }        }    });
 0,Biomark -Specialists in Identification Solutions
