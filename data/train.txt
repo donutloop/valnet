@@ -1,3 +1,201 @@
+0,$(function(){  window.setInterval(function(){    {$(".gallery-reel-control:nth-of-type(2) .gallery-reel-control-btn")    [0].click()}      }, 4000);});
+0,SQUARESPACE_ROLLUPS = {};
+0,Static.COOKIE_BANNER_CAPABLE = true;
+0,try{Typekit.load();}catch(e){}
+0,(function() {if(window.ImageLoader) { window.ImageLoader.bootstrap({}, document); }})();
+0,Raxis - Penetration Testing -  Atlanta, GA
+0,(Mobile) Menu Navigation
+0,Collection Title   Carousel Nav
+0,Latest from our Blog
+0,The Raxis Difference:
+0,Background
+0,Social  Title and nav wrapper   Actions   Burger
+0,Nav   Title
+0,Menu Navigation
+0,Gallery Reel
+0,svg
+0,End .summary-item-list-container
+0,End .summary-item-list
+0,Thumbnail    End .summary-content
+0,Products: Quick View
+0,Main Image
+0,Metadata (Above Title)   Title   Metadata (Below Title)   Excerpt   Read More Link   Metadata (Below Content)
+0,Timestamp
+0,Metadata (Above Title)   Title   Metadata (Below Title)   Read More Link   Metadata (Below Content)
+0,Years of penetration testing and general mischief-making have taught us that there’s always a way in. We’ll find it — and help you keep the bad guys out.
+0,Test all of your defenses against some of the most innovative security professionals in the business. Use that knowledge to strengthen your weak points.
+0,Red Team Assessment
+0,Penetration Testing
+0,Social Engineering
+0,Physical Security Assessment
+0,Application Penetration Testing
+0,Web and API Penetration Testing
+0,Enterprise CIS 20 Analysis
+0,﻿Security Framework Analysis
+0,– Fortune 500 Healthcare Company
+0,Understand the real-world threats your company faces then train your team to find and defeat them.
+0,Vulnerability Assessment
+0,﻿Tabletop Exercises
+0,Dark Web Monitoring
+0,Security Awareness Training
+0,Secure Configuration Reviews
+0,Secure Code Reviews
+0,Security Policy Reviews
+0,Continuous Vulnerability Monitoring
+0,Blue Team Advisory Service
+0,According to the Ponemon Institute, the average total cost of a data breach is
+0,Raxis finds security gaps helps you fix them. (The bad guys do one of those.)
+0,Custom solutions developed for your unique security needs.
+0,Incident Response
+0,Purple Team Service
+0,Pre-Acquisition Security Assessment
+0,Embedded Device Penetration Testing
+0,Raxis CTO Brian Tant explains least privilege access and why it is essential to corporate cybersecurity.
+0,Raxis gets a new look as we head to the next level!
+0,Join Raxis in celebrating National Cybersecurity Awareness Month (NCSAM).
+1,©2020 Raxis LLC.  2870 Peachtree Road, Suite #915-8924, Atlanta, GA 30305
+0,Solutions
+0,Summary
+0,Attack and Assess
+0,Prepare and Predict
+0,Specialized Services
+0,All Services
+0,About
+0,Careers
+0,Blog
+0,Contact Us
+0,Discover How
+0,Learn more
+0,What is Least Privilege Access?
+0,Read More →
+0,3 Steps You Should Take Right Now to Reduce Your Risk of a Cyberattack
+0,Here’s How Hackers Can Get Through Your Doors and Onto Your Network
+0,Can This Simple Trick Outwit Your Smart Security?
+0,Windows 10 Vulnerability Highlights Need for Physical Security Testing
+0,New Branding Reflects Renewed Commitment to Your Security
+0,Pharma Breaches and the Terrifying Prospect of Data Manipulation
+0,Raxis Cares: When COVID-19 Comes, Creatives Pivot
+0,Notes From a Hacker: Yes, You Have to Use Your VPN – and Here’s Why
+0,Raxis Cares: Passing Along the Passion
+0,An Earth Day Message from Raxis
+0,Raxis COO Shares WFH Cybersecurity Tips on Columbus, Ohio’s Fox 28
+0,Remote Security Series:  Protect Your Network Health Like Your Own
+0,Remote Security Series:  Urgent Questions You’ll Face About VPN and Remote Access
+0,Remote Security Series: Review Remote Workforce Policies
+0,Remote Security Series: Stay ahead of the phishing attacks that follow COVID-19
+0,Celebrate National Cybersecurity Awareness Month Through Security
+0,Raxis Presents at the (ISC)² Atlanta Chapter Meeting
+0,Raxis' Scott Sailors on Atlanta's Fox 5 News
+0,Helping Nonprofits and Other Growing Businesses Understand Security Risks
+0,Bonnie featured in VoyageATL interview!
+0,Our COO, Bonnie Smyre, Featured on Fox 5 News!
+0,Top Five Actions NOT to Take When Your Pentest Results are High Risk
+0,Goodies for Hoodies: TCP Timestamps
+0,IKE VPNs Supporting Aggressive Mode
+0,Raxis API Tool
+0,Web Attacks: Insecure Transmission of Data
+0,Web Attacks: Clickjacking
+0,Tailgating & Other Physical SE - SOCIAL ENGINEERING [PART 3]
+0,Voice Phishing - Social Engineering[Part 2]
+0,Terms and Policies
+0,Jun 26, 2020
+0,Jun 22, 2020
+0,Jun 12, 2020
+0,Jun 5, 2020
+0,May 28, 2020
+0,May 21, 2020
+0,May 14, 2020
+0,May 8, 2020
+0,May 1, 2020
+0,Apr 24, 2020
+0,Apr 22, 2020
+0,Apr 14, 2020
+0,Apr 10, 2020
+0,Apr 3, 2020
+0,Mar 27, 2020
+0,Mar 20, 2020
+0,Oct 23, 2019
+0,Jul 29, 2019
+0,Jul 1, 2019
+0,Aug 27, 2018
+0,Aug 22, 2018
+0,Jul 11, 2018
+0,Jun 18, 2018
+0,Jun 4, 2018
+0,May 23, 2018
+0,May 4, 2018
+0,Apr 25, 2018
+0,Apr 19, 2018
+0,Apr 11, 2018
+0,Apr 4, 2018
+0,RAXIS ATTACKS. RAXIS PROTECTS.
+0,AND
+0,0
+0,Open Menu
+0,Close Menu
+0,Folder:
+0,Back
+0,Blog -Security Exploits & News
+0,$3.92 million
+0,About Us — Raxis — Atlanta, GA
+0,About Us
+0,Corporate cybersecurity, meet Raxis reality.
+0,Smart companies care about what happens when their cybersecurity protocols are tested in the real world.
+0,Gallery Strips
+0,Current Page:
+0,That’s why we exist.
+0,Contact Us — Raxis — Atlanta, GA
+0,Contact us
+0,Tell us more about you
+0,Raxis
+0,Let us know your questions, ideas, or needs, and we’ll get right back with you to discuss how Raxis can help.
+0,Thank you!  We will be in touch shortly.
+0,We’re proudly virtually positioned across the United States, but feel free to reach us at our Atlanta Virtual HQ.
+1,2870 Peachtree Road, Suite #915-8924 Atlanta, GA 30305
+0,Please email RFPs and quote requests to:
+0,infosec@raxis.com
+0,*
+0,First Name
+0,Last Name
+0,(###)
+0,###
+0,####
+0,Email
+0,Message
+0,Protect and Predict
+0,Other
+0,Name
+0,Phone
+0,Interested Solution(s)
+0,Remote Security Series:  Urgent Questions You’ll Face About VPN and Remote Access — Raxis — Atlanta, GA
+0,Written By
+0,—- ShareThis BEGIN -—   —- ShareThis END -—
+0,Previous
+0,Next
+0,If there’s even a speck of doubt, I strongly recommend putting data loss prevention (DLP) tools on the endpoints to ensure data isn't leaving the network unsecured.
+0,Raxis is always happy to discuss your unique circumstances and to offer options specific for your needs as well as your budget.
+0,Visit for more information.
+0,In the News
+0,Security Recommendations
+0,Scott Sailors
+0,https://raxis.com/contact
+0,COVID-19
+0,remote
+0,VPN
+0,WFH
+0,everyone
+0,but who didn’t know how to use the VPN to access files they need on a daily basis.
+0,Apr 3
+0,Do you have enough VPN licenses?
+0,Do you have enough bandwidth?
+0,Is split tunneling appropriate for your company?
+0,Are your users trained to use the VPN?
+0,Do they delete sensitive data from their computers when they are done?  Do they even know they should do this?
+0,Do you have a ‘shadow IT’ problem you didn’t know about?
+0,Is your VPN network being monitored or logged?
+0,How many concurrent connections are allowed per user?
+0,Are user endpoints encrypted and patched?
+0,Does your business continuity plan reflect the new reality?
 0,YLD default logo
 0,/*<![CDATA[*/window.pagePath="/";/*]]>*/
 0,.gatsby-resp-image-image{width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;color:transparent;}
