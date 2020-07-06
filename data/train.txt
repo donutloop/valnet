@@ -1,3 +1,656 @@
+0,function OptanonWrapper() { }
+0,GetSmarter | Online Courses with the World's Top Universities
+0,Ready to stand out from the crowd?
+0,.secure_subject_title_1594055081 {position:absolute!important;top:-9999px;left:-9999px;}
+0,Featured universities
+0,Featured online short courses
+0,An online education that sets you apart
+0,What past students have to say
+0,Ready to set yourself apart?
+0,flash messages
+0,Find an online short course
+0,Select a subject (15)
+0,Select a university (18)
+0,Join over 100,000 working professionals from across the globe, who have already benefitted from the opportunity to:
+0,as powerful proof of your new competencies and use it to differentiate yourself and get recognised in the job market.
+0,Enjoy a online learning experience that constantly achieves unprecedented course completion rates.
+0,Gain through a career-focused curriculum that achieves specific learning outcomes and skill gains.
+0,Advance your career by doing a certified online short course designed for busy, working professionals, like you.
+0,This course has set the benchmark for any further online studies.
+0,CHERYL CHEONG
+0,Oxford Fintech Programme
+0,DERREN YOUNG
+0,Cambridge CISL Business Sustainability Management Online Short Course
+0,My student success manager gave me a lot of support. We all wish we had 48 hours in a day.
+0,It comes down to how you prioritise your time, what comes first and what comes last.
+0,KEKANA SOMFULA
+0,UCT Operations Management Online Short Course
+0,Join over 100,000 working professionals from across the globe, who have already achieved the personal and professional success they were seeking.
+0,Rise to the top
+0,Improving lives through better education
+0,Company
+0,Resources
+0,Business Solutions
+0,Help
+0,Find Us Online
+0,Newsletter Signup
+0,Skip to Content
+0,UNIVERSITIES
+0,ONLINE SHORT COURSES
+0,WHAT WE DO
+0,GETSMARTER FOR BUSINESS
+0,BLOG
+0,STUDENT LOGIN
+0,Arts and Design
+0,Business and Management
+0,Education
+0,Entrepreneurship
+0,Executive Education
+0,Finance
+0,Health
+0,Hospitality and Events
+0,Law
+0,Marketing
+0,Project Management
+0,Real Estate
+0,Systems and Technology
+0,Talent Management (HR)
+0,Writing
+0,Cambridge CISL
+0,EGADE Business School
+0,George Washington University
+0,Harvard University
+0,LSE
+0,MIT
+0,Northwestern University
+0,Oxford Saïd
+0,Rice University
+0,Stanford Center for Health Education
+0,Syracuse University
+0,UC Berkeley
+0,UC Davis
+0,UCT Graduate School of Business
+0,USB-ED
+0,University of Cape Town
+0,University of Dayton
+0,Yale SOM Executive Education
+0,View all universities
+0,Browse all courses
+0,Browse short courses
+0,Join our team
+0,What we do
+0,How it works
+0,Student stories
+0,Course schedule
+0,Blog
+0,Press Office
+0,Getsmarter For Business
+0,Contact us
+0,Payment & financing
+0,Ensure all fields are filled out correctly
+0,Thank you for subscribing to the New Professional Newsletter.
+0,WEBSITE TERMS OF USE
+0,TERMS AND CONDITIONS FOR STUDENTS
+0,PRIVACY POLICY
+0,COOKIE POLICY
+0,SITEMAP
+0,2U, Inc.
+0,| | | |
+0,MENU
+0,Massachusetts Institute of Technology
+0,VIEW COURSES
+0,Said Business School, University of Oxford
+0,Yale School of Management Executive Education
+0,The London School of Economics and Political Science (LSE)
+0,University of Cape Town (UCT)
+0,University of Cambridge Institute for Sustainability Leadership
+0,UC Berkeley School of Information
+0,Artificial Intelligence: Implications for Business Strategy
+0,VIEW COURSE
+0,Oxford Blockchain Strategy Programme
+0,Accelerated Management Program
+0,Negotiation Programme
+0,Project Management Foundations online short course
+0,Cybersecurity: Managing Risk in the Information Age online short course
+0,Business Sustainability Management online short course
+0,Nutrition Science online short course
+0,GetSmarter on YouTube
+0,GetSmarter on LinkedIn
+0,Copyright © 2020 GetSmarter | A brand of
+0,Earn a certificate from a world-class university
+0,personalised, people-mediated
+0,verifiable and relevant competencies
+0,®
+0,Subject
+0,University
+0,Search
+0,SUBSCRIBE
+0,Course Search bar
+0,If you are a human, ignore this field
+0,//<![CDATA[window.gon={};//]]>
+0,.secure_subject_title_1594055081 {display:none;}
+0,.secure_subject_title_1594055082 {position:absolute!important;height:1px;width:1px;overflow:hidden;}
+0,.secure_subject_title_1594055083 {position:absolute!important;height:1px;width:1px;overflow:hidden;}
+0,Contact Us | Call | Email - GetSmarter
+0,Have a question? Contact us via telephone or email.
+0,Call us:
+0,Need more information on a specific course? We are here to assist.
+0,Voice your complaints or compliments and we will get back to you.
+0,Reach out using the form below and we'll get back to you.
+0,>  Contact us
+0,Please complete the form below
+0,Home
+0,Course Query
+0,Speak Up
+0,Other Enquiries
+0,+44 203 457 5774
+0,+1 224 249 3522
+0,+27 21 447 7565
+0,* Required fields
+0,Please enter first name
+0,Please enter last name
+0,Please enter email
+0,Please enter telephone number
+0,Let us know how we can help
+0,* Please select a university
+0,Please select a course
+0,* Please select a value
+0,Share your thoughts with us
+0,Please select a department
+0,Please check this box to continue
+0,Please enter a subject
+0,Please enter a question
+0,Please enter a telephone number
+0,UK:
+0,US:
+0,Global:
+0,Highest level of education
+0,High school
+0,Bachelor's degree
+0,Master's degree
+0,Doctoral degree
+0,Other tertiary qualification
+0,Work experience
+0,None
+0,1 to 5 years
+0,5 to 15 years
+0,More than 15 years
+0,University *
+0,EGADE Business School at Tecnologico de Monterrey
+0,Kellogg School of Management at Northwestern University
+0,The George Washington University
+0,UCT Graduate School of Business (GSB)
+0,Strategic Negotiations online short course
+0,University of California, Davis Graduate School of Management
+0,University of Stellenbosch Business School Executive Development
+0,Course *
+0,Communicating for Influence and Impact online short course
+0,High Impact Leadership online short course
+0,Sustainable Finance online short course
+0,Sustainable Supply Chain Management online short course
+0,Inclusive Leadership online short course
+0,Healthcare Management
+0,Project Management Essentials online short course
+0,Sport Management online short course
+0,Strategic Communications
+0,CRISPR: Gene-editing Applications online short course
+0,FinTech online short course
+0,Global Health Delivery online short course
+0,Higher Education Teaching Certificate
+0,Automation: Implementation in Business online certificate course
+0,Business, International Relations and the Political Economy online certificate course
+0,Competitive Strategy and Innovation online certificate course
+0,Cryptocurrency and Disruption online certificate course
+0,Data Analysis for Management online certificate course
+0,Data: Law, Policy and Regulation online certificate course
+0,Machine Learning: Practical Applications online certificate course
+0,Managerial Finance online certificate course
+0,MBA Essentials online certificate course
+0,Public Policy Analysis online certificate course
+0,Real Estate Economics and Finance online certificate course
+0,Regulation: Theory, Strategy, and Practice online certificate course
+0,Artificial Intelligence in Health Care
+0,Beyond Smart Cities: Emerging Design and Technology
+0,Blockchain Technologies: Business Innovation and Application
+0,Business Process Design for Strategic Management
+0,Commercial Real Estate Analysis and Investment
+0,Corporate Innovation: Strategies for Leveraging Ecosystems
+0,Cryptocurrency
+0,Data Science in Real Estate
+0,Digital Business Strategy: Harnessing Our Digital Future
+0,Digital Marketing Analytics
+0,Economics for Business
+0,Entrepreneurship in the Built Environment
+0,Human-Computer Interaction for User Experience Design
+0,Inquiry-Driven Leadership
+0,Internet of Things:  Business Implications and Opportunities
+0,Interpersonal Communication: Strategies for Executives
+0,Leadership in an Exponentially Changing World
+0,Machine Learning in Business
+0,Management Analytics: Decision-Making Lessons from the Sports Industry
+0,Organizational Design for Digital Transformation
+0,Pricing: Using Data to Improve Pricing Performance
+0,Business Law for Leaders
+0,Digital Operations Management
+0,Strategic Change Management
+0,Oxford Algorithmic Trading Programme
+0,Oxford Artificial Intelligence Programme
+0,Oxford Digital Marketing: Disruptive Strategy Programme
+0,Oxford Entrepreneurship: Venture Finance Programme
+0,Oxford Executive Leadership Programme
+0,Oxford Leading Strategic Projects Programme
+0,Oxford Leading Sustainable Corporations Programme
+0,Oxford Private Markets Investments Programme
+0,Oxford Strategic Alignment Programme
+0,Oxford Strategic Innovation Programme
+0,Oxford Women's Leadership Development Programme
+0,Data Analysis and Visualization online short course
+0,Data Science for Business: Building a Data-Driven Organization online short course
+0,Real Estate Investment and Development online short course
+0,Strategic Project Management online short course
+0,Exercise Physiology online short course
+0,Psychology of Addiction and Recovery online short course
+0,Finance for Non-Financial Managers Online Short Course
+0,Project Management: A Hybrid Approach Online Short Course
+0,Women as Business Leaders Online Short Course
+0,Artificial Intelligence Strategy online short course
+0,Data Science Essentials online short course
+0,Machine Learning online short course
+0,Leadership Program
+0,Digital Transformation Strategy online short course
+0,Values-Based Leadership online short course
+0,MBA Essentials online short course
+0,Women in Leadership online short course
+0,Accounting online short course
+0,Advanced Business Risk Management online short course
+0,Advanced Operations Management online short course
+0,Advanced Project Management online short course
+0,Agile Project Management online short course
+0,Basics of Financial Management online short course
+0,Bookkeeping online short course
+0,Brand Management online short course
+0,Business Analytics online short course
+0,Business Development Management online short course
+0,Business Risk Management online short course
+0,Business Systems Analysis online short course
+0,Business Writing online short course
+0,Change Management online short course
+0,Commercial and Contract Law online short course
+0,Commercial Property Broker - Law and Practice online short course
+0,Compliance Essentials online short course
+0,Compliance Management online short course
+0,Construction Management online short course
+0,Copy-editing online short course
+0,Copywriting for Online Marketing online short course
+0,Cost and Management Accounting online short course
+0,Data Analysis online short course
+0,Data Science with Python online short course
+0,Digital Marketing online short course
+0,Digital Photography online short course
+0,Energy Efficiency and Sustainability online short course
+0,Events Management online short course
+0,Executive and Management Coaching online short course
+0,Executive Support online short course
+0,Facilities Management online short course
+0,Feature Journalism online short course
+0,Financial Modelling and Analysis online short course
+0,Financing and Valuing Commercial Property online short course
+0,Fintech: Disruption in Finance
+0,Foundations of Business Management online short course
+0,Fundamentals of Cybersecurity online short course
+0,Graphic Design online short course
+0,Human Resource (HR) Management online short course
+0,Import, Export and Logistics Management
+0,Information Systems Management online short course
+0,Investment Management online short course
+0,IT Management online short course
+0,Market Research, Consumer Insights, and Competitor Analysis online short course
+0,Marketing online short course
+0,Negotiation and Conflict Resolution online short course
+0,Occupational Health and Safety online short course
+0,Operations Management online short course
+0,Paralegal Practitioner online short course
+0,Payroll and Tax Administration online short course
+0,Practical Labour Law online short course
+0,Product Management online short course
+0,Professional Communication and Office Management online short course
+0,Programme Management: A Monitoring and Evaluation Approach online short course
+0,Property Development and Investment online short course
+0,Property Management: Marketing, Contracts and Administration online short course
+0,Public Management and Governance online short course
+0,Public Relations (PR) online short course
+0,Restaurant Management online short course
+0,Sales Management online short course
+0,Search Engine Optimisation (SEO) online short course
+0,Small Business: Growth and Management online short course
+0,Social Media Marketing online short course
+0,Sports Management: Business Principles in Sport online short course
+0,Strategic Business Management online short course
+0,Strategic Human Resource Management online short course
+0,Supply Chain Management online short course
+0,Tax Law online short course
+0,Training and Development Management online short course
+0,User Experience Design online short course
+0,Web Design online short course
+0,Leadership Development Program
+0,Project Management: Practical Skills and Applications Program
+0,Digital Marketing: A Strategic Perspective online program
+0,Global Business and Politics online program
+0,Healthcare Management online program
+0,Negotiation Strategies online program
+0,Women’s Leadership Program
+0,Department *
+0,Certificates
+0,General
+0,Sales
+0,Student Performance
+0,Technical Support
+0,I want to receive text messages *
+0,Yes
+0,No
+0,Email
+0,No *
+0,Phone
+0,Text
+0,I agree that the above information is true and correct to the best of my knowledge and belief
+0,.secure_subject_title_1594055083 {position:absolute!important;top:-9999px;left:-9999px;}
+0,Privacy Policy - GetSmarter
+0,GetSmarter’s Privacy Policy
+0,Collection of Information
+0,How We Use Your Information
+0,How We Disclose Your Information
+0,Information Security and Data Retention
+0,Accessing and Managing Your Personal Information
+0,Additional Information
+0,QUICK GUIDE TO CONTENTS
+0,Education Records
+0,Notice for California Consumers
+0,Public Forums; Publicly Available Content
+0,Third-Party Content
+0,Changes to This Privacy Policy
+0,Questions or Concerns About This Privacy Policy
+0,>  Privacy policy
+0,To fulfill a contract or take steps linked to a contract, including:
+0,providing our services;
+0,verifying your identity;
+0,taking payments;
+0,communicating with you.
+0,using your information to provide products and services you have requested and responding to any comments or complaints you may send us;
+0,personalizing your experience on the Websites and in any Course in which you choose to enroll and to help us to better respond to your individual needs;
+0,developing new products or services or conducting analyses to enhance current products and services;
+0,contacting you for legitimate business purposes;
+0,using personal information to invite individuals to take part in market research;
+0,where consent is not required by applicable law, for direct marketing purposes;
+0,To protect the security and functionality of the Websites. This includes:
+0,monitoring customer accounts to prevent, investigate and/or report fraud, misrepresentation, security incidents or crime, in accordance with applicable law.
+0,Where you give us consent. This includes:
+0,on other occasions where we ask you for consent, using the data for the purpose which we explain at that time.
+0,For purposes which are required by law. This includes:
+0,in response to requests by government or law enforcement authorities conducting an investigation;
+0,We access and disclose your information to detect, prevent, or otherwise address fraud, security or other technical issues.
+0,We share information with third parties when we have your consent, or otherwise as described to you at the point of collection.
+0,Maintain business records for analysis and/or audit purposes;
+0,Comply with record retention requirements under the law;
+0,Defend or bring any existing or potential legal claims;
+0,Address any complaints regarding the services;
+0,Enforce our commercial agreements;
+0,Support our legitimate interests, as described in this Privacy Policy.
+0,, including real name, alias, address, unique personal identifier, online identifier, IP address, email address, phone number, account name, or other similar identifiers.
+0,, including professional or employment-related information.
+0,, including information about education history or background.
+0,, characteristics of protected classifications under California or federal law such as race, color, sex, age, religion, national origin, disability and citizenship status.
+0,University Partners
+0,The 2U family of companies,
+0,Third-party providers that serve business, professional or technical support functions,
+0,Your Employer,
+0,Third parties for legal matters or safety purposes.
+0,The right to opt-out of sale of your personal information. GetSmarter does not sell personal information.
+0,The right to request a copy of the personal information that we have collected about you in the prior 12 months.
+0,Please see our to learn more about your choices for receiving interest-based advertising or to opt out.
+0,We process personal information under the following legal bases:
+0,GetSmarter shares your information with other entities or individuals in the following circumstances:
+0,If you are enrolled in a Course, you may access and/or update your personal information through your user profile.
+0,If you wish to access or delete your information as described in this section, please fill out our .
+0,We collect and disclose for a business purpose the following categories of personal information:
+0,You can submit a copy, deletion, or right-to-know request online by filling out our or by contacting us at
+0,If you do not want GetSmarter to store metadata associated with your content, please remove the metadata before uploading your content.
+0,The relevant data controller will be charged with making decisions regarding the purposes and methods of processing of data under the terms of this Privacy Policy.
+0,To make a request to delete or access personal information, or for more information about the personal information GetSmarter has about you, use the .
+0,View the last version of our privacy policy .
+0,Terms and Conditions for Students
+0,Website Terms of Use
+0,contact us.
+0,Cookie Policy
+0,Service Providers
+0,privacy@getsmarter.com
+0,How We Disclose Your Data
+0,contact page
+0,Data Enquiry Form
+0,+1 (888) 213-3846
+0,South Africa’s information regulator
+0,here
+0,University Partners:
+0,The 2U Family of Companies:
+0,Service Providers:
+0,Your Employer:
+0,Legal Matters; Safety:
+0,Fraud; Security:
+0,Consent; Other:
+0,Sale or Transfer of Business or Assets:
+0,International Transfers:
+0,Contact Information and Identifiers
+0,Customer Records
+0,Usage Data
+0,Employment History
+0,Education Information
+0,Protected Classifications
+0,Date of Last Amendment: 13 December 2019
+0,Information You Provide
+0,Information Automatically Collected
+0,Tracking Options and Do Not Track Disclosures
+0,Information Collected from Other Sources
+0,Our Combination of Your Information
+0,Failure to Provide Personal Information
+0,Children's Privacy
+0,Purposes for Collecting and Processing Personal Information
+0,Use of De-identified, Aggregate or Anonymized Information
+0,Categories of Personal Information that We Collect and Disclose
+0,Categories of Sources of Personal Information
+0,Purposes for Collecting Personal Information
+0,Categories of Third Parties with Which Personal Information is Shared
+0,California Consumer Rights
+0,lazySizes.init();
+0,jQuery(document).ready(function () {        jQuery('div.main-projects').load(ajaxurl + '?action=loadProjectsHome');    });
+0,var ajaxurl = 'https://web-systems.solutions/wp-admin/admin-ajax.php';
+0,window.dataLayer = window.dataLayer || [];  function gtag(){dataLayer.push(arguments);}  gtag('js', new Date());  gtag('config', 'UA-101004039-1');
+0,Web-systems – Розробка та дизайн сайтів
+0,Якісні рішення для бізнесу на основі ефективних технологій
+0,svg  svg  svg  svg
+0,Блог
+0,21 Травня 2020
+0,25 Лютого 2020
+0,30 Січня 2020
+0,Чому ми?
+0,Зробимо проєкт разом?
+0,Замовити прорахунок
+0,Мене цікавить:
+0,Мені потрібен:
+0,Зв'язатись з нами
+0,Завітати до нас
+0,Україна, Хмельницький, вул. Кам'янецька, 137
+0,Україна, Кам'янець-Подільський, проспект Грушевського, 21В
+0,Захист даних
+0,© 2020 Web-Systems. Solution. Всі права захищені.
+0,svg
+0,noindex /noindex  noindex /noindex  noindex /noindex
+0,ua
+0,en
+0,ru
+0,info@web-systems.solutions, hr@web-systems.solutions
+0,Читати далі
+0,Як інтернет-магазин може врятувати від депресії
+0,Яким повинен бути сучасний мобільний додаток
+0,Дізнатись про нас більше
+0,+38 (067) 980-09-00
+0,+38 (068) 183-80-83 (HR)
+0,Privacy Notice
+0,Cookie Policy
+0,Експертиза
+0,Послуги
+0,Про нас
+0,Проєкти
+0,Вакансії
+0,Контакти
+0,Надіслати
+0,надіслати менеджеру
+0,Ми в соціальних мережах:
+0,Я погоджуюсь
+0,Як вас звати?*
+0,З якої ви компанії?
+0,Телефон?*
+0,E-mail*
+0,Телефон*
+0,дизайн
+0,верстка
+0,інтеграція
+0,мобільний додаток
+0,проєкт під ключ
+0,інтернет-магазин
+0,сайт-візитка
+0,лендінг
+0,сервіс
+0,портал
+0,маркетплейс
+0,Про нас – Web-systems
+0,Наша місія
+0,Цінності
+0,Відео
+0,Більше у інстаграм
+0,Наша місія та цінності
+0,Літній корпоратив на узбережжі Чорного моря
+0,Стратегічна сесія керівного складу компанії
+0,Літній корпоратив в Хмельницькому обласному художньому музеї
+0,01
+0,Бути відкритими
+0,02
+0,Працювати чесно
+0,03
+0,Нести відповідальність
+0,04
+0,Діяти професійно
+0,05
+0,Вдосконалюватись
+0,06
+0,Творити атмосферу легкості й позитиву
+0,Ми точно знаємо: нові технології, програми, веб- та мобільні додатки змінюють світ на краще:)
+0,Наша місія – це: .
+0,Те, що об’єднує нас в єдину команду
+0,Ми хочемо показати вам частинки робочого процесу та відпочинку нашої команди
+0,@web_systems
+0,Web-Systems Solutions
+0,«Якісні рішення для бізнесу на основі ефективних технологій»
+0,<img src="https://web-systems.solutions/wp-content/uploads/cache/2019/10/about-banner-1920x893.jpg" alt="about-banner">
+0,Контакти – Web-systems
+0,Давайте створимо щось гарне разом!
+0,Замовити проєкт
+0,Офіс у Хмельницькому
+0,Електронна пошта
+0,Офіс у Кам`янець-Подільському
+0,Телефони
+0,About Us – Web-systems
+0,About Us
+0,Our mission
+0,Values
+0,Video
+0,Our Mission and Values
+0,Summer Corporate on the Black Sea
+0,Strategic Session of Company Management
+0,Summer Corporate at the Khmelnytsky Regional Art Museum
+0,Be open-mind
+0,We are all different. But at the same time, we are united in achieving the goals. Only through joint efforts and collaboration we can achieve a significant success
+0,Work honestly
+0,We are honest with ourselves. Honest with customers. Honest with your colleagues. We strive to produce a quality product that can change the world for the better
+0,Be responsible
+0,Act professionally
+0,Expert vision of the problem. Ready for daily challenges, helping others grow professionally
+0,Improve yourself
+0,We are motivated for the best result. And development is a continuous process. We don't just set goals. We achieve results and constantly analyze them
+0,Create an atmosphere of lightness and positiveness
+0,We appreciate the sense of humor and casual conversation. We believe that with the a kind word and a smile you can unlock everyone's talents
+0,Contact us
+0,Visit us
+0,Ukraine, Khmelnitskyi, 137 Kamianetska St.
+1,Ukraine, Kamianets-Podilskyi, 21V Hrushevskoho Avenue
+0,Data protection
+0,© 2020 Web-Systems. Solution. All rights reserved.
+0,What brings us together into one team
+0,We want to show you some of the workflow and rest of our team
+0,Expertise
+0,What we do
+0,Projects
+0,Jobs
+0,Blog
+0,Contacts
+0,We know for sure that new technologies, applications, web and mobile applications are changing the world for better 🙂
+0,When
+0,company was launched in 2009, we wanted to create websites, mobile applications or software not just.
+0,We wanted every our project has a benefit people.
+0,We wanted to make all members of the team feel satisfied with the work, give a part of their own heart and creative passion to the team.
+0,We value cooperation. And the highest appreciation of our work is satisfied clients and colleagues who start and end their workday with a smile.
+0,Our mission – is .
+0,Social:
+0,I agree
+0,«Quality business solutions based on effective technologies»
+0,<img src="https://web-systems.solutions/en/wp-content/uploads/cache/2019/10/about-banner-1920x893.jpg" alt="about-banner">
+0,<img src="https://web-systems.solutions/en/wp-content/uploads/cache/2018/12/44fd0695515e4b107d3e28ec094a18df-950x562.jpg" alt="Summer Corporate on the Black Sea">
+0,<img src="https://web-systems.solutions/en/wp-content/uploads/cache/2019/10/about-1-530x670.jpg" alt="Strategic Session of Company Management">
+0,<img src="https://web-systems.solutions/en/wp-content/uploads/cache/2019/10/about-2-530x670.jpg" alt="Summer Corporate at the Khmelnytsky Regional Art Museum">
+0,<img src="https://web-systems.solutions/en/wp-content/uploads/cache/2019/10/about-3-530x670.jpg" alt="Strategic Session of Company Management">
+0,О нас — Web-systems
+0,О нас
+0,Наша миссия
+0,Ценности
+0,Видео
+0,Больше в инстаграме
+0,Наша миссия и ценности
+0,Летний корпоратив на побережье Черного моря
+0,Стратегическая сессия руководящего состава компании
+0,Летний корпоратив в Хмельницком областном художественном музее
+0,Быть открытыми
+0,Работать честно
+0,Нести ответственность
+0,Действовать профессионально
+0,Совершенствоваться
+0,Творить атмосферу легкости и позитива
+0,Связаться с нами
+0,Посетить нас
+0,Украина, Хмельницкий, ул. Каменецкая, 137
+0,Украина, Каменец-Подольский, проспект Грушевского, 21В
+0,Защита данных
+0,© 2020 Web-Systems.Solution. Все права защищены.
+0,Мы точно знаем: новые технологии, программы, веб и мобильные приложения меняют мир к лучшему 🙂
+0,Наша миссия — это
+0,То, что объединяет нас в единую команду
+0,Мы хотим показать вам частичку рабочего процесса и отдыха нашей команды
+0,Экспертиза
+0,Услуги
+0,Проекты
+0,Вакансии
+0,Контакты
+0,Мы в социальных сетях:
+0,Я согласен
+0,«Качественные решения для бизнеса на основе эффективных технологий».
+0,<img src="https://web-systems.solutions/ru/wp-content/uploads/cache/2019/10/about-banner-1920x893.jpg" alt="about-banner">
+0,Privacy Notice — Web-systems
+0,Редакция от 1 ноября 2017
+0,1. ОБЩИЕ ПОЛОЖЕНИЯ
+0,2. ИНФОРМАЦИЯ, которую мы собираем, хранить и обрабатывать
+0,3. ЦЕЛЬ СБОРА И ИСПОЛЬЗОВАНИЯ ДАННЫХ
+0,4. Передача данных
+0,5. Доступ к данным
+0,6. ХРАНЕНИЕ И БЕЗОПАСНОСТЬ ДАННЫХ
+0,7. Обезличенные данные
+0,8. Заключительные положения
 0,.page_speed_458684266{display:none;visibility:hidden} .page_speed_505662549{display:none} .page_speed_717571695{}
 0,$(".item-language").find(".title").click(function () {        $(this).parent(".item-language").find(".social-list").toggleClass("active");    });
 0,Blockchain | Lập trình phần mềm | Công nghệ Blockchain
