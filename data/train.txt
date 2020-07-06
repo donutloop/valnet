@@ -1,3 +1,416 @@
+0,.page_speed_458684266{display:none;visibility:hidden} .page_speed_505662549{display:none} .page_speed_717571695{}
+0,$(".item-language").find(".title").click(function () {        $(this).parent(".item-language").find(".social-list").toggleClass("active");    });
+0,Blockchain | Lập trình phần mềm | Công nghệ Blockchain
+0,Bytesoft
+0,VỀ CHÚNG TÔI
+0,TẠI SAO CHỌN BYTESOFT?
+0,DỊCH VỤ
+0,tuyển dụng
+0,Chúng tôi luôn sẵn sàng
+0,NGUỒN LỰC
+0,TƯ DUY
+0,dịch vụ
+0,bức tường
+0,TƯ VẤN CHIẾN LƯỢC CÔNG NGHỆ THÔNG TIN
+0,OUTSOURCING
+0,BẢO MẬT VÀ AN TOÀN THÔNG TIN
+0,Ý KIẾN PHẢN HỒI TỪ KHÁCH HÀNG
+0,TIN TỨc
+0,SẢN PHẨM
+0,Khối Nhà Nước
+0,Khối Doanh Nghiệp
+0,Công Nghệ Mới
+0,Review về phần mềm giáo dục thuộc khối Nhà nước
+0,Review về phần mềm ứng dụng công nghệ mới Blockchain
+0,XÂY DỰNG GIẢI PHÁP CNTT CHO DOANH NGHIỆP
+0,Tại Bytesoft Việt Nam, mỗi khách hàng chính là khách hàng quan trọng nhất.
+0,TƯ VẤN & HỢP TÁC
+0,Chúng tôi là một nhóm các chuyên gia về phát triển chiến lược, marketing, thiết kế và phát triển sản phẩm.
+0,MÔI TRƯỜNG LÀM VIỆC LÝ TƯỞNG DÀNH CHO BẠN
+0,Phát triển tư duy chất xám, Nâng cao năng lực chuyên môn, Nâng tầm kỹ năng mềm.
+0,Chi phí thấp - Hiệu quả cao - Uy tín tuyệt đối
+0,Đánh giá của thầy giáo Nguyễn Thế Anh, đại diện trường THCS Võ Thị Sáu về phần mềm quản lý thư viện Bytesoft.
+0,Chúng tôi ở đây để làm mọi thứ tốt hơn!
+0,TRỤ SỞ CHÍNH TẠI HÀ NỘI
+0,Số điện thoại                                : 19002863
+0,Thư điện tử                                : info@bytesoft.net
+0,CHI NHÁNH TẠI TP HỒ CHÍ MINH
+0,Địa chỉ                                : Số 11B, Hồng Hà, Phường 2, Quận Tân Bình, TP Hồ Chí Minh
+0,Thư điện tử                                : hcm@bytesoft.net
+0,Theo dõi chúng tôi trên mạng xã hội
+0,© 2020 Bytesoft JSC. All right reserved.
+0,HOTLINE                            : 19002863
+0,Trang chủ
+0,Về chúng tôi
+0,Dịch vụ
+0,Sản phẩm
+0,Tin tức
+0,Liên hệ
+0,Bytesoft Việt Nam: Shark Vương Là Ai? Tiểu Sử Shark Trần Anh Vương
+0,Blockchain
+0,Bvote hỗ trợ Tập Đoàn Xăng Dầu Petrolimex Tổ Chức Thành Công Đại Hội Cổ Đông Trực Tuyến 2020
+0,BVOTE ĐÃ HỖ TRỢ BỆNH VIỆN QUỐC TẾ THÁI NGUYÊN TỔ CHỨC THÀNH CÔNG ĐHĐCĐ TRỰC TUYẾN 2020
+0,ỨNG DỤNG HỆ THỐNG BÌNH CHỌN BVOTE CUỘC THI PRESS BEAUTY KỊCH TÍNH ĐẾN PHÚT CUỐI CÙNG
+0,Lập trình phần mềm
+0,Thông báo & Sự kiện
+0,PHIÊN BẢN “MÙA ĐÔNG KHÔNG LẠNH” TẠI BYTESOFT – NHỮNG NGÀY QUẨY TƯNG BỪNG TẠI SƠN TINH CAMP
+0,Bytesoft thoả thuận hợp tác chiến lược với QA Systems
+0,Bytesoft tiến gần đến thị trường Hàn Quốc thông qua hợp tác với Blockchain C&S
+0,Phỏng vấn đại diện nhà cung cấp hệ thống bình chọn BVote cho cuộc thi Hoa hậu hoàn vũ Việt Nam 2019
+0,LGSP
+0,Những lợi ích của NGSP mà chắc chắn bạn chưa biết
+0,Liệu lợi ích của LGSP có đang bị thổi phồng?
+0,NGSP: Chuyện về người anh em sinh đôi 4.0 của LGSP - Bytesoft
+0,LGSP “cứu cánh” hàng nghìn đơn vị Nhà nước khỏi … lỗi thời ?!
+0,⭐ BVote - GIẢI PHÁP TỔ CHỨC HỌP ĐẠI HỘI ĐỒNG CỔ ĐÔNG TRỰC TUYẾN TRỌN GÓI⭐
+0,Phần Mềm Quản Lý Đối Tượng Bảo Trợ Xã Hội | Người Có Công Cho Các Tỉnh
+0,Phần mềm dạy tiếng anh theo sách giáo khoa
+0,Phần mềm quản lý bệnh viện
+0,Phần mềm quản lý kho cho doanh nghiệp
+0,Phần mềm quản lý cửa hàng vừa và nhỏ
+0,Phần mềm quản lý chuỗi nhà hàng
+0,Thành phố thông minh ứng dụng công nghệ IoT, Blockchain và hợp đồng thông minh
+0,Phần mềm xác thực quyền sở hữu tài sản trên nền tảng Blockchain
+0,#Cuộc Chơi Thay Đổi - Phần Mềm Truy Xuất Nguồn Gốc Hàng Hóa, Thực Phẩm Ứng Dụng Blockchain
+0,Sàn thương mại điện tử ứng dụng công nghệ Blockchain 2.0
+0,Nhận tư vấn ngay
+0,Ứng tuyển ngay
+0,Xem thêm
+0,TUYỂN DỤNG DESIGNER
+0,TUYỂN DỤNG LẬP TRÌNH VIÊN ASP.NET
+0,Lập Trình Viên NodeJS
+0,Tuyển Dụng Lập Trình Viên React
+0,Xem thêm >>
+0,Xem bản đồ
+0,Tiếng Việt
+0,English
+0,TINH NHUỆ
+0,SÁNG TẠO
+0,chuyên nghiệp
+0,bảo mật
+0,30
+0,Jun
+0,Đinh Tuấn Anh
+0,10060
+0,06
+0,Jul
+0,10084
+0,10063
+0,10243
+0,hãy kết nối với
+0,bytesoft
+0,<
+0,>
+0,Gửi
+0,window.__INITIAL_STATE__={"data":null,"context":{}};(function(){var s;(s=document.currentScript||document.scripts[document.scripts.length-1]).parentNode.removeChild(s);}());
+0,ExamRoom.AI - Web based online proctoring solution | Examroom
+0,Build your own video-conferencing applications with skylink.
+0,Your exams, on YOUR terms - Utilize your own proctoring staff
+0,Protect Test Integrity With ExamLock.
+0,Build Your Own Learning Management System.
+0,Our Ecosystem has more to offer
+0,The perfect blend of human and AI proctoring to meet your needs
+0,We are a Web-Based Remote Online Proctoring Solution
+0,We’re here for you, every step of the way.
+0,Envision it, Build it.
+0,Our Family
+0,We would like to hear from you.
+0,Get Started
+0,We Made It More Accessible For You. Download Our App On Your Mobile
+0,ExamRoom.AI
+0,BEHAVIOR ANALYSIS
+0,Detailed Report
+0,Seamless integration
+0,Check out our demo video
+0,Visit our interactive webpage
+0,Skylink
+0,Einstein LMS
+0,Please fill out the form for additional information.
+0,Platform
+0,Solutions
+0,Resources
+0,Developers
+0,Company
+0,Phone
+0,Email
+0,Address
+0,Solutions and Features
+0,Exam Lock
+0,Download For
+0,svg
+0,Skylink SDKs
+0,Pricing
+0,Skylink Support
+0,Einstein Offers
+0,Get your own LMS
+0,Einstien Support
+0,Edison Assessments
+0,Platform, Service and Content
+0,Services
+0,Edison Support
+0,Proctoring
+0,We Support
+0,Platform as a Service
+0,Our PAAS is available on
+0,Auditing Solutions
+0,We Provide
+0,More Features
+0,Our value added features include
+0,ExamRoom for
+0,WebRTC by industry
+0,Einstien LMS
+0,Learning management system for
+0,Edison by industry
+0,Downloads
+0,Exam 360
+0,ExamLock
+0,User Manual
+0,Visual Walkthrough
+0,For Developers
+0,Need more help?
+0,Why ExamRoom
+0,Our Companies
+0,Our Mission
+0,Our Products
+0,Examlock
+0,AI Powered
+0,Human Verified
+0,Secured
+0,OR
+0,Ask us to do it for you. At no cost - We’re not kidding!
+0,Available on: Web and mobile
+0,Online assessment tools, professional services and ready-made content to help organisations  and individuals
+0,No matter the level of the test, ExamLock secures and protects your investment, time, and integrity.
+0,Embed interactive video, voice and data to your applications. Make your own video-conferencing applications with our open-source code.
+0,Developer focused SDKs for
+0,The world’s most popular learning management system. Start creating your online learning site in minutes!
+0,Our virtual proctoring features enable you to conduct exams with security and peace-of-mind
+0,We provide our web-based platform with storage and proctoring options
+0,Providing our clients transparency and access to live, recorded, and reviewed digital recordings and analytics
+0,Equipping our clients with multiple features to ensure security, integration, and efficiency for all levels of exams
+0,A curated list of downloads for you. All our suite is readily available for you.
+0,User-friendly and easy to understand documentation at your disposal. Find the documentations for all our products here.
+0,We have a curated a codex for developers that will enable you to integrate ExamRoom.AI and its features with ease.
+0,We are here for you. Feel free to create a support ticket and one of our experts will get in touch with you.
+0,Want to provide your own proctoring staff? No problem! Our platform can support your current proctors as needed while providing training and support
+0,Our sophisticated open-source code suite enables you to build your own WebRTC based applications. Don’t know how to do it? No problem we’ll do it for you. At no cost!
+0,We’ve made our code open-source. You can build your own LMS, or we can do it for you - at no cost.
+0,A web-based, remote online proctoring service focused on creating streamlined and scalable remote proctoring solutions, tailored to your needs.
+0,Embed real-time communications into your web or mobile apps	fuelling it with interactive video, voice and data communications.
+0,Secure enterprise-grade assessment platform, supporting variety of services to leading organisations around the world, delivered with care and unequalled expertise.
+0,Continuous monitoring using developed algorithms to automatically detect and flag suspicious behavior
+0,We pair our AI detection with human proctors to ensure all detected behavior and support during exam sessions.
+0,FIDO technology to protect candidate's personal biometric data. Customizable authentication procedures according to exam stakes level.
+0,What is ExamRoom
+0,ExamRoom is constantly updating security measures and AI learning based on analytics during exam sessions.
+0,Receive notifications of suspicious behavior and all incidents captured by AI and live person proctors during exam sessions.
+0,ExamRoom.AI has been built to seamlessly integrate with most LMS and databases for a single sign-on experience for users.
+0,ExamRoom Walkthrough
+0,Click the link to view an interactive video of the onboarding process
+0,DEVELOP ON OUR PLATFORM
+0,Contact us
+0,+1 877-848-3926
+0,sales@examroom.ai
+1,One Plus Corp. Corporation Trust Center 1209 Orange St Wilmington, DE 19801
+0,To get started today, select an option below.
+0,© 2020 Copyright Protected
+0,You are protected by:
+0,Fully Integrated System >
+0,Real-time Analytics>
+0,Exam 360 >
+0,Exam Lock >
+0,Exam Prism >
+0,Visit ExamLock
+0,Windows >
+0,Mac Os >
+0,Linux >
+0,Mobile >
+0,Visit Skylink
+0,Platform Pricing >
+0,Plugin Pricing >
+0,Knowledge Center >
+0,Contact >
+0,Visit Einstein LMS
+0,LMS >
+0,Cloud Solutions >
+0,Mobile App >
+0,Workplace Solutions >
+0,Certified Integrations >
+0,Do it yourself >
+0,We do it for you >
+0,Demo >
+0,Explore Edison
+0,On Cloud >
+0,On Premise >
+0,For Government >
+0,For Other Services >
+0,Onboarding >
+0,Proctoring >
+0,Others >
+0,Professional Services >
+0,White Papers >
+0,Explore Proctoring
+0,Live Proctoring >
+0,Recorded Proctoring >
+0,Review Proctoring >
+0,Explore PAAS
+0,Hosted Service >
+0,Cloud Service >
+0,Shared Service >
+0,White Labeling >
+0,Explore Auditing
+0,Flag Review >
+0,Chat Review >
+0,Comments Review >
+0,All Features
+0,LTI Integration >
+0,High Schools >
+0,Universities >
+0,Enterprises >
+0,Higher education >
+0,Health Care >
+0,Hospitals >
+0,Manufacturing >
+0,Retail >
+0,Financial & IT Services >
+0,K-12 Schools >
+0,Workplace >
+0,E-Commerce >
+0,Test publisher and certifications >
+0,All Downloads
+0,Exam 360 Android App >
+0,All Resources
+0,User Manual >
+0,Walkthrough >
+0,Video Walkthrough >
+0,Taking an Exam >
+0,Retriving Reports >
+0,Visit developers portal >
+0,ExamRoom.AI Documentation >
+0,Skylink Documentation >
+0,Create a support ticket >
+0,Read more >
+0,svg Search
+0,Request a demo
+0,Try free
+0,Request Demo
+0,See Documentation
+0,Contact Us
+0,Explore ExamLock
+0,Get in touch
+0,Explore ExamRoom.AI
+0,Visit Edison LMS
+0,Visit Einstein
+0,Watch demo
+0,Try now
+0,svg Watch a Demo
+0,Visit Walkthrough
+0,Start building
+0,Learn more >
+0,Become a part of our family
+0,Talk to Solutions >
+0,Watch demo >
+0,Try ExamRoom >
+0,Get Help >
+0,Build an App >
+0,Visit Knowledge Center >
+0,SDKs
+0,WebRTC Platform
+0,Plugin pricing
+0,PAAS
+0,Assessment
+0,Content
+0,On-boarding
+0,SkyLink
+0,Exam Prism
+0,White Papers
+0,Guides
+0,Case Studies
+0,Blog
+0,Functional examples
+0,Industry use cases
+0,Documentation
+0,API’s
+0,Support
+0,FAQ’s
+0,Open-source
+0,Knowledge Centre
+0,Raise a ticket
+0,About ExamRoom
+0,Leadership
+0,Media
+0,Careers
+0,For Investors
+0,Students FAQ`s
+0,Universities FAQ`s
+0,Corporates FAQ`s
+0,GDPR
+0,FERPA
+0,Accessibility
+0,Terms & Conditions
+0,Privacy policy
+0,Products
+0,Web
+0,Android
+0,iOS
+0,Solutions & Features
+0,Industries
+0,Why ExamRoom.AI
+0,At ExamRoom.AI we have three missions: Offer convenient online testing, provide a secure testing environment, and provide exceptional customer service.
+0,We offer more than just one service. We aim to make lives better accross multiple verticals.
+0,to make sure that every candidate and client that utilizes our application be treated with the utmost respect.
+0,Sign In
+0,|
+0,<style>.g-image--loading{display:none;}</style>
+0,About Us | Examroom
+0,At ExamRoom, we aim higher and strive harder to make remote proctoring simple
+0,About Us
+0,Next Steps
+0,Read more about us.
+0,Get in touch to know more
+0,Talk to our experts
+0,Help us, help you
+0,Our Companies | Examroom
+0,We offer a wide range of products.
+0,Prov Exam
+0,Prov Labs
+0,Services we provide include:
+0,Staffing to help you complete your projects
+0,Full-time project management
+0,Project architecture and engineering
+0,Call center design and deployment
+0,We are not limited to just Exams and proctoring.
+0,Visit Prov Exam
+0,Visit Prov Labs
+0,Contact us | Examroom
+0,Get in touch with us.
+0,Our offices
+0,We’re here for you,Please drop us a message and our team will get in touch with you within 24 hours.
+0,Utah Headquarters Prov, Inc.
+0,9980 South 300 West, Suite 200, Sandy, Utah 84070
+0,Gainesville HQ Prov, Inc.
+1,5200 NW 43rd St, Suite 102-167 Gainesville, FL 32606
+1,31349 Westward Ho Ave Sorrento, FL 32776
+0,India office address Prov, Inc.
+1,No. 1108, 2nd Floor, Pannaga Arcade, BEML 3rd stage, 80ft Road, Rajarajeshwari Nagar, Bengaluru - 560 098
+0,One Plus Corp
+0,We’re always open to talent. Wish to join the team and create amazing things?
+0,Send us your resume on
+0,jobs@examroom.ai
+0,Privacy Policy | Examroom
+0,PRIVACY POLICY
+0,LINKS
+0,GOVERNING LAW AND JURISDICTION
+0,LOCAL LAWS AND EXPORT
+0,DATA AND CONTENT PROTECTION
+0,ACCOUNT AND PASSWORD SECURITY
+0,COOKIES, IP ADDRESSES, AND OTHER TRACKING DEVICES
+0,BIOMETRICS
+0,CHILDREN
+0,DISCLAIMERS
+0,FEEDBACK
+0,If you have any questions or comments about ExamRoom.AI’s Privacy Policy and Terms, please contact us by email at
+0,legal@ExamRoom.AI
 0,.anti-flicker-hide { opacity: 0 !important}
 0,figcaption {    display: block;    font-size: 0.85em;    line-height: 1.7;    font-weight: 300;    letter-spacing: 1;    color: #888;    margin-bottom: 2em;
 0,.w-slider-dot {  background: #e4faf5;}.w-slider-dot.w-active {  background: #9cdbcc;}
