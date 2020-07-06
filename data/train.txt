@@ -1,3 +1,198 @@
+0,Localize.initialize({ key: '5Y4vjR6zsfAAh', rememberLanguage: true, autodetectlLanguage: false });
+0,hsjQuery = window['jQuery'];
+0,The all in one hospitality platform | Mews
+0,if (typeof hsVars !== 'undefined') { hsVars['language'] = 'en'; }
+0,linkedin2
+0,/.row   start navbar.js   End navbar.js
+0,#1 PMS for 2020
+0,Empower your team to elevate the guest experience
+0,More bookings and more revenue, more quickly
+0,Guest engagement taken to new heights
+0,Time to switch
+0,DRIVE
+0,ACQUIRE
+0,ENGAGE
+0,Magic Links
+0,Company
+0,Products
+0,Resources
+0,/.row
+0,“Mews is intuitive and user-friendly, dramatically reducing our training time and increasing team productivity.”
+0,“What instantly stood out to us about Mews was the attractiveness of the user interface.”
+0,“With targeted pre-arrival communications through Mews, we can make sure our guests are getting the crucial information they need before they arrive.”
+0,“We've been blown away by the fact that we can now reply to messages from wherever and whenever.”
+0,Deutsch
+0,English
+0,Español
+0,Français
+0,Italiano
+0,Nederlands
+0,Owner - The Shore House - Wildwood, NJ
+0,Resort Manager - Northern Lights Village - Saariselkä, Finland
+0,Head of Marketing - Lamington Group (room2 Southampton) - UK
+0,General Manager - Docklands Lodge - London, UK
+0,General Manager - Good Hotel - London, UK
+0,/.ba-socials
+0,Commander
+0,Distributor
+0,Navigator
+0,Operator
+0,Merchant
+0,Marketplace
+0,Blog
+0,Press
+0,Podcasts
+0,Events & webinars
+0,Implementations
+0,Refer & earn
+0,Community
+0,Cloud-based PMS
+0,Booking engine
+0,Housekeeping app
+0,Concierge app
+0,Reception kiosk
+0,Online check-in
+0,Online payment automation
+0,Custom API access and support
+0,Smart reporting
+0,Unlimited app integrations
+0,Pre-arrival guest messaging
+0,24/7 support
+0,Property management system
+0,Virtual concierge web app
+0,Self-service reception kiosk
+0,Fast and secure online payments
+0,Browse apps and integrations
+0,We've been voted the best Property Management System (PMS) for hotels and hostels at the by hoteliers and industry experts.
+0,We’re doing everything we can to help hoteliers overcome the profound impact of COVID-19.
+0,1,000+ of the world’s most successful hospitality businesses, big and small, trust Mews for growth.
+0,"We’re saving 10 hours a week of time that we previously spent on admin and back-office work!"
+0,Mews can offer you:
+0,Mews Systems Copyright© | #movetomews |
+0,Contact
+0,Log In
+0,Book a demo
+0,Product overview
+0,Pricing
+0,Customer stories
+0,Careers
+0,Search
+0,Support
+0,HotelTechAwards
+0,Get started
+0,Find out more
+0,Drive website conversions
+0,connect to the apps you love
+0,handle guest payments easily and securely
+0,simplifies direct communication with guests
+0,Contact us
+0,Help & support
+0,Commander login
+0,Share a review
+0,About us
+0,Status page
+0,Service level agreement
+0,Travel club
+0,Security
+0,Release notes
+0,Tutorial videos
+0,Partnerships
+0,Developers
+0,Mews presentation
+0,Privacy & Terms
+0,svg
+0,Grow your hospitality business through our powerful platform that includes a property management system, booking engine, reservation management software, and much more.
+0,,
+0,, and
+0,.
+0,Our personalized, agile platform uses web app and front desk software that
+0,and puts them in control.
+0,Kevin,
+0,André Henke Marques,
+0,Alexander Handley,
+0,Chris Carey,
+0,Liutauras Vaitkevicius,
+0,function intercomShow() {  setTimeout(function(){ Intercom('show'); }, 500);}window.onload = intercomShow;
+0,Contact Us | Mews
+0,We're here to help!
+0,Czech Republic
+0,Netherlands
+0,United Kingdom
+0,France
+0,Spain
+0,United States
+0,Australia
+0,Germany
+0,South Africa
+0,Get in touch
+0,Náměstí I. P. Pavlova 5, 120 00 Vinohrady
+0,Global Support:
+0,Office:
+1,Kleine-Gartmanplantsoen 21, 1017 RP Amsterdam
+0,Support:
+1,47-51 Great Suffolk Street, London SE1 0BS
+1,56 Rue de Ponthieu, 75008 Paris
+1,Carrer Mallorca 273, Entresuelo, 08008 Barcelona
+1,New York, 41 East 11th Street, New York, NY 10003
+0,Talk to Support
+0,Knowledge Base
+0,+420 228 883 580
+0,+420 228 883 549
+0,+31 85 225 0311
+0,+44 75 8873 6640
+0,+33 97 108 1977
+0,+34 51 898 9161
+0,+61 480 022 251
+0,+49 157 3598 5120
+0,+27 600 702 608
+0,About us | Mews
+0,Our story
+0,Our leaders
+0,Our investors
+0,Our vision
+0,Who we are
+0,Richard
+0,Matt
+0,Greg
+0,Jirka
+0,Leah
+0,Honza
+0,Scott
+0,Pavla
+0,Ready to grow your business?
+0,MEWS
+0,Founder
+0,CEO
+0,CCO
+0,CPO
+0,CMO
+0,CTO
+0,COO
+0,Head of Finance
+0,All the tools your need to market smarter and grow faster.
+0,Read about our journey
+0,A letter from the CEO
+0,Privacy | Mews
+0,Mews Privacy Policy
+0,Introduction
+0,Privacy Policy
+0,Data Security
+0,GDPR
+0,Contact our Data Protection Officer
+0,OVERVIEW
+0,MEWS RESPONSIBILITIES
+0,PROPERTY RECOMMENDATIONS
+0,STAY INFORMED
+0,end body
+0,end row-wrapper
+0,end row
+0,end widget-span
+0,end row-wrapper  end row-wrapper
+0,Click to join our marketing list (GDPR compliant) and receive the most up-to-date information about changes and new features.
+0,blog post
+0,here
+0,Read more
+0,CONTACT
 0,hljs.initHighlightingOnLoad();
 0,Brand New Box - Home Page
 0,Hi.
