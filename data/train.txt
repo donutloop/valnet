@@ -1,3 +1,95 @@
+0,document.documentElement.className = document.documentElement.className.replace('no-js', 'js');wNavidStandard='530803530803';wProjectPath='/sieda-de';
+0,/*<![CDATA[*//*]]>*/
+0,Software für Ihre Personaleinsatzplanung | SIEDA GmbH
+0,Vereinfachen und beschleunigen Sie Ihre Personaleinsatzplanung mit SIEDA
+0,Software - Service - Effektivität - Das sagen unsere Kunden:
+0,Online Kundenportal - Ihre 24-h-Serviceplattform
+0,Produkte
+0,Branchen
+0,Unternehmen
+0,Support & Service
+0,Info & Kontakt
+0,Besuchen Sie uns:
+0,Volltextsuche:
+0,Navigation
+0,CONTENT:START CONTENT:STOP
+0,1
+0,OC:Planner - Personaleinsatzplanung
+0,2
+0,OC:Planner Managed Service
+0,3
+0,biduum – Der Online Dienstplan
+0,Die Software für die Personaleinsatzplanung der SIEDA kann einfach alles - außer Kaffee kochen. Es ist das Nummer 1 Tool für den öffentlichen Dienst
+0,- Pierre Matz, Stellvertretung Dienstplanung, JAA-Berlin Brandenburg
+0,- Stefan Reddemann, Feuerwehr Paderborn
+0,Top-Erneuerungen der Softwarelösung werden beständig umgesetzt und führen zu auffälligen Erleichterungen in der täglichen Dienstplanung.
+0,- Katrin Jung, Pflegedirektion, Klinikum Coburg
+0,25.06.2020
+0,23.06.2020
+0,Dienstplanung und Arbeitszeitmanagement in einer Software
+0,Nützliche Erweiterungen wie Zeiterfassung OC:Time (PZE, Zeitwirtschaft) und Mitarbeiterportal OC:MyPlan (ESS)
+0,Mehr als 800 Kunden mit teilweise mehreren Tausend Mitarbeitern
+0,Die leistungsfähigste Dienstplanung aus der Cloud (SaaS)
+0,Kostengünstige und flexible Mietsoftware
+0,Sie nutzen unsere Software, wir kümmern uns um den Betrieb
+0,Modernes und sicheres Rechenzentrum in Deutschland
+0,Alles in einer Software: Dienstplanung, Urlaubsplanung und Zeiterfassung
+0,Jederzeit verfügbar und von jedem Endgerät überall abrufbar
+0,Einfache Bedienung ohne Installation und aufwändige Schulung
+0,60 Tage lang gratis testen!
+0,Unsere Kunden verwalten mehr als 250.000 Mitarbeiter mit der modernen SIEDA Dienstplan Software. Vor Ort installiert mit , in der Cloud mit und mit , dem Online Dienstplan.
+0,© 2020 . Alle Rechte vorbehalten.
+0,|
+0,+49-631-363015-0
+0,nf d c m
+0,Datenschutz
+0,Impressum
+0,biduum - der Online Dienstplan
+0,OC:Planner Managed Service (SaaS)
+0,Kunden & Branchen
+0,Kliniken
+0,Rettungsdienst
+0,Feuerwehr
+0,Sozialwesen
+0,Außerklinische Intensivpflege
+0,Abwesenheitsquote-Rechner
+0,Blog
+0,Lexikon
+0,OC:Planner
+0,biduum
+0,Jugendarrestanstalt: Pierre Matz
+0,Feuerwehr Paderborn: Stefan Reddemann
+0,Klinikum Coburg: Katrin Jung
+0,PpUGV-Meldungen per Knopfdruck erstellen: Die ORBIS Belegungsdatenschnittstelle
+0,Willkommen bei SIEDAconnect, unserer großen Online-Veranstaltung!
+0,Auch 2019 war ein sehr erfolgreiches Geschäftsjahr für die SIEDA GmbH
+0,4
+0,5
+0,SIEDA Systemhaus für intelligente EDV-Anwendungen GmbH
+0,mehr unter DATENSCHUTZ
+0,de
+0,Deutsch
+0,en
+0,Englisch
+0,SIEDA GmbH
+0,Ansprechpartner
+0,Karriere
+0,Partner
+0,Anreise
+0,SIEDAconnect
+0,Webinare
+0,Service-Team
+0,Kundenportal
+0,Lösungen
+0,Referenzen
+0,News
+0,>
+0,Kunden-Serviceportal
+0,Anwenderkonferenz
+0,<link rel="stylesheet" type="text/css" href="/sieda-wGlobal/wGlobal/layout/styles/optimized/design_394d7533123cdcd80ac99f342db54ee1.css?1594033734"/>
+0,Suchen
+0,AKZEPTIEREN
+0,VERWEIGERN
 0,$(function(){  window.setInterval(function(){    {$(".gallery-reel-control:nth-of-type(2) .gallery-reel-control-btn")    [0].click()}      }, 4000);});
 0,SQUARESPACE_ROLLUPS = {};
 0,Static.COOKIE_BANNER_CAPABLE = true;
