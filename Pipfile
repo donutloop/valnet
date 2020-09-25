@@ -4,7 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-tensorflow = "==2.0.1"
+tensorflow = "==2.0.3"
 numpy = "==1.18.1"
 tensorflow-hub = "==0.7.0"
 Django = "==3.0.3"
