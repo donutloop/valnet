@@ -10,7 +10,7 @@ tensorflow-hub = "==0.7.0"
 Django = "==3.0.3"
 djangorestframework = "==3.10.3"
 keras-tuner = "==1.0.1"
-gunicorn = "==20.0.4"
+gunicorn = "==20.1.0"
 psycopg2-binary = "*"
 
 [dev-packages]
