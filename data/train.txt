@@ -1,3 +1,4544 @@
+0,function OptanonWrapper() { }
+0,GetSmarter | Online Courses with the World's Top Universities
+0,Ready to stand out from the crowd?
+0,.secure_subject_title_1594055081 {position:absolute!important;top:-9999px;left:-9999px;}
+0,Featured universities
+0,Featured online short courses
+0,An online education that sets you apart
+0,What past students have to say
+0,Ready to set yourself apart?
+0,flash messages
+0,Find an online short course
+0,Select a subject (15)
+0,Select a university (18)
+0,Join over 100,000 working professionals from across the globe, who have already benefitted from the opportunity to:
+0,as powerful proof of your new competencies and use it to differentiate yourself and get recognised in the job market.
+0,Enjoy a online learning experience that constantly achieves unprecedented course completion rates.
+0,Gain through a career-focused curriculum that achieves specific learning outcomes and skill gains.
+0,Advance your career by doing a certified online short course designed for busy, working professionals, like you.
+0,This course has set the benchmark for any further online studies.
+0,CHERYL CHEONG
+0,Oxford Fintech Programme
+0,DERREN YOUNG
+0,Cambridge CISL Business Sustainability Management Online Short Course
+0,My student success manager gave me a lot of support. We all wish we had 48 hours in a day.
+0,It comes down to how you prioritise your time, what comes first and what comes last.
+0,KEKANA SOMFULA
+0,UCT Operations Management Online Short Course
+0,Join over 100,000 working professionals from across the globe, who have already achieved the personal and professional success they were seeking.
+0,Rise to the top
+0,Improving lives through better education
+0,Company
+0,Resources
+0,Business Solutions
+0,Help
+0,Find Us Online
+0,Newsletter Signup
+0,Skip to Content
+0,UNIVERSITIES
+0,ONLINE SHORT COURSES
+0,WHAT WE DO
+0,GETSMARTER FOR BUSINESS
+0,BLOG
+0,STUDENT LOGIN
+0,Arts and Design
+0,Business and Management
+0,Education
+0,Entrepreneurship
+0,Executive Education
+0,Finance
+0,Health
+0,Hospitality and Events
+0,Law
+0,Marketing
+0,Project Management
+0,Real Estate
+0,Systems and Technology
+0,Talent Management (HR)
+0,Writing
+0,Cambridge CISL
+0,EGADE Business School
+0,George Washington University
+0,Harvard University
+0,LSE
+0,MIT
+0,Northwestern University
+0,Oxford Saïd
+0,Rice University
+0,Stanford Center for Health Education
+0,Syracuse University
+0,UC Berkeley
+0,UC Davis
+0,UCT Graduate School of Business
+0,USB-ED
+0,University of Cape Town
+0,University of Dayton
+0,Yale SOM Executive Education
+0,View all universities
+0,Browse all courses
+0,Browse short courses
+0,Join our team
+0,What we do
+0,How it works
+0,Student stories
+0,Course schedule
+0,Blog
+0,Press Office
+0,Getsmarter For Business
+0,Contact us
+0,Payment & financing
+0,Ensure all fields are filled out correctly
+0,Thank you for subscribing to the New Professional Newsletter.
+0,WEBSITE TERMS OF USE
+0,TERMS AND CONDITIONS FOR STUDENTS
+0,PRIVACY POLICY
+0,COOKIE POLICY
+0,SITEMAP
+0,2U, Inc.
+0,| | | |
+0,MENU
+0,Massachusetts Institute of Technology
+0,VIEW COURSES
+0,Said Business School, University of Oxford
+0,Yale School of Management Executive Education
+0,The London School of Economics and Political Science (LSE)
+0,University of Cape Town (UCT)
+0,University of Cambridge Institute for Sustainability Leadership
+0,UC Berkeley School of Information
+0,Artificial Intelligence: Implications for Business Strategy
+0,VIEW COURSE
+0,Oxford Blockchain Strategy Programme
+0,Accelerated Management Program
+0,Negotiation Programme
+0,Project Management Foundations online short course
+0,Cybersecurity: Managing Risk in the Information Age online short course
+0,Business Sustainability Management online short course
+0,Nutrition Science online short course
+0,GetSmarter on YouTube
+0,GetSmarter on LinkedIn
+0,Copyright © 2020 GetSmarter | A brand of
+0,Earn a certificate from a world-class university
+0,personalised, people-mediated
+0,verifiable and relevant competencies
+0,®
+0,Subject
+0,University
+0,Search
+0,SUBSCRIBE
+0,Course Search bar
+0,If you are a human, ignore this field
+0,//<![CDATA[window.gon={};//]]>
+0,.secure_subject_title_1594055081 {display:none;}
+0,.secure_subject_title_1594055082 {position:absolute!important;height:1px;width:1px;overflow:hidden;}
+0,.secure_subject_title_1594055083 {position:absolute!important;height:1px;width:1px;overflow:hidden;}
+0,Contact Us | Call | Email - GetSmarter
+0,Have a question? Contact us via telephone or email.
+0,Call us:
+0,Need more information on a specific course? We are here to assist.
+0,Voice your complaints or compliments and we will get back to you.
+0,Reach out using the form below and we'll get back to you.
+0,>  Contact us
+0,Please complete the form below
+0,Home
+0,Course Query
+0,Speak Up
+0,Other Enquiries
+0,+44 203 457 5774
+0,+1 224 249 3522
+0,+27 21 447 7565
+0,* Required fields
+0,Please enter first name
+0,Please enter last name
+0,Please enter email
+0,Please enter telephone number
+0,Let us know how we can help
+0,* Please select a university
+0,Please select a course
+0,* Please select a value
+0,Share your thoughts with us
+0,Please select a department
+0,Please check this box to continue
+0,Please enter a subject
+0,Please enter a question
+0,Please enter a telephone number
+0,UK:
+0,US:
+0,Global:
+0,Highest level of education
+0,High school
+0,Bachelor's degree
+0,Master's degree
+0,Doctoral degree
+0,Other tertiary qualification
+0,Work experience
+0,None
+0,1 to 5 years
+0,5 to 15 years
+0,More than 15 years
+0,University *
+0,EGADE Business School at Tecnologico de Monterrey
+0,Kellogg School of Management at Northwestern University
+0,The George Washington University
+0,UCT Graduate School of Business (GSB)
+0,Strategic Negotiations online short course
+0,University of California, Davis Graduate School of Management
+0,University of Stellenbosch Business School Executive Development
+0,Course *
+0,Communicating for Influence and Impact online short course
+0,High Impact Leadership online short course
+0,Sustainable Finance online short course
+0,Sustainable Supply Chain Management online short course
+0,Inclusive Leadership online short course
+0,Healthcare Management
+0,Project Management Essentials online short course
+0,Sport Management online short course
+0,Strategic Communications
+0,CRISPR: Gene-editing Applications online short course
+0,FinTech online short course
+0,Global Health Delivery online short course
+0,Higher Education Teaching Certificate
+0,Automation: Implementation in Business online certificate course
+0,Business, International Relations and the Political Economy online certificate course
+0,Competitive Strategy and Innovation online certificate course
+0,Cryptocurrency and Disruption online certificate course
+0,Data Analysis for Management online certificate course
+0,Data: Law, Policy and Regulation online certificate course
+0,Machine Learning: Practical Applications online certificate course
+0,Managerial Finance online certificate course
+0,MBA Essentials online certificate course
+0,Public Policy Analysis online certificate course
+0,Real Estate Economics and Finance online certificate course
+0,Regulation: Theory, Strategy, and Practice online certificate course
+0,Artificial Intelligence in Health Care
+0,Beyond Smart Cities: Emerging Design and Technology
+0,Blockchain Technologies: Business Innovation and Application
+0,Business Process Design for Strategic Management
+0,Commercial Real Estate Analysis and Investment
+0,Corporate Innovation: Strategies for Leveraging Ecosystems
+0,Cryptocurrency
+0,Data Science in Real Estate
+0,Digital Business Strategy: Harnessing Our Digital Future
+0,Digital Marketing Analytics
+0,Economics for Business
+0,Entrepreneurship in the Built Environment
+0,Human-Computer Interaction for User Experience Design
+0,Inquiry-Driven Leadership
+0,Internet of Things:  Business Implications and Opportunities
+0,Interpersonal Communication: Strategies for Executives
+0,Leadership in an Exponentially Changing World
+0,Machine Learning in Business
+0,Management Analytics: Decision-Making Lessons from the Sports Industry
+0,Organizational Design for Digital Transformation
+0,Pricing: Using Data to Improve Pricing Performance
+0,Business Law for Leaders
+0,Digital Operations Management
+0,Strategic Change Management
+0,Oxford Algorithmic Trading Programme
+0,Oxford Artificial Intelligence Programme
+0,Oxford Digital Marketing: Disruptive Strategy Programme
+0,Oxford Entrepreneurship: Venture Finance Programme
+0,Oxford Executive Leadership Programme
+0,Oxford Leading Strategic Projects Programme
+0,Oxford Leading Sustainable Corporations Programme
+0,Oxford Private Markets Investments Programme
+0,Oxford Strategic Alignment Programme
+0,Oxford Strategic Innovation Programme
+0,Oxford Women's Leadership Development Programme
+0,Data Analysis and Visualization online short course
+0,Data Science for Business: Building a Data-Driven Organization online short course
+0,Real Estate Investment and Development online short course
+0,Strategic Project Management online short course
+0,Exercise Physiology online short course
+0,Psychology of Addiction and Recovery online short course
+0,Finance for Non-Financial Managers Online Short Course
+0,Project Management: A Hybrid Approach Online Short Course
+0,Women as Business Leaders Online Short Course
+0,Artificial Intelligence Strategy online short course
+0,Data Science Essentials online short course
+0,Machine Learning online short course
+0,Leadership Program
+0,Digital Transformation Strategy online short course
+0,Values-Based Leadership online short course
+0,MBA Essentials online short course
+0,Women in Leadership online short course
+0,Accounting online short course
+0,Advanced Business Risk Management online short course
+0,Advanced Operations Management online short course
+0,Advanced Project Management online short course
+0,Agile Project Management online short course
+0,Basics of Financial Management online short course
+0,Bookkeeping online short course
+0,Brand Management online short course
+0,Business Analytics online short course
+0,Business Development Management online short course
+0,Business Risk Management online short course
+0,Business Systems Analysis online short course
+0,Business Writing online short course
+0,Change Management online short course
+0,Commercial and Contract Law online short course
+0,Commercial Property Broker - Law and Practice online short course
+0,Compliance Essentials online short course
+0,Compliance Management online short course
+0,Construction Management online short course
+0,Copy-editing online short course
+0,Copywriting for Online Marketing online short course
+0,Cost and Management Accounting online short course
+0,Data Analysis online short course
+0,Data Science with Python online short course
+0,Digital Marketing online short course
+0,Digital Photography online short course
+0,Energy Efficiency and Sustainability online short course
+0,Events Management online short course
+0,Executive and Management Coaching online short course
+0,Executive Support online short course
+0,Facilities Management online short course
+0,Feature Journalism online short course
+0,Financial Modelling and Analysis online short course
+0,Financing and Valuing Commercial Property online short course
+0,Fintech: Disruption in Finance
+0,Foundations of Business Management online short course
+0,Fundamentals of Cybersecurity online short course
+0,Graphic Design online short course
+0,Human Resource (HR) Management online short course
+0,Import, Export and Logistics Management
+0,Information Systems Management online short course
+0,Investment Management online short course
+0,IT Management online short course
+0,Market Research, Consumer Insights, and Competitor Analysis online short course
+0,Marketing online short course
+0,Negotiation and Conflict Resolution online short course
+0,Occupational Health and Safety online short course
+0,Operations Management online short course
+0,Paralegal Practitioner online short course
+0,Payroll and Tax Administration online short course
+0,Practical Labour Law online short course
+0,Product Management online short course
+0,Professional Communication and Office Management online short course
+0,Programme Management: A Monitoring and Evaluation Approach online short course
+0,Property Development and Investment online short course
+0,Property Management: Marketing, Contracts and Administration online short course
+0,Public Management and Governance online short course
+0,Public Relations (PR) online short course
+0,Restaurant Management online short course
+0,Sales Management online short course
+0,Search Engine Optimisation (SEO) online short course
+0,Small Business: Growth and Management online short course
+0,Social Media Marketing online short course
+0,Sports Management: Business Principles in Sport online short course
+0,Strategic Business Management online short course
+0,Strategic Human Resource Management online short course
+0,Supply Chain Management online short course
+0,Tax Law online short course
+0,Training and Development Management online short course
+0,User Experience Design online short course
+0,Web Design online short course
+0,Leadership Development Program
+0,Project Management: Practical Skills and Applications Program
+0,Digital Marketing: A Strategic Perspective online program
+0,Global Business and Politics online program
+0,Healthcare Management online program
+0,Negotiation Strategies online program
+0,Women’s Leadership Program
+0,Department *
+0,Certificates
+0,General
+0,Sales
+0,Student Performance
+0,Technical Support
+0,I want to receive text messages *
+0,Yes
+0,No
+0,Email
+0,No *
+0,Phone
+0,Text
+0,I agree that the above information is true and correct to the best of my knowledge and belief
+0,.secure_subject_title_1594055083 {position:absolute!important;top:-9999px;left:-9999px;}
+0,Privacy Policy - GetSmarter
+0,GetSmarter’s Privacy Policy
+0,Collection of Information
+0,How We Use Your Information
+0,How We Disclose Your Information
+0,Information Security and Data Retention
+0,Accessing and Managing Your Personal Information
+0,Additional Information
+0,QUICK GUIDE TO CONTENTS
+0,Education Records
+0,Notice for California Consumers
+0,Public Forums; Publicly Available Content
+0,Third-Party Content
+0,Changes to This Privacy Policy
+0,Questions or Concerns About This Privacy Policy
+0,>  Privacy policy
+0,To fulfill a contract or take steps linked to a contract, including:
+0,providing our services;
+0,verifying your identity;
+0,taking payments;
+0,communicating with you.
+0,using your information to provide products and services you have requested and responding to any comments or complaints you may send us;
+0,personalizing your experience on the Websites and in any Course in which you choose to enroll and to help us to better respond to your individual needs;
+0,developing new products or services or conducting analyses to enhance current products and services;
+0,contacting you for legitimate business purposes;
+0,using personal information to invite individuals to take part in market research;
+0,where consent is not required by applicable law, for direct marketing purposes;
+0,To protect the security and functionality of the Websites. This includes:
+0,monitoring customer accounts to prevent, investigate and/or report fraud, misrepresentation, security incidents or crime, in accordance with applicable law.
+0,Where you give us consent. This includes:
+0,on other occasions where we ask you for consent, using the data for the purpose which we explain at that time.
+0,For purposes which are required by law. This includes:
+0,in response to requests by government or law enforcement authorities conducting an investigation;
+0,We access and disclose your information to detect, prevent, or otherwise address fraud, security or other technical issues.
+0,We share information with third parties when we have your consent, or otherwise as described to you at the point of collection.
+0,Maintain business records for analysis and/or audit purposes;
+0,Comply with record retention requirements under the law;
+0,Defend or bring any existing or potential legal claims;
+0,Address any complaints regarding the services;
+0,Enforce our commercial agreements;
+0,Support our legitimate interests, as described in this Privacy Policy.
+0,, including real name, alias, address, unique personal identifier, online identifier, IP address, email address, phone number, account name, or other similar identifiers.
+0,, including professional or employment-related information.
+0,, including information about education history or background.
+0,, characteristics of protected classifications under California or federal law such as race, color, sex, age, religion, national origin, disability and citizenship status.
+0,University Partners
+0,The 2U family of companies,
+0,Third-party providers that serve business, professional or technical support functions,
+0,Your Employer,
+0,Third parties for legal matters or safety purposes.
+0,The right to opt-out of sale of your personal information. GetSmarter does not sell personal information.
+0,The right to request a copy of the personal information that we have collected about you in the prior 12 months.
+0,Please see our to learn more about your choices for receiving interest-based advertising or to opt out.
+0,We process personal information under the following legal bases:
+0,GetSmarter shares your information with other entities or individuals in the following circumstances:
+0,If you are enrolled in a Course, you may access and/or update your personal information through your user profile.
+0,If you wish to access or delete your information as described in this section, please fill out our .
+0,We collect and disclose for a business purpose the following categories of personal information:
+0,You can submit a copy, deletion, or right-to-know request online by filling out our or by contacting us at
+0,If you do not want GetSmarter to store metadata associated with your content, please remove the metadata before uploading your content.
+0,The relevant data controller will be charged with making decisions regarding the purposes and methods of processing of data under the terms of this Privacy Policy.
+0,To make a request to delete or access personal information, or for more information about the personal information GetSmarter has about you, use the .
+0,View the last version of our privacy policy .
+0,Terms and Conditions for Students
+0,Website Terms of Use
+0,contact us.
+0,Cookie Policy
+0,Service Providers
+0,privacy@getsmarter.com
+0,How We Disclose Your Data
+0,contact page
+0,Data Enquiry Form
+0,+1 (888) 213-3846
+0,South Africa’s information regulator
+0,here
+0,University Partners:
+0,The 2U Family of Companies:
+0,Service Providers:
+0,Your Employer:
+0,Legal Matters; Safety:
+0,Fraud; Security:
+0,Consent; Other:
+0,Sale or Transfer of Business or Assets:
+0,International Transfers:
+0,Contact Information and Identifiers
+0,Customer Records
+0,Usage Data
+0,Employment History
+0,Education Information
+0,Protected Classifications
+0,Date of Last Amendment: 13 December 2019
+0,Information You Provide
+0,Information Automatically Collected
+0,Tracking Options and Do Not Track Disclosures
+0,Information Collected from Other Sources
+0,Our Combination of Your Information
+0,Failure to Provide Personal Information
+0,Children's Privacy
+0,Purposes for Collecting and Processing Personal Information
+0,Use of De-identified, Aggregate or Anonymized Information
+0,Categories of Personal Information that We Collect and Disclose
+0,Categories of Sources of Personal Information
+0,Purposes for Collecting Personal Information
+0,Categories of Third Parties with Which Personal Information is Shared
+0,California Consumer Rights
+0,lazySizes.init();
+0,jQuery(document).ready(function () {        jQuery('div.main-projects').load(ajaxurl + '?action=loadProjectsHome');    });
+0,var ajaxurl = 'https://web-systems.solutions/wp-admin/admin-ajax.php';
+0,window.dataLayer = window.dataLayer || [];  function gtag(){dataLayer.push(arguments);}  gtag('js', new Date());  gtag('config', 'UA-101004039-1');
+0,Web-systems – Розробка та дизайн сайтів
+0,Якісні рішення для бізнесу на основі ефективних технологій
+0,svg  svg  svg  svg
+0,Блог
+0,21 Травня 2020
+0,25 Лютого 2020
+0,30 Січня 2020
+0,Чому ми?
+0,Зробимо проєкт разом?
+0,Замовити прорахунок
+0,Мене цікавить:
+0,Мені потрібен:
+0,Зв'язатись з нами
+0,Завітати до нас
+0,Україна, Хмельницький, вул. Кам'янецька, 137
+0,Україна, Кам'янець-Подільський, проспект Грушевського, 21В
+0,Захист даних
+0,© 2020 Web-Systems. Solution. Всі права захищені.
+0,svg
+0,noindex /noindex  noindex /noindex  noindex /noindex
+0,ua
+0,en
+0,ru
+0,info@web-systems.solutions, hr@web-systems.solutions
+0,Читати далі
+0,Як інтернет-магазин може врятувати від депресії
+0,Яким повинен бути сучасний мобільний додаток
+0,Дізнатись про нас більше
+0,+38 (067) 980-09-00
+0,+38 (068) 183-80-83 (HR)
+0,Privacy Notice
+0,Cookie Policy
+0,Експертиза
+0,Послуги
+0,Про нас
+0,Проєкти
+0,Вакансії
+0,Контакти
+0,Надіслати
+0,надіслати менеджеру
+0,Ми в соціальних мережах:
+0,Я погоджуюсь
+0,Як вас звати?*
+0,З якої ви компанії?
+0,Телефон?*
+0,E-mail*
+0,Телефон*
+0,дизайн
+0,верстка
+0,інтеграція
+0,мобільний додаток
+0,проєкт під ключ
+0,інтернет-магазин
+0,сайт-візитка
+0,лендінг
+0,сервіс
+0,портал
+0,маркетплейс
+0,Про нас – Web-systems
+0,Наша місія
+0,Цінності
+0,Відео
+0,Більше у інстаграм
+0,Наша місія та цінності
+0,Літній корпоратив на узбережжі Чорного моря
+0,Стратегічна сесія керівного складу компанії
+0,Літній корпоратив в Хмельницькому обласному художньому музеї
+0,01
+0,Бути відкритими
+0,02
+0,Працювати чесно
+0,03
+0,Нести відповідальність
+0,04
+0,Діяти професійно
+0,05
+0,Вдосконалюватись
+0,06
+0,Творити атмосферу легкості й позитиву
+0,Ми точно знаємо: нові технології, програми, веб- та мобільні додатки змінюють світ на краще:)
+0,Наша місія – це: .
+0,Те, що об’єднує нас в єдину команду
+0,Ми хочемо показати вам частинки робочого процесу та відпочинку нашої команди
+0,@web_systems
+0,Web-Systems Solutions
+0,«Якісні рішення для бізнесу на основі ефективних технологій»
+0,<img src="https://web-systems.solutions/wp-content/uploads/cache/2019/10/about-banner-1920x893.jpg" alt="about-banner">
+0,Контакти – Web-systems
+0,Давайте створимо щось гарне разом!
+0,Замовити проєкт
+0,Офіс у Хмельницькому
+0,Електронна пошта
+0,Офіс у Кам`янець-Подільському
+0,Телефони
+0,About Us – Web-systems
+0,About Us
+0,Our mission
+0,Values
+0,Video
+0,Our Mission and Values
+0,Summer Corporate on the Black Sea
+0,Strategic Session of Company Management
+0,Summer Corporate at the Khmelnytsky Regional Art Museum
+0,Be open-mind
+0,We are all different. But at the same time, we are united in achieving the goals. Only through joint efforts and collaboration we can achieve a significant success
+0,Work honestly
+0,We are honest with ourselves. Honest with customers. Honest with your colleagues. We strive to produce a quality product that can change the world for the better
+0,Be responsible
+0,Act professionally
+0,Expert vision of the problem. Ready for daily challenges, helping others grow professionally
+0,Improve yourself
+0,We are motivated for the best result. And development is a continuous process. We don't just set goals. We achieve results and constantly analyze them
+0,Create an atmosphere of lightness and positiveness
+0,We appreciate the sense of humor and casual conversation. We believe that with the a kind word and a smile you can unlock everyone's talents
+0,Contact us
+0,Visit us
+0,Ukraine, Khmelnitskyi, 137 Kamianetska St.
+1,Ukraine, Kamianets-Podilskyi, 21V Hrushevskoho Avenue
+0,Data protection
+0,© 2020 Web-Systems. Solution. All rights reserved.
+0,What brings us together into one team
+0,We want to show you some of the workflow and rest of our team
+0,Expertise
+0,What we do
+0,Projects
+0,Jobs
+0,Blog
+0,Contacts
+0,We know for sure that new technologies, applications, web and mobile applications are changing the world for better 🙂
+0,When
+0,company was launched in 2009, we wanted to create websites, mobile applications or software not just.
+0,We wanted every our project has a benefit people.
+0,We wanted to make all members of the team feel satisfied with the work, give a part of their own heart and creative passion to the team.
+0,We value cooperation. And the highest appreciation of our work is satisfied clients and colleagues who start and end their workday with a smile.
+0,Our mission – is .
+0,Social:
+0,I agree
+0,«Quality business solutions based on effective technologies»
+0,<img src="https://web-systems.solutions/en/wp-content/uploads/cache/2019/10/about-banner-1920x893.jpg" alt="about-banner">
+0,<img src="https://web-systems.solutions/en/wp-content/uploads/cache/2018/12/44fd0695515e4b107d3e28ec094a18df-950x562.jpg" alt="Summer Corporate on the Black Sea">
+0,<img src="https://web-systems.solutions/en/wp-content/uploads/cache/2019/10/about-1-530x670.jpg" alt="Strategic Session of Company Management">
+0,<img src="https://web-systems.solutions/en/wp-content/uploads/cache/2019/10/about-2-530x670.jpg" alt="Summer Corporate at the Khmelnytsky Regional Art Museum">
+0,<img src="https://web-systems.solutions/en/wp-content/uploads/cache/2019/10/about-3-530x670.jpg" alt="Strategic Session of Company Management">
+0,О нас — Web-systems
+0,О нас
+0,Наша миссия
+0,Ценности
+0,Видео
+0,Больше в инстаграме
+0,Наша миссия и ценности
+0,Летний корпоратив на побережье Черного моря
+0,Стратегическая сессия руководящего состава компании
+0,Летний корпоратив в Хмельницком областном художественном музее
+0,Быть открытыми
+0,Работать честно
+0,Нести ответственность
+0,Действовать профессионально
+0,Совершенствоваться
+0,Творить атмосферу легкости и позитива
+0,Связаться с нами
+0,Посетить нас
+0,Украина, Хмельницкий, ул. Каменецкая, 137
+0,Украина, Каменец-Подольский, проспект Грушевского, 21В
+0,Защита данных
+0,© 2020 Web-Systems.Solution. Все права защищены.
+0,Мы точно знаем: новые технологии, программы, веб и мобильные приложения меняют мир к лучшему 🙂
+0,Наша миссия — это
+0,То, что объединяет нас в единую команду
+0,Мы хотим показать вам частичку рабочего процесса и отдыха нашей команды
+0,Экспертиза
+0,Услуги
+0,Проекты
+0,Вакансии
+0,Контакты
+0,Мы в социальных сетях:
+0,Я согласен
+0,«Качественные решения для бизнеса на основе эффективных технологий».
+0,<img src="https://web-systems.solutions/ru/wp-content/uploads/cache/2019/10/about-banner-1920x893.jpg" alt="about-banner">
+0,Privacy Notice — Web-systems
+0,Редакция от 1 ноября 2017
+0,1. ОБЩИЕ ПОЛОЖЕНИЯ
+0,2. ИНФОРМАЦИЯ, которую мы собираем, хранить и обрабатывать
+0,3. ЦЕЛЬ СБОРА И ИСПОЛЬЗОВАНИЯ ДАННЫХ
+0,4. Передача данных
+0,5. Доступ к данным
+0,6. ХРАНЕНИЕ И БЕЗОПАСНОСТЬ ДАННЫХ
+0,7. Обезличенные данные
+0,8. Заключительные положения
+0,.page_speed_458684266{display:none;visibility:hidden} .page_speed_505662549{display:none} .page_speed_717571695{}
+0,$(".item-language").find(".title").click(function () {        $(this).parent(".item-language").find(".social-list").toggleClass("active");    });
+0,Blockchain | Lập trình phần mềm | Công nghệ Blockchain
+0,Bytesoft
+0,VỀ CHÚNG TÔI
+0,TẠI SAO CHỌN BYTESOFT?
+0,DỊCH VỤ
+0,tuyển dụng
+0,Chúng tôi luôn sẵn sàng
+0,NGUỒN LỰC
+0,TƯ DUY
+0,dịch vụ
+0,bức tường
+0,TƯ VẤN CHIẾN LƯỢC CÔNG NGHỆ THÔNG TIN
+0,OUTSOURCING
+0,BẢO MẬT VÀ AN TOÀN THÔNG TIN
+0,Ý KIẾN PHẢN HỒI TỪ KHÁCH HÀNG
+0,TIN TỨc
+0,SẢN PHẨM
+0,Khối Nhà Nước
+0,Khối Doanh Nghiệp
+0,Công Nghệ Mới
+0,Review về phần mềm giáo dục thuộc khối Nhà nước
+0,Review về phần mềm ứng dụng công nghệ mới Blockchain
+0,XÂY DỰNG GIẢI PHÁP CNTT CHO DOANH NGHIỆP
+0,Tại Bytesoft Việt Nam, mỗi khách hàng chính là khách hàng quan trọng nhất.
+0,TƯ VẤN & HỢP TÁC
+0,Chúng tôi là một nhóm các chuyên gia về phát triển chiến lược, marketing, thiết kế và phát triển sản phẩm.
+0,MÔI TRƯỜNG LÀM VIỆC LÝ TƯỞNG DÀNH CHO BẠN
+0,Phát triển tư duy chất xám, Nâng cao năng lực chuyên môn, Nâng tầm kỹ năng mềm.
+0,Chi phí thấp - Hiệu quả cao - Uy tín tuyệt đối
+0,Đánh giá của thầy giáo Nguyễn Thế Anh, đại diện trường THCS Võ Thị Sáu về phần mềm quản lý thư viện Bytesoft.
+0,Chúng tôi ở đây để làm mọi thứ tốt hơn!
+0,TRỤ SỞ CHÍNH TẠI HÀ NỘI
+0,Số điện thoại                                : 19002863
+0,Thư điện tử                                : info@bytesoft.net
+0,CHI NHÁNH TẠI TP HỒ CHÍ MINH
+0,Địa chỉ                                : Số 11B, Hồng Hà, Phường 2, Quận Tân Bình, TP Hồ Chí Minh
+0,Thư điện tử                                : hcm@bytesoft.net
+0,Theo dõi chúng tôi trên mạng xã hội
+0,© 2020 Bytesoft JSC. All right reserved.
+0,HOTLINE                            : 19002863
+0,Trang chủ
+0,Về chúng tôi
+0,Dịch vụ
+0,Sản phẩm
+0,Tin tức
+0,Liên hệ
+0,Bytesoft Việt Nam: Shark Vương Là Ai? Tiểu Sử Shark Trần Anh Vương
+0,Blockchain
+0,Bvote hỗ trợ Tập Đoàn Xăng Dầu Petrolimex Tổ Chức Thành Công Đại Hội Cổ Đông Trực Tuyến 2020
+0,BVOTE ĐÃ HỖ TRỢ BỆNH VIỆN QUỐC TẾ THÁI NGUYÊN TỔ CHỨC THÀNH CÔNG ĐHĐCĐ TRỰC TUYẾN 2020
+0,ỨNG DỤNG HỆ THỐNG BÌNH CHỌN BVOTE CUỘC THI PRESS BEAUTY KỊCH TÍNH ĐẾN PHÚT CUỐI CÙNG
+0,Lập trình phần mềm
+0,Thông báo & Sự kiện
+0,PHIÊN BẢN “MÙA ĐÔNG KHÔNG LẠNH” TẠI BYTESOFT – NHỮNG NGÀY QUẨY TƯNG BỪNG TẠI SƠN TINH CAMP
+0,Bytesoft thoả thuận hợp tác chiến lược với QA Systems
+0,Bytesoft tiến gần đến thị trường Hàn Quốc thông qua hợp tác với Blockchain C&S
+0,Phỏng vấn đại diện nhà cung cấp hệ thống bình chọn BVote cho cuộc thi Hoa hậu hoàn vũ Việt Nam 2019
+0,LGSP
+0,Những lợi ích của NGSP mà chắc chắn bạn chưa biết
+0,Liệu lợi ích của LGSP có đang bị thổi phồng?
+0,NGSP: Chuyện về người anh em sinh đôi 4.0 của LGSP - Bytesoft
+0,LGSP “cứu cánh” hàng nghìn đơn vị Nhà nước khỏi … lỗi thời ?!
+0,⭐ BVote - GIẢI PHÁP TỔ CHỨC HỌP ĐẠI HỘI ĐỒNG CỔ ĐÔNG TRỰC TUYẾN TRỌN GÓI⭐
+0,Phần Mềm Quản Lý Đối Tượng Bảo Trợ Xã Hội | Người Có Công Cho Các Tỉnh
+0,Phần mềm dạy tiếng anh theo sách giáo khoa
+0,Phần mềm quản lý bệnh viện
+0,Phần mềm quản lý kho cho doanh nghiệp
+0,Phần mềm quản lý cửa hàng vừa và nhỏ
+0,Phần mềm quản lý chuỗi nhà hàng
+0,Thành phố thông minh ứng dụng công nghệ IoT, Blockchain và hợp đồng thông minh
+0,Phần mềm xác thực quyền sở hữu tài sản trên nền tảng Blockchain
+0,#Cuộc Chơi Thay Đổi - Phần Mềm Truy Xuất Nguồn Gốc Hàng Hóa, Thực Phẩm Ứng Dụng Blockchain
+0,Sàn thương mại điện tử ứng dụng công nghệ Blockchain 2.0
+0,Nhận tư vấn ngay
+0,Ứng tuyển ngay
+0,Xem thêm
+0,TUYỂN DỤNG DESIGNER
+0,TUYỂN DỤNG LẬP TRÌNH VIÊN ASP.NET
+0,Lập Trình Viên NodeJS
+0,Tuyển Dụng Lập Trình Viên React
+0,Xem thêm >>
+0,Xem bản đồ
+0,Tiếng Việt
+0,English
+0,TINH NHUỆ
+0,SÁNG TẠO
+0,chuyên nghiệp
+0,bảo mật
+0,30
+0,Jun
+0,Đinh Tuấn Anh
+0,10060
+0,06
+0,Jul
+0,10084
+0,10063
+0,10243
+0,hãy kết nối với
+0,bytesoft
+0,<
+0,>
+0,Gửi
+0,window.__INITIAL_STATE__={"data":null,"context":{}};(function(){var s;(s=document.currentScript||document.scripts[document.scripts.length-1]).parentNode.removeChild(s);}());
+0,ExamRoom.AI - Web based online proctoring solution | Examroom
+0,Build your own video-conferencing applications with skylink.
+0,Your exams, on YOUR terms - Utilize your own proctoring staff
+0,Protect Test Integrity With ExamLock.
+0,Build Your Own Learning Management System.
+0,Our Ecosystem has more to offer
+0,The perfect blend of human and AI proctoring to meet your needs
+0,We are a Web-Based Remote Online Proctoring Solution
+0,We’re here for you, every step of the way.
+0,Envision it, Build it.
+0,Our Family
+0,We would like to hear from you.
+0,Get Started
+0,We Made It More Accessible For You. Download Our App On Your Mobile
+0,ExamRoom.AI
+0,BEHAVIOR ANALYSIS
+0,Detailed Report
+0,Seamless integration
+0,Check out our demo video
+0,Visit our interactive webpage
+0,Skylink
+0,Einstein LMS
+0,Please fill out the form for additional information.
+0,Platform
+0,Solutions
+0,Resources
+0,Developers
+0,Company
+0,Phone
+0,Email
+0,Address
+0,Solutions and Features
+0,Exam Lock
+0,Download For
+0,svg
+0,Skylink SDKs
+0,Pricing
+0,Skylink Support
+0,Einstein Offers
+0,Get your own LMS
+0,Einstien Support
+0,Edison Assessments
+0,Platform, Service and Content
+0,Services
+0,Edison Support
+0,Proctoring
+0,We Support
+0,Platform as a Service
+0,Our PAAS is available on
+0,Auditing Solutions
+0,We Provide
+0,More Features
+0,Our value added features include
+0,ExamRoom for
+0,WebRTC by industry
+0,Einstien LMS
+0,Learning management system for
+0,Edison by industry
+0,Downloads
+0,Exam 360
+0,ExamLock
+0,User Manual
+0,Visual Walkthrough
+0,For Developers
+0,Need more help?
+0,Why ExamRoom
+0,Our Companies
+0,Our Mission
+0,Our Products
+0,Examlock
+0,AI Powered
+0,Human Verified
+0,Secured
+0,OR
+0,Ask us to do it for you. At no cost - We’re not kidding!
+0,Available on: Web and mobile
+0,Online assessment tools, professional services and ready-made content to help organisations  and individuals
+0,No matter the level of the test, ExamLock secures and protects your investment, time, and integrity.
+0,Embed interactive video, voice and data to your applications. Make your own video-conferencing applications with our open-source code.
+0,Developer focused SDKs for
+0,The world’s most popular learning management system. Start creating your online learning site in minutes!
+0,Our virtual proctoring features enable you to conduct exams with security and peace-of-mind
+0,We provide our web-based platform with storage and proctoring options
+0,Providing our clients transparency and access to live, recorded, and reviewed digital recordings and analytics
+0,Equipping our clients with multiple features to ensure security, integration, and efficiency for all levels of exams
+0,A curated list of downloads for you. All our suite is readily available for you.
+0,User-friendly and easy to understand documentation at your disposal. Find the documentations for all our products here.
+0,We have a curated a codex for developers that will enable you to integrate ExamRoom.AI and its features with ease.
+0,We are here for you. Feel free to create a support ticket and one of our experts will get in touch with you.
+0,Want to provide your own proctoring staff? No problem! Our platform can support your current proctors as needed while providing training and support
+0,Our sophisticated open-source code suite enables you to build your own WebRTC based applications. Don’t know how to do it? No problem we’ll do it for you. At no cost!
+0,We’ve made our code open-source. You can build your own LMS, or we can do it for you - at no cost.
+0,A web-based, remote online proctoring service focused on creating streamlined and scalable remote proctoring solutions, tailored to your needs.
+0,Embed real-time communications into your web or mobile apps	fuelling it with interactive video, voice and data communications.
+0,Secure enterprise-grade assessment platform, supporting variety of services to leading organisations around the world, delivered with care and unequalled expertise.
+0,Continuous monitoring using developed algorithms to automatically detect and flag suspicious behavior
+0,We pair our AI detection with human proctors to ensure all detected behavior and support during exam sessions.
+0,FIDO technology to protect candidate's personal biometric data. Customizable authentication procedures according to exam stakes level.
+0,What is ExamRoom
+0,ExamRoom is constantly updating security measures and AI learning based on analytics during exam sessions.
+0,Receive notifications of suspicious behavior and all incidents captured by AI and live person proctors during exam sessions.
+0,ExamRoom.AI has been built to seamlessly integrate with most LMS and databases for a single sign-on experience for users.
+0,ExamRoom Walkthrough
+0,Click the link to view an interactive video of the onboarding process
+0,DEVELOP ON OUR PLATFORM
+0,Contact us
+0,+1 877-848-3926
+0,sales@examroom.ai
+1,One Plus Corp. Corporation Trust Center 1209 Orange St Wilmington, DE 19801
+0,To get started today, select an option below.
+0,© 2020 Copyright Protected
+0,You are protected by:
+0,Fully Integrated System >
+0,Real-time Analytics>
+0,Exam 360 >
+0,Exam Lock >
+0,Exam Prism >
+0,Visit ExamLock
+0,Windows >
+0,Mac Os >
+0,Linux >
+0,Mobile >
+0,Visit Skylink
+0,Platform Pricing >
+0,Plugin Pricing >
+0,Knowledge Center >
+0,Contact >
+0,Visit Einstein LMS
+0,LMS >
+0,Cloud Solutions >
+0,Mobile App >
+0,Workplace Solutions >
+0,Certified Integrations >
+0,Do it yourself >
+0,We do it for you >
+0,Demo >
+0,Explore Edison
+0,On Cloud >
+0,On Premise >
+0,For Government >
+0,For Other Services >
+0,Onboarding >
+0,Proctoring >
+0,Others >
+0,Professional Services >
+0,White Papers >
+0,Explore Proctoring
+0,Live Proctoring >
+0,Recorded Proctoring >
+0,Review Proctoring >
+0,Explore PAAS
+0,Hosted Service >
+0,Cloud Service >
+0,Shared Service >
+0,White Labeling >
+0,Explore Auditing
+0,Flag Review >
+0,Chat Review >
+0,Comments Review >
+0,All Features
+0,LTI Integration >
+0,High Schools >
+0,Universities >
+0,Enterprises >
+0,Higher education >
+0,Health Care >
+0,Hospitals >
+0,Manufacturing >
+0,Retail >
+0,Financial & IT Services >
+0,K-12 Schools >
+0,Workplace >
+0,E-Commerce >
+0,Test publisher and certifications >
+0,All Downloads
+0,Exam 360 Android App >
+0,All Resources
+0,User Manual >
+0,Walkthrough >
+0,Video Walkthrough >
+0,Taking an Exam >
+0,Retriving Reports >
+0,Visit developers portal >
+0,ExamRoom.AI Documentation >
+0,Skylink Documentation >
+0,Create a support ticket >
+0,Read more >
+0,svg Search
+0,Request a demo
+0,Try free
+0,Request Demo
+0,See Documentation
+0,Contact Us
+0,Explore ExamLock
+0,Get in touch
+0,Explore ExamRoom.AI
+0,Visit Edison LMS
+0,Visit Einstein
+0,Watch demo
+0,Try now
+0,svg Watch a Demo
+0,Visit Walkthrough
+0,Start building
+0,Learn more >
+0,Become a part of our family
+0,Talk to Solutions >
+0,Watch demo >
+0,Try ExamRoom >
+0,Get Help >
+0,Build an App >
+0,Visit Knowledge Center >
+0,SDKs
+0,WebRTC Platform
+0,Plugin pricing
+0,PAAS
+0,Assessment
+0,Content
+0,On-boarding
+0,SkyLink
+0,Exam Prism
+0,White Papers
+0,Guides
+0,Case Studies
+0,Blog
+0,Functional examples
+0,Industry use cases
+0,Documentation
+0,API’s
+0,Support
+0,FAQ’s
+0,Open-source
+0,Knowledge Centre
+0,Raise a ticket
+0,About ExamRoom
+0,Leadership
+0,Media
+0,Careers
+0,For Investors
+0,Students FAQ`s
+0,Universities FAQ`s
+0,Corporates FAQ`s
+0,GDPR
+0,FERPA
+0,Accessibility
+0,Terms & Conditions
+0,Privacy policy
+0,Products
+0,Web
+0,Android
+0,iOS
+0,Solutions & Features
+0,Industries
+0,Why ExamRoom.AI
+0,At ExamRoom.AI we have three missions: Offer convenient online testing, provide a secure testing environment, and provide exceptional customer service.
+0,We offer more than just one service. We aim to make lives better accross multiple verticals.
+0,to make sure that every candidate and client that utilizes our application be treated with the utmost respect.
+0,Sign In
+0,|
+0,<style>.g-image--loading{display:none;}</style>
+0,About Us | Examroom
+0,At ExamRoom, we aim higher and strive harder to make remote proctoring simple
+0,About Us
+0,Next Steps
+0,Read more about us.
+0,Get in touch to know more
+0,Talk to our experts
+0,Help us, help you
+0,Our Companies | Examroom
+0,We offer a wide range of products.
+0,Prov Exam
+0,Prov Labs
+0,Services we provide include:
+0,Staffing to help you complete your projects
+0,Full-time project management
+0,Project architecture and engineering
+0,Call center design and deployment
+0,We are not limited to just Exams and proctoring.
+0,Visit Prov Exam
+0,Visit Prov Labs
+0,Contact us | Examroom
+0,Get in touch with us.
+0,Our offices
+0,We’re here for you,Please drop us a message and our team will get in touch with you within 24 hours.
+0,Utah Headquarters Prov, Inc.
+0,9980 South 300 West, Suite 200, Sandy, Utah 84070
+0,Gainesville HQ Prov, Inc.
+1,5200 NW 43rd St, Suite 102-167 Gainesville, FL 32606
+1,31349 Westward Ho Ave Sorrento, FL 32776
+0,India office address Prov, Inc.
+1,No. 1108, 2nd Floor, Pannaga Arcade, BEML 3rd stage, 80ft Road, Rajarajeshwari Nagar, Bengaluru - 560 098
+0,One Plus Corp
+0,We’re always open to talent. Wish to join the team and create amazing things?
+0,Send us your resume on
+0,jobs@examroom.ai
+0,Privacy Policy | Examroom
+0,PRIVACY POLICY
+0,LINKS
+0,GOVERNING LAW AND JURISDICTION
+0,LOCAL LAWS AND EXPORT
+0,DATA AND CONTENT PROTECTION
+0,ACCOUNT AND PASSWORD SECURITY
+0,COOKIES, IP ADDRESSES, AND OTHER TRACKING DEVICES
+0,BIOMETRICS
+0,CHILDREN
+0,DISCLAIMERS
+0,FEEDBACK
+0,If you have any questions or comments about ExamRoom.AI’s Privacy Policy and Terms, please contact us by email at
+0,legal@ExamRoom.AI
+0,.anti-flicker-hide { opacity: 0 !important}
+0,figcaption {    display: block;    font-size: 0.85em;    line-height: 1.7;    font-weight: 300;    letter-spacing: 1;    color: #888;    margin-bottom: 2em;
+0,.w-slider-dot {  background: #e4faf5;}.w-slider-dot.w-active {  background: #9cdbcc;}
+0,Grantbook | Technology Consultants for Foundations & Grantmakers
+0,What We Do
+0,Strategic tech advisory and implementation for grantmaking organizations.
+0,Our Services
+0,Our Approach
+0,Explore our latest thinking from the intersection of philanthropy and tech...
+0,Let's talk!
+0,Charting a path to your digital future?
+0,Software Selection
+0,Implementation
+0,Support & Managed Services
+0,Strategic Partners to Daring Grantmakers
+0,Trusted by
+0,Sector-specific.
+0,Vendor-agnostic.
+0,Human-centred.
+0,Future-focussed.
+0,7 Fluxx Tips for Rapid Response Grantmaking
+0,Process Redesign: A Selection and Implementation Mini Case Study
+0,Salesforce Summer ‘20 Release: 7 Exciting Updates for Grantmakers
+0,Extending your GMS: Interacting with APIs using Middleware
+0,Success!
+0,Uh-oh.
+0,Helping foundations operationalize mission and vision by leveraging technology.
+0,Heading
+0,Min
+0,Consultants to daring grantmakers.
+0,About Grantbook
+0,COVID-19
+0,People
+0,Approach
+0,Culture & Careers
+0,About
+0,
+0,SERVICES
+0,Overview
+0,Support & Managed Services
+0,Clients
+0,BLOG
+0,Schedule a Chat
+0,Contact
+0,Home
+0,Services ▾
+0,Services Overview
+0,Tech Support
+0,About ▾
+0,Culture & Careers
+0,Blog
+0,CONTACt
+0,We help you choose, implement, and learn to use grants management systems so that you can do more good, .
+0,select →
+0,Implement →
+0,Optimize →
+0,30+
+0,grants management systems audited or implemented by our team
+0,125+
+0,SaaS software tools in our knowledge base
+0,80+
+0,foundation clients across North America, Oceania, and Europe
+0,50+
+0,years of combined experience in philanthropy
+0,Jonathan Goldberg
+0,Director of Learning & Grant Operations
+0,Surdna Foundation
+0,Janet Disla
+0,Sr. Grants Manager
+0,Nathan Cummings Foundation
+0,Zina Nelku
+0,Sr. Data Analyst
+0,Grand Challenges Canada
+0,Wendy Rinella
+0,CEO
+0,Oakville Community Foundation
+0,Karen Shea
+0,Chief Executive / Trustee
+0,The Southern Trust
+0,Ashley Clark
+0,Knowledge & Grants Manager
+0,The Libra Foundation
+0,Becky Benak
+0,Director of Grants & Operations
+0,Reach Health Foundation
+0,Required
+0,Your message has been launched! Someone will get back to you within two business days.
+0,Something went wrong while submitting the form. Please take another look at your entry before submitting again.
+0,Resources
+0,Subscribe
+0,Thank you for subscribing.
+0,Oops! Something went wrong while submitting the form. Please try again or contact .
+1,©2020 Grantbook, Inc. C/O Foundation House 2 St Clair Avenue East, Suite 300 Toronto, ON M4T 2T5
+0,As experts in grants management systems, we help you navigate tech tools grantmakers worldwide are embracing to increase efficiency, effectiveness, empathy, and impact.
+0,Ensure your chosen systems best activate your mission, capture your grantmaking practices, and unlock the highest potential for your people and processes.
+0,Unlock your technology’s full potential by better integrating your systems, upskilling your team, or accessing on-demand support to quickly crunch through tickets and bugs.
+0,In a recent webinar, we partnered with Fluxx to explore how funders can employ rapid-response grantmaking tactics, with a case study from The Surdna Foundation.
+0,Tips and best practices for using APIs and Middleware to connect to data from your Grants Management System, automate or improve processes, and improve reporting practices.
+0,Our Approach ⟶
+0,more Good ⟶
+0,hey@grantbook.org
+0,better
+0,We'll get you there.
+0,We are devoted to the philanthropic sector.
+0,Your needs come before brand names.
+0,We apply design thinking for better problem-solving.
+0,We're always learning and excited to share what we learn.
+0,First Name
+0,*
+0,Last Name
+0,Email
+0,Organization
+0,How did you hear about us?
+0,Message
+0,Email Address
+0,About Grantbook | Tech Consulting Devoted to Philanthropy
+0,Grantbook is a technology consulting firm for grantmaking organizations.
+0,about US
+0,Our "Why" is to catalyze your "Why"
+0,Social purpose is part of our DNA.
+0,Our People
+0,Meet Our People →
+0,.
+0,Our team of consultants bring a unique combination of technical savvy, passion for social impact, and deep knowledge of trends in the philanthropic sector to all their work.
+0,Grantbook approach
+0,Philanthropy tech
+0,exclusively
+0,Empowering changemakers like you to activate even more good in the world
+0,Here to impact your impact: allies in your digital transformation
+0,COVID 19
+0,COVID-19: Business as (Un)Usual ‍
+0,Let's get through this together!
+0,Pro Bono Coaching and Advisory
+0,Grantbook's Response Resources
+0,See you online...
+0,Response Framework
+0,Philanthropy in Timescales
+0,Grantbook Bytes — Podcast
+0,Collaborations and Convenings: How Philanthropy is Stepping Up
+0,Your message has been launched! Someone will get back to you as soon as possible.
+0,Almost any response in these unprecedented times has a short shelf life. So, we’re launching this page, and will be updating it frequently.
+0,We’re also actively tracking signals and trends in the sector, and will continue to curate and share responses and resources.
+0,Nikki Barrett, Managing Director, and the entire Grantbook team
+0,Reach Out ⟶
+0,a response framework
+0,philanthropy in timescales
+0,can listen online
+0,A COVID-19 Statement from CFC, PFC, EFC, and The Circle on supporting grantees
+0,A Call to Action: Philanthropy's Commitment During COVID-19
+0,In a Moment of Crisis, Philanthropy is Showing It's Unique Value
+0,Philanthropic Resources for COVID-19 Response
+0,Coronavirus heightens the importance of being a transparent and flexible foundation
+0,is
+0,Select one...
+0,1-10 Staff
+0,11-50 Staff
+0,51-100 Staff
+0,100+ Staff
+0,Role/Title
+0,Organization Size
+0,What can we help you with?
+0,Our People at Grantbook
+0,Meet our whipsmart, down-to-earth team of thinkers and tinker-ers.
+0,StrateGY TEAM
+0,Board of Directors
+0,Aisling Nolan
+0,Annie Xiong
+0,Anthony Maher
+0,Catherine You
+0,Jamie Fawcett
+0,Jennifer Toh
+0,Joshua Fang
+0,Justin Carter
+0,Kenny Li
+0,Mohamed Huque
+0,Mukunda Murali
+0,Parisa Farukh
+0,Rhea Vaz
+0,Sara Saddington
+0,Stephanie Sernoskie
+0,Tierney Smith
+0,James Law
+0,Melanie Wood
+0,Nikki Barrett
+0,Rob Fishbook
+0,Peter Deitz: Co-Founder & Board Chair
+0,Michelle Moore
+0,Rehana Nathoo
+0,Tim Hurson
+0,Heather Crosbie
+0,Celine Takatsuno
+0,Service Design Lead
+0,Systems Design & Fluxx
+0,SaaS & Systems Integration
+0,Business Analysis & M&E
+0,Data Architecture
+0,Business Analysis
+0,Requirements Analysis & Training
+0,Data Analysis & Salesforce
+0,Fluxx Expert, Support Lead
+0,Partnerships Lead
+0,Implementation Testing
+0,Implementation & Smartsimple Expert
+0,Content Lead
+0,Administration, Finance, Logistics
+0,Change Management
+0,Director, Business Development & Innovation
+0,Director, Client Services
+0,Managing Director
+0,Director, Operations & Finance
+0,UnWrapIt
+0,mindequity.ca
+0,digitalminimalism.ca
+0,Spectrum Impact
+0,ventureLAB
+0,Approach | Grantbook
+0,Don't believe us? Believe our work.
+0,Sector-Specific
+0,Vendor-Agnostic
+0,Human-Centred
+0,Future-Focussed
+0,HUMAN-CENTRED SOLUTIONS ARE:
+0,Learn more about our services and the clients we've worked with.
+0,Services
+0,Join Us at Grantbook
+0,We Believe
+0,Join Our Team
+0,Current Positions
+0,We strive to create an open, honest and caring environment that fosters creativity, experimentation, and success.
+0,Our Culture
+0,Core Values
+0,Benefits & Perks
+0,How We Hire
+0,Empathy
+0,Accountability
+0,Candour
+0,Daring
+0,Benefits
+0,4 Weeks' Vacation
+0,Profit Sharing
+0,PD Fund
+0,Active Living Credit
+0,Flexible Work
+0,Volunteer Time
+0,B. Y. O. D.
+0,ESOP
+0,Change & Risk Management
+0,LEARN MORE→
+0,VIEW OPENINGS →
+0,As a growing social enterprise, we're always on the lookout for fresh new faces.
+0,Each employee receives a comprehensive benefits package, which provides both stability and flexibility to meet you and your loved ones’ needs.
+0,For full-time employee, regardless of your position.
+0,Grantbook commits every year to an employee profit-sharing bonus pool that is split equally among all employees regardless of position.
+0,Never stop learning—build your own professional development plan, and draw from a dedicated fund to make it happen.
+0,Need to work from home from time to time? Required to be closer to home? Grantbook supports flexible work to meet the needs of the modern household.
+0,If you volunteer at least 50 hours of your time with charities or nonprofits, we'll give you an extra day off.
+0,We have a Bring Your Own Device policy, where Grantbookers use their own computers. We offer a stipend towards your preferred device.
+0,Employees can buy shares of Grantbook under the Employee Share Ownership Plan (ESOP) after one year of employment.
+0,Whole selves are welcome at work
+0,Emotional literacy to understand other perspectives
+0,Shared sense of ownership of our work
+0,Invest time for relationship-building
+0,Both trustworthy and trusting
+0,Proactive and adaptive to change
+0,Autonomous but accountable
+0,Anticipate long-term needs and trade-offs
+0,Open-door policy: anyone should be able to talk to anyone
+0,Be self-aware, because honesty starts with the self
+0,Have frank conversations when something isn't working
+0,Transparency empowers our work and cooperation
+0,Employ agile methodology and scrum to boost efficiency
+0,Choose experimentation and learning over obsolescence
+0,Innovate for long-term resiliency
+0,Take strategic risks when necessary
+0,We strive to create an environment where team members can thrive.
+0,As a fast-growing social enterprise, we're often on the look for fresh new faces.
+0,Here are some of the benefits and other perks that Grantbook provides our team, as part of our total compensation package.
+0,hiring@grantbook.org
+0,signing up for our newsletter
+0,Get the inside scoop on our hiring process over on our blog.
+0,every
+0,33% of net revenue
+0,.map img {      max-width: none;   }
+0,Contact Grantbook
+0,By Phone
+0,(647) 775-8150
+0,Prefer human voices?
+0,Questions? Curious?
+0,Get in touch at hey@grantbook.org (647) 775-8150
+0,Indicates a required field.
+0,Oops! Something went wrong while submitting the form.
+0,Feel free to give us a call Monday - Friday 9:30 am - 5:30 pm
+0,book a conversation
+0,Grantmaker
+0,Affiliate Group
+0,Software Vendor
+0,Advisory Service Firm
+0,Other
+0,Name
+0,Role / Job Title
+0,MY ORGANIZATION IS A(N)...
+0,document.documentElement.className = document.documentElement.className.replace('no-js', 'js');wNavidStandard='530803530803';wProjectPath='/sieda-de';
+0,/*<![CDATA[*//*]]>*/
+0,Software für Ihre Personaleinsatzplanung | SIEDA GmbH
+0,Vereinfachen und beschleunigen Sie Ihre Personaleinsatzplanung mit SIEDA
+0,Software - Service - Effektivität - Das sagen unsere Kunden:
+0,Online Kundenportal - Ihre 24-h-Serviceplattform
+0,Produkte
+0,Branchen
+0,Unternehmen
+0,Support & Service
+0,Info & Kontakt
+0,Besuchen Sie uns:
+0,Volltextsuche:
+0,Navigation
+0,CONTENT:START CONTENT:STOP
+0,1
+0,OC:Planner - Personaleinsatzplanung
+0,2
+0,OC:Planner Managed Service
+0,3
+0,biduum – Der Online Dienstplan
+0,Die Software für die Personaleinsatzplanung der SIEDA kann einfach alles - außer Kaffee kochen. Es ist das Nummer 1 Tool für den öffentlichen Dienst
+0,- Pierre Matz, Stellvertretung Dienstplanung, JAA-Berlin Brandenburg
+0,- Stefan Reddemann, Feuerwehr Paderborn
+0,Top-Erneuerungen der Softwarelösung werden beständig umgesetzt und führen zu auffälligen Erleichterungen in der täglichen Dienstplanung.
+0,- Katrin Jung, Pflegedirektion, Klinikum Coburg
+0,25.06.2020
+0,23.06.2020
+0,Dienstplanung und Arbeitszeitmanagement in einer Software
+0,Nützliche Erweiterungen wie Zeiterfassung OC:Time (PZE, Zeitwirtschaft) und Mitarbeiterportal OC:MyPlan (ESS)
+0,Mehr als 800 Kunden mit teilweise mehreren Tausend Mitarbeitern
+0,Die leistungsfähigste Dienstplanung aus der Cloud (SaaS)
+0,Kostengünstige und flexible Mietsoftware
+0,Sie nutzen unsere Software, wir kümmern uns um den Betrieb
+0,Modernes und sicheres Rechenzentrum in Deutschland
+0,Alles in einer Software: Dienstplanung, Urlaubsplanung und Zeiterfassung
+0,Jederzeit verfügbar und von jedem Endgerät überall abrufbar
+0,Einfache Bedienung ohne Installation und aufwändige Schulung
+0,60 Tage lang gratis testen!
+0,Unsere Kunden verwalten mehr als 250.000 Mitarbeiter mit der modernen SIEDA Dienstplan Software. Vor Ort installiert mit , in der Cloud mit und mit , dem Online Dienstplan.
+0,© 2020 . Alle Rechte vorbehalten.
+0,|
+0,+49-631-363015-0
+0,nf d c m
+0,Datenschutz
+0,Impressum
+0,biduum - der Online Dienstplan
+0,OC:Planner Managed Service (SaaS)
+0,Kunden & Branchen
+0,Kliniken
+0,Rettungsdienst
+0,Feuerwehr
+0,Sozialwesen
+0,Außerklinische Intensivpflege
+0,Abwesenheitsquote-Rechner
+0,Blog
+0,Lexikon
+0,OC:Planner
+0,biduum
+0,Jugendarrestanstalt: Pierre Matz
+0,Feuerwehr Paderborn: Stefan Reddemann
+0,Klinikum Coburg: Katrin Jung
+0,PpUGV-Meldungen per Knopfdruck erstellen: Die ORBIS Belegungsdatenschnittstelle
+0,Willkommen bei SIEDAconnect, unserer großen Online-Veranstaltung!
+0,Auch 2019 war ein sehr erfolgreiches Geschäftsjahr für die SIEDA GmbH
+0,4
+0,5
+0,SIEDA Systemhaus für intelligente EDV-Anwendungen GmbH
+0,mehr unter DATENSCHUTZ
+0,de
+0,Deutsch
+0,en
+0,Englisch
+0,SIEDA GmbH
+0,Ansprechpartner
+0,Karriere
+0,Partner
+0,Anreise
+0,SIEDAconnect
+0,Webinare
+0,Service-Team
+0,Kundenportal
+0,Lösungen
+0,Referenzen
+0,News
+0,>
+0,Kunden-Serviceportal
+0,Anwenderkonferenz
+0,<link rel="stylesheet" type="text/css" href="/sieda-wGlobal/wGlobal/layout/styles/optimized/design_394d7533123cdcd80ac99f342db54ee1.css?1594033734"/>
+0,Suchen
+0,AKZEPTIEREN
+0,VERWEIGERN
+0,$(function(){  window.setInterval(function(){    {$(".gallery-reel-control:nth-of-type(2) .gallery-reel-control-btn")    [0].click()}      }, 4000);});
+0,SQUARESPACE_ROLLUPS = {};
+0,Static.COOKIE_BANNER_CAPABLE = true;
+0,try{Typekit.load();}catch(e){}
+0,(function() {if(window.ImageLoader) { window.ImageLoader.bootstrap({}, document); }})();
+0,Raxis - Penetration Testing -  Atlanta, GA
+0,(Mobile) Menu Navigation
+0,Collection Title   Carousel Nav
+0,Latest from our Blog
+0,The Raxis Difference:
+0,Background
+0,Social  Title and nav wrapper   Actions   Burger
+0,Nav   Title
+0,Menu Navigation
+0,Gallery Reel
+0,svg
+0,End .summary-item-list-container
+0,End .summary-item-list
+0,Thumbnail    End .summary-content
+0,Products: Quick View
+0,Main Image
+0,Metadata (Above Title)   Title   Metadata (Below Title)   Excerpt   Read More Link   Metadata (Below Content)
+0,Timestamp
+0,Metadata (Above Title)   Title   Metadata (Below Title)   Read More Link   Metadata (Below Content)
+0,Years of penetration testing and general mischief-making have taught us that there’s always a way in. We’ll find it — and help you keep the bad guys out.
+0,Test all of your defenses against some of the most innovative security professionals in the business. Use that knowledge to strengthen your weak points.
+0,Red Team Assessment
+0,Penetration Testing
+0,Social Engineering
+0,Physical Security Assessment
+0,Application Penetration Testing
+0,Web and API Penetration Testing
+0,Enterprise CIS 20 Analysis
+0,﻿Security Framework Analysis
+0,– Fortune 500 Healthcare Company
+0,Understand the real-world threats your company faces then train your team to find and defeat them.
+0,Vulnerability Assessment
+0,﻿Tabletop Exercises
+0,Dark Web Monitoring
+0,Security Awareness Training
+0,Secure Configuration Reviews
+0,Secure Code Reviews
+0,Security Policy Reviews
+0,Continuous Vulnerability Monitoring
+0,Blue Team Advisory Service
+0,According to the Ponemon Institute, the average total cost of a data breach is
+0,Raxis finds security gaps helps you fix them. (The bad guys do one of those.)
+0,Custom solutions developed for your unique security needs.
+0,Incident Response
+0,Purple Team Service
+0,Pre-Acquisition Security Assessment
+0,Embedded Device Penetration Testing
+0,Raxis CTO Brian Tant explains least privilege access and why it is essential to corporate cybersecurity.
+0,Raxis gets a new look as we head to the next level!
+0,Join Raxis in celebrating National Cybersecurity Awareness Month (NCSAM).
+1,©2020 Raxis LLC.  2870 Peachtree Road, Suite #915-8924, Atlanta, GA 30305
+0,Solutions
+0,Summary
+0,Attack and Assess
+0,Prepare and Predict
+0,Specialized Services
+0,All Services
+0,About
+0,Careers
+0,Blog
+0,Contact Us
+0,Discover How
+0,Learn more
+0,What is Least Privilege Access?
+0,Read More →
+0,3 Steps You Should Take Right Now to Reduce Your Risk of a Cyberattack
+0,Here’s How Hackers Can Get Through Your Doors and Onto Your Network
+0,Can This Simple Trick Outwit Your Smart Security?
+0,Windows 10 Vulnerability Highlights Need for Physical Security Testing
+0,New Branding Reflects Renewed Commitment to Your Security
+0,Pharma Breaches and the Terrifying Prospect of Data Manipulation
+0,Raxis Cares: When COVID-19 Comes, Creatives Pivot
+0,Notes From a Hacker: Yes, You Have to Use Your VPN – and Here’s Why
+0,Raxis Cares: Passing Along the Passion
+0,An Earth Day Message from Raxis
+0,Raxis COO Shares WFH Cybersecurity Tips on Columbus, Ohio’s Fox 28
+0,Remote Security Series:  Protect Your Network Health Like Your Own
+0,Remote Security Series:  Urgent Questions You’ll Face About VPN and Remote Access
+0,Remote Security Series: Review Remote Workforce Policies
+0,Remote Security Series: Stay ahead of the phishing attacks that follow COVID-19
+0,Celebrate National Cybersecurity Awareness Month Through Security
+0,Raxis Presents at the (ISC)² Atlanta Chapter Meeting
+0,Raxis' Scott Sailors on Atlanta's Fox 5 News
+0,Helping Nonprofits and Other Growing Businesses Understand Security Risks
+0,Bonnie featured in VoyageATL interview!
+0,Our COO, Bonnie Smyre, Featured on Fox 5 News!
+0,Top Five Actions NOT to Take When Your Pentest Results are High Risk
+0,Goodies for Hoodies: TCP Timestamps
+0,IKE VPNs Supporting Aggressive Mode
+0,Raxis API Tool
+0,Web Attacks: Insecure Transmission of Data
+0,Web Attacks: Clickjacking
+0,Tailgating & Other Physical SE - SOCIAL ENGINEERING [PART 3]
+0,Voice Phishing - Social Engineering[Part 2]
+0,Terms and Policies
+0,Jun 26, 2020
+0,Jun 22, 2020
+0,Jun 12, 2020
+0,Jun 5, 2020
+0,May 28, 2020
+0,May 21, 2020
+0,May 14, 2020
+0,May 8, 2020
+0,May 1, 2020
+0,Apr 24, 2020
+0,Apr 22, 2020
+0,Apr 14, 2020
+0,Apr 10, 2020
+0,Apr 3, 2020
+0,Mar 27, 2020
+0,Mar 20, 2020
+0,Oct 23, 2019
+0,Jul 29, 2019
+0,Jul 1, 2019
+0,Aug 27, 2018
+0,Aug 22, 2018
+0,Jul 11, 2018
+0,Jun 18, 2018
+0,Jun 4, 2018
+0,May 23, 2018
+0,May 4, 2018
+0,Apr 25, 2018
+0,Apr 19, 2018
+0,Apr 11, 2018
+0,Apr 4, 2018
+0,RAXIS ATTACKS. RAXIS PROTECTS.
+0,AND
+0,0
+0,Open Menu
+0,Close Menu
+0,Folder:
+0,Back
+0,Blog -Security Exploits & News
+0,$3.92 million
+0,About Us — Raxis — Atlanta, GA
+0,About Us
+0,Corporate cybersecurity, meet Raxis reality.
+0,Smart companies care about what happens when their cybersecurity protocols are tested in the real world.
+0,Gallery Strips
+0,Current Page:
+0,That’s why we exist.
+0,Contact Us — Raxis — Atlanta, GA
+0,Contact us
+0,Tell us more about you
+0,Raxis
+0,Let us know your questions, ideas, or needs, and we’ll get right back with you to discuss how Raxis can help.
+0,Thank you!  We will be in touch shortly.
+0,We’re proudly virtually positioned across the United States, but feel free to reach us at our Atlanta Virtual HQ.
+1,2870 Peachtree Road, Suite #915-8924 Atlanta, GA 30305
+0,Please email RFPs and quote requests to:
+0,infosec@raxis.com
+0,*
+0,First Name
+0,Last Name
+0,(###)
+0,###
+0,####
+0,Email
+0,Message
+0,Protect and Predict
+0,Other
+0,Name
+0,Phone
+0,Interested Solution(s)
+0,Remote Security Series:  Urgent Questions You’ll Face About VPN and Remote Access — Raxis — Atlanta, GA
+0,Written By
+0,—- ShareThis BEGIN -—   —- ShareThis END -—
+0,Previous
+0,Next
+0,If there’s even a speck of doubt, I strongly recommend putting data loss prevention (DLP) tools on the endpoints to ensure data isn't leaving the network unsecured.
+0,Raxis is always happy to discuss your unique circumstances and to offer options specific for your needs as well as your budget.
+0,Visit for more information.
+0,In the News
+0,Security Recommendations
+0,Scott Sailors
+0,https://raxis.com/contact
+0,COVID-19
+0,remote
+0,VPN
+0,WFH
+0,everyone
+0,but who didn’t know how to use the VPN to access files they need on a daily basis.
+0,Apr 3
+0,Do you have enough VPN licenses?
+0,Do you have enough bandwidth?
+0,Is split tunneling appropriate for your company?
+0,Are your users trained to use the VPN?
+0,Do they delete sensitive data from their computers when they are done?  Do they even know they should do this?
+0,Do you have a ‘shadow IT’ problem you didn’t know about?
+0,Is your VPN network being monitored or logged?
+0,How many concurrent connections are allowed per user?
+0,Are user endpoints encrypted and patched?
+0,Does your business continuity plan reflect the new reality?
+0,YLD default logo
+0,/*<![CDATA[*/window.pagePath="/";/*]]>*/
+0,.gatsby-resp-image-image{width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;color:transparent;}
+0,Software engineering & design consultancy in London | YLD
+0,Creating digital capabilities for you, that last beyond us.
+0,Our Work
+0,We're a software engineering and design consultancy, helping your team succeed by fostering a progressive culture of learning.
+0,Events we run
+0,K8s Connect London
+0,Our event types
+0,From the blog
+0,Our engineers have made     contributions to     open source projects
+0,Hire us
+0,Join us
+0,Find us
+0,Consultancy services we offer
+0,DAZN: live sports at scale
+0,Migrating The Economist platform
+0,Future-proofing Trainline
+0,DoctorLink: Setting up a Design System
+0,Kingfisher: support, scale, adapt
+0,Central Working: Changing how you work
+0,Some of the companies we've worked with
+0,Conferences
+0,Meet ups
+0,Workshops
+0,Bradley Four Years at YLD
+0,🏳️‍🌈 Pride Month: A look inside inclusion and diversity in the workplace
+0,All You Have To Do Is Be, And You’re Doing It Brilliantly
+0,London - HQ
+0,Lisbon
+0,Porto
+0,svg
+0,•  June 29
+0,•  June 24
+0,•  June 15
+0,Software engineering
+0,Digital product design
+0,Training programs
+0,Certification
+0,Pair programming
+0,Engineering Skills
+0,Development Tools
+0,JavaScript
+0,Community Support
+0,Open Deliverables
+0,DAZN
+0,The Economist
+0,Trainline
+0,DoctorLink
+0,Kingfisher
+0,Central Working
+0,We modernise both practices and software. Applying expertise in a range of programming languages and an inherent culture of innovation.
+0,We create with you, not for you. Guiding your product teams and company towards customer-focused, functional and beautiful product longevity.
+0,We enable you to adopt emerging technologies and grow powerful engineering teams with a strong focus on open source development.
+0,We embrace open-source technologies and advocate knowledge sharing, both digitally and in person.
+0,We pride ourselves on offering informative, inclusive and fun get-togethers for our ever growing tech community.
+0,Featured event
+0,Tuesday, February 04
+0,K8s Connect gathers Kubernetes experts to share experiences as well as those keen to learn about why and how to implement Kubernetes. Join us!
+0,Knowledge-packed talks from some of the communities best and brightest.
+0,Regular gatherings for both beginners and advanced tech enthusiasts.
+0,Offering crash courses and technical seesions to expand your digital skills.
+0,Bradley Stott
+0,Bradley Stott is our CCO here at YLD and is this week celebrating his four year anniversary. Today he is sharing with us some insight into…
+0,Ana Silva
+0,June is the most colourful month of the year. Pride Month occurs every June to honour the 1969 riots at New York City’s Stonewall, that were…
+0,Joe Schofield
+0,Stop. Breathe. Reflect. Men’s Health Week is upon us, and this year it’s more important than ever. So many of us are confined to our homes…
+0,We pride ourselves of being avid open source contributors. Do you think you can improve our code? Just go ahead.
+0,Got a project you need help with? Have training requirements? Reach out, we're always open for a chat.
+0,We're always looking for talented minds to join our ranks. Take a look at what positions we're currently hiring for.
+0,124 Aldersgate Street
+0,London
+0,EC1A 4JQ
+0,+44(0) 203 514 4678
+0,R. Ramalho Ortigão 8
+0,(3rd floor left)
+0,1070-230
+0,Rua Sá da Bandeira 819
+0,2º Left
+0,4000-438
+0,Engineering
+0,Design
+0,Training
+0,Our work
+0,Open Source
+0,Blog
+0,Events
+0,About Us
+0,Contact
+0,Home
+0,More of our work
+0,Node.js
+0,React.js
+0,Kubernetes
+0,React Native
+0,DevOps Culture
+0,UX & UI Design
+0,User Research
+0,Design Systems
+0,Data Analysis
+0,GraphQL
+0,Sign up
+0,View our events
+0,Read More...
+0,Read more
+0,Read our blog
+0,View our GitHub
+0,Get in touch
+0,Learn more
+0,hello@yld.io
+0,Cookies
+0,Privacy policy
+0,Data-retention policy
+0,Services
+0,Community
+0,About
+0,0
+0,/*<![CDATA[*/window.pagePath="/contact/";/*]]>*/
+0,Contact Us | YLD
+0,Artboard
+0,Get in touch or drop by, we're always open for a chat
+0,Talk to us directly
+0,Business inquiries
+0,CCO
+0,Join our team
+0,Technical Recruiter
+0,Hannah Goldie
+0,Marketing Manager
+0,Bradley oversees commercial strategy and client relationships at YLD.
+0,Ana oversees our talent acquisition ensuring that YLD has excellent people onboard by bringing the right talent to our growing team of expert engineers and designers.
+0,Hannah heads up marketing at YLD, supporting the company's growth by aligning business goals with our marketing strategy and brand values.
+0,commercial@yld.io
+0,talent@yld.io
+0,marketing@yld.io
+0,/*<![CDATA[*/window.pagePath="/privacy-policy/";/*]]>*/
+0,Privacy policy | YLD
+0,1. Privacy Statement
+0,2. Data Processing
+0,3. What information do we collect and why?
+0,4. Links to other websites
+0,5. Your rights
+0,1.3. All data protection issues should be addressed to our HR Manager at hr@yld.io
+0,2.1. In this Policy we use certain terms from the relevant data protection legislation;
+0,(a) “data subject” i.e. anyone who can be identified from personal data;
+0,(b) “controller/data controller” i.e. a business which holds personal data and decides how it should be processed;
+0,(c) “processor/data processor” i.e. a business which holds personal data on behalf of a controller and processes it in accordance with the controller’s instructions;
+0,(f) “processing” i.e. doing anything with personal data including collecting, using, storing, accessing, disclosing and destroying it.
+0,2.2. We will process your person data in accordance with the following principles
+0,(a) all personal data must be processed lawfully, fairly and in a transparent manner;
+0,(i) all personal data must be collected for one or more specified, explicit and legitimate purposes and not processed in a manner incompatible with those purposes;
+0,(b) all personal data shall be restricted to what is adequate, relevant and limited for those purposes;
+0,(c) all personal data shall be kept accurate and up to date (and reasonable steps must be taken to erase or rectify inaccurate personal data);
+0,(d) all personal data must be kept for no longer than is necessary for those purposes;
+0,2.3. We may collect, use and store your personal data, as described in this Policy, where necessary in order to:
+0,(b) exercise our legitimate business interests e.g. providing services to your business, issuing invoices, sending you updates and promotional information;
+0,(c) carry out other functions with your specific consent;
+0,(d) comply with our legal obligations e.g. combating money-laundering, fraud, crime.
+0,2.7. We will never sell your personal data or make it available to any third parties without your prior consent (which you are free to withhold) except where:
+0,(a) we use a processor, in which case we will ensure that the processor complies with this Policy and all relevant data protection legislation;
+0,(b) we are required to do so by law;
+0,3.2. If you contact us, we will keep a record of that contact including your contact details and any relevant account information.
+0,3.3. In addition to your access details, we will log details of your interactions with us including transactions you carry out through the Site.
+0,3.6. We will hold your personal data on our systems for as long as:
+0,(a) your account remains valid; and/or
+0,(b) any contracts you make with us are live; and/or
+0,(c) is necessary to comply with our legitimate business interests; and/or
+0,(d) is necessary to comply with our legal obligations; and/or
+0,(e) you have indicated you are happy for us to do so
+0,3.8. We will hold your data in accordance with our Data Retention Policy published on the Site.
+0,3.9. We may use your personal data:
+0,(a) to carry out our obligations arising from any contracts entered into between you and us;
+0,(b) to provide you with information, products or services that you request from us or which we feel may interest you, including changes and updates;
+0,(c) to ensure that the Site is presented in the most effective manner for you and for your computer;
+0,(d) in accordance with our legitimate business interests and legal obligations.
+0,4.2. Where we use third party service providers (as discussed in paragraph 3.7 above), further information and opt-out details can be found at:
+0,Hotjar
+0,Further details at
+0,Opt-out details at
+0,5.1. You have the following rights in respect of your personal data held by us.  Please send all requests in respect of these rights to our HR Manager:
+0,(a) to access your personal data;
+0,(b) to be provided with information about how your personal data is processed (this information is set out in this Policy);
+0,(c) to have your personal data corrected where necessary (please contact our HR Manager promptly should you become aware of any incorrect or out-of-date information);
+0,(d) to have your personal data erased in certain circumstances (please refer to the appropriate data protection legislation or consult the ICO for details);
+0,(e) to object to or restrict how your personal data is processed;
+0,(f) to have your personal data transferred to yourself or to another business.
+0,5.3. You have the right to take any complaints about how we process your personal data to the Information Commissioner:
+0,Information Commissioner’s OfficeWycliffe HouseWater LaneWilmslowCheshire SK9 5AF
+0,0303 123 1113.
+0,https://www.hotjar.com/legal/policies/privacy
+0,https://www.hotjar.com/legal/compliance/opt-out
+0,https://ico.org.uk/make-a-complaint/
+0,Localize.initialize({ key: '5Y4vjR6zsfAAh', rememberLanguage: true, autodetectlLanguage: false });
+0,hsjQuery = window['jQuery'];
+0,The all in one hospitality platform | Mews
+0,if (typeof hsVars !== 'undefined') { hsVars['language'] = 'en'; }
+0,linkedin2
+0,/.row   start navbar.js   End navbar.js
+0,#1 PMS for 2020
+0,Empower your team to elevate the guest experience
+0,More bookings and more revenue, more quickly
+0,Guest engagement taken to new heights
+0,Time to switch
+0,DRIVE
+0,ACQUIRE
+0,ENGAGE
+0,Magic Links
+0,Company
+0,Products
+0,Resources
+0,/.row
+0,“Mews is intuitive and user-friendly, dramatically reducing our training time and increasing team productivity.”
+0,“What instantly stood out to us about Mews was the attractiveness of the user interface.”
+0,“With targeted pre-arrival communications through Mews, we can make sure our guests are getting the crucial information they need before they arrive.”
+0,“We've been blown away by the fact that we can now reply to messages from wherever and whenever.”
+0,Deutsch
+0,English
+0,Español
+0,Français
+0,Italiano
+0,Nederlands
+0,Owner - The Shore House - Wildwood, NJ
+0,Resort Manager - Northern Lights Village - Saariselkä, Finland
+0,Head of Marketing - Lamington Group (room2 Southampton) - UK
+0,General Manager - Docklands Lodge - London, UK
+0,General Manager - Good Hotel - London, UK
+0,/.ba-socials
+0,Commander
+0,Distributor
+0,Navigator
+0,Operator
+0,Merchant
+0,Marketplace
+0,Blog
+0,Press
+0,Podcasts
+0,Events & webinars
+0,Implementations
+0,Refer & earn
+0,Community
+0,Cloud-based PMS
+0,Booking engine
+0,Housekeeping app
+0,Concierge app
+0,Reception kiosk
+0,Online check-in
+0,Online payment automation
+0,Custom API access and support
+0,Smart reporting
+0,Unlimited app integrations
+0,Pre-arrival guest messaging
+0,24/7 support
+0,Property management system
+0,Virtual concierge web app
+0,Self-service reception kiosk
+0,Fast and secure online payments
+0,Browse apps and integrations
+0,We've been voted the best Property Management System (PMS) for hotels and hostels at the by hoteliers and industry experts.
+0,We’re doing everything we can to help hoteliers overcome the profound impact of COVID-19.
+0,1,000+ of the world’s most successful hospitality businesses, big and small, trust Mews for growth.
+0,"We’re saving 10 hours a week of time that we previously spent on admin and back-office work!"
+0,Mews can offer you:
+0,Mews Systems Copyright© | #movetomews |
+0,Contact
+0,Log In
+0,Book a demo
+0,Product overview
+0,Pricing
+0,Customer stories
+0,Careers
+0,Search
+0,Support
+0,HotelTechAwards
+0,Get started
+0,Find out more
+0,Drive website conversions
+0,connect to the apps you love
+0,handle guest payments easily and securely
+0,simplifies direct communication with guests
+0,Contact us
+0,Help & support
+0,Commander login
+0,Share a review
+0,About us
+0,Status page
+0,Service level agreement
+0,Travel club
+0,Security
+0,Release notes
+0,Tutorial videos
+0,Partnerships
+0,Developers
+0,Mews presentation
+0,Privacy & Terms
+0,svg
+0,Grow your hospitality business through our powerful platform that includes a property management system, booking engine, reservation management software, and much more.
+0,,
+0,, and
+0,.
+0,Our personalized, agile platform uses web app and front desk software that
+0,and puts them in control.
+0,Kevin,
+0,André Henke Marques,
+0,Alexander Handley,
+0,Chris Carey,
+0,Liutauras Vaitkevicius,
+0,function intercomShow() {  setTimeout(function(){ Intercom('show'); }, 500);}window.onload = intercomShow;
+0,Contact Us | Mews
+0,We're here to help!
+0,Czech Republic
+0,Netherlands
+0,United Kingdom
+0,France
+0,Spain
+0,United States
+0,Australia
+0,Germany
+0,South Africa
+0,Get in touch
+0,Náměstí I. P. Pavlova 5, 120 00 Vinohrady
+0,Global Support:
+0,Office:
+1,Kleine-Gartmanplantsoen 21, 1017 RP Amsterdam
+0,Support:
+1,47-51 Great Suffolk Street, London SE1 0BS
+1,56 Rue de Ponthieu, 75008 Paris
+1,Carrer Mallorca 273, Entresuelo, 08008 Barcelona
+1,New York, 41 East 11th Street, New York, NY 10003
+0,Talk to Support
+0,Knowledge Base
+0,+420 228 883 580
+0,+420 228 883 549
+0,+31 85 225 0311
+0,+44 75 8873 6640
+0,+33 97 108 1977
+0,+34 51 898 9161
+0,+61 480 022 251
+0,+49 157 3598 5120
+0,+27 600 702 608
+0,About us | Mews
+0,Our story
+0,Our leaders
+0,Our investors
+0,Our vision
+0,Who we are
+0,Richard
+0,Matt
+0,Greg
+0,Jirka
+0,Leah
+0,Honza
+0,Scott
+0,Pavla
+0,Ready to grow your business?
+0,MEWS
+0,Founder
+0,CEO
+0,CCO
+0,CPO
+0,CMO
+0,CTO
+0,COO
+0,Head of Finance
+0,All the tools your need to market smarter and grow faster.
+0,Read about our journey
+0,A letter from the CEO
+0,Privacy | Mews
+0,Mews Privacy Policy
+0,Introduction
+0,Privacy Policy
+0,Data Security
+0,GDPR
+0,Contact our Data Protection Officer
+0,OVERVIEW
+0,MEWS RESPONSIBILITIES
+0,PROPERTY RECOMMENDATIONS
+0,STAY INFORMED
+0,end body
+0,end row-wrapper
+0,end row
+0,end widget-span
+0,end row-wrapper  end row-wrapper
+0,Click to join our marketing list (GDPR compliant) and receive the most up-to-date information about changes and new features.
+0,blog post
+0,here
+0,Read more
+0,CONTACT
+0,hljs.initHighlightingOnLoad();
+0,Brand New Box - Home Page
+0,Hi.
+0,you don't need to keep this, but it's cool for stats!
+0,You didn't set out to manage software.
+0,Work.
+0,The Team
+0,Notes
+0,A tool to prevent child abuse, now online.
+0,Ecommerce Platform for Artists
+0,County of Los Angeles
+0,Ashley Hutton
+0,Clay Beabout
+0,Isaac Janzen
+0,Joe Pickert
+0,Josh Fike
+0,Justin Schreiner
+0,Kai Widman
+0,Matt Kirkland
+0,Nathan Clark
+0,Will Carey
+0,BNB Mid Coast
+0,832 Pennsylvania Lawrence, KS 66044
+0,BNB West Coast
+1,501 W. Broadway, Suite 800 San Diego, CA 92101
+0,We're Brand New Box. We make for the web.
+0,But we did. We're a we work with clients like you to build new tech solutions. You've got unique business problems, and we can solve them.
+0,Need a big, powerful platform? Need a small, sharp tool?
+0,When our clients can't find an off-the-shelf tool that solves their problem, they call us. Odds are good we can help you, too.
+0,The proof's in the pudding. Here's a look at recent work, or you can see .
+0,A trusted tool to prevent child abuse, now online.
+0,Merchtable.com is an ecommerce and fulfillment platform for indie bands, artists, podcasters, and YouTube weirdos.
+0,How do you evaluate every square foot of County-owned real estate in Los Angeles?
+0,Need to see more? There's
+0,We're smart, friendly, and taller in person.
+0,Keep it light.
+0,Work
+0,Clients
+0,Get Started
+0,We're Hiring!
+0,digital products
+0,even more examples here
+0,PFS Online
+0,More merch. Less table.
+0,Strategic Asset Management
+0,more.
+0,Gregorian Chant Karaoke
+0,Discs and Disks
+0,Safe and Sound Calculator
+0,Analyzing Code at BNB
+0,Oh Canada
+0,OBS and Zoom on Mac
+0,BNB WFH
+0,Civil Software Engineering
+0,BNB Seattle Retreat
+0,2019 Final Fridays Recap
+0,Impact Report 2019
+0,Test Driven Development
+0,Data Frame of Mind
+0,Large Arrays in Rails
+0,Container Orchestration Choices
+0,Caching Docker volumes on macOS
+0,Remote Work from Switzerland
+0,Growing IRISes
+0,The Great Escape(s)
+0,Tech for Technical Assistance
+0,Enter Containers
+0,Our Parental Leave Pledge
+0,Welcome Clay!
+0,Early Tools of the Rails Developer
+0,Stacking those bricks
+0,Jazz Hands
+0,Brand New Box v. Jurassic Park
+0,Happy New Year
+0,2018
+0,Drawing Machines
+0,Hello Brock
+0,No place like dome
+0,Hardware Morning
+0,Do NOT Touch the Pipes
+0,From Dev to UX
+0,619 207 9476
+0,hello@brandnewbox.com
+0,@brandnewbox
+0,@brandnewboxHQ
+0,Company Info
+0,digital product studio:
+0,10Pines | Software Development Services - Argentina
+0,Services
+0,Clients
+0,About
+0,Experience
+0,Our Process
+0,Meet the team
+0,Do you want to work with us?
+0,Contact
+0,Creative Software Development
+0,We have done projects all around the world
+0,Who We Are ?
+0,What We Do?
+0,Full Life-cycle
+0,Dedicated Team
+0,Consulting
+0,Web Applications
+0,Corporate Tools
+0,Mobile Applications
+0,Our Work
+0,Hernan Wilkinson
+0,Jorge Silva
+0,Emilio Gutter
+0,Alejandra Alfonso
+0,Federico Zuppa
+0,Dario Garcia
+0,Nicolas Perez Santoro
+0,Nicolas Papagna Maldonado
+0,Nahuel Garbezza
+0,Gisela Decuzzi
+0,Igal Frid
+0,Lucas Giudice
+0,Pablo Alegre
+0,Victoria Palazesi
+0,Federico Grosso
+0,Julian Calvento
+0,Pablo Belaustegui
+0,Matias Fernandez
+0,Santiago Nodar
+0,Matias Melendi
+0,Martin Tabak
+0,Gabriela Iztueta
+0,Ariel Umansky
+0,Victoria Cabrera
+0,Angeles Tella Arena
+0,David Correa
+0,Gaston Caruso
+0,Agustin Garcia Smith
+0,Cristian Boccia
+0,Juan Fernandes
+0,David Kotlirevsky
+0,Lucas Traverso
+0,Gian Franco Fioriello
+0,Ayelén Macarena Garcia
+0,Daniel Lovero
+0,Nicolas Derecho
+0,Gustavo Crespi
+0,Marcos Alvarenga
+0,Sonia Stedile
+0,Maria Magdalena Mileto
+0,Ezequiel Nicolás Seidler
+0,Federico Ariel Romero
+0,Ornella Mara Bordino
+0,Carlos Perez
+0,Martin Gonzalez
+0,Erwin Debusschere
+0,Micaela Alonso
+0,Daniel Fau
+0,Nico Rainhart
+0,Joel Cámera
+0,Sergio Minutoli
+0,Lautaro García
+0,Ailen Muñoz
+0,Erik Gervas
+0,Lucas Wojciechow
+0,Agustín De Cunto
+0,Leandro Gomez Vidal
+0,Jessica Saavedra
+0,Facundo Javier Gelatti
+0,Emmanuel Schönfeld
+0,Ezequiel Alvarez
+0,Fernando Dodino
+0,Lucas Trinidad
+0,Maria Belen Amat
+0,Gaston Testay
+0,Luca Hazuca
+0,Javier Zolotarchuk
+0,Angel Yan
+0,Santiago Paredes
+0,Damian Pereira
+0,Federico Gustavo Martínez Fonseca
+0,Ornella Mosca
+0,Carolina Destuet
+0,Melisa Melendi
+0,Federico Del Mazo
+0,Martin Adrian Loguancio
+0,Guillermo Perez
+0,Lautaro Alonso Urtiaga
+0,Mauro Bosetti
+0,Ignacio Leonel Pugliese
+0,Mariano Baffetti
+0,“ The best way to predict the future is to invent it - Alan Kay ”
+0,Employee Schedulling
+0,Health Plans Marketplace
+0,Prepaid Credit Cards Platform
+0,Console for Nanosatellites
+0,Send Money Application
+0,Direct Market Access Module
+0,Materials Management Tool
+0,Mobile Benefits Guide
+0,Community of Practitioners
+0,Legal Files Management Portal
+0,Daily Sales Posting
+0,Invoice Approval Workflow
+0,Software Craftsman
+0,Agilist, Rubist and brewer
+0,Agilist, Javist, accountant and everything else
+0,Android Architect & Geek
+0,Developer, Philosopher
+0,Object Oriented dude, Musician
+0,Developer, Minimalist
+0,Software developer & Learner
+0,Software Developer and Poker Player
+0,Developer, Musician & Learner
+0,Software Developer and Retro Gamer
+0,Caring about 10Pines
+0,Developer
+0,Developer & musician
+0,Developer and father apprentice
+0,Developer & Mountaineer
+0,Developer & Gamer
+0,Software Developer & Team Leader Apprentice
+0,Thoughts developer
+0,Graphic Designer
+0,Attempt
+0,Developer & Student
+0,Developer, Student & Gamer
+0,Developer & Learner
+0,Admin. & Bad Writer
+0,Developer, Learner
+0,Team Player
+0,Student and programmer
+0,Developer & Puzzle solver
+0,Developer & Amateur Chef
+0,Developer, Musician & Student
+0,Knowledge's admirer
+0,Developer, musician, dreamer
+0,Cloud sherpa
+0,Developer, dancer & student
+0,Student & friendly neighbor
+0,Student, Programmer, (Future) "Engineer"
+0,Developer & Musician
+0,renaissance frontend designer & deveLover
+0,Student & Programmer
+0,Student, Teacher & Programmer
+0,Competent student, competitive gamer
+0,Random citizen
+0,Never-ending puzzle
+0,Developer, Learner & Engineer
+0,Designer & Ilustrator
+0,Software prophet, Haskell enthusiast.
+0,Foo, bar & person
+0,A growing tree
+0,Developer, student
+0,Gamer, Developer & Student.
+0,Student & Developer
+0,Developer, Student & Artist
+0,Developer & Lifelong learner
+0,Developer, Learner & Musician
+0,Engineer & Musician
+0,Software Developer and art lover
+0,Admin & Free Spirit
+0,Code Monkey
+0,Sourcerer
+0,Developer, Student and Gamer
+0,Developer & Game Master
+0,Servicio de desarrollo de sistemas de software a medida
+0,Content
+0,Fixed  Navbar
+0,/.nav-collapse
+0,Text data-animation
+0,Headings
+0,Content  <p class="page-title">We do what we love. We love what we do. </p>
+0,Headings    Content   Medium and Large layout   Small devices layout
+0,<i class="client-icon client-mercap" data-toggle="tooltip" title="" data-original-title="Mercap Software"></i>
+0,Headings      ==== Portfolio Filters ====   End portfolio filters
+0,Project thumb
+0,Project caption
+0,Headings   Content
+0,venite@10pines.com
+0,Headings    Contact info
+0,contact-box Form
+0,<a href="#" target="_blank"><i class="fa fa-google-plus icon-circle-background"></i></a>
+0,by ( ) / Desaturated from original
+0,testimonial
+0,Using techniques, we translate the product's vision into a workable release roadmap
+0,Our continuous planning strategy keeps the project aligned with business goals
+0,Backend, Java + Fix protocol
+0,We use open estimates giving complete transparency to the process
+0,We work in small iterations to amplify the learning during the project
+0,The client can follow the progress of the team on a daily basis
+0,At the end of each iteration we demo the features built so far, running and tested, giving visibility of the real status of the project
+0,The features of the product are allowed to evolve during the project as a result of the client and users being involved in its construction
+0,Quality and technical excellence enable us to keep the cost of change low
+0,We don't just write code. We craft your ideas
+0,10Pines is a Latin American software development company, based in Argentina, specializing in creating top quality solutions with cutting edge technology.
+0,Every project is unique. We have several engagement models that we've used repeatedly with great results. Want to talk about a tailored service? to discuss it.
+0,We also provide and in Agile Methodologies, Object Oriented Design, Test Driven Development and all development practices and techniques we use in our daily work. .
+0,You know your business better than anyone. Your insights, combined with our skills and      creativity, will result in a product that truly stands out.
+0,We can help you leverage all the power of the cloud and social networks while dealing with Web's main              challenges: usability, scalability, security, stability.
+0,Our clients range from startups to big corporations. Here are a few clients we've worked with so far.
+0,— Paul Pagel - CEO of 8thlight
+0,Work done by 10Pines is very good and                highly recommended. They delivered within committed timeframe and they managed to include all feedback from key users.
+0,— Pablo Campo - Project Manager at BurgerKing & Starbucks
+0,— Sebastián Blaustein - CTO of Puente
+0,I’ve personally been working with 10Pines on my second venture now and both times they’ve been critical to delivering an outstanding technical platform.
+0,— Volker Breuer - CEO of Payfriendz
+0,We've been delighted working with 10 Pines! The close collaboration and dedication of the developers make them a truly integral part of the Teespring tech team.
+0,— Evan Stites-Clayton - CTO of Teespring
+0,10Pines helped us launch a sophisticated and stable MVP within 3 weeks. They understood our needs and had a profound sense of ownership over the development process.
+0,— Mags Chilaev - Founder of Unlease.io
+0,— Virginia Clark - Director of Research and Methodology, Jacob's Ladder Neurodevelopmental School and Therapy Center
+0,— Adam Scroggin - Product Owner of CardBoard
+0,Take a look to some of the works we are proud of.
+0,Starbucks / BurgerKing
+0,Online Provider
+0,Payango
+0,Satellogic
+0,Payfriendz
+0,Puente
+0,Tenaris
+0,Commercial Bank
+0,The Palladium Group
+0,We have and Agile mindset: collaboration, transparency and continuous improvement are embedded in our culture, at all levels of the organization
+0,"Smalltalking the world"
+0,"Building software as a handmade cigar"
+0,"Entspann, keine Sorgen, hab ein Zuhause Brauen"
+0,"Agilist of the first hour"
+0,"Trying to find the best way to develop software"
+0,"Passion is the engine, Reason is the road and Will is the driver"
+0,"Care, and everything will follow from that"
+0,"Real devs don't use IF statements"
+0,"The music is not in the piano"
+0,"Learn something new today!"
+0,"Programming is like a game, think before do"
+0,"Just tryin' to keep it simple"
+0,"Keep going!"
+0,"Non, Rien de rien, Je ne regrette rien"
+0,"Always trying to learn something"
+0,"Think before you act"
+0,"The good from bad and the bad from good is that it ends"
+0,"Leave this world a little better than you found it"
+0,"Enjoy the little things"
+0,"Quality is an emerging property."
+0,"There's nothing you can do that can't be done"
+0,"What do you want to do tonight? - try to take over the world!"
+0,"Play the music, not the instrument"
+0,"Everything for love, with joy"
+0,"Can't you see the sky is not the limit no more?"
+0,"The hard lessons make the difference, and the difference makes it worth it"
+0,"Stay free"
+0,"We must be silent before we can listen"
+0,"Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better"
+0,"Surrender your ego be free, be free, to yourself."
+0,"It's a long way to the top if you wanna rock&roll."
+0,"Give me six hours to chop down a tree and I will spend the first four sharpening the axe."
+0,"Jai Guru Dev"
+0,"Everything happens for a reason"
+0,"For where your treasure is, there your heart will be also."
+0,"There are no bugs, just bad-sold features"
+0,"Your code reflects your ideas, dream big but keep it simple!"
+0,"The harder it gets, the funnier it is!"
+0,"A journey of a thousand miles begins with a single step"
+0,"A reader lives a thousand lives before he dies. The man who never reads lives only one."
+0,"Programming is the art of naming"
+0,"What is your north?"
+0,"Many small people, in small places, doing small things, can change the world"
+0,"Dance with me, let's pretend living in a satellite fantasy, waiting for the night to end"
+0,"Learning never exhausts the mind"
+0,"The network is reliable."
+0,"Someday we're gonna get to that place we wanna go, and we'll walk in the sun"
+0,"I get by with a little help from my tests"
+0,"Learn and build, build and learn"
+0,"Do not let the world change you. You can change the world"
+0,"In some ways, programming is like painting."
+0,"I am because we are"
+0,"The only thing that is constant is change"
+0,"Craft your path, time will do the rest"
+0,"Say it like Woah-See-A-Show"
+0,"Pass on what you have learned"
+0,"Do not take life too seriously. You will never get out of it alive"
+0,"I am endlessly creating myself"
+0,"A 70 year lifespan has over two billion seconds. That’s not enough time to waste on work I’m not proud of."
+0,"An artisan among craftsmen"
+0,"Programs must be written for people to read, and only incidentally for machines to execute."
+0,"I could write a lot here, but as every compiler I also have reserved words"
+0,"Sometimes I believe in as many as six impossible things before breakfast"
+0,"Don't underestimate your destiny. You never know whats around the corner."
+0,"Be the teammate you want to have."
+0,"Don't sell the sun to buy a candle."
+0,"Code is like a joke, if you have to explain it is not good"
+0,"The more you know, the more you realize you don't know"
+0,"You can always learn something."
+0,"Absorb what is useful, Discard what is not, Add what is uniquely your own."
+0,"You miss 100% of the shots you don't take"
+0,"I'm a dreamer but I'm not the only one"
+0,"Computer Science is no more about computers than astronomy is about telescopes."
+0,"If you feel it do it!"
+0,"Talk is cheap. Show me the code. ~ Linus"
+0,"A person ignorant of the possibility of failure can be a half-brick in the path of the bicycle of history"
+0,"Imagination is the real story of the world"
+0,"Do a barrel roll!"
+0,"There's always another secret"
+0,"If the world is gonna burn everyone should get a turn to light it up"
+0,"It's all about people"
+1,Av. Leandro N. Alem 896 6th floor (C1001AAB) Buenos Aires, Argentina
+0,+54 11 6091 3125
+0,<li><a href="#about">About</a></li>
+0,Home
+0,Process
+0,Team
+0,Work with us
+0,Training
+0,Blog
+0,Scroll down to learn more
+0,Contact us
+0,Learn more
+0,All Industries
+0,Banking & Finance
+0,FOOD & BEVERAGE
+0,Healthcare
+0,Aerospace
+0,Manufacturing
+0,Legal
+0,Meet all members
+0,We explain it here
+0,hello@10pines.com
+0,Long Exposure Puerto madero BA
+0,Roger Schultz
+0,CC BY
+0,product discovery
+0,Web application, Java + Flex
+0,Web application, Ruby on Rails
+0,Web Application + Backend, Ruby on Rails
+0,Web application, Smalltalk + Seaside
+0,Mobile + Backend, iOS + Ruby on Rails
+0,Mobile, Android
+0,Web application, Java + Liferay
+0,Our passion is to craft software for great businesses.
+0,training
+0,coaching
+0,We are ready for the next big challenge. Yours!
+0,Our priority is to satisfy our customers through early and continuous delivery of valuable software
+0,JOIN US, WE’RE HIRING!
+0,Would you like to know how we work?
+0,Send
+0,var BASE_URL = 'https://www.biomark.com/';    var require = {        "baseUrl": "https://www.biomark.com/pub/static/version1579284076/frontend/biomark/default/en_US"    };
+0,require.config({        map: {            '*': {                wysiwygAdapter: 'mage/adminhtml/wysiwyg/tiny_mce/tinymce4Adapter'            }        }    });
+0,Biomark -Specialists in Identification Solutions
+1,705 S. 8th Street Boise, Idaho 83702, USA +1 (208) 275-0011
+0,Biomark
+0,Specialists in Identification Solutions
+0,Delivering Statistically Robust Solutions
+0,Assuring Performance and Reliability to Every Customer
+0,What's New
+0,Assuring Performance for our Customers Who Rely on Real Results
+0,Contact
+0,Business Hours
+0,Social Media
+0,© 2020 Biomark, Inc. All rights reserved
+0,<div class="news-author ">By Julia Homaechevarria</div>      <div class="separator"> | </div>
+0,ko if: cookieMessages && cookieMessages.length > 0   /ko  ko if: messages().messages && messages().messages.length > 0   /ko
+0,ko template: getTemplate() /ko
+0,25.06.2020
+0,16.06.2020
+0,03.06.2020
+0,/
+0,|
+0,We are the world leader in fisheries and wildlife identification hardware, software and data services providing you with actionable animal intelligence.
+0,We apply quantitatively rigorous analyses to fisheries, wildlife, and aquatic ecosystems with a mission to positively impact conservation & restoration.
+0,We lead the way in innovation, installation and support in order to provide dependable data collection.
+0,Watch the recording of this webinar to learn about the Riverwatcher technology and how it is supporting conservation around the world.
+0,Monday - Friday 8 am to 5 pm MST
+0,Login
+0,Register
+0,Products
+0,Tags
+0,Readers
+0,Antennas
+0,Custom Systems
+0,Tissue Sampling
+0,Implanters & Needles
+0,Software & Drivers
+0,Accessories
+0,Scholarship Fund Apparel
+0,Technical Services
+0,Applied Biological Services
+0,What We Do
+0,Our Team
+0,Stories
+0,Featured Biomark Projects
+0,Featured Customer Projects
+0,News
+0,News Feed
+0,Events
+0,About Us
+0,Who we are
+0,Our History
+0,Careers
+0,Scholarship Fund
+0,Support
+0,Warranty | Returns | Repairs
+0,Reference Library
+0,Videos
+0,Technical Support
+0,FAQ
+0,Implanters
+0,Software
+0,Recording of High Speed Spillway PIT Tag Detection at Lower Granite Dam, Snake River Webinar
+0,Read more
+0,NEWS RELEASE: Biomark Launches Open-Access, Sea Turtle Tagging Database
+0,Recording of Riverwatcher: Reliable River Stock Management Webinar
+0,Contact Us
+0,Privacy & Terms Policy
+0,My Cart
+0,ko text: getCartParam('summary_count') /ko
+0,ko if: getCartParam('summary_count')  ko text: getCartParam('summary_count') /ko  ko i18n: 'items' /ko  /ko
+0,Search
+0,[email protected]
+0,fisheries, aquaculture and wildlife specific
+0,Contact Biomark, Specialists in Electronic Identification
+0,By completing and submitting this form you are agreeing to our
+0,Business Hours: Monday - Friday 8 am to 5 pm MST
+0,Home
+0,About Biomark, Who we are, why we love what we do
+0,Lead Staff
+0,Brian Beckley
+0,Heiden Bliss
+0,Scott Gary
+0,Steve Anglea
+0,Chris Beasley
+0,Dean Park
+0,Quentin Watson
+0,Elsa Macdonald
+0,President
+0,Director of Sales & Marketing
+0,Director of Operations
+0,Director of Technical Services
+0,Director of Applied Biological Services
+0,Special Projects Advisor
+0,Production Manager
+0,Marketing Manager
+0,Memorial Scholarship
+0,History
+0,Privacy Policy
+0,Terms of Use
+0,Collection of your Personal Information
+0,Use of your Personal Information
+0,Retention
+0,Use of Cookies
+0,Security of your Personal Information
+0,Changes to this Statement
+0,Contact Information
+0,Modification of These Terms of Use
+0,Links to Third Party Sites
+0,No Unlawful or Prohibited Use
+0,Use of Communication Services
+0,Materials Provided to Biomark or Posted at Any Biomark Website
+0,LIABILITY DISCLAIMER
+0,Termination/Access Restriction
+0,Copyright and Trademark Notices:
+0,Trademarks
+0,Notices and Procedure for Making Claims of Copyright Infringement
+0,Defame, abuse, harass, stalk, threaten or otherwise violate the legal rights (such as rights of privacy and publicity) of others.
+0,Publish, post, upload, distribute or disseminate any inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topic, name, material or information.
+0,Upload files that contain viruses, corrupted files, or any other similar software or programs that may damage the operation of another’s computer.
+0,Advertise or offer to sell or buy any goods or services for any business purpose, unless such Communication Service specifically allows such messages.
+0,Conduct or forward surveys, contests, pyramid schemes or chain letters.
+0,Download any file posted by another user of a Communication Service that you know, or reasonably should know, cannot be legally distributed in such manner.
+0,Restrict or inhibit any other user from using and enjoying the Communication Services.
+0,Violate any code of conduct or other guidelines which may be applicable for any particular Communication Service.
+0,Harvest or otherwise collect information about others, including e-mail addresses, without their consent.
+0,Violate any applicable laws or regulations.
+0,Biomark does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
+0,Biomark will retain your personal information for as long as is reasonably necessary for the purposes set out in this Statement of Privacy.
+0,EU Data Subjects
+0,This remaining section of this Statement of Privacy applies to data subjects based in the European Union.
+0,Biomark Inc is the controller for the purposes of this Statement of Privacy
+0,If you are aware of changes or inaccuracies in your personal information, you should inform us of such changes so that our records may be updated or corrected.
+0,You may lodge a complaint with your local supervisory authority if you consider that our processing of your personal information infringes applicable law.
+0,The Biomark Website is comprised of various Web pages operated by Biomark.
+0,SERVICE CONTACT :
+0,All contents of the Biomark Website are: Copyright © 2019 Biomark and/or its suppliers. All rights reserved.
+0,The names of actual companies and products mentioned herein may be the trademarks of their respective owners.
+0,Any rights not expressly granted herein are reserved.
+0,[if lt IE 9]>    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script><![endif]
+0,var PAGE_LOCALE = 'en_US';
+0,Bankable solar data for better decisions | Solargis
+0,Weather data and software for solar power investments
+0,Products and services
+0,Customers
+0,Pricing
+0,Documentation
+0,Resources
+0,About us
+0,Get Started
+0,Why Solargis?
+0,Our solutions
+0,Our customers
+0,Events
+0,News & updates
+0,Online data and apps
+0,Consultancy services
+0,Most reliable
+0,Most detailed
+0,Historical, recent and forecast data
+0,Global coverage
+0,Lightsource Renewable Energy
+0,Sunco
+0,RTR
+0,Sustainable Power Solutions
+0,Intersolar North America
+0,PVPMC Workshop
+0,EnerGaia
+0,Greenbyte Forum
+0,Solargis supporting Helioscope
+0,Further European solar records to follow in 2020
+0,Letter from Marcel Suri
+0,3-year North American irradiance shortfall underscores need for accurate solar data
+0,Reduce risks and maximise profitability of your solar energy assets
+0,Trusted by thousands of companies worldwide. We are a team of top experts and scientists. Our mission is to help solar companies succeed.
+0,Multiple independent studies have found Solargis to be the most reliable solar database
+0,Spatial resolution of 250 m and sub-hourly temporal resolution better represent typical and extreme weather and improve accuracy
+0,Solutions available for all solar energy assessment needs: from prospecting to effective operation
+0,Solargis data and services are available for any location between latitudes 60N and 50S
+0,Solargis has been optimised to cover each use case, from prospecting to forecasting
+0,Screen and benchmark project opportunities
+0,Make detailed assessment of power production for planned and operational solar power plants
+0,Monitor performance of operational projects on a regular basis
+0,Forecast solar power production for optimized asset management
+0,Trusted by 1000+ organisations in 100+ countries
+0,Apps
+0,Prospect
+0,Imaps
+0,PvPlanner
+0,ClimData
+0,PVSpot
+0,English
+0,Español
+0,简体中文
+0,Products
+0,Overview
+0,Evaluate (Time Series / TMY)
+0,Monitor
+0,Forecast
+0,API
+0,Solar resource assessment study
+0,PV energy yield assessment study
+0,PV performance assessment study
+0,Quality control of solar radiation measurements
+0,Site-adaptation of Solargis data
+0,Regional solar energy potential study
+0,PV variability and grid integration study
+0,Government and energy strategy
+0,Project developer
+0,Technical consultant
+0,EPC and O&M
+0,Asset manager
+0,Grid manager
+0,Software developer
+0,Academia & research
+0,Products & Plans
+0,Bundle plans
+0,Getting started
+0,Methodology
+0,Accuracy and comparisons
+0,Orders and payments
+0,Product guides
+0,Integrations
+0,Free maps and GIS data
+0,Project References
+0,Publications
+0,Blog
+0,Product roadmap
+0,About
+0,Why Solargis
+0,Partners
+0,Quality policy
+0,Jobs
+0,Media Assets
+0,Contact us
+0,Close
+0,See more reasons for choosing Solargis
+0,Read more
+0,Case Study
+0,Show all Events
+0,Show all News
+0,Call us at +421 243 191 708
+0,Legal information
+0,Newsletter
+0,Toggle navigation
+0,×
+0,Evaluate
+0,Feb 04 - Feb 06, 2020
+0,San Diego, USA
+0,Dec 08 - Dec 13, 2019
+0,Kunshan, China
+0,Dec 11 - Dec 12, 2019
+0,Montpellier, France
+0,Nov 26 - Nov 27, 2019
+0,Gothenburg, Sweden
+0,Jun 25, 2020
+0,May 12, 2020
+0,Apr 02, 2020
+0,Mar 02, 2020
+0,© 2020 Solargis. All rights reserved
+0,About us | Solargis
+0,About Solargis
+0,Data and software architects for bankable solar investments
+0,Founders
+0,Sales
+0,We are a member of
+0,Marcel Suri
+0,Tomas Cebecauer
+0,Harsh Goenka
+0,Daniel Ranusa
+0,Michal Strba
+0,Ismet Veziroglu
+0,Branislav Erdelyi
+0,Shihying Lin
+0,Peter Hanustiak
+0,Managing Director
+0,Chief Technical Officer
+0,Business Development
+0,Marketing
+0,Join our team
+0,Visit webpage
+0,fast access to historical, recent, and forecast data for almost any location on the Earth.
+0,uncertainties.
+0,Hundreds of customers worldwide use our photovoltaic software applications and web-based solutions to optimise construction, evaluation and management of solar power assets.
+0,Supply the most accurate and reliable solar data in the market
+0,Simplify the process of energy assessment
+0,Enable solar investors to maximise profitability
+0,Create transparency and reduce risk throughout the project lifecycle
+0,Our mission is to:
+0,var PAGE_LOCALE = 'es_ES';
+0,Sobre nosotros | Solargis
+0,Sobre Solargis
+0,Productos y servicios
+0,Clientes
+0,Precios ES
+0,Documentación
+0,Precios
+0,Recursos
+0,Sobre nosotros
+0,Nuestra misión
+0,Nuestro equipo
+0,Aprenda más acerca de nosotros
+0,Datos y aplicaciones online
+0,Servicios de consultoría
+0,Próximos eventos
+0,Conózcanos en eventos de energía solar en todo el mundo, concierte una cita con nosotros
+0,Productos
+0,Resumen
+0,Datos de series históricas y TMY
+0,pvSpot
+0,Estudio de evaluación de recurso solar
+0,Estudio de evaluación de la producción de energía fotovoltaica
+0,Estudio de evaluación del rendimiento fotovoltaico
+0,Control de calidad de las mediciones de radiación solar
+0,Adaptación al sitio de los datos de Solargis
+0,Estudio regional del potencial de energía solar
+0,Estudio de variabilidad e integración de energía fotovoltaica en la red eléctrica
+0,Gobiernos y estrategia energética
+0,Desarrolladores de proyectos
+0,Asesores técnicos
+0,EPC y O&M
+0,Gestores de activos
+0,Operadores de red
+0,Proveedores de software
+0,Universidades e investigación
+0,Purchase & account
+0,Mapas gratis y datos GIS
+0,Referencias de proyectos
+0,Notas sobre actualizaciones
+0,Publicaciones
+0,¿Por qué Solargis?
+0,Política de calidad
+0,Carreras
+0,Eventos
+0,Materiales para medios
+0,Contacto
+0,Únete a nuestro equipo
+0,Leer más
+0,Llámenos +421 243 191 708
+0,© 2020 Solargis. Todos los derechos reservados
+0,var PAGE_LOCALE = 'zh_CN';
+0,关于我们 | Solargis
+0,关于我们
+0,产品和服务
+0,解决方案
+0,价格
+0,文档
+0,资源
+0,我们帮助太阳能行业更好地管理相关气象风险
+0,我们的使命
+0,我们的团队
+0,更多关于我们的信息
+0,在线数据和应用程序
+0,咨询服务
+0,未来活动
+0,在世界各地的太阳能展会中与我们会面
+0,产品
+0,概观
+0,历史时间序列和TMY数据
+0,预报
+0,太阳能资源评估研究
+0,光伏电站建造前评估研究
+0,光伏电站的性能评估研究
+0,太阳辐射量监测值的质量管理
+0,Solargis数据的地面校准
+0,政府及能源战略机构
+0,项目开发者
+0,技术咨询公司
+0,系统工程和运维商
+0,资产管理师
+0,电网管理
+0,软件开发
+0,数据产品
+0,产品组合
+0,方法
+0,准确性和比较
+0,产品指南
+0,集成
+0,免费地图和GIS数据
+0,参与项目
+0,博客
+0,为什么选择Solargis
+0,合作伙伴
+0,质量政策
+0,展会活动
+0,联系我们
+0,阅读更多
+0,法律信息
+0,通讯
+0,目前，全球数以百计的用户都在使用我们的光伏软件应用和网络解决方案，以便优化电站建设、评估和太阳能资产管理。
+0,我们致力于建立简单化、可靠化、标准化、透明化的太阳能评估体系，帮助太阳能产业在能源市场上更高效、更具竞争力。
+0,© 2020 Solargis 版权所有
+0,Why Solargis | Solargis
+0,The key benefits of choosing Solargis are increased efficiency and productivity in solar energy assessment while significantly reducing the weather-related risks.
+0,Why choose us?
+0,Need more reasons?
+0,Accurate solar resource data
+0,Ready to get started with Solargis?
+0,Some companies that trust our work
+0,Support from planning to operation
+0,High level of detail for improved energy modelling
+0,Extensively validated
+0,Longterm experience
+0,Independent and transparent
+0,We integrate
+0,Gap-free data
+0,Solargis data has the best accuracy and reliability amongst available solar databases. This has been confirmed by several independent studies.
+0,Our team has 16 years of experience in solar resource assessment and PV energy modeling
+0,No matter where your project is located, you can rely on Solargis
+0,Our data is independent and can be varified by anyone anywhere. Our methodologies are published
+0,Leading simulation software providers not only support Solargis data but also recommend use of Solargis
+0,The occasional gaps in the satellite data flow we fill by intelligent algorithms. These data values are flagged.
+0,See comparison
+0,See validation details
+0,Try Solargis
+0,Partners | Solargis
+0,India
+0,To provide added value to our customers, we partner with various companies that complement our products and services
+0,Regional partners
+0,Integration partners
+0,Meteorological measurements service providers
+0,Become a Solargis partner
+0,Partner for Southern Africa
+0,Partner for China
+0,Partner for Guatemala and Colombia
+0,Partner for South Korea
+0,Solargis satellite-based data can be seamlessly integrated with following leading monitoring and performance modeling systems.
+0,Office: South Africa;  Operations: Africa, Oceania
+0,Offices: Germany (HQ) and Spain;Operations: Global
+0,Offices: USA and Mexico; Operations: Americas
+0,Offices: Germany (HQ), Spain and South Africa; Operations: Global
+0,Visit website
+0,Quality policy | Solargis
+0,The company provides professional services that meet individual customer needs, while its parameters satisfy the market demands and standards
+0,Great emphasis is placed on communication with customers to build a reliable and stable long-term partnership
+0,Management is committed to create conditions for implementation and continuous improvement of quality management
+0,We create conditions that promote quality performance of the functions and activities in the company by the appropriate choice of personnel
+0,The aim of the company is to create a highly motivational environment
+0,Provision of good working environment and conditions for all staff to achieve the best performance
+0,To achieve long-term strategy of the company we have established the following principles of quality policy:
+0,View full-text certificate
+0,Official document on Quality Management System
+0,pdf, 1.2 MB
+0,pdf, 534 KB
+0,Jobs | Solargis
+0,Join the Solargis team
+0,Life at Solargis
+0,Open positions
+0,Get in touch with us
+0,Work-life balance
+0,Competitive pay
+0,Opportunities for personal development
+0,Team events
+0,International work environment
+0,Feel-good about your work
+0,Full Stack Developer
+0,Frontend Developer with focus on 3D graphics
+0,Full-time, Bratislava
+0,We offer flexible working hours and possibility for occasional home-office.
+0,We offer competitive salaries and performance based bonuses
+0,We offer personal growth opportunities by enabling participation at conferences, workshops, projects and courses.
+0,We enjoy a wide variety of team activities with our colleagues.
+0,Our team comprises of 6 nationalities who speak several languages. We have customers from all over the world.
+0,Our services contribute the move towards a cleaner and sustainable world
+0,Learn more
+0,Job Application Policy
+0,Send Email
+0,Consent:
+0,Events | Solargis
+0,Upcoming Events
+0,If you would like to , . Please, shortly introduce the topic and preferred date and time of an appointment.
+0,Past Events
+0,arrange a personal meeting
+0,contact us
+0,Media Assets | Solargis
+0,Company brochure
+0,Company Logo
+0,Map Leaflets
+0,Project Leaflets
+0,Solargis logo is provided to download in a few formats and sizes. If you have other special requirement, please, contact us.
+0,The first global map showing the potential electricity generation from a typical utility-scale PV power plant
+0,Published for various events with a focus on concentrated solar power
+0,Published for SNEC 2019 in Shanghai, China
+0,Published for: CSP Focus 2019 in Beijing
+0,Published for: Korea Energy Show, 03 - 05 Sep 2019, Seoul, South Korea
+0,Published for: EU Gateway Japan, 23 - 27 Sep 2019, Osaka, Japan
+0,Published for MIREC Week 2019 in Mexico City
+0,Published for Intersolar South America 2019, Sao Paulo, Brazil
+0,Published for Intersolar Europe 2019 in Munich
+0,Published for: Solar Future France 2019 in Paris
+0,Published for Renwex 2019 event in Moscow.
+0,Published for: Renpower Kazakhstan 2018 in Astana
+0,Published for: Solar Ukraine 2019 in Kiev
+0,Published for: MENA New Energy 2019 in Dubai and  Solarex 2019 in Istanbul
+0,Published for: Solar Power Expo Vietnam, 25 - 26 Sep 2019, Hanoi, Vietnam
+0,Published for: All-Energy Australia 2019, Melbourne
+0,Published for: Solar Power International 2018 in Anaheim, USA
+0,Published for El Futuro Solar Argentina 2018 in Buenos Aires, Argentina.
+0,Published for: REI Expo, 18 - 20 Sep 2019, Greater Noida, India
+0,We contribute with our data, services and consultancy in many initiatives and projects. The scope of selected public works is described in the project leaflets.
+0,Informative leaflet about the Solar resource mapping project in Zambia, methods and results of regional adaptation. Released in 2019.
+0,Informative leaflet about the Solar resource mapping project in Malawi, methods and results of regional adaptation. Released in 2019.
+0,Informative leaflet about the Solar resource mapping project in Maldives, methods and results of regional adaptation. Released in 2018.
+0,Informative leaflet at the launch of Global Solar Atlas (in 2016), provided by the World Bank, funded by ESMAP and prepared by Solargis.
+0,Solargis Brochure English
+0,Solargis Brochure Chinese
+0,Vector RGB
+0,Vector CMYK
+0,Small image RGB (raster 256x64 pixels)
+0,Medium-size image RGB (raster 1000x250 pixels)
+0,Large image RGB (raster 3000x750 pixels)
+0,Photovoltaic Power Potential, World
+0,Direct Normal Irradiation, World
+0,水平面总辐射量， 中国   /  Global Horizontal Irradiation, China
+0,法向直接辐射量，中国 / Direct Normal Irradiation, China
+0,수평면 전 일사량.  동아시아와 동남아시아  /  Global Horizontal Irradiation, East and Southeast Asia
+0,全天日射量, 日本  /  Global Horizontal Irradiation, Japan
+0,Radiación global horizontal,  América Central y del Norte  /  Global Horizontal Irradiation, Central and North America
+0,Irradiação Global Horizontal América do Sul / Global Horizontal Irradiation, South America
+0,Global Horizontal Irradiation, Europe
+0,Irradiation globale horizontale, Europe /  Global Horizontal Irradiation, Europe
+0,Глобальная горизонтальная радиация, Российская Федерация  /  Global Horizontal Irradiation, Russian Federation
+0,Глобальная горизонтальная радиация, Центральная Азия  /  Global Horizontal Irradiation, Central Asia
+0,Глобальне горизонтальне випромінювання, Україна  /  Global Horizontal Irradiation, Ukraine
+0,Global Horizontal Irradiation, Middle East and North Africa
+0,Global Horizontal Irradiation, Southeast Asia
+0,Global Horizontal Irradiation, Australia
+0,Global Horizontal Irradiation, North America
+0,Global Horizontal Irradiation, South America
+0,Global Horizontal Irradiation, Indian subcontinent
+0,Zambia: Solar Resource Mapping project
+0,Malawi: Solar Resource Mapping project
+0,Maldives: Solar Resource Mapping project
+0,Global Solar Atlas
+0,Atlas of Solar Resources, State of Palestine
+0,pdf, 2.3 MB
+0,pdf, 1.4 MB
+0,pdf, 14 KB
+0,pdf, 11 KB
+0,png, 10 KB
+0,png, 34 KB
+0,png, 107 KB
+0,pdf, 6.2 MB
+0,pdf, 6 MB
+0,pdf, 4 MB
+0,pdf, 4.2 MB
+0,pdf, 5 MB
+0,pdf, 3.2 MB
+0,pdf, 5.3 MB
+0,pdf, 5.9 MB
+0,pdf, 6.7 MB
+0,pdf, 6.3 MB
+0,pdf, 5.4 MB
+0,pdf, 6.4 MB
+0,pdf, 5.5 MB
+0,pdf, 4.3 MB
+0,pdf, 6.1 MB
+0,pdf, 2.9 MB
+0,pdf, 3 MB
+0,pdf, 157 KB
+0,pdf, 7.3 MB
+0,Contact us | Solargis
+0,Complete the form below or call us
+0,Head office
+0,Solargis partners
+0,Call us
+0,Visit us
+0,+421 2 431 91 708
+0,We are available Mon - Fri 9 AM to 6 PM Central European Time
+0,811 07 Bratislava Slovakia
+0,Privacy Policy
+0,Terms of Service
+0,List of partners
+0,Mýtna
+0,48
+0,Solargis s.r.o.
+0,Select subject
+0,Product/Sales Inquiry
+0,Technical Support
+0,Partnership Inquiry
+0,Other
+0,Select country
+0,Afghanistan
+0,Albania
+0,Algeria
+0,American Samoa (USA)
+0,Andorra
+0,Angola
+0,Anguilla (GBR)
+0,Antigua and Barbuda
+0,Argentina
+0,Armenia
+0,Aruba (NLD)
+0,Australia
+0,Austria
+0,Azerbaijan
+0,Bahrain
+0,Bangladesh
+0,Barbados
+0,Belarus
+0,Belgium
+0,Belize
+0,Benin
+0,Bermuda (GBR)
+0,Bhutan
+0,Bolivia
+0,Bonaire, Sint Eustatius and Saba (NLD)
+0,Bosnia and Herzegovina
+0,Botswana
+0,Bouvet Island (NOR)
+0,Brazil
+0,British Indian Ocean Territory (GBR)
+0,British Virgin Islands (GBR)
+0,Brunei Darussalam
+0,Bulgaria
+0,Burkina Faso
+0,Burundi
+0,Cabo Verde
+0,Cambodia
+0,Cameroon
+0,Canada
+0,Cayman Islands (GBR)
+0,Central African Republic
+0,Chad
+0,Chile
+0,China
+0,Christmas Island (AUS)
+0,Cocos (Keeling) Islands (AUS)
+0,Colombia
+0,Comoros
+0,Cook Islands
+0,Costa Rica
+0,Cote d'Ivoire
+0,Croatia
+0,Cuba
+0,Curaçao (NLD)
+0,Cyprus
+0,Czechia
+0,Democratic Peoples Republic of Korea
+0,Democratic Republic of the Congo
+0,Denmark
+0,Djibouti
+0,Dominica
+0,Dominican Republic
+0,Ecuador
+0,Egypt
+0,El Salvador
+0,Equatorial Guinea
+0,Eritrea
+0,Estonia
+0,Eswatini
+0,Ethiopia
+0,Falkland Islands (Malvinas)
+0,Faroe Islands (NOR)
+0,Federated States of Micronesia
+0,Fiji
+0,Finland
+0,France
+0,French Guiana (FRA)
+0,French Polynesia (FRA)
+0,French Southern Territories (FRA)
+0,Gabon
+0,Georgia
+0,Germany
+0,Ghana
+0,Gibraltar (GBR)
+0,Greece
+0,Greenland (DEN)
+0,Grenada
+0,Guadeloupe (FRA)
+0,Guam (FSM)
+0,Guatemala
+0,Guernsey (GBR)
+0,Guinea
+0,Guinea Bissau
+0,Guyana
+0,Haiti
+0,Heard Island and McDonald Islands (AUS)
+0,Holy See
+0,Honduras
+0,Hong Kong (Special administrative region of China)
+0,Hungary
+0,Iceland
+0,Indonesia
+0,Iran
+0,Iraq
+0,Ireland
+0,Isle of Man (GBR)
+0,Israel
+0,Italy
+0,Jamaica
+0,Japan
+0,Jersey (GBR)
+0,Jordan
+0,Kazakhstan
+0,Kenya
+0,Kiribati
+0,Kosovo
+0,Kuwait
+0,Kyrgyz Republic
+0,Laos
+0,Latvia
+0,Lebanon
+0,Lesotho
+0,Liberia
+0,Libya
+0,Liechtenstein
+0,Lithuania
+0,Luxemburg
+0,Macao (Special administrative region of China)
+0,Madagascar
+0,Malawi
+0,Malaysia
+0,Maldives
+0,Mali
+0,Malta
+0,Marshall Islands
+0,Martinique (FRA)
+0,Mauritania
+0,Mauritius
+0,Mayotte (FRA)
+0,Mexico
+0,Moldova
+0,Monaco
+0,Mongolia
+0,Montenegro
+0,Montserrat
+0,Morocco
+0,Mozambique
+0,Myanmar
+0,Namibia
+0,Nauru
+0,Nepal
+0,Netherlands
+0,New Caledonia
+0,New Zealand
+0,Nicaragua
+0,Niger
+0,Nigeria
+0,Niue
+0,Norfolk Island (AUS)
+0,North Macedonia
+0,Northern Mariana Islands (USA)
+0,Norway
+0,Oman
+0,Pakistan
+0,Palau
+0,Panama
+0,Papua New Guinea
+0,Paraguay
+0,Peru
+0,Philippines
+0,Pitcairn (GBR)
+0,Poland
+0,Portugal
+0,Puerto Rico
+0,Qatar
+0,Republic of Korea
+0,Republic of Yemen
+0,Republic of the Congo
+0,Romania
+0,Russian Federation
+0,Rwanda
+0,Réunion (FRA)
+0,Saint Barthélemy (FRA)
+0,Saint Helena, Ascension and Tristan da Cunha
+0,Saint Kitts and Nevis
+0,Saint Lucia
+0,Saint Martin (FRA)
+0,Saint Pierre and Miquelon (FRA)
+0,Saint Vincent and the Grenadines
+0,Samoa
+0,San Marino
+0,Sao Tome and Principe
+0,Saudi Arabia
+0,Senegal
+0,Serbia
+0,Seychelles
+0,Sierra Leone
+0,Singapore
+0,Sint Maarten (NLD)
+0,Slovakia
+0,Slovenia
+0,Solomon Islands
+0,Somalia
+0,South Africa
+0,South Georgia and the South Sandwich Islands (GBR)
+0,South Sudan
+0,Spain
+0,Sri Lanka
+0,Sudan
+0,Suriname
+0,Svalbard and Jan Mayen (NOR)
+0,Sweden
+0,Switzerland
+0,Syrian Arab Republic
+0,Taiwan, Province of China
+0,Tajikistan
+0,Tanzania
+0,Thailand
+0,The Bahamas
+0,The Gambia
+0,Timor Leste
+0,Togo
+0,Tokelau
+0,Tonga
+0,Trinidad and Tobago
+0,Tunisia
+0,Turkey
+0,Turkmenistan
+0,Turks and Caicos Islands (GBR)
+0,Tuvalu
+0,USA
+0,Uganda
+0,Ukraine
+0,United Arab Emirates
+0,United Kingdom
+0,United States Minor Outlying Islands (USA)
+0,Uruguay
+0,Uzbekistan
+0,Vanuatu
+0,Venezuela
+0,Vietnam
+0,Virgin Islands (USA)
+0,Wallis and Futuna
+0,West Bank and Gaza
+0,Western Sahara
+0,Zambia
+0,Zimbabwe
+0,Åland Islands (FIN)
+0,Subject*
+0,First Name*
+0,Last Name*
+0,Organization*
+0,Country*
+0,Email*
+0,Phone Number (optional)
+0,Message*
+0,window._hsq = window._hsq || [];
+0,Build Software the Better Way - Nrwl (Narwhal Technologies Inc)
+0,Explore Our Work
+0,Connect with us
+0,Consulting. Engineering. Training.
+0,Leverage Nx & Nx Cloud to Build Apps Faster
+0,Build Software the Better Way
+0,Get to Know Us
+0,Find True Partnership
+0,Discover our Open-Source Developer Products
+0,See What’s New
+0,Scale Up Your Development Capacity
+0,Jeff Cross
+0,Victor Savkin
+0,Nx 9.3
+0,Nx Courses
+0,Nx Cloud
+0,Our Team
+0,Our Work
+0,Our Platforms
+0,We have a distributed team:
+0,ui-image
+0,nrwl-floating-item nrwl-floating-item nrwl-floating-item
+0,svg
+0,Narwhal Technologies Inc.
+0,2200 E. Williams Field Rd
+0,Suite 200
+0,Gilbert, AZ, 85295 - USA
+0,See our page.
+0,Get improved Next.js support, auto-populated publishable library dependencies, and more in Nx 9.3!
+0,Our FREE starter course and Advanced Nx Workspaces course are now available online, so you can learn!
+0,Speed up your builds and tests! See CI performance improvements of 10X! Get a free 5-hour coupon today!
+0,Sign up for the Nrwl Newsletter
+0,© 2020 Narwhal Technologies Inc. All Rights Reserved
+0,View T-Mobile's Case Study
+0,Start using Nx cloud today!
+0,See Our Team
+0,products
+0,Read More
+0,Access Now
+0,Sign Up
+0,Contact Us
+0,About Us
+0,Careers
+0,Services
+0,Products
+0,Nx
+0,Nx Console
+0,Github
+0,LinkedIn
+0,Medium Blog
+0,Privacy Policy
+0,mat-icon
+0,Blog
+0,Online Course
+0,Product
+0,🇺🇸
+0,🇨🇦
+0,🇮🇹
+0,🇬🇧
+0,🇺🇦
+0,🏴󠁧󠁢󠁳󠁣󠁴󠁿
+0,*
+0,I agree to the
+0,Subscribe
+0,T-Mobile
+0,Angular and React experts
+0,Please enable JavaScript to continue using this application.
+0,mat-label
+0,mat-form-field mat-checkbox
+0,Get To Know Us
+0,Build Software the Better Way - Nrwl (Narwhal Technologies)
+0,Meet The Team
+0,We Look Forward To Meeting You!
+0,Meet Our Co-Founders
+0,We Are Global
+0,We Are Leaders
+0,We Build Community
+0,We Are Inclusive
+0,Co-Founder, Principal Architect
+0,Philip Fulcher
+0,Angular Engineer
+0,Kaitlyn Ekdahl
+0,Thomas Kuehne
+0,Controller
+0,Matthew Briggs
+0,JavaScript Architect, Angular & React
+0,Max Koretskyi
+0,Senior JavaScript Engineer
+0,Benjamin Cabanes
+0,Senior Angular Engineer
+1,Chelsea D'Urso
+0,Design Lead
+0,Karol Przybytek
+0,Operations Manager
+0,Wesley Grimes
+0,JavaScript Architect
+0,Zack DeRose
+0,Senior Engineer
+0,Amanda Connon-Unda
+0,VP of Marketing
+0,Isaac Mann
+0,Nicole Oliver
+0,Jack Hsu
+0,Brandon Roberts
+0,Jonathan Cammisuli
+0,Rares Matei
+0,Sr. JavaScript Engineer
+0,Jo Hanna
+0,Juri Strumpflohner
+0,Javascript Architect
+0,Adam Barrett
+0,Jason Jean
+0,Meet the Team
+0,@victorsavkin
+0,@jeffbcross
+0,{&q;nrwlio.state&q;:{}}
+0,Contact us for development help - Nrwl (Narwhal Technologies)
+0,Let's Connect...
+0,We look forward to helping your team through consulting, training and engineering, and making your next software project better than ever.
+0,Check the Nrwl services you're interested in:
+0,You can update your communication preferences any time, and review our .
+0,Submit
+0,Please Select
+0,Discuss Nrwl Services
+0,Access Nrwl Product Subscriptions
+0,Discuss Nrwl Speakers or Marketing
+0,Your first name
+0,Your last name
+0,Work Email
+0,Company name
+0,Job Title
+0,How can we help you?
+0,DevOps/ CI Improvement
+0,Effective Monorepo Development
+0,Bazelification
+0,AngularJS Upgrading
+0,Nxification
+0,Application Platform Development
+0,Application Performance Optimization
+0,Training (Workshops + more)
+0,Your Message to us
+0,Click to subscribe to Nrwl’s newsletter. (You'll start receiving our monthly newsletter.)
+0,I agree to receive communications from Nrwl.
+0,Explore what we can do for you
+0,See who we are
+0,Discover what it takes to be part of the adventure
+0,Visit our homepage
+0,svg mat-nav-list
+0,The page you're looking for is not accessible anymore (or maybe has never existed 😩)...
+0,Here are some helpful links instead:
+0,Visitor Information
+0,Data Collection
+0,Privacy Policy - Narwhal Technologies Inc.
+0,Narwhal Technologies Inc., Privacy Policy
+0,Introduction
+0,Consent
+0,Withdrawing Consent
+0,Limiting Use, Disclosure And Retention
+0,Hubspot Services
+0,Third-Party URLS
+0,Sharing and Disclosing Information
+0,Cookies
+0,Data Collection Purposes
+0,Email Subscription Preferences
+0,Information-Sharing
+0,Information Security
+0,Contact
+0,Data Usage
+0,Opting out
+0,UNSUBSCRIBE LINKS
+0,UNSUBSCRIBE SUPPORT
+0,WHAT TO DO IF YOU ARE EXPERIENCING PROBLEMS
+0,Data Transfer
+0,Compliance
+0,Policy Updates
+0,ctf-dynamic-layout
+0,Sign-up subscription lists which are circulated at events
+0,Sign-up forms at Narwhal Technologies Inc.’s office
+0,Subscribers' contact information (name, address, company, title, phone, fax, email, web, social media handles)
+0,A selection of interests for future communications
+0,The subscriber's choices as to why we may contact them
+0,The subscriber’s work title, company, and industry they work in
+0,The subscriber's IP address and geographic location
+0,To facilitate login or other site navigation procedures.
+0,To improve the functionality of the website by avoiding duplicate data entry, facilitating navigation, and increasing the relevance of content.
+0,Notifying users of information relevant to an particular event, webinar, blog post, news item or campaign is the primary purpose of our communication network.
+0,Sending segmented e-newsletters to different lists for users interested in a particular offering from Narwhal Technologies Inc.. This is another purpose of our sign-up forms.
+0,Providing information on related resources. We may provide users with information on educational events, career opportunities, training programs, or relevant online content.
+1,Narwhal Technologies Inc.’s main office is located at: Nrwl, 1 University Avenue, 3rd Floor. Toronto, ON, M5J 2P1. Canada.
+0,Narwhal Technologies Inc. collects data related to our users through the following methods:
+0,The data collected may include the following information:
+0,Your data is stored through Hubspot’s data storage, databases and the general Hubspot application. They store your data on a secure server behind a firewall.
+0,Cookies on the site, and the associated data, will be used only for the purposes stated in Section 3 (How We Use The Data We Collect), below.
+0,Narwhal Technologies Inc. collects data from users for the following purposes:
+0,Our website, hubspot and API servers are all located in the United States and data processing occurs primarily in the USA.
+0,www.nrwl.io
+0,hello@nrwl.io
+0,if (document.cookie.match(/^(.*;)?\s*username\s*=\s*[^;]+(.*)?$/))        document.getElementById('btn-header-sign-in').innerHTML = 'My Account';
+0,.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}
+0,('.alert').alert()
+0,Hosting Platform of Choice
+0,Create an exceptional hosting experience
+0,cPanel & WHM
+0,Who is cPanel for?
+0,Become a cPanel Partner
+0,Trusted world-wide by our technology partners
+0,Go the distance with cPanel & WHM
+0,Go Live
+0,Control and flexibility at your fingertips
+0,Fuel your business
+0,Create a premium hosting experience with these add-on solutions
+0,Developers & IT
+0,Small to Medium Businesses
+0,Business Leaders
+0,Business Partnerships
+0,Discounts
+0,Account Manager
+0,Support
+0,For all the latest cPanel news and updates
+0,Have an issue?
+0,Build for cPanel
+0,Exclusive
+0,Dedicated
+0,Enterprise
+0,Products & Pricing
+0,Company
+0,Partners
+0,Developers
+0,Extras
+0,<a class="navbar-brand pt-0" href="https://cpanel.net">
+0,Industry leading hosting platform with world-class support
+0,For over 20 years we’ve remained the leading hosting automation platform. Join the thousands of other global web hosting providers growing their business with us.
+0,Explore opportunities and grow your business with us no matter the stage of your online journey
+0,Manage hundreds of features baked into cPanel or allow your customers to take the wheel. You take the lead when it comes to what your customers need.
+0,Enjoy the premium cPanel experience
+0,We go above and beyond for you and your customers.
+0,Test and launch your custom cPanel & WHM plugin.
+0,©2020 cPanel, L.L.C.  / /
+0,COVID-19 response.
+0,Shop our Products
+0,Product Overview
+0,Features
+0,Customize cPanel
+0,Pricing
+0,Releases
+0,Version 88
+0,Free Trial
+0,Solutions
+0,Extensions
+0,Hyperscalers
+0,About
+0,Giving Back
+0,Brand Guide
+0,Jobs
+0,Up Next
+0,Account Login
+0,Get cPanel & WHM
+0,Explore Our Products
+0,Learn more about cPanel & WHM
+0,What else can cPanel & WHM do for you?
+0,Explore Add-on Solutions
+0,Learn more about our Partner Program
+0,Join Our Mailing List
+0,Explore our Support Center
+0,Explore Developer Center
+0,cPanel & WHM Overview
+0,cPanel & WHM Features
+0,Customize Products
+0,cPanel & WHM Trial
+0,cPanel & WHM Releases
+0,Store Sign in
+0,Need Help?
+0,Documentation
+0,Migrations Services
+0,Support Portal
+0,License Verification
+0,Security TSRs & CVEs
+0,About Us
+0,Non-Profit License
+0,EDU License
+0,Careers
+0,Contact
+0,Become a Partner
+0,Partner Perks
+0,Partner Directory
+0,Partner Sign in
+0,Developer Docs
+0,Application Catalog
+0,Developer License
+0,Knowledge Base
+0,Forums
+0,News
+0,Blog
+0,WebPros Summit
+0,cPU Certification
+0,Feature Request
+0,Do Not Sell My Info
+0,Legal Notices
+0,Privacy Policy
+0,Transparency Policy
+0,×
+0,®
+0,Champions for our customers, the industry, and our employees
+0,Over two decades of powering the internet
+0,Leading the charge
+0,Here for our customers
+0,Here for industry improvement
+0,Here for our employees
+0,1997
+0,J. Nick Koston
+0,Houston, TX US
+1,220
+0,70 million +
+0,73 +
+0,Get in touch
+0,Nick Koston
+0,Sascha Konzack
+0,Todd Mitchell
+0,Ken Power
+0,Aaron Stone
+0,Philip Jackson
+0,Jesse Asklund
+0,David Snead
+0,Debbie Vierra
+0,Careers and culture
+0,Share the cPanel brand
+0,cPanel at a glance
+0,Contact Information
+0,Founded
+0,CEO
+0,Headquarters
+0,Dedicated cPeeps, Who we call our amazing employees
+0,Domains Launched on Servers using cPanel & WHM
+0,Number of countries our partners represent
+0,Where it all began.
+0,Let's get this party started.
+0,Hello H-Town.
+0,Supersized.
+0,Over 200 Strong!
+0,Hooray!
+0,Customer Service Hours
+0,Observed Holidays
+0,Fanatical and passionate about serving our customers, and our customer’s customer.
+0,Always striving to be great citizens by nurturing and improving the hosting industry.
+0,Proud to serve and take care of our employees, whom we fondly call cPeeps.
+0,From birth to now 21 years old, cPanel has grown up a whole bunch, learned a few lessons, served the global hosting community, and so much more.
+0,Nick starts cPanel in his Wilmington, DE home (as a teenager!).
+0,Our first employee relocates to White Haven, PA.
+0,We moved to Houston to take advantage of the larger talent pool.
+0,We upgrade to a bigger office to accommodate our continued growth.
+0,Construction begins on our brand new digs.
+0,cPanel celebrates its 20th birthday.
+0,Introducing the executive leadership team who drive cPanel forward.
+0,Chief Executive Officer
+0,Chief Financial Officer
+0,Chief Operating Officer
+0,VP of Product Development
+0,Director of Internal Development
+0,VP of Development Operations
+0,Director of Technical Support
+0,General Counsel
+0,Employment Legal Counsel/ VP of Employee Relations
+0,cPanel hires people who do what they love and makes sure they love where they work. Ready to take your career to new places?
+0,Let your customers know that you’re part of the cPanel fam with our downloadable logos. Check the brand guide for best practices.
+1,cPanel, L.L.C 2550 North Loop W., Suite 4006 Houston, TX 77092 United States of America Tel: +1.713.529.0800 Tol: +1.844.427.2635
+0,Central Standard Time 6AM - 6PM / Monday - Friday 6AM - 4PM / Saturday - Sunday 8AM - 4PM / Holiday Hours
+0,Memorial Day Independence Day Labor Day Thanksgiving Day Christmas Day New Year Day
+0,View Career Opportunities
+0,See Resource Library
+0,Contact Customer Service
+0,Email Sales Representative
+0,2002
+0,2004
+0,2009
+0,2014
+0,2017
+0,cPanel Privacy Policy
+0,SCHEDULE 1 – PERSONAL INFORMATION WE COLLECT WHEN YOU USE THE CPANEL PRODUCT, THE STORE, OUR TICKETING SYSTEM OR FOR GENERAL INQUIRIES
+0,SCHEDULE 2 – PERSONAL INFORMATION COLLECTED AUTOMATICALLY
+0,SCHEDULE 3 – INFORMATION REGARDING COOKIES
+0,OUR APPROACH TO PRIVACY
+0,Contacting us about privacy related questions and issues:
+0,Requests to know the personal information we collect:
+0,Requests to delete personal information we have collected:
+0,To opt out of the sale of information:
+0,Our toll free number:
+0,If you are using an agent to make a request under our privacy policy:
+0,WHAT OUR PRIVACY POLICY COVERS
+0,This Privacy Policy applies to the cPanel Product, our Website, and all Corporate Sites .
+0,Before accessing our Website or using the cPanel Product, please ensure that you have read and understood this Privacy Policy.
+0,PERSONAL INFORMATION WE COLLECT ABOUT YOU AND HOW WE USE IT
+0,We process Personal Information about the following types of individuals:
+0,individuals who are our direct customers;
+0,where our customer is a business or similar entity, individuals who are our customer’s employees, agents and other representatives; and
+0,where the cPanel Product is licensed through an Authorized Distributor, individuals who are customers of our Authorized Distributors.
+0,Under the GDPR
+0,In accordance with applicable privacy law, you have the following rights regarding Personal Information covered by the GDPR that we hold:
+0,. The right to obtain access to your Personal Information.
+0,. The right to obtain rectification of your Personal Information without undue delay where that Personal Information is inaccurate or incomplete.
+0,If you wish to exercise one of these rights, please contact us using the contact details at the end of this Privacy Policy.
+0,Pursuant to Privacy Shield
+0,Notice: Schedules 1 and 2 describe the Personal Information we collect about you, how we use it, and the types of third parties with whom we share it.
+0,Privacy Shield Jurisdiction and Enforcement
+0,As part of our participation in the Privacy Shield, we are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
+0,COOKIES AND SIMILAR TECHNOLOGIES
+0,We use the following types of cookies:
+0,. These are cookies that are required for the essential operation of our Corporate Site and products such as to authenticate users and prevent fraudulent use.
+0,USING AN AGENT TO MAKE A REQUEST UNDER OUR PRIVACY POLICY
+0,CHANGES TO THIS POLICY
+0,NOTICE TO YOU
+0,CALIFORNIA RESIDENTS – YOUR CALIFORNIA PRIVACY RIGHTS
+0,SWEEPSTAKES, CONTESTS AND PROMOTIONS
+0,CONTACTING US
+0,Questions, comments and requests regarding this Privacy Policy are welcome and should be addressed to the General Counsel at privacy [at] cpanel.net.
+0,This Privacy Policy was last modified on April 20, 2020. It was last reviewed on April 20, 2020.
+0,Behavior information - This includes information about what features of your cPanel & WHM you use regularly and which paths through cPanel & WHM you took.
+0,Conversion information - This includes information about what goals you have achieved using cPanel & WHM.
+0,Corporate Sites
+0,Behavior information - This includes information about what features of the corporate sites you use regularly and which paths through the corporate sites you took.
+0,Conversion information - This includes information about what goals you have achieved using the corporate sites.
+0,communicate with you, sending statements and invoices, communications, news, alerts and marketing communications;
+0,deal with inquiries and complaints made by or about you relating to the cPanel Product;
+0,operate, maintain and provide to you the features and functionality of the cPanel Product and any third party products chosen by you;
+0,authenticate users to our products and systems;
+0,process applications where you have applied for a job with us;
+0,Enter you into sweepstakes, contests and promotions at your request.
+0,the performance of a contract and to take steps prior to entering into a contract; and
+0,authenticate users to our products and systems and those third party products and systems who authenticate using this information.
+0,the compliance with legal and regulatory obligations; and
+0,our legitimate interests, namely defending against employment related complaints
+0,present the cPanel Product to you on your device;
+0,determine news, alerts and other products and services that may be of interest to you for marketing purposes;
+0,monitor and improve the cPanel Product and our business, and to help us develop new products and services; and
+0,Validate our software and license status.
+0,enable the cPanel Product to be presented to you on your device;
+0,operate, maintain and provide to you the features and functionality of the cPanel Product;
+0,monitor and improve the cPanel Product and business, and to help us develop new products and services.
+0,Facilitate our customers interaction activities and customer forums.
+0,Determine the general location of direct orders for the cPanel Product; and
+0,Correlate it with purchases of the cPanel Product.
+0,Domain name, or related IP resource, may be shared with third parties to administer functions associated with those items.
+0,Email address will be shared with email delivery services to deliver both mandatory and opt-in email. Mandatory email is restricted to product operation.
+0,Contact information will be shared with third party vendors when a customer purchases third party products offered by cPanel.
+0,The processing is necessary for the performance of our contract with you; and administering our ticketing and abuse systems.
+0,Where we collect and use your Personal Information for the purposes of improving the cPanel Product, we will first obtain your consent.
+0,Domain name may be shared with third parties to administer domain functions.
+0,Domain name may be shared with customer’s server administrator.
+0,Additional information about this information is here:
+0,Legal Agreements
+0,Trademark
+0,Support Agreements
+0,Legal Store
+0,Law Enforcement
+0,Amendments
+0,Download
+0,General questions
+0,click here
+0,844-427-2635
+0,https://www.privacyshield.gov/
+0,https://www.privacyshield.gov/list
+0,https://cpanel.net
+0,[1]
+0,here
+0,Our Transparency Report
+0,https://www.bbb.org/EU-privacy-shield/for-eu-consumers
+0,cPanel Transparency Report
+0,https://go.cpanel.net/privacy-request
+0,cPanel Analytics - The Data We Use
+0,this link
+0,please click here
+0,1
+0,https://github.com/cakephp/cakephp/issues/2001
+0,https://help.hotjar.com/hc/en-us/articles/115011789248-Hotjar-Cookies
+0,https://store.cpanel.net
+0,https://jobs.cpanel.net
+0,https://job.listings.cpanel.net
+0,http://news.cpanel.net
+0,https://blog.cpanel.net
+0,https://applications.cpanel.net
+0,https://conference.cpanel.net
+0,https://cpanel.net/demo/
+0,https://documentation.cpanel.net
+0,https://features.cpanel.net
+0,https://forums.cpanel.net
+0,http://releases.cpanel.net
+0,https://university.cpanel.net
+0,http://verify.cpanel.net
+0,http://partnernoc.cpanel.net
+0,http://trycpanel.net
+0,As required in accordance with how we use it, we will share your Personal Information with the following:
+0,to better understand our users’ needs and to optimize our Corporate sites and user’s experience on them. In particular
+0,·
+0,how much time a user spends on which pages,
+0,which links they choose to click, and
+0,what users do and don’t like on a particular Corporate site.
+0,Version 04-20-2020
+0,MARKETING AND ADVERTISING
+0,APPLYING FOR A JOB THROUGH OUR SITE
+0,STORING AND TRANSFERRING YOUR PERSONAL INFORMATION
+0,Security
+0,International Transfers of your Personal Information
+0,Disclosure to Government Agencies and Law Enforcement
+0,CERTAIN RIGHTS THAT APPLY IF YOU ARE LOCATED IN THE EU
+0,Right of access
+0,Right to rectification
+0,Right to erasure
+0,Right to restriction
+0,Strictly necessary cookies
+0,Analytical/performance cookies
+0,Functionality cookies
+0,Targeting cookies
+0,SELF SERVICE PORTALS
+0,LINKS TO THIRD PARTY SITES
+0,OUR POLICY TOWARDS CHILDREN
+0,HOW TO REQUEST INFORMATION ABOUT THE PERSONAL INFORMATION WE COLLECT
+0,HOW TO REQUEST THAT WE DELETE PERSONAL INFORMATION
+0,HOW TO OPT OUT OF THE SALE OF INFORMATION
+0,Contact information and basic personal details.
+0,Service providers and advisors
+0,Purchasers and third parties in connection with a business transaction
+0,Other third parties using the Self Service Portal.
+0,Law enforcement, regulators and other parties for legal reasons
+0,Payment information.
+0,Technical and server information.
+0,Correspondence and comments.
+0,Self-identifying information.
+0,All Personal Information set out above.
+0,Category of Personal Information
+0,How we use it
+0,Legal basis for the processing
+0,Categories of recipients
+0,Retention period
+0,Categories shared with third parties
+0,Information about how you access and use the cPanel Product
+0,Information about your device
+0,Demographic Information
+0,Information collected by cookie
+0,Creator of the cookie
+0,Information about cookie
+0,Website and product uses
+0,We use this information to:
+0,The processing is necessary for:
+0,For no longer than necessary for the purposes set out and in accordance with our legal obligations and legitimate business interests.
+0,Details such as your bank account number or PayPal account and related information.
+0,We use this information to facilitate payment for use of the cPanel Product, any third party products chosen, and to detect and prevent fraud.
+0,The processing is necessary for our legitimate interests, namely communicating with users and for marketing purposes.
+0,Where you have applied for a job with us, you may voluntarily provide us with certain self-identifying information.
+0,Self-identifying information may be processed by third party HRIS systems.
+0,The processing is necessary for our legitimate interest, namely to administer and improve the cPanel Product, our Website, our business and develop new services.
+0,We use this information   ·
+0,The processing is necessary for our legitimate interests, namely: to tailor the Corporate Site to the user and to improve the Corporate site generally.
+0,Information is sent to third parties to assist with website analytics. It may also be sent to corporate affiliates and contracted data analytics firms for review.
+0,Information may be shared with Hotjar Ltd.
+0,Product and all Corporate sites.
+0,Product and all corporate sites.
+0,Page views
+0,Manages tags placed on data by cPanel.
+0,Conference16.cpanel.net;                                Cp1con.cpanel.net;                                Releases.cpanel.net
+0,CAKEPHP site counting cookie:                                Number of visits to site.
+0,cPanel
+0,Ascertain the number of times the site is visited.
+0,Persistent: cookie remains on visiting computer until deleted by visitor.
+0,Open source and cPanel
+0,Applications.cpanel.net
+0,cPanel and Hotjar
+0,Hotjar Ltd.
+0,All Corporate sites.
+0,( function ( body ) {			'use strict';			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );		} )( document.body );
+0,window._wca = window._wca || [];
+0,var c = document.body.className;		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');		document.body.className = c;
+0,/* <![CDATA[ */var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};/* ]]> */
+0,/* <![CDATA[ */var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};/* ]]> */
+0,jQuery( 'body' ).bind( 'wc_fragments_refreshed', function() {			jQuery( 'body' ).trigger( 'jetpack-lazy-images-load' );		} );
+0,.has-text-align-justify{text-align:justify;}
+0,#rs-demo-id {}
+0,.infinite-scroll .woocommerce-pagination {		display: none;	}
+0,.woocommerce form .form-row .required { visibility: visible; }
+0,img#wpstats{display:none}
+0,.mymenu {   color:black !important;}
+0,Babban Gona
+0,Our Vision
+0,Our Reach
+0,Success Stories
+0,Our Focus
+0,Our Blog
+0,We believe that everyone deserves a secure future, and to secure this future, we must END insecurity.
+0,The Babban Gona agriculture franchise overcomes a key underlying structural problem that keeps Nigerian smallholder farmer members poor – low economies of scale.
+0,We believe that to end insecurity, we must make smallholder farmer members more money.
+0,Breakdown of things we focus on.
+0,Featured In
+0,newslettter sign-up
+0,Close
+0,Revolutionizing Agriculture
+0,Our Approach
+0,Providing Cost effective end-to-end services
+0,Our Successes
+0,Rapid Growth within last 4 years
+0,To make 1 million smallholder farmer members more money by 2025.
+0,0
+0,Rural Access to Healthy Food
+0,Profitable Loans Disbursed
+0,Farmers Targeted by 2025
+0,What Our members Over the World Are Saying
+0,© 2020 All Rights Reserved.
+0,Purchase from BG Members
+0,Finance BG Members
+0,Join Us
+0,Read More
+0,Learn More
+0,Finance
+0,Invest
+0,Partner with us
+0,Financial Service
+0,Agricultural Input Services
+0,Training & Development
+0,Marketing Services
+0,How COVID-19 is impacting agricultural ecosystems in Africa
+0,23 days ago
+0,CNN Highlights how Babban Gona is helping Nigerian Farmers expand their business
+0,28 days ago
+0,Humans of BG: Nuhu Ishaya
+0,June 3, 2020
+0,I agree that my submitted data is being collected and stored.
+0,Home
+0,Our Company
+0,Leadership
+0,Mission, Vision and values
+0,Our Members
+0,Our Model
+0,Our Impact
+0,Members Stories
+0,Gallery
+0,Reports
+0,News
+0,Newsletters
+0,Videos
+0,Enquiries
+0,Contact Us
+0,Careers
+0,Ibrahim Mustapha
+0,Abdullahi Umar
+0,Sarah Solomon
+0,Rahlia Michael
+0,Na’omi Michael
+0,Jibrin Mohammad
+0,95
+0,93
+0,97
+0,92
+0,185
+0,2
+0,235
+0,254
+0,1
+0,[email protected]
+0,st
+0,<style>.woocommerce-product-gallery{ opacity: 1 !important; }</style>
+0,<style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style>
+0,Leave this field empty if you're human:
+0,Contact Us – Babban Gona
+0,Send us a message on any inquiry you have and our team would get back to you immediately.
+0,Privacy Policy
+0,Send Message
+0,I agree that my submitted data is being collected and stored. For further details on handling user data, see our
+0,site-aligner
+0,logo   site-nav
+0,Solutions for Growing Small Businesses & Entrepreneurs
+0,feature-box  feature-box  feature-box  feature-box
+0,Bronze Hosting Plans
+0,Silver Hosting Plans
+0,Gold Hosting Plans
+0,Platinum Hosting Plans
+0,entry-content
+0,cols
+0,phone-icon phone-content
+0,855-942-4444
+0,© 1990-2020 , LLC. All rights reserved.
+0,| | |
+0,custom wrapper class
+0,Sipylus – IT Solutions for Businesses & Entrepreneurs
+0,Contact Sipylus
+0,Recent Tweets
+0,Recent Posts
+0,Follow Us
+0,IT Solutions for Businesses & Entrepreneurs
+0,Navigate with ease using any smartphone or tablet...
+0,Take your websites to the next level with our hosting plans...
+0,Paying for a new domain is expensive but it doesn't have to be...
+0,Keep in the loop with our press releases...
+0,Around-the-clock support for Sipylus customers by professionals...
+0,Dear Clients & Readers:
+0,Best regards,
+0,Office Hours: 08:00 am - 10:00 pm
+0,Single-Use Technology and Mixing Systems for the Pharma and Biotech Industry
+0,Our Businesses
+0,Filtration, Mixing Systems and Single-Use Solutions | DrM, Dr. Mueller AG
+0,Solid-Liquid Separation and Mixing Systems for the Chemical and Process Industry
+0,Subscribe to our Newsletter
+0,Filtration and mixing systems for the chemical and process industry
+0,Single-Use and mixing systems for the pharma and biotech industry
+0,Our designs and products are protected by worldwide patents.
+1,Alte Landstrasse 415 8708 Maennedorf Switzerland
+0,Phone: +41 44 921 2121 Fax: +41 44 921 2131
+0,html{visibility:hidden;opacity:0;font-family:sans-serif}
+0,We help small teams achieve big things | endjin - the Azure, data, AI and high performance software engineering consultancy.
+0,OceanMind: Using Microsoft Azure + AI to combat illegal fishing.
+0,We help small teams achieve big things.
+0,The Azure Synapse Analytics Experts
+0,Our Customers
+0,Powered by our people.
+0,Ian Griffiths is an Microsoft MVP (again).
+0,Programming C# 8.0 Book, published by O'Reilly Media, is now available to buy.
+0,Double win for Apprentices at Computing Rising Star Awards 2019.
+0,Thought Leaders.
+0,C# 8.0 nullable references: MaybeNull
+0,Quick tip – Updating the sort order of a column in Power BI (avoiding circular references)
+0,C# 8.0 nullable references: NotNull
+0,How to dynamically choose the correct font colour based on a background colour in Power BI tables.
+0,Talking about Azure Synapse on Microsoft Mechanics!
+0,Benchmarking Azure Synapse Analytics - SQL Serverless, using .NET Interactive
+0,Ian Griffiths, Technical Fellow, has been awarded a Microsoft Most Valuable Professional award for 2020 in the Developer Technologies category.
+0,Technical Fellow, Ian Griffiths, spent a large chunk of 2019 writing a significant update of his best selling Programming C# book series, published by O'Reilly.
+0,Carmel Eve won Engineering Apprentice of the Year, and Ed Freeman won Cloud Apprentice of the Year. We are immensely proud that their hard work has been recognised.
+0,The MaybeNull attribute enables C#8's nullable references feature to provide more useful warnings, by helping it infer information about a method output.
+0,Here's a quick tip on how to alter the sort order of a column in Power BI!
+0,The NotNull attribute enables C#8's nullable references feature to provide more useful warnings, by helping it infer information about a method argument.
+0,© Copyright endjin limited 2020
+0,Our Technical Fellow just became a Microsoft MVP!
+0,We run the Azure Weekly newsletter.
+0,We just won 2 awards.
+0,We just published Programming C# 8.0 book.
+0,We run the Power BI Weekly newsletter.
+0,Our NDC London 2020 is now available online!
+0,We are school STEM ambassadors.
+0,We created the data platform to monitor the world's oceans in near-realtime to prevent illegal fishing & human trafficking.
+0,We are a consultancy with deep expertise in Azure, Data, AI, & complex software engineering. We are Microsoft Gold Partners for , a , and .
+0,We help organizations of all sizes from start-ups to global enterprises across financial services, media & comms, retail & consumer goods, and professional services.
+0,Skip to content
+0,svg
+0,Who We Are
+0,What We Do
+0,Who We Help
+0,What We Think
+0,Contact Us
+0,Our People
+0,Our Processes
+0,Our IP
+0,Our Story
+0,Microsoft Partner
+0,Join Us
+0,News
+0,Tech Briefings
+0,Insight Discovery
+0,Modern Data Platform Blueprints
+0,Software Engineering
+0,Open Source
+0,Customers
+0,Case Studies
+0,Sectors
+0,Scale Ups
+0,Customer Quotes
+0,Blog
+0,Talks
+0,Azure Radar
+0,Azure Weekly
+0,Power BI Weekly
+0,Thought Leadership
+0,Digest
+0,Editions
+0,Read how we did it
+0,Cloud Platform, Data Platform, Data Analytics, DevOps
+0,Power BI Partner
+0,.NET Foundation Corporate Sponsors
+0,funded
+0,exited
+0,high-performance teams
+0,products
+0,solutions
+0,keynotes
+0,exemplars
+0,See our case studies
+0,See our Data Platform Blueprints
+0,Meet the Endjineers
+0,Read our blog
+0,Analytics
+0,Architecture
+0,Big Compute
+0,Big Data
+0,Business Insights
+0,Cloud
+0,Culture
+0,Development
+0,DevOps
+0,Engineering Practices
+0,Experience
+0,Innovation
+0,Internet of Things
+0,Machine Learning
+0,Power BI Embedded
+0,Security and Compliance
+0,Startups
+0,Strategy
+0,Technology
+0,Visualisation
+0,Let's Chat
+0,Book a Call
+0,Drop us a Line
+0,@endjin
+0,endjin
+0,endjinhq
+0,01/06/2020
+0,01/12/2019
+0,10/10/2019
+0,03/07/2020
+0,01/07/2020
+0,26/06/2020
+0,25/06/2020
+0,18/06/2020
+0,11/06/2020
+0,Show menu
+0,Show search form
+0,Howard van Rooijen
+0,Ian Griffiths
+0,Ed Freeman
+0,Carmel Eve
+0,Jess Panni
+0,any data at any scale
+0,Say hello!
+0,Talk to us
+0,Book a call
+0,Drop us a line
+0,994827749
+0,07351560
+1,Dalton House, 60 Windsor Avenue, London, SW19 2RR
+0,VAT Registration
+0,Company number
+0,Registered Address
+0,You can ask us a question using the message box in the lower right hand corner of this page, and we'll get back to you asap.
+0,Alternatively, if you'd rather talk on the phone at another time, you can schedule a call with one of us using our online calendar.
+0,Or, of course, you can use good old fashioned email to drop us a line anytime at
+0,Call us on or say
+0,If you would like to ask us a question, talk about your requirements, or arrange a chat, we would love to hear from you. Want to know more about how endjin could help you?
+0,Endjin metadata
+0,020 8720 7287
+0,hello@endjin.com
+0,Message us!
+0,Call us!
+0,Email us!
+0,Chat
+0,Phone
+0,Email
+0,right now
+0,end widget
+0,Replatform with Experienced Advisory and Implementation
+0,Our Solutions
+0,Customer Success Stories
+0,We help enterprises design, architect and implement business technology platforms that support digital transformation and business optimization.
+0,Flux7 In the News
+0,Join the Flux7 Team and Begin Your Career
+0,Copyright Bar   Copyright Bar
+0,Footer Widgets   Footer Widgets
+0,Flux7
+0,Services
+0,Resources
+0,About Flux7
+0,Flux7, an | All Rights Reserved |
+0,Cloud Automation, DevOps Consulting & AWS Migration - Flux7
+0,Realize the Benefits of Cloud
+0,Enable Software Innovation
+0,Our landing zones on AWS emphasizes training, documentation, and resources to help teams new to AWS get the skills they need for long-term business agility.
+0,Read our industry success stories and the benefits our customers saw
+0,Rapidly adopt technology to achieve Infrastructure as Code and continuous delivery and support of applications and workloads.
+0,Read about what we do, how we do it and how our customer's benefit from our solutions.
+0,Welcome to Flux7! Get to know us a bit better and discover what makes us different than other DevOps Consultants.
+0,Hanor Main Wrap Inner  Main Wrap Inner  Footer   Footer
+0,Header
+0,Content Area
+0,Upcoming Events - AWS & DevOps Consulting Flux7 Events
+0,Flux7 Events Calendar
+0,Upcoming Events
+0,Past Events
+0,Meet up with Flux7 in Boston!
+0,Meet up with Flux7 in Columbus!
+0,Meet with Flux7 in Toronto
+0,At this event we’ll explore ways the Financial Services industry is working with AWS to become more nimble, efficient, secure, and responsive to changing customer needs.
+0,Flux7 News on Latest IT Technologies - Flux7
+0,In the News
+0,Flux7 Industry News
+0,written by Aater Suleman, CEO and Co-Founder at Flux7, an NTT DATA Company.  Aater is a
+0,Read the entire blog .
+0,We are proud to be recognized by Aspioneer as one of their 10 Innovators of Cloud Computing 2019.
+0,Matthias Buchner, lead DevOps solutions architect, contributes to this article discussing how to prepare for a cloud migration and optimize DevOps practices.
+0,Read the latest article written by Aater Suleman, CEO and Co-Founder at Flux7.  Aater is a
+0,The cutting-edge AWS partner analyzed data from past customers to understand where DevOps journeys stumble and how to help enterprises avoid common pitfalls.
+0,Flux7 Renovate solutions simplify and accelerate common business application provisioning on AWS Cloud
+0,Flux7 Ranks 906 on the 2018 Inc. 5000 List With Three-Year Revenue Growth of 547 Percent
+0,The decision process for selecting the right cloud options for various applications starts with an assessment of each individual application.
+0,Annual List Features 50 startups to watch, local companies founded in the last five years that are poised to make an impression.
+0,Flux7 CEO, Aater Suleman, weighs in on three migration approaches, lift and shift, replatforming and refactoring.
+0,Annual List Features Trailblazing IT Solution Providers Transforming Business with Emerging Technologies
+0,Flux7 weighs in on this chicken or egg question by sharing why approaching DevOps and Cloud in tandem is a preferable approach for most organizations.
+0,“The ability to push DevOps into the mainstream of the organization through a best-practice approach is key to success,” Suleman says.
+0,Using its Enterprise DevOps Framework as a guide, Flux7 shares how automation paves the way to a successful DevOps Model
+0,Flux7 best practices for Amazon CloudFront help improve user experiences with fast, stable and secure content delivery
+0,“Orchestration opened up the floodgates,” Aater Suleman [Flux7 CEO] said. “And now the management layer is solving new problems.”
+0,“That’s the real game-changer. The front end is where containers really shine with IoT.” Aater Suleman, Flux7 CEO
+0,Aater Suleman, CEO of Austin, Tex.-based Flux7, said that these services make AWS IoT a particularly strong platform – especially the integration with AWS Lambda
+0,Aater Sulemen, co-founder and CEO of Flux7 discusses hyper-automation or “self-driving IT.”
+0,The new Web Application Firewall (WAF) for CloudFront was a very welcome step, according to Aater Suleman, CEO of Flux7, an Amazon consulting partner based in Austin, Texas.
+0,CEO Aater Suleman told CRN the partner summit was one of the best days ever for his company.
+0,IoT is a niche today, but the uses so far are just the tip of the iceberg, said Aater Suleman, CEO of Flux7, an Amazon consulting partner based in Austin, Texas.
+0,Aater Suleman, CEO of Flux7 Labs, an AWS partner that’s investing in its IoT practice, told CRN the technology is winning over customers rapidly.
+0,“DevOps is everything that provides business advantage through improved collaboration and automation,” said Aater Suleman, Flux7 CEO
+0,“You can easily degrade the cloud to the same level as on-premise infrastructure by applying the same old principals,” said Aater Suleman, Flux7 CEO
+0,“The top myth we come across about security is that security in the cloud is more difficult to maintain than on-premise,” said Aater Suleman, Flux7 CEO
+0,Amazon Web Services now wants to host your business email in the cloud.
+0,Flux7 often has to setup multiple storage volumes for customers in a RAID configuration, which increases the complexity of the system as well as setup and maintenance costs.
+0,May 5, 2020
+0,March 16, 2020
+0,January 8, 2020
+0,December 30, 2019
+0,November 26, 2019
+0,November 12, 2019
+0,October 3, 2019
+0,August 19, 2019
+0,July 18, 2019
+0,June 18, 2019
+0,April 16, 2019
+0,November 6, 2018
+0,November 2, 2018
+0,November 1, 2018
+0,August 21, 2018
+0,August 19, 2018
+0,February 22, 2018
+0,December 18, 2017
+0,December 10, 2017
+0,November 8, 2017
+0,Press Releases | Flux7 - AWS Partner & DevOps Consultants - Flux7
+0,Press Releases
+0,Enterprises gain cloud-native SaaS implementation and development support from Flux7 amid evolving business needs    Austin,...
+0,Austin, TX–March 13, 2020 – Inc. magazine today revealed that Flux7, an NTT DATA Company,...
+0,NTT DATA Services Closes Acquisition of Flux7 PLANO, Texas – Jan. 7, 2020 – NTT...
+0,PLANO, Texas – Dec. 3, 2019 – NTT DATA Services, a recognized leader in global technology...
+0,Flux7 expands portfolio of IT services to help enterprises architect adaptive, secure digital business technology...
+0,Austin, TX, November 12, 2019 –Flux7, Inc. announced today that CRN ®, a brand of The...
+0,Austin, TX —  October 3, 2019 — Cloud-centered HPC practice helps enterprises innovate at scale and...
+0,Austin, TX —  August 19, 2019 —  For the second year, Flux7, an IT services provider...
+0,Austin, TX —  July 18, 2019 — Flux7, a professional services, and technology company that...
+0,Flux7 Named a 2019 Gartner Cool Vendor in Business and IT Services Report recognizes Flux7...
+0,Investment to fuel company growth in delivering a practical experience for building and scaling IT...
+0,Annual List Recognizes Solution Providers Transforming Business with Emerging Technologies Austin, TX, November 6,...
+0,Highly automated solutions for migrating essential services and production accounts help enterprises start right,...
+0,Flux7 Wins 2018 Stratus Award for Cloud Integrator AUSTIN, Texas—August 29, 2018— Flux7, a...
+0,Flux7 Renovate Solutions Simplify and Accelerate Common Business Application Provisioning on AWS Cloud Austin,...
+0,Flux7 Ranks 906 on the 2018 Inc. 5000 List With Three-Year Revenue Growth of...
+0,Flux7 Named a 2018 Modern Infrastructure Impact Awards Best AWS Consultant Winner For four...
+0,7th Annual Talkin’ Cloud 100 Report Identifies Top Cloud Services Providers December 18, 2017:...
+0,Press Release (more…)
+0,DevOps and IT consulting firm recognized among the fastest growing companies in Central Texas...
+0,About Flux7 | DevOps Experts and AWS Premier Partners - Flux7
+0,We Teach You to Fish
+0,The Agile Mindset
+0,Our Knowledge
+0,Our Services
+0,Welcome to Flux7, an NTT DATA Company
+0,About Us
+0,Join Us In Our Mission to Accelerate Innovation
+0,We simplify complexity, reduce your risks and help you focus on ROI.  Join hundreds of enterprises on their journey to transform IT. Accelerate with Flux7.
+0,Industry Awards, AWS Certifications and AWS Competencies | Flux7 - Flux7
+0,Awards and Recognitions
+0,We are humbled to be recognized by some of the industry's most prominent publications and organizations.
+0,Flux7 is recognized for its ability to and consistently meeting customers’ ever-changing IT needs to drive adoption of transformational technologies.
+0,Meet the Flux7 Team. We are humble, transparent and innovative. - Flux7
+0,Meet the Team Behind Flux7
+0,Humble. Transparent. Innovative.
+0,CEO & Co-Founder
+0,Texas
+0,CTO & Co-Founder
+0,Vishnu Priya
+0,Business Operations Lead
+0,India
+0,Tamarie Ellis
+0,Marketing Lead
+0,New Zealand
+0,Tina L. Straw
+0,Alliances & Strategic Partnerships Lead
+0,Ohio
+0,Lance Rifenburg
+0,Product Lead
+0,Washington
+0,Matt Buchner
+0,Solutions Architect Lead
+0,Germany
+0,Ted St. Clair
+0,Agilist Lead
+0,David Potter
+0,Agilist Team
+0,Michigan
+0,Robyn Butler
+0,Eric McNairy
+0,Jennifer Suarez
+0,Sales Team
+0,Massachusetts
+0,Anthony Santos
+0,North Carolina
+0,Ryne Harrell
+0,Melinda McGrath
+0,Florida
+0,Kim Blomgren
+0,Marketing Team
+0,Jill Wohlever
+0,Heather Racicot
+0,Heather Nadeau
+0,PeopleOps Team
+0,New Hampshire
+0,Jana Tulloch
+0,Canada
+0,Abigail Caldwell
+0,South Carolina
+0,Vlad Magdu
+0,BizOps Team
+0,Romania
+0,Melissa Rose
+0,Aman Gaur
+0,Delivery Team
+0,Artem Kobrin
+0,Ukraine
+0,Arthur Mandel
+0,Arun Mathew
+0,Benjamin Draper
+0,Colorado
+0,Nealabh Bhatia
+0,Kritika Agarwal
+0,Mukesh Sharma
+0,Akash Philip
+0,Deepak Choudhary
+0,Vyshnavi Bandaru
+0,Levi Blaney
+0,Nikhil Araga
+0,Onur Özkaynak
+0,Estonia
+0,Samprita Hegde
+0,Praveen Kumar
+0,Kumar Mayank
+0,Ron Bremer
+0,Krishna Choudhary
+0,Pramodh Ayyappan
+0,Lakshmi Vasanth
+0,Kishor Shelke
+0,Dawson Mortenson
+0,Hanumantha MVL
+0,Maurice Williams
+0,Sarath Pillai
+0,Mohit Kumar Sharma
+0,Prashant Tiwari
+0,Vikas Sharma
+0,Neha Singh
+0,Roshan C. Rahim
+0,Atul Patil
+0,Christopher Grau
+0,California
+0,Gaurav Rastogi
+0,Solutions Team
+0,Georgia
+0,Elysia Lock
+0,Illinois
+0,Obinna Obi
+0,Derek Magill
+0,vc_grid start  vc_grid end
+0,Contact Us - Flux7
+0,Contact Our Team
+0,Questions? We're happy to help.
+0,Questions about our Solutions? Our Specialists are here to help.
+0,For Cloud Security, Application Modernization, and DevOps news, subscribe to the Flux7 Blog:
+0,Flux7 Blogs and News
+0,A Research-Based Approach to Measuring DevOps Metrics That Matter
+0,A Cloud Cost Optimization Checklist
+0,IT Modernization and DevOps News Week in Review 6.15.2020
+0,401 Congress Avenue, Suite 1540
+0,Austin, Texas 78701
+0,P.  844.FLUX700
+0,F. 512.687.3499
+0,Samson Towers
+0,8th Floor at Pantheon Rd & Casa Major Rd
+0,Block No.31, Egmore Village
+0,Chennai, India
+0,Portfolio Start   Portfolio End
+0,FORM: Contact Us - Flux7
+0,Thank you so much for your interest in Flux7. Our Specialists will be in touch right away.
+0,[if lte IE 8]><br />  <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script><br /><![endif]
+0,Flux7 Privacy Policy - Flux7
+0,•  “Visitor” or “you” means any individual or entity who visits Flux7’s Website, whether they are a customer or not.
+0,•  “Customer” means an individual who is a client of Flux7.
+0,•  “We”, “us” or “the company” refers to Flux7.
+0,•  “Website” means Flux7’s Website at
+0,•   individual names;
+0,•   company names;
+0,•   reasons for contacting us;
+0,•   information regarding Visitors, Customers, and their companies;
+0,•   addresses, phone numbers, and email addresses;
+0,•   product and service preferences;
+0,•    service orders and maintenance requests;
+0,•    billing and transaction information; and
+0,•   other information relevant to conducting business with us or becoming a customer of ours.
+0,•  If Flux7 or substantially all of its assets are acquired, customer information will be one of the transferred assets.
+0,Attn: Marketing Department
+0,Flux7, an NTT DATA Company
+1,401 Congress Avenue, Suite 1540 Austin, Texas 78701
+0,Flux7 does not knowingly collect information from or about children under 13 years of age.
+0,Meet the Flux7 Team. Aater Suleman, Co-Founder and CEO - Flux7
+0,Aater Suleman
+0,CEO & Co-Founder | Austin, Texas
+0,Meet the Flux7 Team. Ali Hussain, Co-Founder and CTO - Flux7
+0,Ali Hussain
+0,CTO & Co-Founder | Austin, Texas
+0,September 3, 2017
+0,August 22, 2017
+0,August 15, 2017
+0,April 26, 2017
+0,April 20, 2017
+0,March 9, 2017
+0,January 24, 2017
+0,November 29, 2016
+0,November 3, 2016
+0,August 16, 2016
+0,June 16, 2016
+0,June 6, 2016
+0,May 17, 2016
+0,May 5, 2016
+0,January 22, 2016
+0,December 15, 2015
+0,October 21, 2015
+0,October 7, 2015
+0,September 28, 2015
+0,June 20, 2015
+0,June 25, 2014—Austin, TX | Flux7, an IT consultancy focused on delivering cloud migration,...
+0,DevOps experts address business drivers with advanced AWS technology solutions Austin, TX — August...
+0,Flux7 Achieves AWS Service Delivery Partner Status for Amazon CloudFront August 15, 2017 —...
+0,Business momentum based on growing market demand for DevOps experts who address business drivers...
+0,AWS Service Delivery Partner Status for AWS Service Catalog   April 20, 2017 —...
+0,Flux7 has achieved AWS Service Delivery Partner status for Amazon Aurora, based on its...
+0,Flux7 Wins 2017 Modern Infrastructure Impact Awards in Best AWS Partner/Consultant Category   Flux7...
+0,Flux7 Achieves AWS Service Delivery Partner Status for AWS Web Application Firewall November 29,...
+0,Flux7 CEO, Aater Suleman, to Present at DevOps East Half-Day Tutorial Introduces Docker, Develops...
+0,Flux7 Announces Custom AWS Microservices Architecture Service Award-winning consultancy grows business benefit with increased...
+0,Flux7 Named AWS Migration Competency Program Partner Selected for its AWS migration best practices that...
+0,Jay Blanchard of Fugro and Flux7 CEO Aater Suleman to Present at DockerCon 16. June...
+0,Flux7 DevOps Expertise Featured at DevOps West CEO, Aater Suleman, featured speaker sharing best practices...
+0,Flux7 Named to 2016 Modern Infrastructure Impact Awards  | Takes Honorable Mention in AWS Consultant/Integration...
+0,‘Engage’ helps IT teams gain hands-on experience for long-term agility while building cloud infrastructure  ...
+0,Partnership validates Flux7’s knowledge and leadership with Docker technology and implementations   October 20, 2015...
+0,New APN Competency launched at AWS re:Invent Global Partner Summit   October 07, 2015 – Austin,...
+0,June 4, 2014—Austin, TX |Flux7, an IT consultancy focused on delivering cloud migration, development...
+0,Collaboration adds data and analytics for cloud migration assessment, planning, and optimization   June 16, 2015...
+0,April 6, 2015
+0,April 1, 2015
+0,January 20, 2015
+0,June 28, 2014
+0,June 18, 2014
+0,January 30, 2014
+0,January 24, 2014
+0,Flux7 Achieves Amazon Web Services Partner Network Healthcare Competency   April 6, 2015 –...
+0,Flux7 Becomes an Amazon Web Services Competency Partner   April 1, 2015 – Austin, TX...
+0,Customers cite knowledge and responsiveness as key factors in deployments Austin, TX (PRWEB) January 20,...
+0,June 25, 2014—Austin, TX | Flux7, an IT consultancy focused on delivering cloud migration, application...
+0,Flux7 and Auto.com to Co-Present at First Annual DockerCon   June 4, 2014—Austin, TX |Flux7,...
+0,June 4, 2014—Austin, TX |Flux7, an IT consultancy focused on delivering cloud migration, development and...
+0,Flux7’s VyScale Application Earns Honorable Mention at re:Invent 2013 January 24, 2014—Austin, TX—Flux7, a...
+0,#nav-menu-container
+0,Get more from your investment in Data Science -
+0,Get more from your investment in Data Science
+0,Get more from your investment in Analytics
+0,Observability for Analytics Workloads
+0,Get started with ESM today!
+0,Conquer the Last Mile of Analytics
+0,Building apps is easy. Let us show you!
+0,Latest from our Blog
+0,The new version of ESM is here!
+0,My favourite Administration papers from SAS Global Forum 2020
+0,Excellence in Innovation Award finalist
+0,About Us
+0,Follow Us
+0,Resources
+0,optimal platform performance. total cost of ownership. your data scientists to build the future of your business.
+0,Nik on May 21, 2020
+0,Chris on May 4, 2020
+0,Chris on Apr 30, 2020
+0,We are a SAS Global Technology Partner specializing in analytic workload management and Data Science applications for the SAS Platform.
+0,Boemska - Request an ESM Demo
+0,Boemska - Request an ESM Demo -
+0,Privacy Policy
+0,Privacy Policy -
+0,General Provisions
+0,Which categories of personal data do we process?
+0,For which purposes do we process this personal data?
+0,What lawful reasons do we have for processing personal data?
+0,Do we share personal data with third parties?
+0,Do we transfer your personal data outside the European Economic Area?
+0,Third Parties
+0,How long do we retain personal data?
+0,How do we protect your personal data?
+0,What are your data protection rights?
+0,Who can you contact for privacy questions or concerns?
+0,Your Consent
+0,Changes to Privacy Policy
+0,You should not use this website if you do not agree to this privacy policy.
+0,We use personal information we collect for the following purposes:
+0,We may rely on the following lawful reasons, as applicable, when we collect and use personal data to operate our business and provide our products and services:
+0,Contract – where we have contractual relations with you, we may process your personal data in order to perform our contractual obligations based on such contract.
+0,Your data protection rights are highlighted here. To submit a data request please email at legal@boemskats.com
+0,You can ask us to verify whether we are processing personal data about you, and if so, to provide more specific information.
+0,You can ask us to correct our records if you believe they contain incorrect or incomplete information about you.
+0,You can ask us to erase (delete) your personal data after you withdraw your consent to processing or when we no longer need it for the purpose it was originally collected.
+0,You may contact UK Information’s Commissioner’s Office to report concerns you may have about our data handling practices.
 1,71 Broadwick Street London, W1F 9QY United Kingdom
 1,21405 – 56th Avenue Langley, BC V2Y 2N1
 1,L.A. Press Club – Investigative Reporting
